@@ -41,9 +41,13 @@ jobs:
         run: |
             curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/user
             git add data/previous_jobs.json
-            git commit -m "Update job listings"
-            git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/IshanPhadte776/JobPostingScrapper.git
-            git push -u origin main
+            if git diff --staged --quiet; then
+            echo "No changes to commit."
+            else
+                git commit -m "Update job listings"
+                git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/IshanPhadte776/JobPostingScrapper.git
+                git push -u origin main
+            fi 
 
         env:
             GH_TOKEN: ${{ secrets.GH_TOKEN }}

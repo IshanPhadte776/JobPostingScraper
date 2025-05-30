@@ -16,6 +16,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Configure Git
+        run: |
+            git config --global user.name "Ishan Phadte"
+            git config --global user.email "ishanphadte@gmail.com"
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -32,12 +37,11 @@ jobs:
 
       - name: Commit and push updated job data
         run: |
-            git config --global user.email "ishanphadte@gmail.com"
-            git config --global user.name "Ishan Phadte"
+
             git add data/previous_jobs.json
-            git diff --staged --quiet || git commit -m "Update job listings"
-            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/IshanPhadte776/JobPostingScrapper.git
-            git push origin main
+            git git commit -m "Update job listings"
+            # git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/IshanPhadte776/JobPostingScrapper.git
+            git push -u origin main
 
         env:
-            GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}

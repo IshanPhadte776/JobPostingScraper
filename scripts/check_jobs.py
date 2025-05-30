@@ -31,9 +31,14 @@ def save_jobs(jobs):
         json.dump(jobs, f, indent=2)
 
 def send_email(new_jobs):
-    body = "\n\n".join(f"{job['jobOpeningName']} - {job['location']} - {job['url']}" for job in new_jobs)
+    lines = []
+    for job in new_jobs:
+        company = "Giatec" if "giatecscientific" in job["url"] else "Solace"
+        lines.append(f"{job['jobOpeningName']} @ {company} – {job['url']}")
+    
+    body = "\n\n".join(lines)
     msg = MIMEText(body)
-    msg["Subject"] = "🆕 New Job Postings Detected"
+    msg["Subject"] = "Bamboo New Job Postings"
     msg["From"] = EMAIL_FROM
     msg["To"] = EMAIL_TO
 

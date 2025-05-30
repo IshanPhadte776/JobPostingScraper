@@ -37,6 +37,7 @@ jobs:
             git add data/previous_jobs.json
             git diff --staged --quiet || git commit -m "Update job listings"
             git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/IshanPhadte776/JobPostingScrapper.git
+            git push origin main
 
         env:
             GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

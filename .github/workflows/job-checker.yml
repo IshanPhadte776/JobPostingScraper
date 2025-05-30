@@ -1,0 +1,31 @@
+name: Daily Job Checker
+
+on:
+  schedule:
+    - cron: "0 14 * * *"  # runs daily at 2 PM UTC
+  workflow_dispatch:
+
+  push: 
+    branches:
+      - main
+
+jobs:
+  check-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run job checker
+        run: python scripts/check_jobs.py
+        env:
+          EMAIL_FROM: ishanphadte@gmail.com
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}

@@ -16,7 +16,8 @@ EMAIL_TO = EMAIL_FROM  # sending to yourself
 def fetch_jobs(url):
     r = requests.get(url)
     r.raise_for_status()
-    return r.json()
+    return r.json()["result"]  # Only return the job list
+
 
 def load_previous_jobs():
     if not os.path.exists(DATA_FILE):

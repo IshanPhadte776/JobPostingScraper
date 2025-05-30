@@ -32,6 +32,8 @@ jobs:
 
       - name: Commit and push updated job data
         run: |
+            git config --global user.email "ishanphadte@gmail.com"
+            git config --global user.name "Ishan Phadte"
             git add data/previous_jobs.json
             git diff --staged --quiet || git commit -m "Update job listings"
             git push

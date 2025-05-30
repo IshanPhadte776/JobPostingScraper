@@ -37,3 +37,6 @@ jobs:
             git add data/previous_jobs.json
             git diff --staged --quiet || git commit -m "Update job listings"
             git push
+
+        env:
+            GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

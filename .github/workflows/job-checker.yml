@@ -37,6 +37,7 @@ jobs:
 
       - name: Commit and push updated job data
         run: |
+            curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/user
             git add data/previous_jobs.json
             git commit -m "Update job listings"
             git push -u origin main

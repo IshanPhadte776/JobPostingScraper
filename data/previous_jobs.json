@@ -260,26 +260,6 @@
     "url": "https://solace.bamboohr.com/career/careers/655"
   },
   {
-    "id": "656",
-    "jobOpeningName": "Demand Generation Manager",
-    "departmentId": "18644",
-    "departmentLabel": "Marketing",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/656"
-  },
-  {
     "id": "657",
     "jobOpeningName": "Full-Stack Software Developer",
     "departmentId": "18550",
@@ -318,5 +298,25 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/658"
+  },
+  {
+    "id": "659",
+    "jobOpeningName": "Customer Request Coordinator",
+    "departmentId": "19560",
+    "departmentLabel": "Sales Operations",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/659"
   }
 ]

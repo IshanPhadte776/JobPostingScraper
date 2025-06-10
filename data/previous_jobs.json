@@ -278,5 +278,25 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/659"
+  },
+  {
+    "id": "660",
+    "jobOpeningName": "Customer Success Manager",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Singapore ",
+      "state": "Singapore"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/660"
   }
 ]

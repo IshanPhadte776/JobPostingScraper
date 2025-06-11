@@ -80,6 +80,26 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/272"
   },
   {
+    "id": "622",
+    "jobOpeningName": "Intermediate Software Developer",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/622"
+  },
+  {
     "id": "626",
     "jobOpeningName": "Solution Support Engineer",
     "departmentId": "18562",
@@ -180,26 +200,6 @@
     "url": "https://solace.bamboohr.com/career/careers/653"
   },
   {
-    "id": "654",
-    "jobOpeningName": "Sales Development Representative (SDR)",
-    "departmentId": "18617",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/654"
-  },
-  {
     "id": "655",
     "jobOpeningName": "Product Marketing Manager",
     "departmentId": "18550",
@@ -298,5 +298,25 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/660"
+  },
+  {
+    "id": "661",
+    "jobOpeningName": "Executive Assistant ",
+    "departmentId": "18245",
+    "departmentLabel": "102 - FG&A",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/661"
   }
 ]

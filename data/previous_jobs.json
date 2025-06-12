@@ -318,5 +318,25 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/661"
+  },
+  {
+    "id": "662",
+    "jobOpeningName": "Senior Salesforce Developer",
+    "departmentId": "19560",
+    "departmentLabel": "Sales Operations",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/662"
   }
 ]

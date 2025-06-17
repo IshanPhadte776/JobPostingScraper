@@ -120,26 +120,6 @@
     "url": "https://solace.bamboohr.com/career/careers/630"
   },
   {
-    "id": "644",
-    "jobOpeningName": "Senior Software Developer - Platform",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/644"
-  },
-  {
     "id": "649",
     "jobOpeningName": "Marketing Operations Specialist",
     "departmentId": "18644",
@@ -278,26 +258,6 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/660"
-  },
-  {
-    "id": "661",
-    "jobOpeningName": "Executive Assistant ",
-    "departmentId": "18245",
-    "departmentLabel": "102 - FG&A",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/661"
   },
   {
     "id": "662",

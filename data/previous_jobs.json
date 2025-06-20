@@ -260,26 +260,6 @@
     "url": "https://solace.bamboohr.com/career/careers/662"
   },
   {
-    "id": "663",
-    "jobOpeningName": "Senior PSG Consultant - Indonesia",
-    "departmentId": "18762",
-    "departmentLabel": "Professional Services",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/663"
-  },
-  {
     "id": "664",
     "jobOpeningName": "Director of Sales",
     "departmentId": "18617",
@@ -318,5 +298,45 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/665"
+  },
+  {
+    "id": "666",
+    "jobOpeningName": "Customer Technical Trainer",
+    "departmentId": "18762",
+    "departmentLabel": "Professional Services",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "United Kingdom",
+      "state": "London, City of",
+      "province": null,
+      "city": "London"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/666"
+  },
+  {
+    "id": "667",
+    "jobOpeningName": "Customer Success Manager - AEM (Americas)",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "United States",
+      "state": "Florida",
+      "province": null,
+      "city": "Tampa"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/667"
   }
 ]

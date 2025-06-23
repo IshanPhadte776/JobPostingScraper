@@ -40,26 +40,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/196"
   },
   {
-    "id": "272",
-    "jobOpeningName": "Cloud Platform Developer",
-    "departmentId": "18812",
-    "departmentLabel": "Software Development - SmartRock",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/272"
-  },
-  {
     "id": "622",
     "jobOpeningName": "Intermediate Software Developer",
     "departmentId": "18550",
@@ -311,9 +291,9 @@
     },
     "atsLocation": {
       "country": "United Kingdom",
-      "state": "London, City of",
+      "state": "Croydon",
       "province": null,
-      "city": "London"
+      "city": "Croydon"
     },
     "isRemote": null,
     "locationType": "1",

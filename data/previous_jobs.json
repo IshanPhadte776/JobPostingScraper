@@ -80,26 +80,6 @@
     "url": "https://solace.bamboohr.com/career/careers/630"
   },
   {
-    "id": "649",
-    "jobOpeningName": "Marketing Operations Specialist",
-    "departmentId": "18644",
-    "departmentLabel": "Marketing",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/649"
-  },
-  {
     "id": "653",
     "jobOpeningName": "Sales Development Representative (SDR)",
     "departmentId": "18617",
@@ -318,5 +298,25 @@
     "isRemote": null,
     "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/667"
+  },
+  {
+    "id": "668",
+    "jobOpeningName": "Professional Services Consultant",
+    "departmentId": "18762",
+    "departmentLabel": "Professional Services",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Chicago",
+      "state": "Illinois"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/668"
   }
 ]

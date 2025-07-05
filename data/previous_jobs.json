@@ -330,10 +330,10 @@
       "state": null
     },
     "atsLocation": {
-      "country": null,
-      "state": null,
+      "country": "United States",
+      "state": "Georgia",
       "province": null,
-      "city": null
+      "city": "Atlanta"
     },
     "isRemote": null,
     "locationType": "1",
@@ -341,7 +341,7 @@
   },
   {
     "id": "671",
-    "jobOpeningName": "Web Designer/Developer",
+    "jobOpeningName": "Senior Web Designer/Developer",
     "departmentId": "18644",
     "departmentLabel": "Marketing",
     "employmentStatusLabel": "Full-Time",

@@ -358,5 +358,85 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/671"
+  },
+  {
+    "id": "673",
+    "jobOpeningName": "Director of Sales",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "London",
+      "state": "London, City of"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/673"
+  },
+  {
+    "id": "674",
+    "jobOpeningName": "Director of Sales",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Germany",
+      "state": "Germany"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/674"
+  },
+  {
+    "id": "675",
+    "jobOpeningName": "Director of Sales",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "New York ",
+      "state": "New York"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/675"
+  },
+  {
+    "id": "676",
+    "jobOpeningName": " Head of Demand Generation",
+    "departmentId": "18644",
+    "departmentLabel": "Marketing",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "Canada",
+      "state": "Ontario",
+      "province": null,
+      "city": "Ottawa"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/676"
   }
 ]

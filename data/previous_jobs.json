@@ -206,8 +206,8 @@
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
     "location": {
-      "city": "Denver",
-      "state": "Colorado"
+      "city": "Seattle",
+      "state": "Washington"
     },
     "atsLocation": {
       "country": null,
@@ -438,5 +438,25 @@
     "isRemote": null,
     "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/676"
+  },
+  {
+    "id": "677",
+    "jobOpeningName": "Recruitment Coordinator",
+    "departmentId": "18839",
+    "departmentLabel": "Human Resources",
+    "employmentStatusLabel": "Temporary Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/677"
   }
 ]

@@ -180,26 +180,6 @@
     "url": "https://solace.bamboohr.com/career/careers/658"
   },
   {
-    "id": "659",
-    "jobOpeningName": "Customer Request Coordinator",
-    "departmentId": "19560",
-    "departmentLabel": "Sales Operations",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/659"
-  },
-  {
     "id": "660",
     "jobOpeningName": "Customer Success Manager",
     "departmentId": "18562",
@@ -518,5 +498,45 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/680"
+  },
+  {
+    "id": "681",
+    "jobOpeningName": "Director of Sales",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "London",
+      "state": "London, City of"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/681"
+  },
+  {
+    "id": "682",
+    "jobOpeningName": "Solutions Engineer",
+    "departmentId": "18676",
+    "departmentLabel": "Sales Engineers",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Remote",
+      "state": "California"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/682"
   }
 ]

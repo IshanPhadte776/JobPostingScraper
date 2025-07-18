@@ -60,26 +60,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/273"
   },
   {
-    "id": "274",
-    "jobOpeningName": "Software Developer Co-op",
-    "departmentId": "18811",
-    "departmentLabel": "Software Development - SmartMix",
-    "employmentStatusLabel": "Intern",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/274"
-  },
-  {
     "id": "630",
     "jobOpeningName": "Solutions Engineer",
     "departmentId": "18676",
@@ -366,8 +346,8 @@
     "departmentLabel": "Marketing",
     "employmentStatusLabel": "Full-Time",
     "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
+      "city": null,
+      "state": null
     },
     "atsLocation": {
       "country": null,
@@ -376,7 +356,7 @@
       "city": null
     },
     "isRemote": null,
-    "locationType": "2",
+    "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/671"
   },
   {
@@ -558,5 +538,25 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/683"
+  },
+  {
+    "id": "684",
+    "jobOpeningName": "Senior Software Developer (Backend)",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/684"
   }
 ]

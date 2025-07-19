@@ -6,7 +6,10 @@ from email.mime.text import MIMEText
 
 ENDPOINTS = [
     "https://giatecscientific.bamboohr.com/careers/list",
-    "https://solace.bamboohr.com/careers/list"
+    "https://solace.bamboohr.com/careers/list",
+    "https://truecontext.bamboohr.com/careers/list",
+    "https://distillersr.bamboohr.com/careers/list",
+    "https://recollective.bamboohr.com/careers/list"
 ]
 DATA_FILE = "data/previous_jobs.json"
 EMAIL_FROM = os.environ["EMAIL_FROM"]
@@ -60,6 +63,8 @@ def main():
 
     if new_postings:
         send_email(new_postings)
+    # Only save jobs that are currently listed on the companies' job boards.
+    # This will remove any jobs from previous_jobs.json that are no longer present.
     save_jobs(all_new_jobs)
 
 if __name__ == "__main__":

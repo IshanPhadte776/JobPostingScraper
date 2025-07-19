@@ -36,7 +36,13 @@ def save_jobs(jobs):
 def send_email(new_jobs):
     lines = []
     for job in new_jobs:
-        company = "Giatec" if "giatecscientific" in job["url"] else "Solace"
+        # Extract company name from the job URL (between https:// and .bamboohr)
+        try:
+            start = job["url"].index("https://") + len("https://")
+            end = job["url"].index(".bamboohr")
+            company = job["url"][start:end].capitalize()
+        except Exception:
+            company = "Unknown"
         lines.append(f"{job['jobOpeningName']} @ {company} – {job['url']}")
     
     body = "\n\n".join(lines)

@@ -40,11 +40,11 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/196"
   },
   {
-    "id": "270",
-    "jobOpeningName": "Assistant Controller",
-    "departmentId": "18446",
-    "departmentLabel": "Finance & Operations",
-    "employmentStatusLabel": "Full-Time",
+    "id": "273",
+    "jobOpeningName": "Electro-Mechanical Technician Intern",
+    "departmentId": "18809",
+    "departmentLabel": "Hardware Development",
+    "employmentStatusLabel": "Intern",
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -56,48 +56,8 @@
       "city": null
     },
     "isRemote": null,
-    "locationType": "2",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/270"
-  },
-  {
-    "id": "272",
-    "jobOpeningName": "Cloud Platform Developer",
-    "departmentId": "18812",
-    "departmentLabel": "Software Development - SmartRock",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/272"
-  },
-  {
-    "id": "626",
-    "jobOpeningName": "Solution Support Engineer",
-    "departmentId": "18562",
-    "departmentLabel": "Support",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Bangalore",
-      "state": "India"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/626"
+    "locationType": "0",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/273"
   },
   {
     "id": "630",
@@ -120,106 +80,6 @@
     "url": "https://solace.bamboohr.com/career/careers/630"
   },
   {
-    "id": "642",
-    "jobOpeningName": "Senior Software Developer",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/642"
-  },
-  {
-    "id": "644",
-    "jobOpeningName": "Senior Software Developer - Platform",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/644"
-  },
-  {
-    "id": "648",
-    "jobOpeningName": "Professional Services Consultant",
-    "departmentId": "18762",
-    "departmentLabel": "Professional Services",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/648"
-  },
-  {
-    "id": "649",
-    "jobOpeningName": "Marketing Operations Specialist",
-    "departmentId": "18644",
-    "departmentLabel": "Marketing",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/649"
-  },
-  {
-    "id": "652",
-    "jobOpeningName": "Senior Software Developer - AI Integration",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/652"
-  },
-  {
     "id": "653",
     "jobOpeningName": "Sales Development Representative (SDR)",
     "departmentId": "18617",
@@ -240,26 +100,6 @@
     "url": "https://solace.bamboohr.com/career/careers/653"
   },
   {
-    "id": "654",
-    "jobOpeningName": "Sales Development Representative (SDR)",
-    "departmentId": "18617",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/654"
-  },
-  {
     "id": "655",
     "jobOpeningName": "Product Marketing Manager",
     "departmentId": "18550",
@@ -278,26 +118,6 @@
     "isRemote": null,
     "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/655"
-  },
-  {
-    "id": "656",
-    "jobOpeningName": "Demand Generation Manager",
-    "departmentId": "18644",
-    "departmentLabel": "Marketing",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/656"
   },
   {
     "id": "657",
@@ -338,5 +158,485 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/658"
+  },
+  {
+    "id": "660",
+    "jobOpeningName": "Customer Success Manager",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Singapore ",
+      "state": "Singapore"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/660"
+  },
+  {
+    "id": "662",
+    "jobOpeningName": "Senior Salesforce Developer",
+    "departmentId": "19560",
+    "departmentLabel": "Sales Operations",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/662"
+  },
+  {
+    "id": "664",
+    "jobOpeningName": "Director of Sales",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Seattle",
+      "state": "Washington"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/664"
+  },
+  {
+    "id": "665",
+    "jobOpeningName": "Director of Sales",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Dallas",
+      "state": "Texas"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/665"
+  },
+  {
+    "id": "666",
+    "jobOpeningName": "Customer Technical Trainer",
+    "departmentId": "18762",
+    "departmentLabel": "Professional Services",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "United Kingdom",
+      "state": "London, City of",
+      "province": null,
+      "city": "London"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/666"
+  },
+  {
+    "id": "667",
+    "jobOpeningName": "Customer Success Manager - AEM (Americas)",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "United States",
+      "state": "Florida",
+      "province": null,
+      "city": "Tampa"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/667"
+  },
+  {
+    "id": "668",
+    "jobOpeningName": "Professional Services Consultant",
+    "departmentId": "18762",
+    "departmentLabel": "Professional Services",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Chicago",
+      "state": "Illinois"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/668"
+  },
+  {
+    "id": "669",
+    "jobOpeningName": "Solution Support Engineer",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/669"
+  },
+  {
+    "id": "670",
+    "jobOpeningName": "Customer Success Manager (Americas)",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "United States",
+      "state": "Georgia",
+      "province": null,
+      "city": "Atlanta"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/670"
+  },
+  {
+    "id": "671",
+    "jobOpeningName": "Senior Web Designer/Developer",
+    "departmentId": "18644",
+    "departmentLabel": "Marketing",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/671"
+  },
+  {
+    "id": "673",
+    "jobOpeningName": "Director of Sales",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "London",
+      "state": "London, City of"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/673"
+  },
+  {
+    "id": "674",
+    "jobOpeningName": "Director of Sales",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Germany",
+      "state": "Germany"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/674"
+  },
+  {
+    "id": "675",
+    "jobOpeningName": "Director of Sales",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "New York ",
+      "state": "New York"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/675"
+  },
+  {
+    "id": "676",
+    "jobOpeningName": " Head of Demand Generation",
+    "departmentId": "18644",
+    "departmentLabel": "Marketing",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "Canada",
+      "state": "Ontario",
+      "province": null,
+      "city": "Ottawa"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/676"
+  },
+  {
+    "id": "678",
+    "jobOpeningName": "Cloud\u202fSite Reliability\u202fEngineer",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/678"
+  },
+  {
+    "id": "680",
+    "jobOpeningName": "Principal Software Developer - AI Integration",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/680"
+  },
+  {
+    "id": "681",
+    "jobOpeningName": "Director of Sales",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "London",
+      "state": "London, City of"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/681"
+  },
+  {
+    "id": "682",
+    "jobOpeningName": "Solutions Engineer",
+    "departmentId": "18676",
+    "departmentLabel": "Sales Engineers",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Remote",
+      "state": "California"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/682"
+  },
+  {
+    "id": "683",
+    "jobOpeningName": "Sales Development Representative (SDR)",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/683"
+  },
+  {
+    "id": "684",
+    "jobOpeningName": "Senior Software Developer (Backend)",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/684"
+  },
+  {
+    "id": "685",
+    "jobOpeningName": "Solutions Engineer, Capital Markets/FSI",
+    "departmentId": "18676",
+    "departmentLabel": "Sales Engineers",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "New York ",
+      "state": "New York"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/685"
+  },
+  {
+    "id": "686",
+    "jobOpeningName": "Solutions Engineer, Capital Markets/FSI",
+    "departmentId": "18676",
+    "departmentLabel": "Sales Engineers",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "London",
+      "state": "London, City of"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/686"
+  },
+  {
+    "id": "687",
+    "jobOpeningName": "Software Developer",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/687"
+  },
+  {
+    "id": "689",
+    "jobOpeningName": "Senior Software Developer (Frontend)",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/689"
   }
 ]

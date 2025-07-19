@@ -558,5 +558,85 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/684"
+  },
+  {
+    "id": "685",
+    "jobOpeningName": "Solutions Engineer, Capital Markets/FSI",
+    "departmentId": "18676",
+    "departmentLabel": "Sales Engineers",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "New York ",
+      "state": "New York"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/685"
+  },
+  {
+    "id": "686",
+    "jobOpeningName": "Solutions Engineer, Capital Markets/FSI",
+    "departmentId": "18676",
+    "departmentLabel": "Sales Engineers",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "London",
+      "state": "London, City of"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/686"
+  },
+  {
+    "id": "687",
+    "jobOpeningName": "Software Developer",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/687"
+  },
+  {
+    "id": "689",
+    "jobOpeningName": "Senior Software Developer (Frontend)",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/689"
   }
 ]

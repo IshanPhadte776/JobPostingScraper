@@ -2,7 +2,10 @@ name: Daily Job Checker
 
 on:
   schedule:
-    - cron: "0 14 * * *"  # runs daily at 2 PM UTC
+    - cron: "0 13 * * *"  # 9am EST (13:00 UTC)
+    - cron: "0 15 * * *"  # 11am EST (15:00 UTC)
+    - cron: "0 17 * * *"  # 1pm EST (17:00 UTC)
+    - cron: "0 19 * * *"  # 3pm EST (19:00 UTC)
   workflow_dispatch:
 
   push: 

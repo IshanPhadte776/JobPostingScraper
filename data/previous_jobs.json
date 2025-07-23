@@ -618,25 +618,5 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://truecontext.bamboohr.com/career/careers/32"
-  },
-  {
-    "id": "109",
-    "jobOpeningName": "Data Entry Associate",
-    "departmentId": "18244",
-    "departmentLabel": "Marketing & Communications",
-    "employmentStatusLabel": "Part-Time",
-    "location": {
-      "city": "Kanata",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://distillersr.bamboohr.com/career/careers/109"
   }
 ]

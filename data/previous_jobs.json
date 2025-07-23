@@ -100,6 +100,26 @@
     "url": "https://solace.bamboohr.com/career/careers/655"
   },
   {
+    "id": "657",
+    "jobOpeningName": "Full-Stack Software Developer",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/657"
+  },
+  {
     "id": "658",
     "jobOpeningName": "UX Designer",
     "departmentId": "18550",

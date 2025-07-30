@@ -658,25 +658,5 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/691"
-  },
-  {
-    "id": "32",
-    "jobOpeningName": "Partner Manager",
-    "departmentId": "18263",
-    "departmentLabel": "Business Development",
-    "employmentStatusLabel": "Full time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": "Canada",
-      "state": "Ontario",
-      "province": null,
-      "city": "Ottawa"
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://truecontext.bamboohr.com/career/careers/32"
   }
 ]

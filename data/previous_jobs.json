@@ -658,5 +658,25 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/691"
+  },
+  {
+    "id": "692",
+    "jobOpeningName": "Solutions Engineer",
+    "departmentId": "18676",
+    "departmentLabel": "Sales Engineers",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Chicago",
+      "state": "Illinois"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/692"
   }
 ]

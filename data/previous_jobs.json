@@ -726,8 +726,8 @@
     "departmentLabel": "Sales Engineers",
     "employmentStatusLabel": "Full-Time",
     "location": {
-      "city": "Germany",
-      "state": "Germany"
+      "city": null,
+      "state": null
     },
     "atsLocation": {
       "country": null,
@@ -736,7 +736,7 @@
       "city": null
     },
     "isRemote": null,
-    "locationType": "2",
+    "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/697"
   }
 ]

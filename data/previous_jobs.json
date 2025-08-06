@@ -738,5 +738,25 @@
     "isRemote": null,
     "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/697"
+  },
+  {
+    "id": "698",
+    "jobOpeningName": "Receptionist/Facilities Coordinator (part time)",
+    "departmentId": "18839",
+    "departmentLabel": "Human Resources",
+    "employmentStatusLabel": "Temporary - Part-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "0",
+    "url": "https://solace.bamboohr.com/career/careers/698"
   }
 ]

@@ -738,5 +738,45 @@
     "isRemote": null,
     "locationType": "0",
     "url": "https://solace.bamboohr.com/career/careers/698"
+  },
+  {
+    "id": "699",
+    "jobOpeningName": "Sales Director",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Germany",
+      "state": "Germany"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/699"
+  },
+  {
+    "id": "700",
+    "jobOpeningName": "Director of Sales",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Germany",
+      "state": "Germany"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/700"
   }
 ]

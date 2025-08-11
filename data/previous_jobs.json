@@ -778,5 +778,25 @@
     "isRemote": null,
     "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/701"
+  },
+  {
+    "id": "33",
+    "jobOpeningName": "Sales Specialist",
+    "departmentId": "18228",
+    "departmentLabel": "Sales-Canadian",
+    "employmentStatusLabel": "Full time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": "Canada",
+      "state": "Ontario",
+      "province": null,
+      "city": "Ottawa"
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://truecontext.bamboohr.com/career/careers/33"
   }
 ]

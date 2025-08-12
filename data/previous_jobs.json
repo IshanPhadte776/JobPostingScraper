@@ -40,26 +40,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/196"
   },
   {
-    "id": "273",
-    "jobOpeningName": "Electro-Mechanical Technician Intern",
-    "departmentId": "18809",
-    "departmentLabel": "Hardware Development",
-    "employmentStatusLabel": "Intern",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "0",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/273"
-  },
-  {
     "id": "630",
     "jobOpeningName": "Solutions Engineer",
     "departmentId": "18676",
@@ -78,26 +58,6 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/630"
-  },
-  {
-    "id": "657",
-    "jobOpeningName": "Full-Stack Software Developer",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/657"
   },
   {
     "id": "658",

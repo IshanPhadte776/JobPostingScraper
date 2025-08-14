@@ -350,10 +350,10 @@
       "state": "Ontario"
     },
     "atsLocation": {
-      "country": null,
-      "state": null,
+      "country": "Canada",
+      "state": "Ontario",
       "province": null,
-      "city": null
+      "city": "Ottawa"
     },
     "isRemote": null,
     "locationType": "2",

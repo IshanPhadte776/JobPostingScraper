@@ -171,9 +171,9 @@
     },
     "atsLocation": {
       "country": "United States",
-      "state": "Florida",
+      "state": "Georgia",
       "province": null,
-      "city": "Tampa"
+      "city": "Atlanta"
     },
     "isRemote": null,
     "locationType": "1",
@@ -678,26 +678,6 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/699"
-  },
-  {
-    "id": "700",
-    "jobOpeningName": "Director of Sales",
-    "departmentId": "18617",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Germany",
-      "state": "Germany"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/700"
   },
   {
     "id": "701",

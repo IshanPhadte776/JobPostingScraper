@@ -410,10 +410,10 @@
       "state": "California"
     },
     "atsLocation": {
-      "country": null,
-      "state": null,
+      "country": "United States",
+      "state": "California",
       "province": null,
-      "city": null
+      "city": "Remote"
     },
     "isRemote": null,
     "locationType": "2",
@@ -698,6 +698,26 @@
     "isRemote": null,
     "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/701"
+  },
+  {
+    "id": "702",
+    "jobOpeningName": "Solutions Engineer",
+    "departmentId": "18676",
+    "departmentLabel": "Sales Engineers",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Dallas",
+      "state": "Texas"
+    },
+    "atsLocation": {
+      "country": "United States",
+      "state": "Texas",
+      "province": null,
+      "city": "Dallas"
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/702"
   },
   {
     "id": "33",

@@ -521,43 +521,23 @@
   },
   {
     "id": "693",
-    "jobOpeningName": "AI Solutions Architect(Pre-Sales)",
+    "jobOpeningName": "AI Solutions Architect(Pre-Sales) - Remote, US",
     "departmentId": "18676",
     "departmentLabel": "Sales Engineers",
     "employmentStatusLabel": "Full-Time",
     "location": {
-      "city": "Chicago",
-      "state": "Illinois"
+      "city": null,
+      "state": null
     },
     "atsLocation": {
-      "country": null,
-      "state": null,
+      "country": "United States",
+      "state": "New York",
       "province": null,
-      "city": null
+      "city": "New York"
     },
     "isRemote": null,
-    "locationType": "2",
+    "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/693"
-  },
-  {
-    "id": "694",
-    "jobOpeningName": "AI Solutions Architect(Pre-Sales)",
-    "departmentId": "18676",
-    "departmentLabel": "Sales Engineers",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "New York ",
-      "state": "New York"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/694"
   },
   {
     "id": "695",

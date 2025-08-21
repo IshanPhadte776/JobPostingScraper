@@ -40,6 +40,26 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/196"
   },
   {
+    "id": "275",
+    "jobOpeningName": "AI & Automation Intern (Data Science / Software / Engineering)",
+    "departmentId": "18811",
+    "departmentLabel": "Software Development - SmartMix",
+    "employmentStatusLabel": "Intern",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": "Canada",
+      "state": "Ontario",
+      "province": null,
+      "city": "Ottawa"
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/275"
+  },
+  {
     "id": "630",
     "jobOpeningName": "Solutions Engineer",
     "departmentId": "18676",

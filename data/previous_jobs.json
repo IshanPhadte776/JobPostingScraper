@@ -60,6 +60,26 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/275"
   },
   {
+    "id": "276",
+    "jobOpeningName": "Business Development Representative",
+    "departmentId": "18813",
+    "departmentLabel": "Sales & Success",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/276"
+  },
+  {
     "id": "630",
     "jobOpeningName": "Solutions Engineer",
     "departmentId": "18676",

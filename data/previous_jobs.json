@@ -698,5 +698,25 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://truecontext.bamboohr.com/career/careers/33"
+  },
+  {
+    "id": "110",
+    "jobOpeningName": "Software Developer",
+    "departmentId": "18243",
+    "departmentLabel": "Software Development",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Kanata",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://distillersr.bamboohr.com/career/careers/110"
   }
 ]

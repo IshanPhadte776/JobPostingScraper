@@ -680,6 +680,26 @@
     "url": "https://solace.bamboohr.com/career/careers/702"
   },
   {
+    "id": "703",
+    "jobOpeningName": "Technical Product Manager ",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/703"
+  },
+  {
     "id": "33",
     "jobOpeningName": "Sales Specialist",
     "departmentId": "18228",

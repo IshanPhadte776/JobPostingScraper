@@ -80,6 +80,26 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/276"
   },
   {
+    "id": "277",
+    "jobOpeningName": "Senior Accountant",
+    "departmentId": "18446",
+    "departmentLabel": "Finance & Operations",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/277"
+  },
+  {
     "id": "630",
     "jobOpeningName": "Solutions Engineer",
     "departmentId": "18676",

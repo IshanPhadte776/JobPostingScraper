@@ -180,26 +180,6 @@
     "url": "https://solace.bamboohr.com/career/careers/667"
   },
   {
-    "id": "668",
-    "jobOpeningName": "Professional Services Consultant",
-    "departmentId": "18762",
-    "departmentLabel": "Professional Services",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Chicago",
-      "state": "Illinois"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/668"
-  },
-  {
     "id": "669",
     "jobOpeningName": "Solution Support Engineer",
     "departmentId": "18562",
@@ -698,5 +678,25 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://distillersr.bamboohr.com/career/careers/110"
+  },
+  {
+    "id": "99",
+    "jobOpeningName": "Recollective Women in Technology Scholarship",
+    "departmentId": null,
+    "departmentLabel": null,
+    "employmentStatusLabel": "Scholarship",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "0",
+    "url": "https://recollective.bamboohr.com/career/careers/99"
   }
 ]

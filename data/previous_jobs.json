@@ -200,26 +200,6 @@
     "url": "https://solace.bamboohr.com/career/careers/669"
   },
   {
-    "id": "671",
-    "jobOpeningName": "Senior Web Designer/Developer",
-    "departmentId": "18644",
-    "departmentLabel": "Marketing",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/671"
-  },
-  {
     "id": "673",
     "jobOpeningName": "Director of Sales - Capital Markets",
     "departmentId": "18617",
@@ -538,26 +518,6 @@
     "isRemote": null,
     "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/697"
-  },
-  {
-    "id": "698",
-    "jobOpeningName": "Receptionist/Facilities Coordinator (part time)",
-    "departmentId": "18839",
-    "departmentLabel": "Human Resources",
-    "employmentStatusLabel": "Temporary - Part-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "0",
-    "url": "https://solace.bamboohr.com/career/careers/698"
   },
   {
     "id": "699",

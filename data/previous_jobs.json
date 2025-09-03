@@ -927,17 +927,6 @@
     "source": "SST"
   },
   {
-    "title": "Principal Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Principal-Software-Engineer_R36735",
-    "locationsText": "Windsor, CT",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36735"
-    ],
-    "id": "",
-    "source": "SST"
-  },
-  {
     "title": "Associate Manager, Hedge Fund Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-OH/Associate-Manager--Hedge-Fund-Accounting_R36497",
     "locationsText": "Dublin, OH",
@@ -960,14 +949,14 @@
     "source": "SST"
   },
   {
-    "title": "Implementation Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Implementation-Engineer_R37084",
-    "locationsText": "Bucharest, Romania",
+    "title": "Principal Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Principal-Software-Engineer_R36735",
+    "locationsText": "Windsor, CT",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37084"
+      "R36735"
     ],
-    "id": "",
+    "id": "R36735",
     "source": "SST"
   },
   {
@@ -3041,5 +3030,593 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 151188,
+    "type": "careers",
+    "title": "Senior Software Engineer II",
+    "link": "https://www.surveymonkey.com/careers/7126591-senior-software-engineer-ii/",
+    "path": "/careers/7126591-senior-software-engineer-ii/",
+    "date": "2025-08-29T12:00:13",
+    "date_modified": "2025-08-29T12:00:13",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer II",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 390,
+        "slug": "dublin",
+        "name": "Dublin, Ireland",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/dublin/",
+        "path": "/careers/office/dublin/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 151186,
+    "type": "careers",
+    "title": "Senior Fullstack Software Engineer I",
+    "link": "https://www.surveymonkey.com/careers/7126204-senior-fullstack-software-engineer-i/",
+    "path": "/careers/7126204-senior-fullstack-software-engineer-i/",
+    "date": "2025-08-29T12:00:12",
+    "date_modified": "2025-08-29T12:00:12",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Fullstack Software Engineer I",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 404,
+        "slug": "us-remote",
+        "name": "US - Remote",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/us-remote/",
+        "path": "/careers/office/us-remote/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 148767,
+    "type": "careers",
+    "title": "Senior Executive &#038; Administration Assistant",
+    "link": "https://www.surveymonkey.com/careers/6944822-senior-executive-administration-assistant/",
+    "path": "/careers/6944822-senior-executive-administration-assistant/",
+    "date": "2025-07-31T16:00:09",
+    "date_modified": "2025-07-31T16:00:09",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Executive &#038; Administration Assistant",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 146972,
+    "type": "careers",
+    "title": "Senior Cloud Engineer",
+    "link": "https://www.surveymonkey.com/careers/7035372-senior-cloud-engineer/",
+    "path": "/careers/7035372-senior-cloud-engineer/",
+    "date": "2025-07-03T13:00:17",
+    "date_modified": "2025-07-03T13:00:17",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Cloud Engineer",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 137944,
+    "type": "careers",
+    "title": "Senior Fullstack Software Engineer II &#8211; Integrations",
+    "link": "https://www.surveymonkey.com/careers/6808396-senior-software-engineer-ii-fullstack-integrations-team/",
+    "path": "/careers/6808396-senior-software-engineer-ii-fullstack-integrations-team/",
+    "date": "2025-04-23T03:00:39",
+    "date_modified": "2025-04-23T03:00:39",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Fullstack Software Engineer II &#8211; Integrations",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 137942,
+    "type": "careers",
+    "title": "Senior Backend Software Engineer II &#8211; Integrations",
+    "link": "https://www.surveymonkey.com/careers/6808298-senior-software-engineer-ii-backend-integrations-team/",
+    "path": "/careers/6808298-senior-software-engineer-ii-backend-integrations-team/",
+    "date": "2025-04-23T03:00:36",
+    "date_modified": "2025-04-23T03:00:36",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Backend Software Engineer II &#8211; Integrations",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 137715,
+    "type": "careers",
+    "title": "Senior Software Engineer II &#8211; MRX Audience",
+    "link": "https://www.surveymonkey.com/careers/6784894-senior-software-engineer-ii-mrx-audience/",
+    "path": "/careers/6784894-senior-software-engineer-ii-mrx-audience/",
+    "date": "2025-04-16T05:00:46",
+    "date_modified": "2025-04-16T05:00:46",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer II &#8211; MRX Audience",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 137525,
+    "type": "careers",
+    "title": "Senior Cloud Solution Engineer",
+    "link": "https://www.surveymonkey.com/careers/6803106-staff-site-reliability-engineer-cloud-solutions-team/",
+    "path": "/careers/6803106-staff-site-reliability-engineer-cloud-solutions-team/",
+    "date": "2025-04-14T10:00:50",
+    "date_modified": "2025-04-14T10:00:50",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Cloud Solution Engineer",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 137226,
+    "type": "careers",
+    "title": "Senior Software Engineer II &#8211; Wufoo",
+    "link": "https://www.surveymonkey.com/careers/6784357-senior-software-engineer-ii-backend-sm-apply-wufoo-teams/",
+    "path": "/careers/6784357-senior-software-engineer-ii-backend-sm-apply-wufoo-teams/",
+    "date": "2025-04-10T03:00:35",
+    "date_modified": "2025-04-10T03:00:35",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer II &#8211; Wufoo",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 135048,
+    "type": "careers",
+    "title": "Senior Backend Software Engineer II &#8211; SurveyMonkey Apply",
+    "link": "https://www.surveymonkey.com/careers/6579735-senior-software-engineer-ii-backend-sm-apply-wufoo-teams/",
+    "path": "/careers/6579735-senior-software-engineer-ii-backend-sm-apply-wufoo-teams/",
+    "date": "2025-03-11T03:00:43",
+    "date_modified": "2025-03-11T03:00:43",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Backend Software Engineer II &#8211; SurveyMonkey Apply",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 135007,
+    "type": "careers",
+    "title": "Senior Software Engineer in Test I &#8211; SurveyMonkey Apply &#038; Wufoo",
+    "link": "https://www.surveymonkey.com/careers/6579966-senior-software-engineer-in-test-i-sm-apply-wufoo-team/",
+    "path": "/careers/6579966-senior-software-engineer-in-test-i-sm-apply-wufoo-team/",
+    "date": "2025-03-10T05:00:53",
+    "date_modified": "2025-06-04T10:03:11",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer in Test I &#8211; SurveyMonkey Apply &#038; Wufoo",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 135005,
+    "type": "careers",
+    "title": "Senior Software Engineer in Test II &#8211; SurveyMonkey Apply &#038; Wufoo",
+    "link": "https://www.surveymonkey.com/careers/6579729-senior-software-engineer-in-test-ii-sm-apply-wufoo-team/",
+    "path": "/careers/6579729-senior-software-engineer-in-test-ii-sm-apply-wufoo-team/",
+    "date": "2025-03-10T05:00:51",
+    "date_modified": "2025-06-04T10:03:13",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer in Test II &#8211; SurveyMonkey Apply &#038; Wufoo",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 133024,
+    "type": "careers",
+    "title": "Senior Systems Engineer &#8211; DevPlatform Team",
+    "link": "https://www.surveymonkey.com/careers/6592721-senior-systems-engineer-devplatform-team/",
+    "path": "/careers/6592721-senior-systems-engineer-devplatform-team/",
+    "date": "2025-01-31T11:01:14",
+    "date_modified": "2025-01-31T11:01:14",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Systems Engineer &#8211; DevPlatform Team",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 131039,
+    "type": "careers",
+    "title": "Engineering Manager &#8211; SurveyMonkey Apply",
+    "link": "https://www.surveymonkey.com/careers/6418326-engineering-manager-sm-apply/",
+    "path": "/careers/6418326-engineering-manager-sm-apply/",
+    "date": "2025-01-06T17:00:31",
+    "date_modified": "2025-01-06T17:00:31",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Engineering Manager &#8211; SurveyMonkey Apply",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   }
 ]

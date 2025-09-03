@@ -70,6 +70,10 @@ THIRD_PARTY_SOURCES = [
     {
         "name": "Evertz",
         "endpoint": "https://evertz.com/includes/json/careers.json"
+    },
+    {
+        "name": "SurveyMonkey",
+        "endpoint": "https://www.surveymonkey.com/content-svc/sm/content/v3/careers/?career_department=engineering&per_page=100&page=1"
     }
 ]
 

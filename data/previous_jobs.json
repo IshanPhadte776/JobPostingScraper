@@ -640,6 +640,26 @@
     "url": "https://solace.bamboohr.com/career/careers/704"
   },
   {
+    "id": "705",
+    "jobOpeningName": "Solution Support Engineer",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Singapore ",
+      "state": "Singapore"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/705"
+  },
+  {
     "id": "33",
     "jobOpeningName": "Sales Specialist",
     "departmentId": "18228",

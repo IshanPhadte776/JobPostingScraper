@@ -4,6 +4,13 @@ import requests
 import smtplib
 from email.mime.text import MIMEText
 
+if not os.environ.get("GITHUB_ACTIONS"):
+    try:
+        from dotenv import load_dotenv
+        load_dotenv()
+    except ImportError:
+        pass
+
 ENDPOINTS = [
     "https://giatecscientific.bamboohr.com/careers/list",
     "https://solace.bamboohr.com/careers/list",

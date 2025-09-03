@@ -620,6 +620,26 @@
     "url": "https://solace.bamboohr.com/career/careers/703"
   },
   {
+    "id": "704",
+    "jobOpeningName": "Solutions Engineer",
+    "departmentId": "18676",
+    "departmentLabel": "Sales Engineers",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Jakarta",
+      "state": "Jakarta"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/704"
+  },
+  {
     "id": "33",
     "jobOpeningName": "Sales Specialist",
     "departmentId": "18228",

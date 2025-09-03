@@ -11,25 +11,35 @@ ENDPOINTS = [
     "https://distillersr.bamboohr.com/careers/list",
     "https://recollective.bamboohr.com/careers/list"
 ]
-WORKDAY_ENDPOINTS = [
-    "https://wd1.myworkdaysite.com/wday/cxs/ssctech/SSCTechnologies/jobs"
-]
-CIBC_WORKDAY_ENDPOINT = "https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/jobs"
-CIBC_WORKDAY_PAYLOAD = {
-    "appliedFacets": {
-        "State__Region__Province": ["218a720b28a74c67b5c6d42c00bdadfa"],
-        "jobFamilyGroup": ["4bbe6c74e8a70126f29430a881012510"]
+WORKDAY_SOURCES = [
+    {
+        "name": "SST",
+        "endpoint": "https://wd1.myworkdaysite.com/wday/cxs/ssctech/SSCTechnologies/jobs",
+        "headers": {"Content-Type": "application/json"},
+        "payload": {},
+        "url_prefix": "https://wd1.myworkdaysite.com/en-US/ssctech"
     },
-    "searchText": "",
-    "locationArg": {},
-    "sortBy": "relevance"
-}
-CIBC_WORKDAY_HEADERS = {
-    "Content-Type": "application/json",
-    "Accept": "application/json",
-    "Referer": "https://cibc.wd3.myworkdayjobs.com/search?State__Region__Province=218a720b28a74c67b5c6d42c00bdadfa&jobFamilyGroup=4bbe6c74e8a70126f29430a881012510",
-    "User-Agent": "Mozilla/5.0 (Linux; Android 11.0; Surface Duo) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
-}
+    {
+        "name": "CIBC",
+        "endpoint": "https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/jobs",
+        "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "Referer": "https://cibc.wd3.myworkdayjobs.com/search?State__Region__Province=218a720b28a74c67b5c6d42c00bdadfa&jobFamilyGroup=4bbe6c74e8a70126f29430a881012510",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 11.0; Surface Duo) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+        },
+        "payload": {
+            "appliedFacets": {
+                "State__Region__Province": ["218a720b28a74c67b5c6d42c00bdadfa"],
+                "jobFamilyGroup": ["4bbe6c74e8a70126f29430a881012510"]
+            },
+            "searchText": "",
+            "locationArg": {},
+            "sortBy": "relevance"
+        },
+        "url_prefix": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc"
+    }
+]
 DATA_FILE = "data/previous_jobs.json"
 EMAIL_FROM = os.environ["EMAIL_FROM"]
 EMAIL_PASSWORD = os.environ["EMAIL_PASSWORD"]
@@ -40,13 +50,8 @@ def fetch_jobs(url):
     r.raise_for_status()
     return r.json()["result"]  # Only return the job list
 
-def fetch_workday_jobs(url):
-    r = requests.post(url, headers={"Content-Type": "application/json"}, json={})
-    r.raise_for_status()
-    return r.json().get("jobPostings", [])
-
-def fetch_cibc_workday_jobs():
-    r = requests.post(CIBC_WORKDAY_ENDPOINT, headers=CIBC_WORKDAY_HEADERS, json=CIBC_WORKDAY_PAYLOAD)
+def fetch_workday_jobs_generic(endpoint, headers, payload):
+    r = requests.post(endpoint, headers=headers, json=payload)
     r.raise_for_status()
     return r.json().get("jobPostings", [])
 
@@ -80,9 +85,9 @@ def send_email(new_bamboo_jobs, new_workday_jobs):
             title = job.get("title", "Unknown")
             location = job.get("locationsText", "Unknown location")
             posted = job.get("postedOn", "Unknown date")
-            external_path = job.get("externalPath", "")
-            url = f"https://wd1.myworkdaysite.com/en-US/ssctech{external_path}" if external_path else ""
-            lines.append(f"{title} | {location} | {posted}\n{url}")
+            url = job.get("externalPath", "")
+            source = job.get("source", "Workday")
+            lines.append(f"[{source}] {title} | {location} | {posted}\n{url}")
     body = "\n\n".join(lines)
     msg = MIMEText(body)
     msg["Subject"] = "New Job Postings"
@@ -100,25 +105,19 @@ def main():
             job["url"] = f"{url.rstrip('/list')}/careers/{job['id']}"
         all_new_bamboo_jobs.extend(jobs)
     all_new_workday_jobs = []
-    for url in WORKDAY_ENDPOINTS:
-        jobs = fetch_workday_jobs(url)
+    for source in WORKDAY_SOURCES:
+        jobs = fetch_workday_jobs_generic(source["endpoint"], source["headers"], source["payload"])
         for job in jobs:
             job["id"] = job.get("jobPostingId", job.get("id", ""))
-            job["externalPath"] = f"https://wd1.myworkdaysite.com/en-US/ssctech{job.get('externalPath', '')}" if job.get("externalPath") else ""
+            job["externalPath"] = f"{source['url_prefix']}{job.get('externalPath', '')}" if job.get("externalPath") else ""
+            job["source"] = source["name"]
         all_new_workday_jobs.extend(jobs)
-    # Fetch CIBC Workday jobs
-    cibc_jobs = fetch_cibc_workday_jobs()
-    for job in cibc_jobs:
-        job["id"] = job.get("jobPostingId", job.get("id", ""))
-        job["externalPath"] = f"https://cibc.wd3.myworkdayjobs.com/en-US/cibc{job.get('externalPath', '')}" if job.get("externalPath") else ""
-    all_new_workday_jobs.extend(cibc_jobs)
     old_jobs = load_previous_jobs()
     old_ids = {job["id"] for job in old_jobs}
     new_bamboo_postings = [job for job in all_new_bamboo_jobs if job["id"] not in old_ids]
     new_workday_postings = [job for job in all_new_workday_jobs if job["id"] not in old_ids]
     if new_bamboo_postings or new_workday_postings:
         send_email(new_bamboo_postings, new_workday_postings)
-    # Only save jobs that are currently listed on the companies' job boards.
     save_jobs(all_new_bamboo_jobs + all_new_workday_jobs)
 
 if __name__ == "__main__":

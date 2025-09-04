@@ -927,37 +927,48 @@
     "source": "SST"
   },
   {
-    "title": "Solutions Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Solutions-Analyst_R34967",
-    "locationsText": "Boston, MA",
+    "title": "Senior Associate, Loan Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Los-Angeles-CA/Senior-Associate--Loan-Operations_R36914",
+    "locationsText": "Los Angeles, CA",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R34967"
+      "R36914"
     ],
-    "id": "R34967",
+    "id": "R36914",
     "source": "SST"
   },
   {
-    "title": "Graphic Designer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Graphic-Designer_R37054-1",
+    "title": "Manager, Hedge Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Harrison-NY/Manager--Hedge-Fund-Accounting_R35021-1",
     "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37054"
+      "R35021"
     ],
-    "id": "R37054",
+    "id": "R35021",
     "source": "SST"
   },
   {
-    "title": "Investor Services Representative",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Investor-Services-Representative_R37129",
-    "locationsText": "Kansas City, MO",
+    "title": "Senior Software Engineer (Web Development)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Newtown-CT/Senior-Software-Engineer--Web-Development-_R33075",
+    "locationsText": "Newtown, CT",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37129"
+      "R33075"
     ],
-    "id": "R37129",
+    "id": "R33075",
     "source": "SST"
+  },
+  {
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2517795",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2517795"
+    ],
+    "id": "2517795",
+    "source": "CIBC"
   },
   {
     "title": "Senior Quality Engineer, Core Banking and Payments Technology.",
@@ -1169,17 +1180,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development_2511972",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2511972"
-    ],
-    "id": "2511972",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1199,6 +1199,28 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "Coherent Pluggable Transponder - Systems Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Coherent-Pluggable-Transponder---Systems-Engineer_R027713",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R027713"
+    ],
+    "id": "R027713",
+    "source": "Ciena"
+  },
+  {
+    "title": "Network Solution Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Network-Solution-Engineer_R028795",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028795"
+    ],
+    "id": "R028795",
     "source": "Ciena"
   },
   {
@@ -1378,26 +1400,99 @@
     "source": "Ciena"
   },
   {
-    "title": "Logistics Analytics & Optimization Lead",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Belfast/Logistics-Analytics---Optimization-Lead_R028784",
-    "locationsText": "Belfast",
-    "postedOn": "Posted 2 Days Ago",
+    "title": "Software Developer II - Embedded, C/Python",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Sunrise-FL/Software-Developer-II---C-Python-Go_R003695",
+    "locationsText": "United States - Sunrise, FL",
+    "postedOn": "Posted Today",
+    "remoteType": "Hybrid Eligible",
     "bulletFields": [
-      "R028784"
+      "R003695"
     ],
-    "id": "R028784",
-    "source": "Ciena"
+    "id": "R003695",
+    "source": "Entrust"
   },
   {
-    "title": "Optical Test Engineer - Python Automation",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/SVT-PV-Engineer-Software-Systems_R028598",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 2 Days Ago",
+    "title": "Senior .NET Software Developer - Hybrid, Minnesota",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Cloud-Technical-Program-Manager---Development-Deployment_R003274",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted 6 Days Ago",
+    "remoteType": "Hybrid Eligible",
     "bulletFields": [
-      "R028598"
+      "R003274"
     ],
-    "id": "R028598",
-    "source": "Ciena"
+    "id": "R003274",
+    "source": "Entrust"
+  },
+  {
+    "title": "Senior Firmware Engineer",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Sr-Firmware-Engineer_R003584",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted 6 Days Ago",
+    "bulletFields": [
+      "R003584"
+    ],
+    "id": "R003584",
+    "source": "Entrust"
+  },
+  {
+    "title": "Full-stack Java Software Developer II",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II---Hybrid--Minneapolis_R003293",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted 7 Days Ago",
+    "remoteType": "Hybrid Eligible",
+    "bulletFields": [
+      "R003293"
+    ],
+    "id": "R003293",
+    "source": "Entrust"
+  },
+  {
+    "title": "Senior Software QA Engineer",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-QA-Engineer-II_R003547",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted 8 Days Ago",
+    "remoteType": "Hybrid Eligible",
+    "bulletFields": [
+      "R003547"
+    ],
+    "id": "R003547",
+    "source": "Entrust"
+  },
+  {
+    "title": "Electrical Engineer II",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/PC-Board-Designer_R003307",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted 8 Days Ago",
+    "remoteType": "Hybrid Eligible",
+    "bulletFields": [
+      "R003307"
+    ],
+    "id": "R003307",
+    "source": "Entrust"
+  },
+  {
+    "title": "Sr Cloud DevOps Engineer - Hybrid, Minnesota",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Sr-DevOps-Engineer_R003006",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted 13 Days Ago",
+    "remoteType": "Hybrid Eligible",
+    "bulletFields": [
+      "R003006"
+    ],
+    "id": "R003006",
+    "source": "Entrust"
+  },
+  {
+    "title": "Sr. C++ Software Developer (Desktop Driver development) Hybrid, Minnesota",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Sr-Software-Developer--Java---C----Hybrid--Minnesota_R003545",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted 30+ Days Ago",
+    "remoteType": "Hybrid Eligible",
+    "bulletFields": [
+      "R003545"
+    ],
+    "id": "R003545",
+    "source": "Entrust"
   },
   {
     "id": "job_20250903170842_MOF27EBHWSHKX9WS",

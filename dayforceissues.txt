@@ -1,0 +1,16 @@
+The Dayforce job search API endpoint requires specific security headers, namely cookie for session management and x-csrf-token for Cross-Site Request Forgery protection, to authenticate and authorize requests. Attempting to access this endpoint without these valid, session-specific headers results in a "Forbidden" response, highlighting the importance of including these security measures when replicating the request outside of a standard browser session. Successfully obtaining the job data through curl necessitates correctly identifying and providing these required headers along with the request payload.
+
+
+
+curl 'https://jobs.dayforcehcm.com/api/jobposting/search' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-encoding: gzip, deflate, br, zstd' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'cookie: __Host-next-auth.csrf-token=acd7264db8200f22cde071111203afd619adca6932a98e0ae61548baf8f698ec%7Cae4872e9c7ca107fafce72c4d19f6caac78f349a54d3fa5e417c71a2b823d8cf; __Secure-next-auth.callback-url=https%3A%2F%2Fjobs.dayforcehcm.com; ai_user=3MgTjkAJUlETEYtjjUccg8|2025-09-04T16:42:47.582Z; SiteConfig={%22rossvideo%22:[%22LI%22]}; __cf_bm=.ChFjow4CqJCJTiCPhOwMqUaEmQ38wuZfIbBRpd2yiY-1757004725-1.0.1.1-O2C8GsuvwW5.ayAAdnCOrEBalo5gzwJ8BC6cGlWzt2Pr8p0tWBjwKoKfrx5K_LtA9zAk9tZ741seRv8najUixctkAt6WSDe_cPmnlVWve7M; ai_session=l4xxQsfT5KhiW9Wze6ve88|1757004168062|1757004724165' \
+  -H 'origin: https://jobs.dayforcehcm.com' \
+  -H 'referer: https://jobs.dayforcehcm.com/en-US/rossvideo/CANDIDATEPORTAL' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 11.0; Surface Duo) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36' \
+  -H 'x-csrf-token: acd7264db8200f22cde071111203afd619adca6932a98e0ae61548baf8f698ec' \
+  --data-raw '{"clientNamespace":"rossvideo","jobBoardCode":"CANDIDATEPORTAL","cultureCode":"en-US","distanceUnit":0,"paginationStart":0}' \
+  --compressed

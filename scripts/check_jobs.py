@@ -66,6 +66,22 @@ WORKDAY_SOURCES = [
         "payload": {},
         "url_prefix": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena",
         "public_board_url": "https://ciena.wd5.myworkdayjobs.com/Careers"
+    },
+    {
+        "name": "Entrust",
+        "endpoint": "https://entrust.wd1.myworkdayjobs.com/wday/cxs/entrust/EntrustCareers/jobs",
+        "headers": {"Content-Type": "application/json"},
+        "payload": {
+            "appliedFacets": {
+                "locationCountry": ["a30a87ed25634629aa6c3958aa2b91ea", "bc33aa3152ec42d4995f4791a106ed09"],
+                "jobFamilyGroup": ["94f2a69b2507011c7bbbfc6f78076b26"]
+            },
+            "searchText": "",
+            "locationArg": {},
+            "sortBy": "relevance"
+        },
+        "url_prefix": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust",
+        "public_board_url": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers?locationCountry=a30a87ed25634629aa6c3958aa2b91ea&locationCountry=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=94f2a69b2507011c7bbbfc6f78076b26"
     }
 ]
 
@@ -85,6 +101,26 @@ DATA_FILE = "data/previous_jobs.json"
 EMAIL_FROM = os.environ["EMAIL_FROM"]
 EMAIL_PASSWORD = os.environ["EMAIL_PASSWORD"]
 EMAIL_TO = EMAIL_FROM  # sending to yourself
+
+# List of companies that could not be added, with endpoint and reason
+FAILED_COMPANIES = [
+    {
+        "name": "Kinaxis",
+        "endpoint": "https://careers-kinaxis.icims.com/jobs/search",
+        "reason": "couldn't find the rest endpoint for jobs"
+    }
+    # Add more failed companies here as needed
+]
+
+# Companies/sites that require custom work to integrate
+LOTS_OF_WORK = [
+    {
+        "name": "Qlik",
+        "endpoint": "https://www.qlik.com/us/company/careers/job-listings?page=1&limit=94",
+        "reason": "custom work for custom site"
+    }
+    # Add more companies here as needed
+]
 
 # Fetch jobs from a BambooHR endpoint
 def fetch_jobs(url):
@@ -225,6 +261,12 @@ def main():
         print("BambooHR companies:", ", ".join(bamboo_companies))
         print("Workday companies:", ", ".join(workday_companies))
         print("Third-party companies:", ", ".join(third_party_companies))
+        print("\nLots of work:")
+        for lw in LOTS_OF_WORK:
+            print(f"- {lw['name']} | {lw['endpoint']} | {lw['reason']}")
+        print("\nFailed to add companies:")
+        for fc in FAILED_COMPANIES:
+            print(f"- {fc['name']} | {fc['endpoint']} | {fc['reason']}")
         return
     # Clear all jobs if --clear is set
     if args.clear:

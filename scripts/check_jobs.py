@@ -35,7 +35,8 @@ WORKDAY_SOURCES = [
         "endpoint": "https://wd1.myworkdaysite.com/wday/cxs/ssctech/SSCTechnologies/jobs",
         "headers": {"Content-Type": "application/json"},
         "payload": {},
-        "url_prefix": "https://wd1.myworkdaysite.com/en-US/ssctech"
+        "url_prefix": "https://wd1.myworkdaysite.com/en-US/ssctech",
+        "public_board_url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies"
     },
     {
         "name": "CIBC",
@@ -55,14 +56,16 @@ WORKDAY_SOURCES = [
             "locationArg": {},
             "sortBy": "relevance"
         },
-        "url_prefix": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc"
+        "url_prefix": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc",
+        "public_board_url": "https://cibc.wd3.myworkdayjobs.com/search"
     },
     {
         "name": "Ciena",
         "endpoint": "https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/Careers/jobs",
         "headers": {"Content-Type": "application/json", "Accept": "application/json"},
         "payload": {},
-        "url_prefix": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena"
+        "url_prefix": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena",
+        "public_board_url": "https://ciena.wd5.myworkdayjobs.com/Careers"
     }
 ]
 
@@ -119,6 +122,8 @@ def save_jobs(jobs):
 # including the number and names of new jobs found.
 def send_email(new_bamboo_jobs, new_workday_jobs, new_third_party_jobs, company_filter=None):
     lines = []
+    workday_base_urls = {src['name']: src['url_prefix'].replace('/en-US/', '') for src in WORKDAY_SOURCES}
+    workday_public_urls = {src['name']: src.get('public_board_url') for src in WORKDAY_SOURCES if src.get('public_board_url')}
     def job_matches_company(job):
         if not company_filter:
             return True
@@ -136,15 +141,21 @@ def send_email(new_bamboo_jobs, new_workday_jobs, new_third_party_jobs, company_
     print(f"Emailing {len([j for j in new_bamboo_jobs if job_matches_company(j)])} new BambooHR jobs:")
     for job in new_bamboo_jobs:
         if job_matches_company(job):
-            print(f"- {job.get('jobOpeningName', job.get('title', 'Unknown'))}")
+            company = job.get('url', '').split('.bamboohr')[0].split('//')[-1].capitalize() if job.get('url') else 'Unknown'
+            print(f"- {job.get('jobOpeningName', job.get('title', 'Unknown'))} @ {company}")
     print(f"Emailing {len([j for j in new_workday_jobs if job_matches_company(j)])} new Workday jobs:")
     for job in new_workday_jobs:
         if job_matches_company(job):
-            print(f"- {job.get('jobOpeningName', job.get('title', 'Unknown'))}")
+            company = job.get('source', 'Unknown')
+            print(f"- {job.get('jobOpeningName', job.get('title', 'Unknown'))} @ {company}")
+            public_url = workday_public_urls.get(company)
+            if public_url:
+                print(f"  Public job board: {public_url}")
     print(f"Emailing {len([j for j in new_third_party_jobs if job_matches_company(j)])} new Third-Party jobs:")
     for job in new_third_party_jobs:
         if job_matches_company(job):
-            print(f"- {job.get('title', 'Unknown')}")
+            company = job.get('source', 'Unknown')
+            print(f"- {job.get('title', 'Unknown')} @ {company}")
     # Build email body
     if any(job_matches_company(j) for j in new_bamboo_jobs):
         lines.append("BambooHR Jobs:")
@@ -167,7 +178,14 @@ def send_email(new_bamboo_jobs, new_workday_jobs, new_third_party_jobs, company_
                 posted = job.get("postedOn", "Unknown date")
                 url = job.get("externalPath", "")
                 source = job.get("source", "Workday")
-                lines.append(f"[{source}] {title} | {location} | {posted}\n{url}")
+                base_url = workday_base_urls.get(source, None)
+                public_url = workday_public_urls.get(source)
+                job_line = f"[{source}] {title} | {location} | {posted}\n{url}"
+                if base_url:
+                    job_line += f"\nStandard job board: {base_url}"
+                if public_url:
+                    job_line += f"\nPublic job board: {public_url}"
+                lines.append(job_line)
     if any(job_matches_company(j) for j in new_third_party_jobs):
         lines.append("Third-Party Jobs:")
         for job in new_third_party_jobs:
@@ -196,8 +214,18 @@ def main():
     parser.add_argument("--company", type=str, help="Send email for only this company (case-insensitive)")
     parser.add_argument("--clear", action="store_true", help="Clear all jobs from previous_jobs.json before running")
     parser.add_argument("--clear-company", type=str, help="Clear only jobs for this company from previous_jobs.json before running (case-insensitive)")
+    parser.add_argument("--list-companies", action="store_true", help="Print all companies involved and exit")
     args = parser.parse_args()
     company_filter = args.company
+    # Print all companies and exit if --list-companies is set
+    if args.list_companies:
+        bamboo_companies = [url.split('//')[1].split('.bamboohr')[0].capitalize() for url in ENDPOINTS]
+        workday_companies = [src['name'] for src in WORKDAY_SOURCES]
+        third_party_companies = [src['name'] for src in THIRD_PARTY_SOURCES]
+        print("BambooHR companies:", ", ".join(bamboo_companies))
+        print("Workday companies:", ", ".join(workday_companies))
+        print("Third-party companies:", ", ".join(third_party_companies))
+        return
     # Clear all jobs if --clear is set
     if args.clear:
         save_jobs([])
@@ -240,15 +268,26 @@ def main():
     print(f"Found {len([j for j in new_bamboo_postings if not company_filter or company_filter.lower() in j.get('jobOpeningName', '').lower()])} new BambooHR jobs.")
     for job in new_bamboo_postings:
         if not company_filter or company_filter.lower() in job.get('jobOpeningName', '').lower():
-            print(f"- {job.get('jobOpeningName', job.get('title', 'Unknown'))}")
+            company = job.get('url', '').split('.bamboohr')[0].split('//')[-1].capitalize() if job.get('url') else 'Unknown'
+            print(f"- {job.get('jobOpeningName', job.get('title', 'Unknown'))} @ {company}")
     print(f"Found {len([j for j in new_workday_postings if not company_filter or company_filter.lower() in j.get('source', '').lower()])} new Workday jobs.")
     for job in new_workday_postings:
         if not company_filter or company_filter.lower() in job.get('source', '').lower():
-            print(f"- {job.get('jobOpeningName', job.get('title', 'Unknown'))}")
+            company = job.get('source', 'Unknown')
+            base_url = None
+            for src in WORKDAY_SOURCES:
+                if src['name'] == company:
+                    base_url = src['url_prefix'].replace('/en-US/', '')
+                    break
+            print(f"- {job.get('jobOpeningName', job.get('title', 'Unknown'))} @ {company}" + (f" | Standard job board: {base_url}" if base_url else ""))
     print(f"Found {len([j for j in new_third_party_postings if not company_filter or company_filter.lower() in j.get('source', '').lower()])} new Third-Party jobs.")
     for job in new_third_party_postings:
         if not company_filter or company_filter.lower() in job.get('source', '').lower():
-            print(f"- {job.get('title', 'Unknown')}")
+            source = job.get('source', 'Unknown')
+            title = job.get('title', 'Unknown')
+            location = job.get('city', job.get('career_location', [{}])[0].get('name', 'Unknown location'))
+            url = job.get('link', job.get('url', ''))
+            print(f"- {title} @ {source} | {location} | {url}")
     if new_bamboo_postings or new_workday_postings or new_third_party_postings:
         send_email(new_bamboo_postings, new_workday_postings, new_third_party_postings, company_filter)
     save_jobs(all_new_bamboo_jobs + all_new_workday_jobs + all_new_third_party_jobs)

@@ -660,26 +660,6 @@
     "url": "https://solace.bamboohr.com/career/careers/705"
   },
   {
-    "id": "33",
-    "jobOpeningName": "Sales Specialist",
-    "departmentId": "18228",
-    "departmentLabel": "Sales-Canadian",
-    "employmentStatusLabel": "Full time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": "Canada",
-      "state": "Ontario",
-      "province": null,
-      "city": "Ottawa"
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://truecontext.bamboohr.com/career/careers/33"
-  },
-  {
     "id": "34",
     "jobOpeningName": "Growth Web Developer",
     "departmentId": "18238",
@@ -927,6 +907,17 @@
     "source": "SST"
   },
   {
+    "title": "Sales Solutions Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Sales-Solutions-Engineer_R35454",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35454"
+    ],
+    "id": "R35454",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Loan Operations",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Los-Angeles-CA/Senior-Associate--Loan-Operations_R36914",
     "locationsText": "Los Angeles, CA",
@@ -946,17 +937,6 @@
       "R35021"
     ],
     "id": "R35021",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Software Engineer (Web Development)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Newtown-CT/Senior-Software-Engineer--Web-Development-_R33075",
-    "locationsText": "Newtown, CT",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R33075"
-    ],
-    "id": "R33075",
     "source": "SST"
   },
   {
@@ -1378,17 +1358,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Embedded Software Engineer P3",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer-P3_R028724",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028724"
-    ],
-    "id": "R028724",
-    "source": "Ciena"
-  },
-  {
     "title": "Component Sales Engineer - Asset Recovery",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Component-Sales-Engineer---Asset-Recovery_R028549",
     "locationsText": "2 Locations",
@@ -1397,6 +1366,17 @@
       "R028549"
     ],
     "id": "R028549",
+    "source": "Ciena"
+  },
+  {
+    "title": "Logistics Analytics & Optimization Lead",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Belfast/Logistics-Analytics---Optimization-Lead_R028784",
+    "locationsText": "Belfast",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R028784"
+    ],
+    "id": "R028784",
     "source": "Ciena"
   },
   {

@@ -280,26 +280,6 @@
     "url": "https://solace.bamboohr.com/career/careers/675"
   },
   {
-    "id": "678",
-    "jobOpeningName": "Cloud\u202fSite Reliability\u202fEngineer",
-    "departmentId": "18562",
-    "departmentLabel": "Support",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": "Canada",
-      "state": "Ontario",
-      "province": null,
-      "city": "Ottawa"
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/678"
-  },
-  {
     "id": "680",
     "jobOpeningName": "Principal Software Developer - AI Integration",
     "departmentId": "18550",
@@ -960,6 +940,17 @@
     "source": "SST"
   },
   {
+    "title": "Consultant, Automation & Analytics",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Automation---Analytics_2520358-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2520358"
+    ],
+    "id": "2520358",
+    "source": "CIBC"
+  },
+  {
     "title": "Java Application Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Delivery_2512222",
     "locationsText": "Toronto, ON",
@@ -1169,17 +1160,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Intake Analyst, Business Effectiveness",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Intake-Analyst--Business-Effectiveness_2518567",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2518567"
-    ],
-    "id": "2518567",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1199,6 +1179,17 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "Concepteur en g\u00e9nie \u00e9lectrique analogique hautes-fr\u00e9quences / Analog/RF Designer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Concepteur-en-gnie-lectrique-analogique-hautes-frquences---Analog-RF-Designer_R028720",
+    "locationsText": "Quebec",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028720"
+    ],
+    "id": "R028720",
     "source": "Ciena"
   },
   {
@@ -1386,17 +1377,6 @@
       "R028721"
     ],
     "id": "R028721",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Engineering_Intern",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern_R028780",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028780"
-    ],
-    "id": "R028780",
     "source": "Ciena"
   },
   {

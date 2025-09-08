@@ -621,7 +621,7 @@
   },
   {
     "id": "705",
-    "jobOpeningName": "Solution Support Engineer",
+    "jobOpeningName": "Technical Support Engineer",
     "departmentId": "18562",
     "departmentLabel": "Support",
     "employmentStatusLabel": "Full-Time",
@@ -887,6 +887,28 @@
     "source": "SST"
   },
   {
+    "title": "Lead AI Engineer, WalletShare",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Lead-Software-Engineer--WalletShare_R32356",
+    "locationsText": "6 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R32356"
+    ],
+    "id": "R32356",
+    "source": "SST"
+  },
+  {
+    "title": "Systems Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Skillman-NJ/Systems-Engineer_R37080-1",
+    "locationsText": "Skillman, NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37080"
+    ],
+    "id": "R37080",
+    "source": "SST"
+  },
+  {
     "title": "Investor Services Representative - Entry Level",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Investor-Services-Representative_R37129",
     "locationsText": "Kansas City, MO",
@@ -898,26 +920,26 @@
     "source": "SST"
   },
   {
-    "title": "Associate Fund Accountant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate-Fund-Accountant_R28041",
-    "locationsText": "Denver, CO",
+    "title": "Sr. Consultant, Cloud Engineering - Azure",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Cloud-Engineering---Azure_2515335",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R28041"
+      "2515335"
     ],
-    "id": "R28041",
-    "source": "SST"
+    "id": "2515335",
+    "source": "CIBC"
   },
   {
-    "title": "Client Advocate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Advocate_R26009",
-    "locationsText": "Jacksonville, FL",
+    "title": "Application Senior Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Senior-Developer_2519108-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R26009"
+      "2519108"
     ],
-    "id": "R26009",
-    "source": "SST"
+    "id": "2519108",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Business Systems Analysis",
@@ -1118,28 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Governance and Audit",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Governance---Audit_2427441",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "2427441"
-    ],
-    "id": "2427441",
-    "source": "CIBC"
-  },
-  {
-    "title": "Intake Analyst, Business Effectiveness",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Intake-Analyst--Business-Effectiveness_2518567",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "2518567"
-    ],
-    "id": "2518567",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1159,6 +1159,28 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "Mixed Signal Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Mixed-Signal-Design-Engineer_R028823",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028823"
+    ],
+    "id": "R028823",
+    "source": "Ciena"
+  },
+  {
+    "title": "Kinaxis - Supply Chain Planning Architect",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Supply-Chain-Planning-Architect_R028290",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028290"
+    ],
+    "id": "R028290",
     "source": "Ciena"
   },
   {
@@ -1335,28 +1357,6 @@
       "R028768"
     ],
     "id": "R028768",
-    "source": "Ciena"
-  },
-  {
-    "title": "QA Module Lead - Routing & Switching and Test Automation",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/QA-Module-Lead---Routing---Switching-and-Test-Automation_R028570",
-    "locationsText": "UK- Edinburgh - 19A Canning St",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R028570"
-    ],
-    "id": "R028570",
-    "source": "Ciena"
-  },
-  {
-    "title": "Network Security Device Vulnerability Tester",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Network-Security-Device-Vulnerability-Tester_R028806",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R028806"
-    ],
-    "id": "R028806",
     "source": "Ciena"
   },
   {

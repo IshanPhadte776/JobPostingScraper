@@ -876,14 +876,14 @@
     "source": "SST"
   },
   {
-    "title": "Mail/Distribution Services Representative (Weekend/Night Shift)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Mail-Distribution-Services-Representative--Weekend-Night-Shift-_R30577",
-    "locationsText": "Kansas City, MO",
+    "title": "Client Advocate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Advocate_R26009",
+    "locationsText": "Jacksonville, FL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R30577"
+      "R26009"
     ],
-    "id": "R30577",
+    "id": "R26009",
     "source": "SST"
   },
   {
@@ -898,26 +898,37 @@
     "source": "SST"
   },
   {
-    "title": "Associate Director, Hedge Fund Tax",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Associate-Director--Hedge-Fund-Tax_R36969",
-    "locationsText": "Boston, MA",
+    "title": "Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Account-Executive_R36757-1",
+    "locationsText": "London, UK",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36969"
+      "R36757"
     ],
-    "id": "R36969",
+    "id": "R36757",
     "source": "SST"
   },
   {
-    "title": "Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Manager_R31761",
-    "locationsText": "Mumbai, India",
+    "title": "Implementation Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Implementation-Engineer_R37084",
+    "locationsText": "Bucharest, Romania",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R31761"
+      "R37084"
     ],
-    "id": "R31761",
+    "id": "R37084",
     "source": "SST"
+  },
+  {
+    "title": "Consultant, Infrastructure Risk Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Infrastructure-Risk-Management_2516287-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2516287"
+    ],
+    "id": "2516287",
+    "source": "CIBC"
   },
   {
     "title": "Sr Consultant, Business System Analysis",
@@ -1129,17 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Data Security Engineer (12 Months Secondment/Contract)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Security-Engineer--12-Months-Secondment-Contract-_2517370",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2517370"
-    ],
-    "id": "2517370",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1294,17 +1294,6 @@
     "source": "Ciena"
   },
   {
-    "title": "WaveLogic Software Developer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R028787",
-    "locationsText": "Atlanta",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R028787"
-    ],
-    "id": "R028787",
-    "source": "Ciena"
-  },
-  {
     "title": "WaveServer Software Developer - Fall 2025 - 4 months",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/WaveServer-Software-Developer---Fall-2025---4-months_R028620",
     "locationsText": "Atlanta",
@@ -1357,6 +1346,17 @@
       "R028806"
     ],
     "id": "R028806",
+    "source": "Ciena"
+  },
+  {
+    "title": "Field Services Project Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Field-Services-Project-Manager_R028639",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted 5 Days Ago",
+    "bulletFields": [
+      "R028639"
+    ],
+    "id": "R028639",
     "source": "Ciena"
   },
   {

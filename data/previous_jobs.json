@@ -100,6 +100,26 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/277"
   },
   {
+    "id": "278",
+    "jobOpeningName": "IoT Systems Engineer \u2013 Edge & Cloud ",
+    "departmentId": "18809",
+    "departmentLabel": "Hardware Development",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "0",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/278"
+  },
+  {
     "id": "630",
     "jobOpeningName": "Solutions Engineer",
     "departmentId": "18676",
@@ -258,26 +278,6 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/674"
-  },
-  {
-    "id": "675",
-    "jobOpeningName": "Director of Sales - Capital Markets",
-    "departmentId": "18617",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "New York ",
-      "state": "New York"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/675"
   },
   {
     "id": "680",
@@ -723,7 +723,7 @@
     "title": "PA2025MFABKKPH2-12 Dealing, Fund Services Operations Team Lead",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/PA2025MFABKKPH2-12-Dealing--Fund-Services-Operations-Team-Lead_R36842",
     "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R36842"
     ],
@@ -734,7 +734,7 @@
     "title": "Dealing Administrator",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Dealing-Administrator_R34300",
     "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted 8 Days Ago",
+    "postedOn": "Posted 9 Days Ago",
     "bulletFields": [
       "R34300"
     ],
@@ -745,7 +745,7 @@
     "title": "Java Technical Lead",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Java-Technical-Lead_R36869",
     "locationsText": "London, UK",
-    "postedOn": "Posted 12 Days Ago",
+    "postedOn": "Posted 13 Days Ago",
     "bulletFields": [
       "R36869"
     ],
@@ -756,7 +756,7 @@
     "title": "Director Private Equity Fund Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Director-Private-Equity-Fund-Accounting_R34986",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R34986"
     ],
@@ -767,7 +767,7 @@
     "title": "Lead Software Engineer / Dot Net Full Stack Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India---Block-B/Lead-Software-Engineer---Dot-Net-Developer_R29663",
     "locationsText": "3 Locations",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R29663"
     ],
@@ -778,7 +778,7 @@
     "title": "Manager \u2013 Private Markets Implementations and Consulting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Gurgaon-India/Manager---Private-Markets-Implementations-and-Consulting_R36806",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 20 Days Ago",
+    "postedOn": "Posted 21 Days Ago",
     "bulletFields": [
       "R36806"
     ],
@@ -789,7 +789,7 @@
     "title": "Dealing Administrator",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Unit-Registrar-Administrator_R34018",
     "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted 22 Days Ago",
+    "postedOn": "Posted 23 Days Ago",
     "bulletFields": [
       "R34018"
     ],
@@ -800,7 +800,7 @@
     "title": "PostgreSQL C#.NET Senior Developer - Hyderabad (Immediate Joiners Only)!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Microservices--C-NET-Developer---Hyderabad--Immediate-Joiners-Only--_R35566",
     "locationsText": "Hyderabad, India",
-    "postedOn": "Posted 23 Days Ago",
+    "postedOn": "Posted 24 Days Ago",
     "bulletFields": [
       "R35566"
     ],
@@ -811,7 +811,7 @@
     "title": "Senior Angular/ UX/UI Developer - Hyderabad (Immediate Joiners Only)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Angular--UX-UI-Developer---Hyderabad--Immediate-Joiners-Only-_R35565",
     "locationsText": "Hyderabad, India",
-    "postedOn": "Posted 23 Days Ago",
+    "postedOn": "Posted 24 Days Ago",
     "bulletFields": [
       "R35565"
     ],
@@ -822,7 +822,7 @@
     "title": "Sales Executive Hedge Funds",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Sales-Executive-Hedge-Funds_R29258",
     "locationsText": "4 Locations",
-    "postedOn": "Posted 24 Days Ago",
+    "postedOn": "Posted 25 Days Ago",
     "bulletFields": [
       "R29258"
     ],
@@ -833,7 +833,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Investor-Services---Manager--Associate-Manager_R35078",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 30 Days Ago",
+    "postedOn": "Posted 30+ Days Ago",
     "bulletFields": [
       "R35078"
     ],
@@ -896,54 +896,65 @@
     "source": "SST"
   },
   {
-    "title": "Call Center Representative II (Mutual Funds, Inbound)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Call-Center-Representative-II--Mutual-Funds--Inbound-_R35255",
-    "locationsText": "31 Locations",
+    "title": "Sales Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Sales-Engineer_R36142",
+    "locationsText": "London, UK",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35255"
+      "R36142"
     ],
-    "id": "R35255",
+    "id": "R36142",
     "source": "SST"
   },
   {
-    "title": "Associate Director, Intermediary Relationship Management",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Job-Description-Associate-Director--Intermediary-Relationship-Management_R37166-1",
+    "title": "Senior Technical Consultant (Riyadh, KSA)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Saudi-Arabia/Senior-Technical-Consultant--Riyadh--KSA-_R26534",
+    "locationsText": "Remote - Saudi Arabia",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R26534"
+    ],
+    "id": "R26534",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Senior-Associate_R34614",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R34614"
+    ],
+    "id": "R34614",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate II",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Associate-II_R34048",
     "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37166"
+      "R34048"
     ],
-    "id": "R37166",
+    "id": "R34048",
     "source": "SST"
   },
   {
-    "title": "Associate Client Relations Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Client-Relations-Specialist_R23222",
-    "locationsText": "Kansas City, MO",
+    "title": "Sr. Production Support Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Ontario-VIRTUAL/Sr-Production-Support-Engineer_2512032",
+    "locationsText": "Ontario VIRTUAL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R23222"
+      "2512032"
     ],
-    "id": "R23222",
-    "source": "SST"
-  },
-  {
-    "title": "Sr. Client Relations Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Client-Relations-Specialist_R25381",
-    "locationsText": "4 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R25381"
-    ],
-    "id": "R25381",
-    "source": "SST"
+    "id": "2512032",
+    "source": "CIBC"
   },
   {
     "title": "Jr. Application Developer (New Grads)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Application-Developer_2516558",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2516558"
     ],
@@ -954,7 +965,7 @@
     "title": "Manager, Cyber Incident Response",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Manager--Cyber-Incident-Response_2519500",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2519500"
     ],
@@ -965,7 +976,7 @@
     "title": "Sr. Database Administrator - Oracle",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2519919",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2519919"
     ],
@@ -976,7 +987,7 @@
     "title": "Consultant, Infrastructure Risk Management",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Infrastructure-Risk-Management_2516287-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2516287"
     ],
@@ -987,7 +998,7 @@
     "title": "Sr Consultant, Business System Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-System-Analysis_2516016",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2516016"
     ],
@@ -995,21 +1006,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Application Developer (Accessibility and Forms)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Application-Developer--Accessibility-and-Forms-_2511671",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2511671"
-    ],
-    "id": "2511671",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr. Consultant, Cloud Engineering - Azure",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Cloud-Engineering---Azure_2515335",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2515335"
     ],
@@ -1020,7 +1020,7 @@
     "title": "Application Senior Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Senior-Developer_2519108-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2519108"
     ],
@@ -1031,7 +1031,7 @@
     "title": "Consultant, Business Systems Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2513342",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2513342"
     ],
@@ -1042,7 +1042,7 @@
     "title": "Senior Application Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Application-Developer_2520457",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2520457"
     ],
@@ -1053,7 +1053,7 @@
     "title": "Consultant, Automation & Analytics",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Automation---Analytics_2520358-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2520358"
     ],
@@ -1064,7 +1064,7 @@
     "title": "Java Application Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Delivery_2512222",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2512222"
     ],
@@ -1075,7 +1075,7 @@
     "title": "Lead Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Lead-Developer_2512134",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2512134"
     ],
@@ -1083,21 +1083,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Application Operations",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Operations_2516486",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "2516486"
-    ],
-    "id": "2516486",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr. Manager, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2516371",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2516371"
     ],
@@ -1108,7 +1097,7 @@
     "title": "Senior Quality Engineer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Quality-Engineer_2520019",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2520019"
     ],
@@ -1119,7 +1108,7 @@
     "title": "Quality Engineer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-81-Bay-23rd-Floor/Quality-Engineer_2520017",
     "locationsText": "Toronto-81 Bay, 23rd Floor",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2520017"
     ],
@@ -1130,7 +1119,7 @@
     "title": "Senior Quality Engineer, Core Banking and Payments Technology.",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Quality-Engineer--Core-Banking-and-Payments-Technology_2519717",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2519717"
     ],
@@ -1141,7 +1130,7 @@
     "title": "Consultant, Application Development (Java)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--Java-_2519636",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2519636"
     ],
@@ -1149,21 +1138,32 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Production Support Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Ontario-VIRTUAL/Sr-Production-Support-Engineer_2512032",
-    "locationsText": "Ontario VIRTUAL",
-    "postedOn": "Posted 6 Days Ago",
+    "title": "Consultant, Trader Voice",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Telecommunications_2516422",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
-      "2512032"
+      "2516422"
     ],
-    "id": "2512032",
+    "id": "2516422",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Manager Data Platform Engineering",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager-Data-Platform-Engineering_2519899",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 8 Days Ago",
+    "bulletFields": [
+      "2519899"
+    ],
+    "id": "2519899",
     "source": "CIBC"
   },
   {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
-    "postedOn": "Posted 13 Days Ago",
+    "postedOn": "Posted 14 Days Ago",
     "bulletFields": [
       "R027976"
     ],
@@ -1185,7 +1185,7 @@
     "title": "Analog Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Analog-Engineer_R028821",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R028821"
     ],
@@ -1193,21 +1193,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Specialist, Software Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK---London---The-Bard/Technology-Application-Sales-Developer_R027285",
-    "locationsText": "6 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R027285"
-    ],
-    "id": "R027285",
-    "source": "Ciena"
-  },
-  {
     "title": "Demand Planning Data Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mexico-Guadalajara-Flextronics/Demand-Planning-Data-Analyst_R028800",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R028800"
     ],
@@ -1218,7 +1207,7 @@
     "title": "Automation Tools Developer Co-op (Winter 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Automation-Tools-Developer-Co-op--Winter-2026-_R028801",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R028801"
     ],
@@ -1229,7 +1218,7 @@
     "title": "Manager, Service Reliability Engineering",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Manager--Service-Reliability-Engineering_R028474",
     "locationsText": "Remote-US",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028474"
     ],
@@ -1240,7 +1229,7 @@
     "title": "Mixed Signal Design Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Mixed-Signal-Design-Engineer_R028823",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028823"
     ],
@@ -1251,7 +1240,7 @@
     "title": "Kinaxis - Supply Chain Planning Architect",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Supply-Chain-Planning-Architect_R028290",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028290"
     ],
@@ -1262,7 +1251,7 @@
     "title": "Resident Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Resident-Engineer_R028796",
     "locationsText": "Remote-US",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028796"
     ],
@@ -1271,20 +1260,9 @@
   },
   {
     "title": "Senior SOC Analyst",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Philippines/Senior-SOC-Analyst_R028816",
-    "locationsText": "Remote-Philippines",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R028816"
-    ],
-    "id": "R028816",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior SOC Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Philippines/Senior-SOC-Analyst_R028817",
     "locationsText": "Remote-Philippines",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028817"
     ],
@@ -1295,7 +1273,7 @@
     "title": "Senior SOC Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Philippines/Senior-SOC-Analyst_R028818",
     "locationsText": "Remote-Philippines",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028818"
     ],
@@ -1306,7 +1284,7 @@
     "title": "Senior SOC Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Philippines/Senior-SOC-Analyst_R028819",
     "locationsText": "Remote-Philippines",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028819"
     ],
@@ -1317,7 +1295,7 @@
     "title": "Senior SOC Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Philippines/Senior-SOC-Analyst_R028820",
     "locationsText": "Remote-Philippines",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028820"
     ],
@@ -1328,7 +1306,7 @@
     "title": "Leader, Service Partner Management \u2013 EMEA, APAC & Subsea",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK-Zone-2/Leader--Service-Partner-Management---EMEA--APAC---Subsea_R028428-1",
     "locationsText": "5 Locations",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028428"
     ],
@@ -1336,21 +1314,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Director, Leadership & Management Development",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Leadership---Management-Development_R028211",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R028211"
-    ],
-    "id": "R028211",
-    "source": "Ciena"
-  },
-  {
     "title": "Application Support Engineer, Service Reliability Engineering",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Application-Support-Engineer--Service-Reliability-Engineering_R028475",
     "locationsText": "Remote- India- Gurugram",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028475"
     ],
@@ -1361,7 +1328,7 @@
     "title": "WaveServer Software Developer - Fall 2025 - 4 months",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/WaveServer-Software-Developer---Fall-2025---4-months_R028620",
     "locationsText": "Atlanta",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028620"
     ],
@@ -1372,7 +1339,7 @@
     "title": "Concepteur en g\u00e9nie \u00e9lectrique analogique hautes-fr\u00e9quences / Analog/RF Designer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Concepteur-en-gnie-lectrique-analogique-hautes-frquences---Analog-RF-Designer_R028720",
     "locationsText": "Quebec",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R028720"
     ],
@@ -1380,10 +1347,43 @@
     "source": "Ciena"
   },
   {
+    "title": "Hardware Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Engineer---New-Grad_R028768",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 5 Days Ago",
+    "bulletFields": [
+      "R028768"
+    ],
+    "id": "R028768",
+    "source": "Ciena"
+  },
+  {
+    "title": "QA Module Lead - Routing & Switching and Test Automation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/QA-Module-Lead---Routing---Switching-and-Test-Automation_R028570",
+    "locationsText": "UK- Edinburgh - 19A Canning St",
+    "postedOn": "Posted 5 Days Ago",
+    "bulletFields": [
+      "R028570"
+    ],
+    "id": "R028570",
+    "source": "Ciena"
+  },
+  {
+    "title": "Field Services Project Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Field-Services-Project-Manager_R028639",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted 6 Days Ago",
+    "bulletFields": [
+      "R028639"
+    ],
+    "id": "R028639",
+    "source": "Ciena"
+  },
+  {
     "title": "Software Developer II - Embedded, C/Python",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Sunrise-FL/Software-Developer-II---C-Python-Go_R003695",
     "locationsText": "United States - Sunrise, FL",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "remoteType": "Hybrid Eligible",
     "bulletFields": [
       "R003695"
@@ -1395,7 +1395,7 @@
     "title": "Senior .NET Software Developer - Hybrid, Minnesota",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Cloud-Technical-Program-Manager---Development-Deployment_R003274",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 11 Days Ago",
+    "postedOn": "Posted 12 Days Ago",
     "remoteType": "Hybrid Eligible",
     "bulletFields": [
       "R003274"
@@ -1407,7 +1407,7 @@
     "title": "Senior Firmware Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Sr-Firmware-Engineer_R003584",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 11 Days Ago",
+    "postedOn": "Posted 12 Days Ago",
     "bulletFields": [
       "R003584"
     ],
@@ -1418,7 +1418,7 @@
     "title": "Full-stack Java Software Developer II",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II---Hybrid--Minneapolis_R003293",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 12 Days Ago",
+    "postedOn": "Posted 13 Days Ago",
     "remoteType": "Hybrid Eligible",
     "bulletFields": [
       "R003293"
@@ -1430,7 +1430,7 @@
     "title": "Senior Software QA Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-QA-Engineer-II_R003547",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 13 Days Ago",
+    "postedOn": "Posted 14 Days Ago",
     "remoteType": "Hybrid Eligible",
     "bulletFields": [
       "R003547"
@@ -1442,7 +1442,7 @@
     "title": "Electrical Engineer II",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/PC-Board-Designer_R003307",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 13 Days Ago",
+    "postedOn": "Posted 14 Days Ago",
     "remoteType": "Hybrid Eligible",
     "bulletFields": [
       "R003307"
@@ -1454,7 +1454,7 @@
     "title": "Sr Cloud DevOps Engineer - Hybrid, Minnesota",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Sr-DevOps-Engineer_R003006",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "remoteType": "Hybrid Eligible",
     "bulletFields": [
       "R003006"
@@ -1473,6 +1473,38 @@
     ],
     "id": "R003545",
     "source": "Entrust"
+  },
+  {
+    "id": "job_20250909193306_JHHZNEGGP4ZCTAF2",
+    "title": "Process Engineer - Electronics",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L5Z9",
+    "department": "Manufacturing",
+    "description": "<strong>Responsibilities:</strong><ul><li>This position will report to the Vice President of Manufacturing</li><li>Work with functional teams to investigate process issues and initiate corrective actions</li><li>Work with Design and other Process Engineers on issue resolution and process actions within the electronics manufacturing industry&#160;</li><li>Work with Digital Multi-meters and soldering irons&#160;</li><li>Read and understand Circuit Schematics as well as Circuit board layout, mechanical, and stack up drawings&#160;</li><li>Data collection, analysis, corrective action &#8211; define, identify, analyze, correct and prevent potential failures</li><li>Develop appropriate reporting metrics and communicate to all stakeholders</li><li>Failure mode effects and analysis</li><li>Trend identification and monitoring</li><li>Understanding of all electronics manufacturing processes</li><li>Knowledge of assembly and component level manufacturing/failure modes</li></ul><strong>Qualifications:</strong><ul><li>Ideally Electronics / Manufacturing / Industrial Eng Diploma or Degree</li><li>3-5 years of related experience</li><li>Experience in manufacturing engineering within the electronics industry</li><li>Strong problem solving and troubleshooting skills</li><li>Excellent verbal and written communication skills, problem solving ability, and time management skills</li><li>Enjoy working in a fast-paced environment</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "vGLhovKZ9h",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20250909185135_4BJ3BSRYPA0CMYDO",
+    "title": "Solutions Engineering Technician",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "R&D, Canada",
+    "description": "<p>Do you have a passion for broadcasting and internet networking and want to learn how it applies to world of Video? If so, this is the position for you.</p><p>In this exciting Pre-Sales role, you will work between Evertz clients, Account Managers, R&amp;D Engineers, Solutions Architects, and Executive Management to demonstrate the features and capabilities of&#160; Evertz&#8217; end-to-end Software Defined Video Networking (SDVN) solutions for broadcast and media facilities.</p><p>As a member of the R&amp;D team, you will be challenged with configuring, commissioning, and systematically trouble shooting Ethernet/IP networks for the cutting edge of high technology broadcast networks and video processing equipment.</p><p><strong>Responsibilities:</strong></p><ul><li>Work collaboratively with Solutions Architects and the Account Management Team to define the scope of the demonstration (demo) or proof of concept (POC) that will be done during the pre-sales phase of an opportunity</li><li>Understand competitive offerings and position Evertz solutions to take maximum advantage of key differentiators and be able to present that confidently to our customers</li><li>Have the opportunity to lead interoperability testing with 3rd party equipment</li><li>Attend and prepare equipment for Tradeshows Worldwide to showcase Evertz IP solutions</li><li>Travel as required to client sites to present demo/POC system to client</li><li>Report bugs or gaps to R&amp;D as identified during system configurations</li><li>Preparation of detailed operations manual including system configurations, workflows, power consumption, rack elevations etc.</li><li>Work with R&amp;D by testing Evertz products in order to gain standards certifications</li><li>Staying informed of latest industry trends and competitors' solutions</li><li>Utilize programming/scripting (C++, Java, Python, Perl, JavaScript, shell)</li><li>Utilize tools such as Wireshark, Python, sFlow, tcpdump etc</li><li>Engage in design, documentation, deployment planning on the build out of both small and large scale IP Networks supporting broadcast infrastructures</li><li>This opportunity offers a unique blend of hands-on experience along with pre-sales, presentation and product development elements</li></ul><p><strong>Qualifications:</strong></p><ul><li>Positive outlook and high energy</li><li>Experience in Television Broadcasting or Production an asset</li><li>Education in computer networking or related recent practical experience</li><li>A strong comfort level with Linux is highly desired.</li><li>Some Network trouble shooting experience</li><li>Some experience with SAN technologies</li><li>Knowledge of Internet protocol engineering (IPE); Ethernet/IP Stack; IPv4, IPv6, Packet Analysis</li><li>Excellent oral and written communication skills</li><li>Knowledge of current digital video compression standards and file types</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location: Burlington</strong></p><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "CJnHyO9CZG",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20250908115000_JHTSHEOPFVHHQF20",
@@ -1805,22 +1837,6 @@
     "description": "<p><strong>Responsibilities:</strong></p><ul><li>Troubleshoot and repair a variety of complex electronic circuits to the component level</li><li>Provide failure analysis and/or root cause analysis of defects and/or field returns</li><li>Set up and operate specialized and standard test equipment to diagnose, test and analyze the performance of electrical and electronic components, assemblies and systems</li><li>Build &amp; test the latest film &amp; television equipment that incorporates the most advanced components available to the industry</li><li>Function as a member of the production team</li><li>Any other duties as required.</li></ul><p><strong>Qualifications:</strong></p><ul><li>2 year Electrical Technician or 3 year Electrical Technology Co-op program.</li><li>Experience in electronics testing and troubleshooting is required.</li><li>Problem-solving ability and able to react to changing situations</li><li>Excellent verbal and written communication skills, problem solving ability, time management skills and interpersonal skills.</li><li>Positive attitude and able to work in a fast paced environment</li><li>Be results oriented</li><li>Be self-motivated</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "jvaEyhf2YV",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20250828194224_RIWGWPAUWWEZVNRH",
-    "title": "Process Engineer - Electronics",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "Manufacturing",
-    "description": "<strong>Responsibilities:</strong><ul><li>This position will report to the Vice President of Manufacturing</li><li>Work with functional teams to investigate process issues and initiate corrective actions</li><li>Work with Design and other Process Engineers on issue resolution and process actions within the electronics manufacturing industry&#160;</li><li>Work with Digital Multi-meters and soldering irons&#160;</li><li>Read and understand Circuit Schematics as well as Circuit board layout, mechanical, and stack up drawings&#160;</li><li>Data collection, analysis, corrective action &#8211; define, identify, analyze, correct and prevent potential failures</li><li>Develop appropriate reporting metrics and communicate to all stakeholders</li><li>Failure mode effects and analysis</li><li>Trend identification and monitoring</li><li>Understanding of all electronics manufacturing processes</li><li>Knowledge of assembly and component level manufacturing/failure modes</li></ul><strong>Qualifications:</strong><ul><li>Ideally Electronics / Manufacturing / Industrial Eng Diploma or Degree</li><li>3-5 years of related experience</li><li>Experience in manufacturing engineering within the electronics industry</li><li>Strong problem solving and troubleshooting skills</li><li>Excellent verbal and written communication skills, problem solving ability, and time management skills</li><li>Enjoy working in a fast-paced environment</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "Hp3ocUnqm9",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -2586,7 +2602,7 @@
     "state": "",
     "zip": "",
     "department": "",
-    "description": "<p>We&#8217;re looking for highly motivated, passionate site reliability engineers to join our growing team. At evertz.io, our teams are building services that are used by the biggest names in the exciting broadcast and media industry. Our services are hosted in AWS, with a Serverless First mindset.</p><p>As part of this role you will work with our talented teams to help harden our multi-tenant SaaS platform. Using best in class observability tooling, you will be working to debug incidents, while also identifying and implementing improvements to the platform to ensure its continued reliability. Your drive to eliminate toil will see you automating processes and building the tools to do so.</p><p>We offer flexible working hours, great benefits, and the freedom to experiment with new technologies and tools to build better products.</p><h3><strong>Skills and Experience you will bring:</strong></h3><ul><li>At least 3 years of hands-on experience managing critical, high-availability production infrastructure, demonstrating success in maintaining reliability and maximizing application uptime.&#160;</li><li>Proficient in at least one programming language (such as Python, Java, or Rust), with experience designing and building production-quality automation, tools, or software libraries.&#160;</li><li>At least 3 years working with monitoring, log aggregation, and observability platforms such as Datadog, CloudWatch, Honeycomb, Splunk, or New Relic, using data-driven insights to proactively identify and resolve issues.&#160;</li><li>Excellent analytical skills with the ability to understand end-to-end use cases, map system flows, debug complex issues, and anticipate potential failure points.&#160;</li><li>Proven track record translating SLO&#8217;s and SLI&#8217;s into actionable improvements. Reliability, monitoring, and observability are not just words to you.&#160;</li><li>At least 3 years of experience with cloud technologies, in particular AWS Services and tools such as Cloud Formation, Lambda, DynamoDB, SQS, SNS, EC2, S3, AWS CLI, Boto3.&#160;</li><li>Solid foundation in Linux systems administration, networking, and security.&#160;</li><li>Familiarity with the use and configuration of CI &amp; CD pipelines such as Jenkins &amp; AWS CodePipeline. &#160;</li></ul><h3><strong>Additional skills and experience that will make you standout:</strong></h3><ul><li>Experience architecting and deploying serverless applications in cloud environments.&#160;</li><li>Experience with infrastructure-as-code tools like Terraform or CloudFormation, enabling reproducible and scalable environments.&#160;</li><li>Previous participation in production on-call rotations, with direct involvement in incident management and post-incident reviews.&#160;</li><li>Demonstrated expertise in performance optimization for core AWS services, including Lambda, DynamoDB, API Gateway, SQS, EventBridge, and EC2.&#160;</li><li>Experience supporting and improving systems with frequent, high-velocity deployment cycles.&#160;</li><li>Familiarity with security compliance frameworks (e.g., OWASP, ISO, CSA, PCI), and hands-on experience conducting threat assessments and implementing remediation plans.&#160;</li><li>Background in security practices, including penetration testing, threat modeling, and usage of both open-source and commercial security tools.&#160;</li><li>Experience developing and implementing advanced deployment strategies for web application infrastructures&#8212;such as canary, A/B testing, blue/green deployments, or red/line patterns.&#160;</li><li>Hands-on experience with chaos engineering&#8212;intentionally testing systems under extreme conditions to improve reliability and fault tolerance.&#160;</li><li>Track record of championing system reliability, continuous improvement, and operational excellence throughout an organization.</li></ul><h3><strong>Recruitment process:</strong></h3><ul><li>Screening with recruiter&#8239;(45 min)</li><li>Technical interview with Hiring Manager (60 min)&#160;</li></ul>",
+    "description": "<p>We&#8217;re looking for highly motivated, passionate site reliability engineers to join our growing team. At evertz.io, our teams are building services that are used by the biggest names in the exciting broadcast and media industry. Our services are hosted in AWS, with a Serverless First mindset.</p><p>As part of this role you will work with our talented teams to help harden our multi-tenant SaaS platform. Using best in class observability tooling, you will be working to debug incidents, while also identifying and implementing improvements to the platform to ensure its continued reliability. Your drive to eliminate toil will see you automating processes and building the tools to do so.</p><p>We offer flexible working hours, great benefits, and the freedom to experiment with new technologies and tools to build better products.</p><h3><strong>Skills and Experience you will bring:</strong></h3><ul><li>At least 3 years of hands-on experience managing critical, high-availability production infrastructure, demonstrating success in maintaining reliability and maximizing application uptime.&#160;</li><li>Proficient in at least one programming language (such as Python, Java, or Rust), with experience designing and building production-quality automation, tools, or software libraries.&#160;</li><li>At least 3 years working with monitoring, log aggregation, and observability platforms such as Datadog, CloudWatch, Honeycomb, Splunk, or New Relic, using data-driven insights to proactively identify and resolve issues.&#160;</li><li>Excellent analytical skills with the ability to understand end-to-end use cases, map system flows, debug complex issues, and anticipate potential failure points.&#160;</li><li>Proven track record translating SLO&#8217;s and SLI&#8217;s into actionable improvements. Reliability, monitoring, and observability are not just words to you.&#160;</li><li>At least 3 years of experience with cloud technologies, in particular AWS Services and tools such as Cloud Formation, Lambda, DynamoDB, SQS, SNS, EC2, S3, AWS CLI, Boto3.&#160;</li><li>Solid foundation in Linux systems administration, networking, and security.&#160;</li><li>Familiarity with the use and configuration of CI &amp; CD pipelines such as Jenkins &amp; AWS CodePipeline. &#160;</li></ul><h3><strong>Additional skills and experience that will make you standout:</strong></h3><ul><li>Experience architecting and deploying serverless applications in cloud environments.&#160;</li><li>Experience with infrastructure-as-code tools like Terraform or CloudFormation, enabling reproducible and scalable environments.&#160;</li><li>Previous participation in production on-call rotations, with direct involvement in incident management and post-incident reviews.&#160;</li><li>Demonstrated expertise in performance optimization for core AWS services, including Lambda, DynamoDB, API Gateway, SQS, EventBridge, and EC2.&#160;</li><li>Experience supporting and improving systems with frequent, high-velocity deployment cycles.&#160;</li><li>Familiarity with security compliance frameworks (e.g., OWASP, ISO, CSA, PCI), and hands-on experience conducting threat assessments and implementing remediation plans.&#160;</li><li>Background in security practices, including penetration testing, threat modeling, and usage of both open-source and commercial security tools.&#160;</li><li>Experience developing and implementing advanced deployment strategies for web application infrastructures&#8212;such as canary, A/B testing, blue/green deployments, or red/line patterns.&#160;</li><li>Hands-on experience with chaos engineering&#8212;intentionally testing systems under extreme conditions to improve reliability and fault tolerance.&#160;</li><li>Track record of championing system reliability, continuous improvement, and operational excellence throughout an organization.</li></ul><h3><strong>Recruitment process:</strong></h3><ul><li class=\"d-flex align-items-center mb-0 mb-3\">Screening with recruiter&#8239;(45 min)</li><li class=\"d-flex align-items-center mb-0 mb-3\">Technical interview with Team Members (90 min)</li><li class=\"d-flex align-items-center mb-0\">Interview with Hiring Manager (60 min)</li></ul>",
     "type": "Full Time",
     "board_code": "HBEIfAaRY1",
     "minimum_public_salary": null,
@@ -3059,6 +3075,48 @@
     "source": "Evertz"
   },
   {
+    "id": 151779,
+    "type": "careers",
+    "title": "Senior Cloud Solution Engineer",
+    "link": "https://www.surveymonkey.com/careers/6803106-senior-cloud-solution-engineer/",
+    "path": "/careers/6803106-senior-cloud-solution-engineer/",
+    "date": "2025-09-10T00:00:14",
+    "date_modified": "2025-09-10T00:00:14",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Cloud Solution Engineer",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
     "id": 151437,
     "type": "careers",
     "title": "Software Engineer II",
@@ -3405,48 +3463,6 @@
     "excerpt": "",
     "images": {},
     "featured_image_alt": "Senior Software Engineer II &#8211; MRX Audience",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 470,
-        "slug": "bengaluru",
-        "name": "Bengaluru, India",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
-        "path": "/careers/office/bengaluru/"
-      },
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 137525,
-    "type": "careers",
-    "title": "Senior Cloud Solution Engineer",
-    "link": "https://www.surveymonkey.com/careers/6803106-staff-site-reliability-engineer-cloud-solutions-team/",
-    "path": "/careers/6803106-staff-site-reliability-engineer-cloud-solutions-team/",
-    "date": "2025-04-14T10:00:50",
-    "date_modified": "2025-04-14T10:00:50",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Cloud Solution Engineer",
     "career_department": [
       {
         "id": 410,

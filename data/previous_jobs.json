@@ -896,6 +896,39 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Gurgaon-India/Senior-Associate_R36209",
+    "locationsText": "Gurgaon, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36209"
+    ],
+    "id": "R36209",
+    "source": "SST"
+  },
+  {
+    "title": "Client Relations Specialist, Media Team - PA-CRITICAL-Q4-001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Client-Relations-Specialist--Media-Team---PA-CRITICAL-Q4-001_R37002",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37002"
+    ],
+    "id": "R37002",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Director, Private Markets Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Antonio-TX/Associate-Manager--Private-Markets-Accounting_R32731",
+    "locationsText": "San Antonio TX",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R32731"
+    ],
+    "id": "R32731",
+    "source": "SST"
+  },
+  {
     "title": "Associate Manager, Fund Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-OH/Associate-Manager--Hedge-Fund-Accounting_R36497",
     "locationsText": "Dublin, OH",
@@ -904,39 +937,6 @@
       "R36497"
     ],
     "id": "R36497",
-    "source": "SST"
-  },
-  {
-    "title": "Investor Services Representative - Entry Level",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Investor-Services-Representative_R37129",
-    "locationsText": "Kansas City, MO",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37129"
-    ],
-    "id": "R37129",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate, Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-OH/Senior-Associate--Hedge-Fund-Accounting_R35390",
-    "locationsText": "Dublin, OH",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R35390"
-    ],
-    "id": "R35390",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Developer - .Net",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney---255-George-St/Senior-Developer---Net_R37032",
-    "locationsText": "Sydney - 255 George St",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37032"
-    ],
-    "id": "R37032",
     "source": "SST"
   },
   {
@@ -1182,6 +1182,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Optical Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Optical-Engineer---New-Grad_R028808",
+    "locationsText": "Quebec",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028808"
+    ],
+    "id": "R028808",
+    "source": "Ciena"
+  },
+  {
     "title": "Interconnect Portfolio NPI Program Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Interconnect-Portfolio-NPI-Program-Manager_R028833",
     "locationsText": "Ottawa",
@@ -1366,17 +1377,6 @@
       "R028720"
     ],
     "id": "R028720",
-    "source": "Ciena"
-  },
-  {
-    "title": "Hardware Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Engineer---New-Grad_R028768",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R028768"
-    ],
-    "id": "R028768",
     "source": "Ciena"
   },
   {

@@ -896,48 +896,70 @@
     "source": "SST"
   },
   {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate_R37089",
-    "locationsText": "Denver, CO",
+    "title": "Senior Associate, Data Analyst, Regulatory Solutions",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Data-Analyst_R35293",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37089"
+      "R35293"
     ],
-    "id": "R37089",
+    "id": "R35293",
     "source": "SST"
   },
   {
-    "title": "Software Development Engineer in Test (SDET)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Software-Development-Engineer-in-Test--SDET-_R36921",
-    "locationsText": "San Francisco, CA",
+    "title": "CRM Support Specialist \u2013 Dynamics 365",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/CRM-Support-Specialist---Dynamics-365_R34603",
+    "locationsText": "Toronto, Canada",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36921"
+      "R34603"
     ],
-    "id": "R36921",
+    "id": "R34603",
     "source": "SST"
   },
   {
-    "title": "Sales Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Executive-Regulatory-and-Analytics_R36161",
-    "locationsText": "11 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36161"
-    ],
-    "id": "R36161",
-    "source": "SST"
-  },
-  {
-    "title": "Client Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Specialist_R37191",
+    "title": "Data Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Data-Consultant_R37004",
     "locationsText": "Jacksonville, FL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37191"
+      "R37004"
     ],
-    "id": "R37191",
+    "id": "R37004",
     "source": "SST"
+  },
+  {
+    "title": "Senior UX/Product Designer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Senior-Product-Designer_R33562",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R33562"
+    ],
+    "id": "R33562",
+    "source": "SST"
+  },
+  {
+    "title": "Consultant, Azure Application Development (C#/.Net)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Azure-Application-Development--C--Net-_2520416",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2520416"
+    ],
+    "id": "2520416",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2520812",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2520812"
+    ],
+    "id": "2520812",
+    "source": "CIBC"
   },
   {
     "title": "Senior Infrastructure Engineer",
@@ -1138,28 +1160,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Lead Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Lead-Developer_2512134",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2512134"
-    ],
-    "id": "2512134",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Manager, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2516371",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2516371"
-    ],
-    "id": "2516371",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1256,17 +1256,6 @@
       "R028837"
     ],
     "id": "R028837",
-    "source": "Ciena"
-  },
-  {
-    "title": "Optical Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Optical-Engineer---New-Grad_R028808",
-    "locationsText": "Quebec",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R028808"
-    ],
-    "id": "R028808",
     "source": "Ciena"
   },
   {
@@ -1377,6 +1366,17 @@
       "R028818"
     ],
     "id": "R028818",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior SOC Analyst",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Philippines/Senior-SOC-Analyst_R028819",
+    "locationsText": "Remote-Philippines",
+    "postedOn": "Posted 3 Days Ago",
+    "bulletFields": [
+      "R028819"
+    ],
+    "id": "R028819",
     "source": "Ciena"
   },
   {

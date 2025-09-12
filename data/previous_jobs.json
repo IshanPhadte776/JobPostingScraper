@@ -896,6 +896,17 @@
     "source": "SST"
   },
   {
+    "title": "Enterprise Client Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Texas-US/Enterprise-Client-Executive_R37323",
+    "locationsText": "Remote - Texas, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37323"
+    ],
+    "id": "R37323",
+    "source": "SST"
+  },
+  {
     "title": "Specialist - Qualified Plan",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Specialist---Qualified-Plan_R32235",
     "locationsText": "Hyderabad, India",
@@ -929,15 +940,26 @@
     "source": "SST"
   },
   {
-    "title": "PA2025Q3JB098 - Senior QA Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/PA2025Q3JB098---Senior-QA-Engineer_R36401",
-    "locationsText": "Pune, India",
+    "title": "Senior Technology Architect",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Technology-Architecture_2514530",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36401"
+      "2514530"
     ],
-    "id": "R36401",
-    "source": "SST"
+    "id": "2514530",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development_2514187",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2514187"
+    ],
+    "id": "2514187",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Manager, Application Development",
@@ -1036,17 +1058,6 @@
       "2516903"
     ],
     "id": "2516903",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant \u2013 OCIO Audit & Controls",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant---OCIO-Audit---Controls_2508848",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2508848"
-    ],
-    "id": "2508848",
     "source": "CIBC"
   },
   {
@@ -1149,17 +1160,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Application Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Application-Developer_2520457",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "2520457"
-    ],
-    "id": "2520457",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1179,6 +1179,17 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "Delivery Engineer \u2013 Assurance (UAA)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Delivery-Engineer---Assurance--UAA-_R028838",
+    "locationsText": "Remote-Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028838"
+    ],
+    "id": "R028838",
     "source": "Ciena"
   },
   {
@@ -1366,17 +1377,6 @@
       "R028800"
     ],
     "id": "R028800",
-    "source": "Ciena"
-  },
-  {
-    "title": "Automation Tools Developer Co-op (Winter 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Automation-Tools-Developer-Co-op--Winter-2026-_R028801",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R028801"
-    ],
-    "id": "R028801",
     "source": "Ciena"
   },
   {

@@ -40,26 +40,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/196"
   },
   {
-    "id": "275",
-    "jobOpeningName": "AI & Automation Intern (Data Science / Software / Engineering)",
-    "departmentId": "18811",
-    "departmentLabel": "Software Development - SmartMix",
-    "employmentStatusLabel": "Intern",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": "Canada",
-      "state": "Ontario",
-      "province": null,
-      "city": "Ottawa"
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/275"
-  },
-  {
     "id": "276",
     "jobOpeningName": "Business Development Representative",
     "departmentId": "18813",
@@ -876,6 +856,28 @@
     "source": "SST"
   },
   {
+    "title": "Sales Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Sales-Engineer_R36142",
+    "locationsText": "London, UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36142"
+    ],
+    "id": "R36142",
+    "source": "SST"
+  },
+  {
+    "title": "Sales associate - Alts Fundspace BDR",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Sales-associate---Alts-Fundspace-BDR_R37154",
+    "locationsText": "London, UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37154"
+    ],
+    "id": "R37154",
+    "source": "SST"
+  },
+  {
     "title": "Client Account Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney---255-George-St/Client-Account-Manager_R37253",
     "locationsText": "2 Locations",
@@ -895,28 +897,6 @@
       "R37254"
     ],
     "id": "R37254",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Director",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Director_R36816",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36816"
-    ],
-    "id": "R36816",
-    "source": "SST"
-  },
-  {
-    "title": "Sr. Sales Executive, Asset Management Technology - HYBRID",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Asset-Management-Technology-Sales-Executive---PA-CRITICAL-Q3-R1-_R35685",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R35685"
-    ],
-    "id": "R35685",
     "source": "SST"
   },
   {
@@ -1162,6 +1142,17 @@
     "source": "Ciena"
   },
   {
+    "title": "MCP Applications Co-op UI or BE Co-op (Winter 2026 - 8+ months)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/MCP-Applications-Co-op-UI-or-BE-Co-op--Winter-2026---8--months-_R028729",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028729"
+    ],
+    "id": "R028729",
+    "source": "Ciena"
+  },
+  {
     "title": "Customer Success Advocate EMEA Services",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Belfast/Customer-Success-Advocate-EMEA-Services_R028465",
     "locationsText": "2 Locations",
@@ -1195,17 +1186,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Administrative Assistant II",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Administrative-Assistant-II_R028834",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R028834"
-    ],
-    "id": "R028834",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior Golang Developer- Kubernetes & Cloud",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Golang-Developer--Kubernetes---Cloud_R028918",
     "locationsText": "Gurugram",
@@ -1225,17 +1205,6 @@
       "R028642"
     ],
     "id": "R028642",
-    "source": "Ciena"
-  },
-  {
-    "title": "MCP Applications Co-op UI or BE Co-op (Winter 2026 - 8+ months)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/MCP-Applications-Co-op-UI-or-BE-Co-op--Winter-2026---8--months-_R028729",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R028729"
-    ],
-    "id": "R028729",
     "source": "Ciena"
   },
   {
@@ -1357,6 +1326,17 @@
       "R028765"
     ],
     "id": "R028765",
+    "source": "Ciena"
+  },
+  {
+    "title": "CO-OP/Intern: AI Software Developer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/CO-OP-Intern--AI-Software-Developer_R028804",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 4 Days Ago",
+    "bulletFields": [
+      "R028804"
+    ],
+    "id": "R028804",
     "source": "Ciena"
   },
   {

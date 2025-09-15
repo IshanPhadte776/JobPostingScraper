@@ -876,6 +876,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Director",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Director_R36816",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36816"
+    ],
+    "id": "R36816",
+    "source": "SST"
+  },
+  {
     "title": "Sr. Sales Executive, Asset Management Technology - HYBRID",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Asset-Management-Technology-Sales-Executive---PA-CRITICAL-Q3-R1-_R35685",
     "locationsText": "3 Locations",
@@ -909,15 +920,26 @@
     "source": "SST"
   },
   {
-    "title": "PASWOPSREPLBAUON390 - Technical Services Administrator",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Newcastle-Australia/PASWOPSREPLBAUON390---Technical-Services-Administrator_R36892",
-    "locationsText": "2 Locations",
+    "title": "Sr Consultant, Cash Management Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Cash-Management-Business-Systems-Analysis_2520542",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36892"
+      "2520542"
     ],
-    "id": "R36892",
-    "source": "SST"
+    "id": "2520542",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2517347",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2517347"
+    ],
+    "id": "2517347",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Release Manager",
@@ -1118,28 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Infrastructure Risk Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Infrastructure-Risk-Management_2516287-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2516287"
-    ],
-    "id": "2516287",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr Consultant, Business System Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-System-Analysis_2516016",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2516016"
-    ],
-    "id": "2516016",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1159,6 +1159,28 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "Customer Success Advocate EMEA Services",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Belfast/Customer-Success-Advocate-EMEA-Services_R028465",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028465"
+    ],
+    "id": "R028465",
+    "source": "Ciena"
+  },
+  {
+    "title": "FPGA Development Intern (Winter 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/FPGA-Development-Intern--Winter-2026-_R028891",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028891"
+    ],
+    "id": "R028891",
     "source": "Ciena"
   },
   {
@@ -1335,28 +1357,6 @@
       "R028765"
     ],
     "id": "R028765",
-    "source": "Ciena"
-  },
-  {
-    "title": "CO-OP/Intern: AI Software Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/CO-OP-Intern--AI-Software-Developer_R028804",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R028804"
-    ],
-    "id": "R028804",
-    "source": "Ciena"
-  },
-  {
-    "title": "Associate Network Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Germany/Network-Engineer--Associate_R028464",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R028464"
-    ],
-    "id": "R028464",
     "source": "Ciena"
   },
   {

@@ -856,48 +856,81 @@
     "source": "SST"
   },
   {
-    "title": "SC2 PA25IFDSIQ3136",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/SC2-PA25IFDSIQ3136_R33975",
-    "locationsText": "Maharashtra, Navi Mumbai",
+    "title": "Senior Front End Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---UK/Senior-Front-End-Developer_R35661",
+    "locationsText": "Remote - UK",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R33975"
+      "R35661"
     ],
-    "id": "R33975",
+    "id": "R35661",
     "source": "SST"
   },
   {
-    "title": "SC3 PA25IFDSIQ3136",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/SC3-PA25IFDSIQ3136_R33800",
-    "locationsText": "Maharashtra, Navi Mumbai",
+    "title": "Manager, Hedge Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Hedge-Fund-Accounting_R37086",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R33800"
+      "R37086"
     ],
-    "id": "R33800",
+    "id": "R37086",
     "source": "SST"
   },
   {
-    "title": "Senior Technical Associate - PA25SJPRQ3004",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Stirling-UK/Senior-Technical-Associate---PA25SJPRQ3004_R36895",
-    "locationsText": "Stirling, UK",
+    "title": "Legal Counsel",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Legal-Counsel_R37361",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36895"
+      "R37361"
     ],
-    "id": "R36895",
+    "id": "R37361",
     "source": "SST"
   },
   {
-    "title": "EMEA Field Marketing Manager (German Speaking)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/EMEA-Field-Marketing-Manager_R34412",
+    "title": "Site Reliability Engineering (SRE) Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Site-Reliability-Engineering--SRE--Manager_R35765",
     "locationsText": "London, UK",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R34412"
+      "R35765"
     ],
-    "id": "R34412",
+    "id": "R35765",
     "source": "SST"
+  },
+  {
+    "title": "Senior Consultant, Cryptographic Service Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Cryptographic-Service-Management_2520245",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2520245"
+    ],
+    "id": "2520245",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Consultant, DevOps",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--DevOps_2520572",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2520572"
+    ],
+    "id": "2520572",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Test Consultant, Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Test-Consultant--Quality-Assurance_2520558-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2520558"
+    ],
+    "id": "2520558",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Application Development - Archer",
@@ -1087,39 +1120,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2520812",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2520812"
-    ],
-    "id": "2520812",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Infrastructure Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Infrastructure-Engineer_2520467-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2520467"
-    ],
-    "id": "2520467",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Consultant, Database Management (IMS & CICS)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Database-Management--IMS---CICS-_2516903-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2516903"
-    ],
-    "id": "2516903",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1139,6 +1139,39 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "MCP Applications Co-op UI or BE Co-op (Winter 2026 - 8+ months)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/MCP-Applications-Co-op-UI-or-BE-Co-op--Winter-2026---8--months-_R028746",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028746"
+    ],
+    "id": "R028746",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Delivery Architect \u2013 Assurance",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Software-Delivery-Architect---Assurance_R028733",
+    "locationsText": "Remote-Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028733"
+    ],
+    "id": "R028733",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Analog Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Analog-Engineer_R028821",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028821"
+    ],
+    "id": "R028821",
     "source": "Ciena"
   },
   {
@@ -1307,37 +1340,16 @@
     "source": "Ciena"
   },
   {
-    "title": "Optical Component Test Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Component-Test-Engineer_R028025",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
+    "title": "Senior Software Quality Assurance Engineer",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-QA-Engineer-II_R003547",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted Today",
+    "remoteType": "Hybrid Eligible",
     "bulletFields": [
-      "R028025"
+      "R003547"
     ],
-    "id": "R028025",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Engineering Intern (Winter 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Engineering-Intern_R028411",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R028411"
-    ],
-    "id": "R028411",
-    "source": "Ciena"
-  },
-  {
-    "title": "THW Client Co-op (Spring 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pittsford/THW-Client-Co-op--Spring-2026-_R028828",
-    "locationsText": "Pittsford",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R028828"
-    ],
-    "id": "R028828",
-    "source": "Ciena"
+    "id": "R003547",
+    "source": "Entrust"
   },
   {
     "title": "Software Developer II - Embedded, C/Python",
@@ -1384,18 +1396,6 @@
       "R003293"
     ],
     "id": "R003293",
-    "source": "Entrust"
-  },
-  {
-    "title": "Senior Software QA Engineer",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-QA-Engineer-II_R003547",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 20 Days Ago",
-    "remoteType": "Hybrid Eligible",
-    "bulletFields": [
-      "R003547"
-    ],
-    "id": "R003547",
     "source": "Entrust"
   },
   {

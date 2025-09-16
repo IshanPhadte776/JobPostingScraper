@@ -856,48 +856,70 @@
     "source": "SST"
   },
   {
-    "title": "Senior Front End Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---UK/Senior-Front-End-Developer_R35661",
-    "locationsText": "Remote - UK",
+    "title": "Sr. Software Engineer In Test",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Sr-Software-Engineer-In-Test_R28993-1",
+    "locationsText": "San Francisco, CA",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35661"
+      "R28993"
     ],
-    "id": "R35661",
+    "id": "R28993",
     "source": "SST"
   },
   {
-    "title": "Manager, Hedge Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Hedge-Fund-Accounting_R37086",
-    "locationsText": "2 Locations",
+    "title": "Staff Software Development Engineer In Test",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Staff-Software-Development-Engineer-In-Test_R30197-1",
+    "locationsText": "San Francisco, CA",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37086"
+      "R30197"
     ],
-    "id": "R37086",
+    "id": "R30197",
     "source": "SST"
   },
   {
-    "title": "Legal Counsel",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Legal-Counsel_R37361",
-    "locationsText": "2 Locations",
+    "title": "Associate Solutions Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Associate-Solutions-Analyst_R36697",
+    "locationsText": "Chicago, IL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37361"
+      "R36697"
     ],
-    "id": "R37361",
+    "id": "R36697",
     "source": "SST"
   },
   {
-    "title": "Site Reliability Engineering (SRE) Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Site-Reliability-Engineering--SRE--Manager_R35765",
-    "locationsText": "London, UK",
+    "title": "Product Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Product-Manager_R35341",
+    "locationsText": "Jacksonville, FL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35765"
+      "R35341"
     ],
-    "id": "R35765",
+    "id": "R35341",
     "source": "SST"
+  },
+  {
+    "title": "Senior Java Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Java-Developer_2518750",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2518750"
+    ],
+    "id": "2518750",
+    "source": "CIBC"
+  },
+  {
+    "title": "Software Development Engineer in Test (SDET)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Development-Engineer-in-Test--SDET-_2519714-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2519714"
+    ],
+    "id": "2519714",
+    "source": "CIBC"
   },
   {
     "title": "Senior Consultant, Cryptographic Service Management",
@@ -1095,28 +1117,6 @@
       "2513788"
     ],
     "id": "2513788",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Technical Architect",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Technical-Architect_2516527",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2516527"
-    ],
-    "id": "2516527",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Azure Application Development (C#/.Net)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Azure-Application-Development--C--Net-_2520416",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2520416"
-    ],
-    "id": "2520416",
     "source": "CIBC"
   },
   {
@@ -1781,22 +1781,6 @@
     "description": "<p>We are seeking a skilled and motivated engineer to join our growing team. In this role, you will report to the Senior Manager of the Technical Operations Centre and play a key part in supporting and maintaining complex, cutting-edge broadcast video systems.</p><p>As a Broadcast Engineer, your primary responsibility will be to provide expert-level support for a range of advanced technologies, including software-defined video networking, video compression and content processing systems, orchestration platforms, and network management and monitoring tools.</p><p>This position offers a unique opportunity to work at the forefront of broadcast technology, collaborating with engineering teams and customers to ensure optimal system performance and rapid issue resolution.</p><p><strong>Responsibilities:</strong></p><ul><li>Act as an expert level technical advisor or specialist on complex broadcast initiatives.</li><li>Perform system monitoring, verifying the integrity and availability of all broadcast hardware, server resources, systems and key processes, reviewing system and application logs.</li><li>Ensure events are managed until resolution while adhering to Incident and SLA guidelines.</li><li>Act as single point of contact for multiple support cases simultaneously.</li><li>Provide feedback on solution requirements, design specifications &amp; operational guidelines.</li><li>Represent the department and coordinate with peer departments and Evertz broadcast customer to ensure effective delivery of project deliverables.</li><li>Establish necessary testing requirements to evaluate the proposed designs and to validate the technology platform or systems.</li><li>Document any departmental and technical procedures.</li></ul><p><strong>Qualifications:</strong></p><ul><li>Strong critical thinking skills.</li><li>Technical Diploma/Degree or equivalent broadcast experience (preferred).</li><li>Advanced knowledge of installations, upgrades and troubleshooting in Unix/Linux and Windows environments</li><li>Ability to work in a fast-paced, dynamic environment with many changing priorities.</li><li>Detail oriented with strong analytical and problem-solving skills.</li><li>Strong written and verbal communication skills.</li><li>Self-motivated with the ability to take initiative in identifying and resolving problems independently.</li><li>Strong attention to detail and accuracy.</li><li>Willing to relocate to California; in order to provide long-term, on-site technical support to our customer.</li><li>Preference for candidates with working knowledge of one or more of the Evertz platforms.</li></ul><p><strong>What we Offer:</strong></p><ul><li>Competitive total compensation package, including benefits</li><li>Employer contribution to 401K</li><li>Relocation Assistance</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p><strong>Salary Range: </strong>Based on related experience and skill set.</p><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "Zt9Y6cDrar",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20250903170849_P10IWCII1VBLSXKX",
-    "title": "Payroll Systems  Coordinator",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "Administration",
-    "description": "<p><strong>Responsibilities:&#160;</strong></p><ul><li>Generating reports and analyzing data to support various departments within the organization</li><li>Creating support tickets and coordinating with system provider (UKG) to resolve system issues</li><li>Providing assistance to staff with login issues/ password resets</li><li>Ensuring all users have the necessary access and permissions</li><li>Maintaining various reports/ tracking for finance and payroll departments</li><li>Supporting the payroll department with various projects</li><li>Maintain and update employee information in payroll records</li><li>Providing back up administrative support for payroll as needed</li><li>Ad hoc related tasks</li></ul><p><strong>Requirements:&#160;</strong></p><ul><li>College or University Education (background in Finance or Economics an asset)&#160;</li><li>1-3 years experience with UKG Pro an asset</li><li>Excellent verbal and written communication skills</li><li>Knowledge of Microsoft Office</li><li>Working experience with MS Excel using advance functions such as generating reports, VLOOKUP, pivot tables and merging data from various sources</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p><p></p><p><br>&#160;</p><p></p>",
-    "type": "Full Time",
-    "board_code": "V2i85cYZWi",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

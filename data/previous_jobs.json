@@ -620,6 +620,26 @@
     "url": "https://solace.bamboohr.com/career/careers/706"
   },
   {
+    "id": "707",
+    "jobOpeningName": "Director of Sales - Capital Markets",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "United States",
+      "state": "New York",
+      "province": null,
+      "city": "New York"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/707"
+  },
+  {
     "id": "34",
     "jobOpeningName": "Growth Web Developer",
     "departmentId": "18238",
@@ -856,6 +876,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-Software-Engineer_R36882",
+    "locationsText": "8 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36882"
+    ],
+    "id": "R36882",
+    "source": "SST"
+  },
+  {
     "title": "Sr. Software Engineer In Test",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Sr-Software-Engineer-In-Test_R28993-1",
     "locationsText": "San Francisco, CA",
@@ -889,15 +920,26 @@
     "source": "SST"
   },
   {
-    "title": "Product Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Product-Manager_R35341",
-    "locationsText": "Jacksonville, FL",
+    "title": "Sr. Security Service Manager, Application Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Security-Service-Manager--Application-Security_2520590",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35341"
+      "2520590"
     ],
-    "id": "R35341",
-    "source": "SST"
+    "id": "2520590",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2519168",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2519168"
+    ],
+    "id": "2519168",
+    "source": "CIBC"
   },
   {
     "title": "Senior Java Developer",
@@ -1098,28 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Infrastructure Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Infrastructure-Engineer_2520743",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2520743"
-    ],
-    "id": "2520743",
-    "source": "CIBC"
-  },
-  {
-    "title": "Director, Technology Architecture",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Technology-Architecture_2513788",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2513788"
-    ],
-    "id": "2513788",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1142,14 +1162,36 @@
     "source": "Ciena"
   },
   {
-    "title": "MCP Applications Co-op UI or BE Co-op (Winter 2026 - 8+ months)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/MCP-Applications-Co-op-UI-or-BE-Co-op--Winter-2026---8--months-_R028746",
+    "title": "Senior Analog Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Analog-Engineer_R028821",
     "locationsText": "Ottawa",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R028746"
+      "R028821"
     ],
-    "id": "R028746",
+    "id": "R028821",
+    "source": "Ciena"
+  },
+  {
+    "title": "Specialist, Product Line Management",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Specialist--Product-Line-Management_R028734",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028734"
+    ],
+    "id": "R028734",
+    "source": "Ciena"
+  },
+  {
+    "title": "Administrative Assistant II",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Administrative-Assistant-II_R028834",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028834"
+    ],
+    "id": "R028834",
     "source": "Ciena"
   },
   {
@@ -1161,17 +1203,6 @@
       "R028733"
     ],
     "id": "R028733",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Analog Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Analog-Engineer_R028821",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R028821"
-    ],
-    "id": "R028821",
     "source": "Ciena"
   },
   {
@@ -1329,15 +1360,16 @@
     "source": "Ciena"
   },
   {
-    "title": "Software Engineer - C Programming - Routing/Switching Protocols",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Software-Engineer---C-Programming---Routing-Switching-Protocols_R028642",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
+    "title": "Senior Cloud DevOps Engineer - Hybrid, Minnesota",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Sr-DevOps-Engineer_R003006",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted Today",
+    "remoteType": "Hybrid Eligible",
     "bulletFields": [
-      "R028642"
+      "R003006"
     ],
-    "id": "R028642",
-    "source": "Ciena"
+    "id": "R003006",
+    "source": "Entrust"
   },
   {
     "title": "Senior Software Quality Assurance Engineer",
@@ -1408,18 +1440,6 @@
       "R003307"
     ],
     "id": "R003307",
-    "source": "Entrust"
-  },
-  {
-    "title": "Sr Cloud DevOps Engineer - Hybrid, Minnesota",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Sr-DevOps-Engineer_R003006",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 25 Days Ago",
-    "remoteType": "Hybrid Eligible",
-    "bulletFields": [
-      "R003006"
-    ],
-    "id": "R003006",
     "source": "Entrust"
   },
   {

@@ -854,14 +854,36 @@
     "source": "SST"
   },
   {
-    "title": "Delivery Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Delivery-Manager_R35832",
-    "locationsText": "Pune, India",
+    "title": "Graphic Designer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Graphic-Designer_R37054-1",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35832"
+      "R37054"
     ],
-    "id": "R35832",
+    "id": "R37054",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Senior-Associate_R36857",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36857"
+    ],
+    "id": "R36857",
+    "source": "SST"
+  },
+  {
+    "title": "Associate, Private Markets",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Associate--Private-Markets_R32864",
+    "locationsText": "Boston MA - One Post Office Square",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R32864"
+    ],
+    "id": "R32864",
     "source": "SST"
   },
   {
@@ -895,28 +917,6 @@
       "R35765"
     ],
     "id": "R35765",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Project Management Office Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Surbiton-UK/Senior-Project-Management-Office-Specialist_R36887-1",
-    "locationsText": "Surbiton, UK",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36887"
-    ],
-    "id": "R36887",
-    "source": "SST"
-  },
-  {
-    "title": "Java Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Senior-Java-Developer_R35197",
-    "locationsText": "Bucharest, Romania",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R35197"
-    ],
-    "id": "R35197",
     "source": "SST"
   },
   {
@@ -1162,6 +1162,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Administrative Assistant II",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Administrative-Assistant-II_R028834",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028834"
+    ],
+    "id": "R028834",
+    "source": "Ciena"
+  },
+  {
     "title": "IT Business Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Business-Analyst_R028511",
     "locationsText": "Remote- India- Gurugram",
@@ -1181,14 +1192,6 @@
       "R028840"
     ],
     "id": "R028840",
-    "source": "Ciena"
-  },
-  {
-    "bulletFields": [
-      "R028834"
-    ],
-    "id": "R028834",
-    "externalPath": "",
     "source": "Ciena"
   },
   {

@@ -854,6 +854,17 @@
     "source": "SST"
   },
   {
+    "title": "Delivery Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Delivery-Manager_R35832",
+    "locationsText": "Pune, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35832"
+    ],
+    "id": "R35832",
+    "source": "SST"
+  },
+  {
     "title": "Associate, Hedge Fund Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Associate--Hedge-Fund-Accounting_R35392",
     "locationsText": "Mississauga, Canada",
@@ -906,17 +917,6 @@
       "R35197"
     ],
     "id": "R35197",
-    "source": "SST"
-  },
-  {
-    "title": "PA26DBOQ1CSV001 - SC4",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/PA26DBOQ1CSV001---SC4_R36075",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36075"
-    ],
-    "id": "R36075",
     "source": "SST"
   },
   {
@@ -1184,14 +1184,11 @@
     "source": "Ciena"
   },
   {
-    "title": "Administrative Assistant II",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Administrative-Assistant-II_R028834",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted Today",
     "bulletFields": [
       "R028834"
     ],
     "id": "R028834",
+    "externalPath": "",
     "source": "Ciena"
   },
   {

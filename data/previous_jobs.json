@@ -898,17 +898,6 @@
     "source": "SST"
   },
   {
-    "title": "QA Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/QA-Engineer_R36172",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36172"
-    ],
-    "id": "R36172",
-    "source": "SST"
-  },
-  {
     "title": "Senior Database Replication Administrator",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Senior-Database-Replication-Administrator_R36884",
     "locationsText": "2 Locations",
@@ -918,6 +907,61 @@
     ],
     "id": "R36884",
     "source": "SST"
+  },
+  {
+    "title": "Financial Services Operations Representative II - PA-DSR-Q4-3",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Financial-Services-Operations-Representative-II---PA-DSR-Q4-3_R37141",
+    "locationsText": "Hyderabad, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37141"
+    ],
+    "id": "R37141",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Consultant, Strategy & Solutions",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2515681",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2515681"
+    ],
+    "id": "2515681",
+    "source": "CIBC"
+  },
+  {
+    "title": "Director, Application Services, Global Wires & Payments Technology",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Application-Services--Global-Wires---Payments-Technology_2520949",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2520949"
+    ],
+    "id": "2520949",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Test Analyst",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Test-Analyst_2521022",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2521022"
+    ],
+    "id": "2521022",
+    "source": "CIBC"
+  },
+  {
+    "title": "Test Analyst",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Test-Analyst_2520793",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2520793"
+    ],
+    "id": "2520793",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Application Development",
@@ -1096,50 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Consultant, DevOps",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--DevOps_2520572",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2520572"
-    ],
-    "id": "2520572",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Test Consultant, Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Test-Consultant--Quality-Assurance_2520558-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2520558"
-    ],
-    "id": "2520558",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr Consultant, Web and Adobe Experience Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Web-and-Adobe-Experience-Management_2508097",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2508097"
-    ],
-    "id": "2508097",
-    "source": "CIBC"
-  },
-  {
-    "title": "Mobile Consultant (Architect)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Mobile-Consultant--Architect-_2508688-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2508688"
-    ],
-    "id": "2508688",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1162,17 +1162,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Renewal Specialist",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Renewal-Specialist_R028673",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R028673"
-    ],
-    "id": "R028673",
-    "source": "Ciena"
-  },
-  {
     "title": "Sr. Project Manager, Global Services Team",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Sr-Project-Manager--Global-Services-Team_R028948",
     "locationsText": "Remote-Canada",
@@ -1192,17 +1181,6 @@
       "R028479"
     ],
     "id": "R028479",
-    "source": "Ciena"
-  },
-  {
-    "title": "Supply Chain Operations Consultant",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Supply-Chain-Operations-Consultant_R028949",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R028949"
-    ],
-    "id": "R028949",
     "source": "Ciena"
   },
   {
@@ -1357,6 +1335,28 @@
       "R028821"
     ],
     "id": "R028821",
+    "source": "Ciena"
+  },
+  {
+    "title": "Specialist, Product Line Management",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Specialist--Product-Line-Management_R028734",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R028734"
+    ],
+    "id": "R028734",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Delivery Architect \u2013 Assurance",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Software-Delivery-Architect---Assurance_R028733",
+    "locationsText": "Remote-Canada",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R028733"
+    ],
+    "id": "R028733",
     "source": "Ciena"
   },
   {

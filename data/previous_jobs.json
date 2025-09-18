@@ -380,26 +380,6 @@
     "url": "https://solace.bamboohr.com/career/careers/689"
   },
   {
-    "id": "690",
-    "jobOpeningName": "Sales Development Representative (SDR)",
-    "departmentId": "18617",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "New York ",
-      "state": "New York"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/690"
-  },
-  {
     "id": "692",
     "jobOpeningName": "Solutions Engineer",
     "departmentId": "18676",
@@ -640,6 +620,26 @@
     "url": "https://solace.bamboohr.com/career/careers/707"
   },
   {
+    "id": "708",
+    "jobOpeningName": "Senior Cloud Site Reliability Engineer",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/708"
+  },
+  {
     "id": "34",
     "jobOpeningName": "Growth Web Developer",
     "departmentId": "18238",
@@ -854,6 +854,39 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Associate-Manager_R33068",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R33068"
+    ],
+    "id": "R33068",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate - Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Senior-Associate---Fund-Accounting_R37300",
+    "locationsText": "Windsor, CT",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37300"
+    ],
+    "id": "R37300",
+    "source": "SST"
+  },
+  {
+    "title": "QA Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/QA-Engineer_R36172",
+    "locationsText": "Maharashtra, Navi Mumbai",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36172"
+    ],
+    "id": "R36172",
+    "source": "SST"
+  },
+  {
     "title": "Senior Database Replication Administrator",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Senior-Database-Replication-Administrator_R36884",
     "locationsText": "2 Locations",
@@ -887,37 +920,48 @@
     "source": "SST"
   },
   {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Account-Executive_R36444",
-    "locationsText": "New York, NY",
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2426487",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36444"
+      "2426487"
     ],
-    "id": "R36444",
-    "source": "SST"
+    "id": "2426487",
+    "source": "CIBC"
   },
   {
-    "title": "Sr. Business Applications Analyst-PA-CRITICAL-Q4-002",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City---Broadway-Square-Garage/Sr-Business-Applications-Analyst-PA-CRITICAL-Q4-002_R37087",
-    "locationsText": "2 Locations",
+    "title": "Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2513317",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37087"
+      "2513317"
     ],
-    "id": "R37087",
-    "source": "SST"
+    "id": "2513317",
+    "source": "CIBC"
   },
   {
-    "title": "Senior Associate - Financial Service Operations - PAOFFSHORE-Q4-R2",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Senior-Associate---Financial-Service-Operations---PAOFFSHORE-Q4-R2_R37270",
-    "locationsText": "Mumbai, India",
+    "title": "Sr. Business Systems Analyst",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Business-Systems-Analyst_2513730",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37270"
+      "2513730"
     ],
-    "id": "R37270",
-    "source": "SST"
+    "id": "2513730",
+    "source": "CIBC"
+  },
+  {
+    "title": "Lead Senior Software Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Lead-Senior-Software-Developer_2520790",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2520790"
+    ],
+    "id": "2520790",
+    "source": "CIBC"
   },
   {
     "title": "C# Application Developer, Capital Markets Technology",
@@ -1096,50 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Business System Analyst (Global Derivatives Technology)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Business-System-Analyst--Global-Derivatives-Technology-_2516029",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2516029"
-    ],
-    "id": "2516029",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Cash Management Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Cash-Management-Business-Systems-Analysis_2520541-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2520541"
-    ],
-    "id": "2520541",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr Consultant, Cash Management Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Cash-Management-Business-Systems-Analysis_2520542",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2520542"
-    ],
-    "id": "2520542",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2517347",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2517347"
-    ],
-    "id": "2517347",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1159,6 +1159,17 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "Embedded Software Engineer Intern (Real-Time Systems) - Winter 2026",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer-Intern--Real-Time-Systems----Winter-2026_R028960",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028960"
+    ],
+    "id": "R028960",
     "source": "Ciena"
   },
   {
@@ -1346,17 +1357,6 @@
       "R028708"
     ],
     "id": "R028708",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior/Lead - AI Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Lead---AI-Engineer_R028849",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028849"
-    ],
-    "id": "R028849",
     "source": "Ciena"
   },
   {

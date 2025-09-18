@@ -855,6 +855,28 @@
   },
   {
     "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellevue-WA/Senior-Associate_R34527",
+    "locationsText": "Bellevue, WA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R34527"
+    ],
+    "id": "R34527",
+    "source": "SST"
+  },
+  {
+    "title": "Senior ReactJs developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Senior-ReactJs-developer_R37443",
+    "locationsText": "Bangkok, Thailand",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37443"
+    ],
+    "id": "R37443",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Associate-Manager_R33068",
     "locationsText": "Mumbai, India",
     "postedOn": "Posted Today",
@@ -895,28 +917,6 @@
       "R36884"
     ],
     "id": "R36884",
-    "source": "SST"
-  },
-  {
-    "title": "Financial Services Operations Representative II - PA-DSR-Q4-3",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Financial-Services-Operations-Representative-II---PA-DSR-Q4-3_R37141",
-    "locationsText": "Hyderabad, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37141"
-    ],
-    "id": "R37141",
-    "source": "SST"
-  },
-  {
-    "title": "Full Stack QA Tester",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/PA2025Q3JB134---Full-Stack-QA-Tester-BKK_R37156-1",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37156"
-    ],
-    "id": "R37156",
     "source": "SST"
   },
   {
@@ -1162,6 +1162,50 @@
     "source": "Ciena"
   },
   {
+    "title": "Renewal Specialist",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Renewal-Specialist_R028673",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028673"
+    ],
+    "id": "R028673",
+    "source": "Ciena"
+  },
+  {
+    "title": "Sr. Project Manager, Global Services Team",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Sr-Project-Manager--Global-Services-Team_R028948",
+    "locationsText": "Remote-Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028948"
+    ],
+    "id": "R028948",
+    "source": "Ciena"
+  },
+  {
+    "title": "Consultant, Service Partner Management",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Consultant--Service-Partner-Management-_R028479",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028479"
+    ],
+    "id": "R028479",
+    "source": "Ciena"
+  },
+  {
+    "title": "Supply Chain Operations Consultant",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Supply-Chain-Operations-Consultant_R028949",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028949"
+    ],
+    "id": "R028949",
+    "source": "Ciena"
+  },
+  {
     "title": "Embedded Software Engineer Intern (Real-Time Systems) - Winter 2026",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer-Intern--Real-Time-Systems----Winter-2026_R028960",
     "locationsText": "Ottawa",
@@ -1313,50 +1357,6 @@
       "R028821"
     ],
     "id": "R028821",
-    "source": "Ciena"
-  },
-  {
-    "title": "Specialist, Product Line Management",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Specialist--Product-Line-Management_R028734",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028734"
-    ],
-    "id": "R028734",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Delivery Architect \u2013 Assurance",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Software-Delivery-Architect---Assurance_R028733",
-    "locationsText": "Remote-Canada",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028733"
-    ],
-    "id": "R028733",
-    "source": "Ciena"
-  },
-  {
-    "title": "Quality Management System Specialist",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Quality-Management-System-Specialist_R028604",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028604"
-    ],
-    "id": "R028604",
-    "source": "Ciena"
-  },
-  {
-    "title": "Critical Incident, Change and Problem Lead",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Critical-Incident--Change-and-Problem-Lead_R028708",
-    "locationsText": "4 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028708"
-    ],
-    "id": "R028708",
     "source": "Ciena"
   },
   {

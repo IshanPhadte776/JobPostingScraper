@@ -854,6 +854,17 @@
     "source": "SST"
   },
   {
+    "title": "Product Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Product-Manager_R35341",
+    "locationsText": "Jacksonville, FL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35341"
+    ],
+    "id": "R35341",
+    "source": "SST"
+  },
+  {
     "title": "C# Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/C--Developer_R35794",
     "locationsText": "Bucharest, Romania",
@@ -909,15 +920,15 @@
     "source": "SST"
   },
   {
-    "title": "PA25STORQ4011 - S3",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/PA25STORQ4011---S3_R37278",
-    "locationsText": "Mumbai, India",
+    "title": "Consultant, Infrastructure Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Infrastructure-Management_2520703-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37278"
+      "2520703"
     ],
-    "id": "R37278",
-    "source": "SST"
+    "id": "2520703",
+    "source": "CIBC"
   },
   {
     "title": "Lead Data Platform Engineer",
@@ -1129,17 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Java Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Java-Developer_2518750",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2518750"
-    ],
-    "id": "2518750",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1159,6 +1159,17 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Salesforce Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Brazil/Senior-Salesforce-Engineer_R028681",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028681"
+    ],
+    "id": "R028681",
     "source": "Ciena"
   },
   {
@@ -1346,17 +1357,6 @@
       "R028895"
     ],
     "id": "R028895",
-    "source": "Ciena"
-  },
-  {
-    "title": "Solution Architect- OSS",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Solution-Architect--OSS_R028840",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028840"
-    ],
-    "id": "R028840",
     "source": "Ciena"
   },
   {

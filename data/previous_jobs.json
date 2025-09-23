@@ -803,6 +803,28 @@
     "source": "SST"
   },
   {
+    "title": "Sales Associate - Alts Fundspace",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Sales-associate---Alts-Fundspace-BDR_R37154",
+    "locationsText": "London, UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37154"
+    ],
+    "id": "R37154",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Senior-Associate_R33038",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R33038"
+    ],
+    "id": "R33038",
+    "source": "SST"
+  },
+  {
     "title": "Sales Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Associate_R37436",
     "locationsText": "New York, NY",
@@ -858,26 +880,15 @@
     "source": "SST"
   },
   {
-    "title": "Insurance Claims Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Parramatta---3-Parramatta-Square/Insurance-Claims-Specialist_R37399",
-    "locationsText": "7 Locations",
+    "title": "Sr. z/OS Network Systems Programmer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-z-OS-Network-Systems-Programmer_2521189",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37399"
+      "2521189"
     ],
-    "id": "R37399",
-    "source": "SST"
-  },
-  {
-    "title": "Team Leader, Insurance Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Parramatta---3-Parramatta-Square/Team-Leader--Insurance-Operations_R37378",
-    "locationsText": "4 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37378"
-    ],
-    "id": "R37378",
-    "source": "SST"
+    "id": "2521189",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Production Support Engineer",
@@ -1086,17 +1097,6 @@
       "2520756"
     ],
     "id": "2520756",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Technical lead",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Technical-lead_2521046",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2521046"
-    ],
-    "id": "2521046",
     "source": "CIBC"
   },
   {

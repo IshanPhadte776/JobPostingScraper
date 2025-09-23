@@ -803,6 +803,17 @@
     "source": "SST"
   },
   {
+    "title": "Sales Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Associate_R37436",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37436"
+    ],
+    "id": "R37436",
+    "source": "SST"
+  },
+  {
     "title": "Contracts Administrator",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Contracts-Administrator_R36723-1",
     "locationsText": "Hyderabad, India",
@@ -811,6 +822,17 @@
       "R36723"
     ],
     "id": "R36723",
+    "source": "SST"
+  },
+  {
+    "title": "Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Associate_R33033-1",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R33033"
+    ],
+    "id": "R33033",
     "source": "SST"
   },
   {
@@ -858,26 +880,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Real Assets",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/Senior-Associate--Real-Assets_R37496",
-    "locationsText": "Singapore",
+    "title": "Sr. Production Support Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Ontario-VIRTUAL/Sr-Production-Support-Engineer_2512032",
+    "locationsText": "Ontario VIRTUAL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37496"
+      "2512032"
     ],
-    "id": "R37496",
-    "source": "SST"
-  },
-  {
-    "title": "Manager, Real Assets",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/Manager--Real-Assets_R37495",
-    "locationsText": "Singapore",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37495"
-    ],
-    "id": "R37495",
-    "source": "SST"
+    "id": "2512032",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, DevSecOps",
@@ -1089,17 +1100,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Director - US Head of IT Service Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director---US-Head-of-IT-Service-Management_2514907",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2514907"
-    ],
-    "id": "2514907",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1119,6 +1119,28 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "QA Lead - Routing & switching testing + Python Automation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/QA-Lead---Routing---switching-testing---Python-Automation_R029043",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029043"
+    ],
+    "id": "R029043",
+    "source": "Ciena"
+  },
+  {
+    "title": "Module Lead QA Engineer - Routing & switching protocol testing IP",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Module-Lead-QA-Engineer---Routing---switching-protocol-testing-IP_R029042",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029042"
+    ],
+    "id": "R029042",
     "source": "Ciena"
   },
   {
@@ -1295,28 +1317,6 @@
       "R028954"
     ],
     "id": "R028954",
-    "source": "Ciena"
-  },
-  {
-    "title": "Embedded System Developer- Optical",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/WaveLogic-Technologies-Field-Applications-Engineer_R026772",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R026772"
-    ],
-    "id": "R026772",
-    "source": "Ciena"
-  },
-  {
-    "title": "SVT/PV Engineer 1",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/SVT-PV-Engineer-1_R028935",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R028935"
-    ],
-    "id": "R028935",
     "source": "Ciena"
   },
   {

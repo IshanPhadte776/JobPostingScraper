@@ -660,6 +660,26 @@
     "url": "https://truecontext.bamboohr.com/career/careers/35"
   },
   {
+    "id": "36",
+    "jobOpeningName": "Software Engineer (Backend)",
+    "departmentId": "18221",
+    "departmentLabel": "Rad-Engineering",
+    "employmentStatusLabel": "Full time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://truecontext.bamboohr.com/career/careers/36"
+  },
+  {
     "title": "Java Technical Lead",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Java-Technical-Lead_R36869",
     "locationsText": "London, UK",
@@ -803,80 +823,80 @@
     "source": "SST"
   },
   {
-    "title": "PA2025HTQ3179 - Lead Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/PA2025HTQ3179---Lead-Software-Engineer_R35528",
-    "locationsText": "2 Locations",
+    "title": "Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Associate_R30159",
+    "locationsText": "Mumbai, India",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35528"
+      "R30159"
     ],
-    "id": "R35528",
+    "id": "R30159",
     "source": "SST"
   },
   {
-    "title": "Insurance Claims Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Parramatta---3-Parramatta-Square/Insurance-Claims-Specialist_R37399",
-    "locationsText": "7 Locations",
+    "title": "Client Support Representative",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Support-Representative_R37338",
+    "locationsText": "Jacksonville, FL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37399"
+      "R37338"
     ],
-    "id": "R37399",
+    "id": "R37338",
     "source": "SST"
   },
   {
-    "title": "Team Leader, Insurance Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Parramatta---3-Parramatta-Square/Team-Leader--Insurance-Operations_R37378",
-    "locationsText": "4 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37378"
-    ],
-    "id": "R37378",
-    "source": "SST"
-  },
-  {
-    "title": "Insurance Solutions Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne-Australia/Insurance-Solutions-Specialist_R37398",
-    "locationsText": "8 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37398"
-    ],
-    "id": "R37398",
-    "source": "SST"
-  },
-  {
-    "title": "Insurance Operations Knowledge Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Parramatta---3-Parramatta-Square/Insurance-Operations-Knowledge-Specialist_R37397",
-    "locationsText": "8 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37397"
-    ],
-    "id": "R37397",
-    "source": "SST"
-  },
-  {
-    "title": "Revenue Operations Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Revenue-Operations-Analyst_R37224",
+    "title": "Associate Solutions Consultant, Eclipse Client Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Associate-Solutions-Consultant--Eclipse-Client-Services_R37450",
     "locationsText": "Hyderabad, India",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37224"
+      "R37450"
     ],
-    "id": "R37224",
+    "id": "R37450",
     "source": "SST"
   },
   {
-    "title": "Senior Software Engineer - PA2025HTQ3166",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Software-Engineer---PA2025HTQ3166_R35504",
+    "title": "Senior Software Engineer - PA2025INDOFF204",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Software-Engineer---PA2025INDOFF204_R32911",
+    "locationsText": "Hyderabad, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R32911"
+    ],
+    "id": "R32911",
+    "source": "SST"
+  },
+  {
+    "title": "Client Engagement Liaison  (LH-BPO)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Client-Engagement-Liaison---LH-BPO-_R37435",
+    "locationsText": "Boston MA - One Post Office Square",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37435"
+    ],
+    "id": "R37435",
+    "source": "SST"
+  },
+  {
+    "title": "Retirement Plan Acct Administrator - PA2025PLANADMIN-R-005",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Texas-US/Retirement-Plan-Acct-Administrator---PA2025PLANADMIN-R-005_R36295",
+    "locationsText": "14 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36295"
+    ],
+    "id": "R36295",
+    "source": "SST"
+  },
+  {
+    "title": "Tax Manager, Mutual Funds",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Tax-Manager--Mutual-Funds_R35557",
     "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35504"
+      "R35557"
     ],
-    "id": "R35504",
+    "id": "R35557",
     "source": "SST"
   },
   {
@@ -1122,6 +1142,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Routing/IP Software Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Routing-IP-Software-Engineer---New-Grad_R029033",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029033"
+    ],
+    "id": "R029033",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior QA Engineer \u2013 IP Routing / Multicast",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-QA-Engineer---IP-Routing---Multicast_R029024",
     "locationsText": "2 Locations",
@@ -1306,17 +1337,6 @@
       "R028948"
     ],
     "id": "R028948",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Software Development Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R028894",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028894"
-    ],
-    "id": "R028894",
     "source": "Ciena"
   },
   {

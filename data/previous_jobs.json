@@ -823,6 +823,17 @@
     "source": "SST"
   },
   {
+    "title": "Hedge Fund Representative, Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Hedge-Fund-Representative--Associate_R37541-1",
+    "locationsText": "Evansville, IN",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37541"
+    ],
+    "id": "R37541",
+    "source": "SST"
+  },
+  {
     "title": "Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Associate_R30159",
     "locationsText": "Mumbai, India",
@@ -889,15 +900,15 @@
     "source": "SST"
   },
   {
-    "title": "Tax Manager, Mutual Funds",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Tax-Manager--Mutual-Funds_R35557",
-    "locationsText": "2 Locations",
+    "title": "Sr. QA Analyst, IT",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-QA-Analyst--IT_2521792",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35557"
+      "2521792"
     ],
-    "id": "R35557",
-    "source": "SST"
+    "id": "2521792",
+    "source": "CIBC"
   },
   {
     "title": "Sr. z/OS Network Systems Programmer",
@@ -1109,17 +1120,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Technical lead",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Technical-lead_2521046",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2521046"
-    ],
-    "id": "2521046",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1139,6 +1139,39 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "Verification Engineer Intern (Winter 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Verification-Engineer-Intern--Winter-2026-_R028812",
+    "locationsText": "Atlanta",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028812"
+    ],
+    "id": "R028812",
+    "source": "Ciena"
+  },
+  {
+    "title": "Routing/IP Software Developer Intern (Winter 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Routing-IP-Software-Developer-Intern--Winter-2026-_R029036-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029036"
+    ],
+    "id": "R029036",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Engineering Placement",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Placement_R028779",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028779"
+    ],
+    "id": "R028779",
     "source": "Ciena"
   },
   {
@@ -1307,37 +1340,16 @@
     "source": "Ciena"
   },
   {
-    "title": "Sr. Data Platform SRE",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Data-Platform-SRE_R028690",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
+    "title": "Sr Solutions Engineer \u2013 Digital Payment and Mobile application",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Field/Manager-of-Digital-Payment---Mobile-Applications_R003468",
+    "locationsText": "United States - Field",
+    "postedOn": "Posted Today",
+    "remoteType": "Hybrid or Remote Eligible",
     "bulletFields": [
-      "R028690"
+      "R003468"
     ],
-    "id": "R028690",
-    "source": "Ciena"
-  },
-  {
-    "title": "DocuSign Insight Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/DocuSign-Insight-Developer_R028519",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R028519"
-    ],
-    "id": "R028519",
-    "source": "Ciena"
-  },
-  {
-    "title": "Sr. Project Manager, Global Services Team",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Sr-Project-Manager--Global-Services-Team_R028948",
-    "locationsText": "Remote-Canada",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028948"
-    ],
-    "id": "R028948",
-    "source": "Ciena"
+    "id": "R003468",
+    "source": "Entrust"
   },
   {
     "title": "Senior Cloud DevOps Engineer - Hybrid, Minnesota",

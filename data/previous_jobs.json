@@ -823,6 +823,28 @@
     "source": "SST"
   },
   {
+    "title": "Financial Services Operations Rep. I, II, III",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Massachussets-US/Financial-Services-Operations-Rep-I--II--III_R36360",
+    "locationsText": "14 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36360"
+    ],
+    "id": "R36360",
+    "source": "SST"
+  },
+  {
+    "title": "Operational Due Diligence Analyst (LH BPO)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Operational-Due-Diligence-Analyst_R35394",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35394"
+    ],
+    "id": "R35394",
+    "source": "SST"
+  },
+  {
     "title": "PA-OFF-BPO-Q4-R001 - Fund Services associate 1",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/PA-OFF-BPO-Q4-R001---Fund-Services-associate-1_R37434",
     "locationsText": "2 Locations",
@@ -856,17 +878,6 @@
     "source": "SST"
   },
   {
-    "title": "Senior Director - India Technology - PA2025Q3JB141",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Senior-Director---India-Technology---PA2025Q3JB141_R37468",
-    "locationsText": "Pune, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37468"
-    ],
-    "id": "R37468",
-    "source": "SST"
-  },
-  {
     "title": "PA2025HTQ3172 - Senior Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/PA2025HTQ3172---Lead-Software-Engineer_R35527",
     "locationsText": "Hyderabad, India",
@@ -889,15 +900,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior Manager Client Experience - Client Support PA2025TACSTBAU1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne-Australia/Senior-Manager-Client-Experience---Client-Support-PA2025TACSTBAU1_R37470",
-    "locationsText": "Melbourne, Australia",
+    "title": "Sr. Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2502904",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37470"
+      "2502904"
     ],
-    "id": "R37470",
-    "source": "SST"
+    "id": "2502904",
+    "source": "CIBC"
   },
   {
     "title": "Test Analyst, IT Quality Assurance",
@@ -1109,17 +1120,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Business Systems Analyst",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2520988",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2520988"
-    ],
-    "id": "2520988",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1139,6 +1139,39 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "Embedded Software System Developer- Optical",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/WaveLogic-Technologies-Field-Applications-Engineer_R026772",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R026772"
+    ],
+    "id": "R026772",
+    "source": "Ciena"
+  },
+  {
+    "title": "Photonic Layout Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonic-Layout-Engineer---New-Grad_R029069",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029069"
+    ],
+    "id": "R029069",
+    "source": "Ciena"
+  },
+  {
+    "title": "Application Support Engineer, Service Reliability Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Application-Support-Engineer--Service-Reliability-Engineering_R028786",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028786"
+    ],
+    "id": "R028786",
     "source": "Ciena"
   },
   {
@@ -1205,17 +1238,6 @@
       "R029052"
     ],
     "id": "R029052",
-    "source": "Ciena"
-  },
-  {
-    "title": "Application Support Engineer, Service Reliability Engineering",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Application-Support-Engineer--Service-Reliability-Engineering_R028786",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R028786"
-    ],
-    "id": "R028786",
     "source": "Ciena"
   },
   {
@@ -1315,28 +1337,6 @@
       "R028965"
     ],
     "id": "R028965",
-    "source": "Ciena"
-  },
-  {
-    "title": "Fullstack Developer- Python & Angular/React.js",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Fullstack-Developer--Python---Angular-Reactjs_R028955",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R028955"
-    ],
-    "id": "R028955",
-    "source": "Ciena"
-  },
-  {
-    "title": "IT Business Analyst",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Business-Analyst_R028511",
-    "locationsText": "Remote- India- Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R028511"
-    ],
-    "id": "R028511",
     "source": "Ciena"
   },
   {

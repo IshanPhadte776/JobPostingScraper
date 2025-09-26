@@ -60,8 +60,8 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/277"
   },
   {
-    "id": "278",
-    "jobOpeningName": "IoT Systems Engineer \u2013 Edge & Cloud ",
+    "id": "279",
+    "jobOpeningName": "Embedded Software Developer",
     "departmentId": "18809",
     "departmentLabel": "Hardware Development",
     "employmentStatusLabel": "Full-Time",
@@ -77,7 +77,7 @@
     },
     "isRemote": null,
     "locationType": "0",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/278"
+    "url": "https://giatecscientific.bamboohr.com/career/careers/279"
   },
   {
     "id": "630",
@@ -680,6 +680,26 @@
     "url": "https://truecontext.bamboohr.com/career/careers/36"
   },
   {
+    "id": "37",
+    "jobOpeningName": "Implementation Specialist",
+    "departmentId": "18231",
+    "departmentLabel": "Professional Services",
+    "employmentStatusLabel": "Full time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://truecontext.bamboohr.com/career/careers/37"
+  },
+  {
     "title": "Dealing Administrator",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Dealing-Administrator_R34301",
     "locationsText": "Bangkok, Thailand",
@@ -834,6 +854,61 @@
     "source": "SST"
   },
   {
+    "title": "Senior Director - Transfer Agency",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Senior-Director---Transfer-Agency_R37462",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37462"
+    ],
+    "id": "R37462",
+    "source": "SST"
+  },
+  {
+    "title": "Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Software-Engineer_R37351",
+    "locationsText": "Hyderabad, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37351"
+    ],
+    "id": "R37351",
+    "source": "SST"
+  },
+  {
+    "title": "Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Associate_R35211",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35211"
+    ],
+    "id": "R35211",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate - Private Equity Accounting; East Coast Region",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate---Private-Equity-Accounting--East-Coast-Region_R37641-1",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37641"
+    ],
+    "id": "R37641",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Project Management Office Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Surbiton-UK/Senior-Project-Management-Office-Specialist_R36887-1",
+    "locationsText": "Surbiton, UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36887"
+    ],
+    "id": "R36887",
+    "source": "SST"
+  },
+  {
     "title": "Sr. Client Relations Manager - PA-DSR-Q4-4",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sr-Client-Relations-Manager---PA-DSR-Q4-4_R36991",
     "locationsText": "New York, NY",
@@ -845,59 +920,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Software-Engineer_R37500-1",
-    "locationsText": "Hyderabad, India",
+    "title": "Senior Consultant - Application development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant---Application-development_2522189",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37500"
+      "2522189"
     ],
-    "id": "R37500",
-    "source": "SST"
+    "id": "2522189",
+    "source": "CIBC"
   },
   {
-    "title": "PA2025Q3JB104 Database Administrator \u2013 PostgreSQL or Microsoft SQL DBA",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/PA2025Q3JB104-Database-Administrator---PostgreSQL-or-Microsoft-SQL-DBA_R35231",
-    "locationsText": "3 Locations",
+    "title": "Sr. Consultant, Production Application Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Production-Application-Support_2521207",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35231"
+      "2521207"
     ],
-    "id": "R35231",
-    "source": "SST"
-  },
-  {
-    "title": "PA2024082802 - Senior Associate - Qualified Plan",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/PA2024082802---Senior-Associate---Qualified-Plan_R28799",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R28799"
-    ],
-    "id": "R28799",
-    "source": "SST"
-  },
-  {
-    "title": "Client Experience, Client Support Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney---255-George-St/Client-Experience--Client-Support-Manager_R37548",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37548"
-    ],
-    "id": "R37548",
-    "source": "SST"
-  },
-  {
-    "title": "PA25DBOQ4CC001 - S1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/PA25DBOQ4CC001_R36482",
-    "locationsText": "Pune, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36482"
-    ],
-    "id": "R36482",
-    "source": "SST"
+    "id": "2521207",
+    "source": "CIBC"
   },
   {
     "title": "Market Data System Analyst",
@@ -1098,28 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Lead Senior Software Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Lead-Senior-Software-Developer_2520790",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2520790"
-    ],
-    "id": "2520790",
-    "source": "CIBC"
-  },
-  {
-    "title": "C# Application Developer, Capital Markets Technology",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/C--Application-Developer--Capital-Markets-Technology_2520795",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2520795"
-    ],
-    "id": "2520795",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1142,6 +1162,17 @@
     "source": "Ciena"
   },
   {
+    "title": "New Grad: Digital Verification Engineer (DAC/ADC DSP Correction)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/New-Grad--Digital-Verification-Engineer--DAC-ADC-DSP-Correction-_R029102",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029102"
+    ],
+    "id": "R029102",
+    "source": "Ciena"
+  },
+  {
     "title": "End User Support Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/End-User-Support-Analyst_R028736",
     "locationsText": "Gurugram",
@@ -1161,17 +1192,6 @@
       "R029044"
     ],
     "id": "R029044",
-    "source": "Ciena"
-  },
-  {
-    "title": "New Grad: Digital Verification Engineer (DAC/ADC DSP Correction)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/New-Grad--Digital-Verification-Engineer--DAC-ADC-DSP-Correction-_R029102",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029102"
-    ],
-    "id": "R029102",
     "source": "Ciena"
   },
   {

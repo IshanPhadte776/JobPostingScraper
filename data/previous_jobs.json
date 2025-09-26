@@ -854,7 +854,7 @@
     "source": "SST"
   },
   {
-    "title": "Investor Services Representative I & II (Retirement Services Contact Center)",
+    "title": "Investor Services Representative I (Retirement Services Contact Center)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Investor-Services-Representative-I---II--Retirement-Services-Contact-Center-_R36383-1",
     "locationsText": "9 Locations",
     "postedOn": "Posted Today",
@@ -862,6 +862,17 @@
       "R36383"
     ],
     "id": "R36383",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Insurance / Alternative Investment Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Senior-Associate--Insurance---Alternative-Investment-Accounting_R33110",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R33110"
+    ],
+    "id": "R33110",
     "source": "SST"
   },
   {
@@ -909,15 +920,15 @@
     "source": "SST"
   },
   {
-    "title": "Associate Director, Business Systems Analysis",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Indiana-US/Associate-Director--Business-Systems-Analysis_R37650",
-    "locationsText": "Remote - Indiana, US",
+    "title": "Senior Software Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Software-Engineer_2421418-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37650"
+      "2421418"
     ],
-    "id": "R37650",
-    "source": "SST"
+    "id": "2421418",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Business Systems Analysis",
@@ -1129,17 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2513317",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2513317"
-    ],
-    "id": "2513317",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr./Lead- AI/GenAI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sr-Lead--AI-GenAI-Application-Developer_R027976-1",
     "locationsText": "Gurugram",
@@ -1159,6 +1159,17 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "Revenue Specialist, Services Business Operations",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Revenue-Specialist--Services-Business-Operations_R029026-1",
+    "locationsText": "Remote-Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029026"
+    ],
+    "id": "R029026",
     "source": "Ciena"
   },
   {
@@ -1346,17 +1357,6 @@
       "R028815"
     ],
     "id": "R028815",
-    "source": "Ciena"
-  },
-  {
-    "title": "Optical Portfolio Marketing Advisor",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Portfolio-Marketing-Advisor_R029057",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029057"
-    ],
-    "id": "R029057",
     "source": "Ciena"
   },
   {

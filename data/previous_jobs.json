@@ -883,6 +883,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Front End Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Senior-Front-End-Developer_R35627",
+    "locationsText": "Bucharest, Romania",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35627"
+    ],
+    "id": "R35627",
+    "source": "SST"
+  },
+  {
     "title": "Client Support Representative - SF",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Client-Support-Representative---SF_R37665",
     "locationsText": "San Francisco, CA",
@@ -949,15 +960,15 @@
     "source": "SST"
   },
   {
-    "title": "Learning & Development Specialist PA2025L&DQ4002",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Basildon-UK/Learning---Development-Specialist-PA2025L-DQ4002_R37118",
-    "locationsText": "6 Locations",
+    "title": "Senior Consultant, Application Development and Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development-and-Support_2518359",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37118"
+      "2518359"
     ],
-    "id": "R37118",
-    "source": "SST"
+    "id": "2518359",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Production Application Support (CMT FX)",
@@ -1169,17 +1180,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Infrastructure Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Infrastructure-Management_2520703-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 12 Days Ago",
-    "bulletFields": [
-      "2520703"
-    ],
-    "id": "2520703",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -1210,6 +1210,28 @@
       "R027969"
     ],
     "id": "R027969",
+    "source": "Ciena"
+  },
+  {
+    "title": "QA AI Engineering Co-op - Winter 2026",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/QA-AI-Engineering-Co-op---Winter-2026_R029131",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029131"
+    ],
+    "id": "R029131",
+    "source": "Ciena"
+  },
+  {
+    "title": "QA Security/PV Engineering Co-op - Winter 2026",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/QA-Security-PV-Engineering-Co-op---Winter-2026_R029130",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029130"
+    ],
+    "id": "R029130",
     "source": "Ciena"
   },
   {
@@ -1375,28 +1397,6 @@
       "R029059"
     ],
     "id": "R029059",
-    "source": "Ciena"
-  },
-  {
-    "title": "Project Manager - Cyber Security",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Project-Manager---Cyber-Security_R029022",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029022"
-    ],
-    "id": "R029022",
-    "source": "Ciena"
-  },
-  {
-    "title": "Embedded Software Engineer \u2013 Co-op Winter 2026",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2026_R029117",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029117"
-    ],
-    "id": "R029117",
     "source": "Ciena"
   },
   {

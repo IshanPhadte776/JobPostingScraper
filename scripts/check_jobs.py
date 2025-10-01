@@ -108,6 +108,16 @@ FAILED_COMPANIES = [
         "name": "Kinaxis",
         "endpoint": "https://careers-kinaxis.icims.com/jobs/search",
         "reason": "couldn't find the rest endpoint for jobs"
+    },
+    {
+        "name": "Solink",
+        "endpoint": "https://solink.com/careers/#positions",
+        "reason": "couldn't find the rest endpoint for jobs"
+    },
+    {
+        "name": "Amdocs",
+        "endpoint": "https://jobs.amdocs.com/careers",
+        "reason": "odd job searching structure"
     }
     # Add more failed companies here as needed
 ]

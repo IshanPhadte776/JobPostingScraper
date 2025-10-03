@@ -894,6 +894,17 @@
     "source": "SST"
   },
   {
+    "title": "Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Atlanta-GA/Account-Executive_R37844",
+    "locationsText": "Atlanta, GA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37844"
+    ],
+    "id": "R37844",
+    "source": "SST"
+  },
+  {
     "title": "Senior Consultant",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Consultant_R37583",
     "locationsText": "Hyderabad, India",
@@ -949,15 +960,15 @@
     "source": "SST"
   },
   {
-    "title": "PA25MKOQ3DC005 - S3",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/PA25MKOQ3DC005---S3_R33098",
-    "locationsText": "Mumbai, India",
+    "title": "Consultant, Production Application Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2522169",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R33098"
+      "2522169"
     ],
-    "id": "R33098",
-    "source": "SST"
+    "id": "2522169",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Audit and Controls Governance",
@@ -1001,17 +1012,6 @@
       "2521266"
     ],
     "id": "2521266",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Technical Architect",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Technical-Architect_2516527",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2516527"
-    ],
-    "id": "2516527",
     "source": "CIBC"
   },
   {
@@ -1213,6 +1213,28 @@
     "source": "Ciena"
   },
   {
+    "title": "DevOps and Tools \u2013 Routing IP - Co-op Winter 2026",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/DevOps-and-Tools---Routing-IP---Co-op-Winter-2026_R029166",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029166"
+    ],
+    "id": "R029166",
+    "source": "Ciena"
+  },
+  {
+    "title": "Embedded Software Engineer - New Grad 2026",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer---New-Grad-2026_R029165",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029165"
+    ],
+    "id": "R029165",
+    "source": "Ciena"
+  },
+  {
     "title": "Routing & switching testing + Python Automation",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/C-programming---Routing-IP-Software-Engineer---Controlplane_R029146",
     "locationsText": "Gurugram",
@@ -1375,28 +1397,6 @@
       "R029105"
     ],
     "id": "R029105",
-    "source": "Ciena"
-  },
-  {
-    "title": "Director of Talent Acquisition - Americas",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director-of-Talent-Acquisition---Americas_R029139",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029139"
-    ],
-    "id": "R029139",
-    "source": "Ciena"
-  },
-  {
-    "title": "QA AI Engineering Co-op - Winter 2026",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/QA-AI-Engineering-Co-op---Winter-2026_R029131",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029131"
-    ],
-    "id": "R029131",
     "source": "Ciena"
   },
   {

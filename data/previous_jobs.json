@@ -680,6 +680,17 @@
     "url": "https://truecontext.bamboohr.com/career/careers/37"
   },
   {
+    "title": "AI & Automation Architect  PA2025-R007",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/AI---Automation-Architect--PA2025-R007_R36223",
+    "locationsText": "Remote - New York, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36223"
+    ],
+    "id": "R36223",
+    "source": "SST"
+  },
+  {
     "title": "Operations Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Operations-Manager_R37826",
     "locationsText": "Denver, CO",
@@ -834,6 +845,17 @@
     "source": "SST"
   },
   {
+    "title": "Principal Product Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Principal-Product-Manager_R33566",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R33566"
+    ],
+    "id": "R33566",
+    "source": "SST"
+  },
+  {
     "title": "Associate Manager, Fund Accountant",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Sr-Fund-Accountant_R28166",
     "locationsText": "7 Locations",
@@ -878,26 +900,26 @@
     "source": "SST"
   },
   {
-    "title": "PA2025Q3HTC041 -Senior Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/PA2025Q3HTC041--Software-Engineer_R36261",
-    "locationsText": "Hyderabad, India",
+    "title": "Sr. Consultant, OCIO Audit & Controls Governance (9 Month \u2013 Fixed-Term)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--OCIO-Audit---Controls-Governance--9-Month---Fixed-Term-_2518717",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36261"
+      "2518717"
     ],
-    "id": "R36261",
-    "source": "SST"
+    "id": "2518717",
+    "source": "CIBC"
   },
   {
-    "title": "AI Senior Architect - PA2025062001",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/AI-Senior-Architect---PA2025062001_R35099-1",
-    "locationsText": "Hyderabad, India",
+    "title": "Service Designer, Identity & Remote Access Services",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Service-Designer--Identity---Remote-Access-Services_2518640",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35099"
+      "2518640"
     ],
-    "id": "R35099",
-    "source": "SST"
+    "id": "2518640",
+    "source": "CIBC"
   },
   {
     "title": "Senior Software Engineer",
@@ -1098,28 +1120,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Application Development, Consultant",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Development--Consultant_2522004-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2522004"
-    ],
-    "id": "2522004",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Technical lead",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Technical-lead_2521046",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2521046"
-    ],
-    "id": "2521046",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -1153,6 +1153,39 @@
     "source": "Ciena"
   },
   {
+    "title": "Routing/IP Software Engineer   Hybrid - Ottawa, ON",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Engineer---Packet-Dataplane-OS_R029071-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029071"
+    ],
+    "id": "R029071",
+    "source": "Ciena"
+  },
+  {
+    "title": "RLS Photonics Software Engineer - 2026 New Grads",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/RLS-Photonics-Software-Engineer---2026-New-Grads_R029180",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029180"
+    ],
+    "id": "R029180",
+    "source": "Ciena"
+  },
+  {
+    "title": "Datapath - Software Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Datapath---Software-Engineer_R029110",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029110"
+    ],
+    "id": "R029110",
+    "source": "Ciena"
+  },
+  {
     "title": "Technologue en Photonique",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Technologue-en-Photonique_R029151",
     "locationsText": "Quebec",
@@ -1161,17 +1194,6 @@
       "R029151"
     ],
     "id": "R029151",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Developer - New Grad 2025",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Developer---New-Grad-2025_R028666",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R028666"
-    ],
-    "id": "R028666",
     "source": "Ciena"
   },
   {
@@ -1315,28 +1337,6 @@
       "R029164"
     ],
     "id": "R029164",
-    "source": "Ciena"
-  },
-  {
-    "title": "Service Reliability Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Service-Reliability-Engineer_R028486",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R028486"
-    ],
-    "id": "R028486",
-    "source": "Ciena"
-  },
-  {
-    "title": "SVT/PV Engineer Software Applications",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/SVT-PV-Engineer-Software-Applications_R029044",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029044"
-    ],
-    "id": "R029044",
     "source": "Ciena"
   },
   {

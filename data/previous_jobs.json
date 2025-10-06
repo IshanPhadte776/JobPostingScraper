@@ -500,26 +500,6 @@
     "url": "https://solace.bamboohr.com/career/careers/702"
   },
   {
-    "id": "703",
-    "jobOpeningName": "Technical Product Manager ",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/703"
-  },
-  {
     "id": "704",
     "jobOpeningName": "Solutions Engineer",
     "departmentId": "18676",
@@ -854,14 +834,25 @@
     "source": "SST"
   },
   {
-    "title": "AI Senior Architect - PA2025062001",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/AI-Senior-Architect---PA2025062001_R35099-1",
-    "locationsText": "Hyderabad, India",
+    "title": "Associate Manager, Fund Accountant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Sr-Fund-Accountant_R28166",
+    "locationsText": "7 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35099"
+      "R28166"
     ],
-    "id": "R35099",
+    "id": "R28166",
+    "source": "SST"
+  },
+  {
+    "title": "Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate_R37089",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37089"
+    ],
+    "id": "R37089",
     "source": "SST"
   },
   {
@@ -876,48 +867,70 @@
     "source": "SST"
   },
   {
-    "title": "Senior Customer Success Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Customer-Success-Manager_R35219",
-    "locationsText": "Mumbai, India",
+    "title": "Solutions Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Solutions-Analyst_R34967",
+    "locationsText": "Boston, MA",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35219"
+      "R34967"
     ],
-    "id": "R35219",
+    "id": "R34967",
     "source": "SST"
   },
   {
-    "title": "Manual End to End QA Tester",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/PA2025Q3JB134---Full-Stack-QA-Tester-BKK_R37156-1",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37156"
-    ],
-    "id": "R37156",
-    "source": "SST"
-  },
-  {
-    "title": "TechOps Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/TechOps-Engineer_R37035",
+    "title": "PA2025Q3HTC041 -Senior Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/PA2025Q3HTC041--Software-Engineer_R36261",
     "locationsText": "Hyderabad, India",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37035"
+      "R36261"
     ],
-    "id": "R37035",
+    "id": "R36261",
     "source": "SST"
   },
   {
-    "title": "PA2025TAFAOFFTECH3 Sr. Site Reliability Engineer (SRE), Cloud Incident Response",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/PA2025TAFAOFFTECH3-Sr-Site-Reliability-Engineer--SRE---Cloud-Incident-Response_R37857",
-    "locationsText": "Bangkok, Thailand",
+    "title": "AI Senior Architect - PA2025062001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/AI-Senior-Architect---PA2025062001_R35099-1",
+    "locationsText": "Hyderabad, India",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37857"
+      "R35099"
     ],
-    "id": "R37857",
+    "id": "R35099",
     "source": "SST"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Software-Engineer_2421418-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2421418"
+    ],
+    "id": "2421418",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Information Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2521056",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2521056"
+    ],
+    "id": "2521056",
+    "source": "CIBC"
+  },
+  {
+    "title": "Azure Machine Learning Platform Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Machine-Learning-Platform-Engineer_2518481",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2518481"
+    ],
+    "id": "2518481",
+    "source": "CIBC"
   },
   {
     "title": "Application Production Support Consultant",
@@ -983,17 +996,6 @@
       "2508848"
     ],
     "id": "2508848",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant_2522463",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "2522463"
-    ],
-    "id": "2522463",
     "source": "CIBC"
   },
   {
@@ -1115,28 +1117,6 @@
       "2521046"
     ],
     "id": "2521046",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Quality Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Quality-Engineer_2521771",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2521771"
-    ],
-    "id": "2521771",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Consultant - Application development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant---Application-development_2522189",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "2522189"
-    ],
-    "id": "2522189",
     "source": "CIBC"
   },
   {

@@ -200,26 +200,6 @@
     "url": "https://solace.bamboohr.com/career/careers/667"
   },
   {
-    "id": "669",
-    "jobOpeningName": "Solution Support Engineer",
-    "departmentId": "18562",
-    "departmentLabel": "Support",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Bangalore",
-      "state": "Karnataka"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/669"
-  },
-  {
     "id": "674",
     "jobOpeningName": "Director of Sales",
     "departmentId": "18617",
@@ -620,6 +600,26 @@
     "url": "https://solace.bamboohr.com/career/careers/709"
   },
   {
+    "id": "710",
+    "jobOpeningName": "Solution Support Engineer",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/710"
+  },
+  {
     "id": "35",
     "jobOpeningName": "Accounting Analyst",
     "departmentId": "18810",
@@ -680,6 +680,17 @@
     "url": "https://truecontext.bamboohr.com/career/careers/37"
   },
   {
+    "title": "Operations Manager (PA-CAL-Q4-001)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Operations-Manager--PA-CAL-Q4-001-_R37839",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37839"
+    ],
+    "id": "R37839",
+    "source": "SST"
+  },
+  {
     "title": "AI & Automation Architect  PA2025-R007",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/AI---Automation-Architect--PA2025-R007_R36223",
     "locationsText": "Remote - New York, US",
@@ -688,17 +699,6 @@
       "R36223"
     ],
     "id": "R36223",
-    "source": "SST"
-  },
-  {
-    "title": "Operations Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Operations-Manager_R37826",
-    "locationsText": "Denver, CO",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R37826"
-    ],
-    "id": "R37826",
     "source": "SST"
   },
   {
@@ -845,58 +845,58 @@
     "source": "SST"
   },
   {
-    "title": "Senior Front End Developer - PASWTECNEWBAUOFF452",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Senior-Front-End-Developer---PASWTECNEWBAUOFF452_R37171",
-    "locationsText": "Bucharest, Romania",
+    "title": "Principal Product Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Principal-Product-Manager_R33566",
+    "locationsText": "Waltham MA - 10 CityPoint",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37171"
+      "R33566"
     ],
-    "id": "R37171",
+    "id": "R33566",
     "source": "SST"
   },
   {
-    "title": "Regional Sales Manager - MENA",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dubai-UAE/Regional-Sales-Manager---MENA_R37568",
-    "locationsText": "2 Locations",
+    "title": "Sr. Client Relations Manager - PA-DSR-Q4-4",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sr-Client-Relations-Manager---PA-DSR-Q4-4_R36991",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37568"
+      "R36991"
     ],
-    "id": "R37568",
+    "id": "R36991",
     "source": "SST"
   },
   {
-    "title": "Manager - Fund Accounting, Private Debt",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Manager---Private-Debt-Fund-Accounting_R35460",
-    "locationsText": "London, UK",
+    "title": "PA2025Q3HTC038 - Lead Software QA Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/PA2025Q3HTC038---Lead-Business-Systems-Analyst_R36268",
+    "locationsText": "Hyderabad, India",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35460"
+      "R36268"
     ],
-    "id": "R35460",
+    "id": "R36268",
     "source": "SST"
   },
   {
-    "title": "Senior Performance Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne-Australia/Senior-Performance-Engineer_R37855",
-    "locationsText": "Melbourne, Australia",
+    "title": "Entry Level Financial Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Entry-Level-Financial-Operations_R37392",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37855"
+      "R37392"
     ],
-    "id": "R37855",
+    "id": "R37392",
     "source": "SST"
   },
   {
-    "title": "Product Owner, DomaniRx",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Product-Owner--DomaniRx_R37820",
-    "locationsText": "Remote - Missouri, US",
+    "title": "QA Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/QA-Analyst_R36885",
+    "locationsText": "Boston MA - One Post Office Square",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37820"
+      "R36885"
     ],
-    "id": "R37820",
+    "id": "R36885",
     "source": "SST"
   },
   {

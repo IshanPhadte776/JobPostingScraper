@@ -100,6 +100,26 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/280"
   },
   {
+    "id": "281",
+    "jobOpeningName": "Accounts Payable Clerk",
+    "departmentId": "18446",
+    "departmentLabel": "Finance & Operations",
+    "employmentStatusLabel": "Fixed-term contract",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/281"
+  },
+  {
     "id": "630",
     "jobOpeningName": "Solutions Engineer",
     "departmentId": "18676",
@@ -845,6 +865,39 @@
     "source": "SST"
   },
   {
+    "title": "Associte Manager - Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland/Associte-Manager---Fund-Accounting_R37715",
+    "locationsText": "Dublin, Ireland",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37715"
+    ],
+    "id": "R37715",
+    "source": "SST"
+  },
+  {
+    "title": "Manager Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland/Manager-Fund-Accounting_R37716",
+    "locationsText": "Dublin, Ireland",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37716"
+    ],
+    "id": "R37716",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Node.js Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Technical-Lead_R27647",
+    "locationsText": "Bucharest, Romania",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R27647"
+    ],
+    "id": "R27647",
+    "source": "SST"
+  },
+  {
     "title": "Client Solution Analyst",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney---255-George-St/Client-Solution-Analyst_R37929",
     "locationsText": "2 Locations",
@@ -864,39 +917,6 @@
       "R35789"
     ],
     "id": "R35789",
-    "source": "SST"
-  },
-  {
-    "title": "QA Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/QA-Engineer_R36173",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36173"
-    ],
-    "id": "R36173",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Gurgaon-India/Associate-Manager_R37453",
-    "locationsText": "Gurgaon, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37453"
-    ],
-    "id": "R37453",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate-Manager_R37842",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37842"
-    ],
-    "id": "R37842",
     "source": "SST"
   },
   {
@@ -1131,6 +1151,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Customer Success Executive",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Brazil/Customer-Success-Executive_R029185",
+    "locationsText": "Remote-Brazil",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029185"
+    ],
+    "id": "R029185",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Project Manager, Field Service Engineering",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Project-Manager--Field-Service-Engineering_R029162",
     "locationsText": "Remote-US",
@@ -1326,17 +1357,6 @@
       "R029148"
     ],
     "id": "R029148",
-    "source": "Ciena"
-  },
-  {
-    "title": "New Grad Software Engineer - UK",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/New-Grad-Software-Engineer---UK_R029045",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029045"
-    ],
-    "id": "R029045",
     "source": "Ciena"
   },
   {

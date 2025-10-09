@@ -825,6 +825,28 @@
     "source": "SST"
   },
   {
+    "title": "Reporting Services Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Luxembourg-City-Luxembourg/Reporting-Services-Associate_R34591",
+    "locationsText": "Luxembourg City, Luxembourg",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R34591"
+    ],
+    "id": "R34591",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Sr-Account-Executive_R36400",
+    "locationsText": "Chicago, IL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36400"
+    ],
+    "id": "R36400",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Data Analyst, Regulatory Solutions",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Data-Analyst_R35293",
     "locationsText": "New York, NY",
@@ -858,26 +880,59 @@
     "source": "SST"
   },
   {
-    "title": "Senior Front End Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---UK/Senior-Front-End-Developer_R35661",
-    "locationsText": "Remote - UK",
+    "title": "Consultant, IT Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--IT-Quality-Assurance_2519814",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35661"
+      "2519814"
     ],
-    "id": "R35661",
-    "source": "SST"
+    "id": "2519814",
+    "source": "CIBC"
   },
   {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Senior-Associate_R37479",
-    "locationsText": "2 Locations",
+    "title": "Consultant, ECRM Governance & Planning",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--ECRM-Governance---Planning_2518432",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37479"
+      "2518432"
     ],
-    "id": "R37479",
-    "source": "SST"
+    "id": "2518432",
+    "source": "CIBC"
+  },
+  {
+    "title": "Application Consultant (Architect/Lead)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Consultant--Digital-Banking--Microservices--Java--Cloud-native-_2427628",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2427628"
+    ],
+    "id": "2427628",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2517347",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2517347"
+    ],
+    "id": "2517347",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr Consultant, Web and Adobe Experience Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Web-and-Adobe-Experience-Management_2508097",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2508097"
+    ],
+    "id": "2508097",
+    "source": "CIBC"
   },
   {
     "title": "Business System Analyst, Global Derivatives Technology.",
@@ -1042,61 +1097,6 @@
       "2522017"
     ],
     "id": "2522017",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Manager, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2519794",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2519794"
-    ],
-    "id": "2519794",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Solution Design and Strategy",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Solution-Design-and-Strategy_2522430",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2522430"
-    ],
-    "id": "2522430",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, OCIO Audit & Controls Governance (9 Month \u2013 Fixed-Term)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--OCIO-Audit---Controls-Governance--9-Month---Fixed-Term-_2518717",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2518717"
-    ],
-    "id": "2518717",
-    "source": "CIBC"
-  },
-  {
-    "title": "Service Designer, Identity & Remote Access Services",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Service-Designer--Identity---Remote-Access-Services_2518640",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2518640"
-    ],
-    "id": "2518640",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Software-Engineer_2421418-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2421418"
-    ],
-    "id": "2421418",
     "source": "CIBC"
   },
   {

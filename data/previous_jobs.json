@@ -738,6 +738,17 @@
     "source": "SST"
   },
   {
+    "title": "Associate Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Gurgaon-India/Associate-Manager_R37071",
+    "locationsText": "Gurgaon, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37071"
+    ],
+    "id": "R37071",
+    "source": "SST"
+  },
+  {
     "title": "Junior Software Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Junior-Software-Developer_R36760",
     "locationsText": "Windsor, CT",
@@ -746,17 +757,6 @@
       "R36760"
     ],
     "id": "R36760",
-    "source": "SST"
-  },
-  {
-    "title": "Software Development Engineer In Test",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Software-Development-Engineer-In-Test_R38143",
-    "locationsText": "San Francisco, CA",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38143"
-    ],
-    "id": "R38143",
     "source": "SST"
   },
   {
@@ -903,17 +903,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Technology Architect",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Chicago-IL/Senior-Technology-Architect_2523626",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "2523626"
-    ],
-    "id": "2523626",
-    "source": "CIBC"
-  },
-  {
     "title": "Director of AI Applications Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director-of-AI-Applications-Development_2521328",
     "locationsText": "Toronto, ON",
@@ -980,6 +969,17 @@
     "source": "CIBC"
   },
   {
+    "title": "Sr. Consultant, OCIO Audit & Controls Governance (9 Month \u2013 Fixed-Term)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--OCIO-Audit---Controls-Governance--9-Month---Fixed-Term-_2518717",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 6 Days Ago",
+    "bulletFields": [
+      "2518717"
+    ],
+    "id": "2518717",
+    "source": "CIBC"
+  },
+  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -988,6 +988,28 @@
       "R029072"
     ],
     "id": "R029072",
+    "source": "Ciena"
+  },
+  {
+    "title": "Layout Design Co-op (Winter 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Layout-Design-Co-op--Winter-2026-_R029276",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029276"
+    ],
+    "id": "R029276",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Design Intern (Winter 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Design-Intern--Winter-2026-_R029275",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029275"
+    ],
+    "id": "R029275",
     "source": "Ciena"
   },
   {
@@ -1175,28 +1197,6 @@
       "R029107"
     ],
     "id": "R029107",
-    "source": "Ciena"
-  },
-  {
-    "title": "Optical Network Embedded Software Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Network-Embedded-Software-Engineer---New-Grad_R028715",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R028715"
-    ],
-    "id": "R028715",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Software Development Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R028894",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R028894"
-    ],
-    "id": "R028894",
     "source": "Ciena"
   },
   {
@@ -2400,6 +2400,48 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 154947,
+    "type": "careers",
+    "title": "Senior Software Engineer I",
+    "link": "https://www.surveymonkey.com/careers/7315001-senior-software-engineer-i/",
+    "path": "/careers/7315001-senior-software-engineer-i/",
+    "date": "2025-10-21T15:00:08",
+    "date_modified": "2025-10-21T15:00:08",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer I",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 154938,

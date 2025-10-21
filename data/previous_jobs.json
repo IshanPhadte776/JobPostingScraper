@@ -738,26 +738,37 @@
     "source": "SST"
   },
   {
-    "title": "Payroll Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kuala-Lumpur-Malaysia/Payroll-Executive_R37975",
-    "locationsText": "Kuala Lumpur, Malaysia",
+    "title": "Senior Associate, Private Equity Tax",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Private-Equity-Tax_R38004",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37975"
+      "R38004"
     ],
-    "id": "R37975",
+    "id": "R38004",
     "source": "SST"
   },
   {
-    "title": "Consultant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Engagement-Specialist_R37705",
-    "locationsText": "Chicago, IL",
+    "title": "Facilities Coordinator",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Facilities-Coordinator_R38211",
+    "locationsText": "San Francisco, CA",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37705"
+      "R38211"
     ],
-    "id": "R37705",
+    "id": "R38211",
     "source": "SST"
+  },
+  {
+    "title": "Sr. Consultant, Technology Architecture",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Technology-Architecture_2520756",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2520756"
+    ],
+    "id": "2520756",
+    "source": "CIBC"
   },
   {
     "title": "z/OS Intermediate Systems Programmer",
@@ -969,17 +980,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2523763",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2523763"
-    ],
-    "id": "2523763",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -988,6 +988,17 @@
       "R029072"
     ],
     "id": "R029072",
+    "source": "Ciena"
+  },
+  {
+    "title": "NPI Test Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/NPI-Test-Engineer_R029122-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029122"
+    ],
+    "id": "R029122",
     "source": "Ciena"
   },
   {
@@ -1186,17 +1197,6 @@
       "R029215"
     ],
     "id": "R029215",
-    "source": "Ciena"
-  },
-  {
-    "title": "Automation and Tools Software Developer Co-op - Winter 2026",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Automation-and-Tools-Software-Developer-Co-op---Winter-2026_R029189",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029189"
-    ],
-    "id": "R029189",
     "source": "Ciena"
   },
   {

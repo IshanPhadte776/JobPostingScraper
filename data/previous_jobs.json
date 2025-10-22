@@ -738,26 +738,48 @@
     "source": "SST"
   },
   {
-    "title": "Sr. QA Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Sr-QA-Engineer_R37730",
-    "locationsText": "San Francisco, CA",
+    "title": "Reporting Services \u2013 Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Luxembourg-City-Luxembourg/Reporting-Services---Associate_R38018",
+    "locationsText": "Luxembourg City, Luxembourg",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37730"
+      "R38018"
     ],
-    "id": "R37730",
+    "id": "R38018",
     "source": "SST"
   },
   {
-    "title": "Senior Financial Reporting Accountant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Senior-Financial-Reporting-Accountant_R38315",
-    "locationsText": "Mississauga, Canada",
+    "title": "Investor Services \u2013 Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Luxembourg-City-Luxembourg/Investor-Services---Senior-Associate_R38017",
+    "locationsText": "Luxembourg City, Luxembourg",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38315"
+      "R38017"
     ],
-    "id": "R38315",
+    "id": "R38017",
     "source": "SST"
+  },
+  {
+    "title": "Senior Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development_2511972",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2511972"
+    ],
+    "id": "2511972",
+    "source": "CIBC"
+  },
+  {
+    "title": "Business Systems Specialist",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Business-Systems-Specialist_2510791",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2510791"
+    ],
+    "id": "2510791",
+    "source": "CIBC"
   },
   {
     "title": "IT Administration Analyst",
@@ -958,28 +980,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Director of AI Applications Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director-of-AI-Applications-Development_2521328",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2521328"
-    ],
-    "id": "2521328",
-    "source": "CIBC"
-  },
-  {
-    "title": "Director, Innovation and Identity Engineering",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Innovation-and-Identity-Engineering_2522210",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2522210"
-    ],
-    "id": "2522210",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -988,6 +988,28 @@
       "R029072"
     ],
     "id": "R029072",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Engineering Placement",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Placement_R028779",
+    "locationsText": "UK- Edinburgh - 19A Canning St",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028779"
+    ],
+    "id": "R028779",
+    "source": "Ciena"
+  },
+  {
+    "title": "Associate, People Services",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Associate--People-Services_R029307",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029307"
+    ],
+    "id": "R029307",
     "source": "Ciena"
   },
   {
@@ -1090,17 +1112,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Accountant (P2)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Accountant--P2-_R029279",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029279"
-    ],
-    "id": "R029279",
-    "source": "Ciena"
-  },
-  {
     "title": "NPI Test Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/NPI-Test-Engineer_R029122-1",
     "locationsText": "Ottawa",
@@ -1189,15 +1200,16 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Accountant - Global",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Accountant---Global_R028895",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted 2 Days Ago",
+    "title": "Electrical Engineer II - PCB Design",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/PC-Board-Designer_R003307",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted Today",
+    "remoteType": "Hybrid Eligible",
     "bulletFields": [
-      "R028895"
+      "R003307"
     ],
-    "id": "R028895",
-    "source": "Ciena"
+    "id": "R003307",
+    "source": "Entrust"
   },
   {
     "title": "Senior .NET Software Developer - Hybrid, Minnesota",
@@ -1267,18 +1279,6 @@
       "R003006"
     ],
     "id": "R003006",
-    "source": "Entrust"
-  },
-  {
-    "title": "Electrical Engineer II",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/PC-Board-Designer_R003307",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 30+ Days Ago",
-    "remoteType": "Hybrid Eligible",
-    "bulletFields": [
-      "R003307"
-    ],
-    "id": "R003307",
     "source": "Entrust"
   },
   {

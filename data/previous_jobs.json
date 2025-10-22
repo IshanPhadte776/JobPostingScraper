@@ -738,26 +738,48 @@
     "source": "SST"
   },
   {
-    "title": "Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Texas-US/Software-Engineer_R38300",
-    "locationsText": "Remote - Texas, US",
+    "title": "Sr. Openshift Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Ontario-Canada/Sr-Openshift-Engineer_R38108",
+    "locationsText": "Remote - Ontario, Canada",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38300"
+      "R38108"
     ],
-    "id": "R38300",
+    "id": "R38108",
     "source": "SST"
   },
   {
-    "title": "AML Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland/AML-Associate_R38014-1",
-    "locationsText": "Dublin, Ireland",
+    "title": "Lead Software Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Lead-Software-Developer_R37197",
+    "locationsText": "Mississauga, Canada",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38014"
+      "R37197"
     ],
-    "id": "R38014",
+    "id": "R37197",
     "source": "SST"
+  },
+  {
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2523768-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2523768"
+    ],
+    "id": "2523768",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2523770",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2523770"
+    ],
+    "id": "2523770",
+    "source": "CIBC"
   },
   {
     "title": "Senior Consultant, PEGA Solution",
@@ -958,28 +980,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Application Support Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/ON-81-Bay-Street-Virtual/Sr-Application-Support-Engineer_2522529",
-    "locationsText": "ON-81 Bay Street-Virtual",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2522529"
-    ],
-    "id": "2522529",
-    "source": "CIBC"
-  },
-  {
-    "title": "z/OS Intermediate Systems Programmer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/z-OS-Intermediate-Systems-Programmer_2512942",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2512942"
-    ],
-    "id": "2512942",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -988,6 +988,17 @@
       "R029072"
     ],
     "id": "R029072",
+    "source": "Ciena"
+  },
+  {
+    "title": "Optical DSP Engineer - New Grad or Early in Career",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Optical-DSP-Engineer---New-Grad-or-Early-in-Career_R029306",
+    "locationsText": "Atlanta",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029306"
+    ],
+    "id": "R029306",
     "source": "Ciena"
   },
   {
@@ -1186,17 +1197,6 @@
       "R029187"
     ],
     "id": "R029187",
-    "source": "Ciena"
-  },
-  {
-    "title": "Director of Talent Acquisition - Americas",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director-of-Talent-Acquisition---Americas_R029139",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029139"
-    ],
-    "id": "R029139",
     "source": "Ciena"
   },
   {

@@ -540,10 +540,21 @@
     "url": "https://truecontext.bamboohr.com/career/careers/37"
   },
   {
+    "title": "Operations Manager, Technical Support Team (PA-CAL-Q4-001)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Operations-Manager--PA-CAL-Q4-001-_R37839",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37839"
+    ],
+    "id": "R37839",
+    "source": "SST"
+  },
+  {
     "title": "Principal Product Manager SDE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Principle-Product-Manager-SDE_R36919",
     "locationsText": "Waltham, MA",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R36919"
     ],
@@ -554,7 +565,7 @@
     "title": "Sales Executive Hedge Funds",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Sales-Executive-Hedge-Funds_R29258",
     "locationsText": "4 Locations",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R29258"
     ],
@@ -565,7 +576,7 @@
     "title": "Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Software-Engineer_R38205",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R38205"
     ],
@@ -573,21 +584,10 @@
     "source": "SST"
   },
   {
-    "title": "Operations Manager, Technical Support Team (PA-CAL-Q4-001)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Operations-Manager--PA-CAL-Q4-001-_R37839",
-    "locationsText": "Denver, CO",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R37839"
-    ],
-    "id": "R37839",
-    "source": "SST"
-  },
-  {
     "title": "Java Technical Lead",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Java-Technical-Lead_R36869",
     "locationsText": "London, UK",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R36869"
     ],
@@ -598,7 +598,7 @@
     "title": "Director Private Equity Fund Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Director-Private-Equity-Fund-Accounting_R34986",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R34986"
     ],
@@ -609,7 +609,7 @@
     "title": "Lead Software Engineer / Dot Net Full Stack Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India---Block-B/Lead-Software-Engineer---Dot-Net-Developer_R29663",
     "locationsText": "3 Locations",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R29663"
     ],
@@ -620,7 +620,7 @@
     "title": "Manager \u2013 Private Markets Implementations and Consulting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Gurgaon-India/Manager---Private-Markets-Implementations-and-Consulting_R36806",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R36806"
     ],
@@ -631,7 +631,7 @@
     "title": "PostgreSQL C#.NET Senior Developer - Hyderabad (Immediate Joiners Only)!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Microservices--C-NET-Developer---Hyderabad--Immediate-Joiners-Only--_R35566",
     "locationsText": "Hyderabad, India",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R35566"
     ],
@@ -642,7 +642,7 @@
     "title": "Dealing Administrator",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Unit-Registrar-Administrator_R34018",
     "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R34018"
     ],
@@ -653,7 +653,7 @@
     "title": "Senior Angular/ UX/UI Developer - Hyderabad (Immediate Joiners Only)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Angular--UX-UI-Developer---Hyderabad--Immediate-Joiners-Only-_R35565",
     "locationsText": "Hyderabad, India",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R35565"
     ],
@@ -664,7 +664,7 @@
     "title": "Hiring Chartered Accountant Freshers - PUNE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Hiring-Chartered-Accountant-Freshers---PUNE_R35256",
     "locationsText": "Pune, India",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R35256"
     ],
@@ -675,7 +675,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Investor-Services---Manager--Associate-Manager_R35078",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R35078"
     ],
@@ -686,7 +686,7 @@
     "title": "Manager - Risk based Internal Audits/ Process Audits",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Manager---Risk-based-Internal-Audits--Process-Audits_R35282",
     "locationsText": "Mumbai, India",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R35282"
     ],
@@ -697,7 +697,7 @@
     "title": "Solutions Consultant",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Mexico/Solutions-Consultant_R34480",
     "locationsText": "Remote - Mexico",
-    "postedOn": "Posted 11 Days Ago",
+    "postedOn": "Posted 12 Days Ago",
     "bulletFields": [
       "R34480"
     ],
@@ -708,7 +708,7 @@
     "title": "Senior Quant Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Quant-Developer_R35179",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R35179"
     ],
@@ -719,7 +719,7 @@
     "title": "AI & Automation Architect  PA2025-R007",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/AI---Automation-Architect--PA2025-R007_R36223",
     "locationsText": "Remote - New York, US",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R36223"
     ],
@@ -730,11 +730,21 @@
     "title": "Dealing Administrator",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Dealing-Administrator_R34301",
     "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted 26 Days Ago",
+    "postedOn": "Posted 27 Days Ago",
     "bulletFields": [
       "R34301"
     ],
     "id": "R34301",
+    "source": "SST"
+  },
+  {
+    "title": "Release Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Release-Manager_R38335",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38335"
+    ],
+    "id": "R38335",
     "source": "SST"
   },
   {
@@ -749,21 +759,65 @@
     "source": "SST"
   },
   {
-    "title": "Investor Services \u2013 Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Luxembourg-City-Luxembourg/Investor-Services---Senior-Associate_R38017",
-    "locationsText": "Luxembourg City, Luxembourg",
+    "title": "Consultant, IT Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--IT-Quality-Assurance_2523911",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38017"
+      "2523911"
     ],
-    "id": "R38017",
-    "source": "SST"
+    "id": "2523911",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Analyst, IT Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Analyst--IT-Quality-Assurance_2523916",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2523916"
+    ],
+    "id": "2523916",
+    "source": "CIBC"
+  },
+  {
+    "title": "iOS Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/iOS-Developer_2523913",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2523913"
+    ],
+    "id": "2523913",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2523904",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "2523904"
+    ],
+    "id": "2523904",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Developement_2522383",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "2522383"
+    ],
+    "id": "2522383",
+    "source": "CIBC"
   },
   {
     "title": "Senior Consultant, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development_2511972",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2511972"
     ],
@@ -774,7 +828,7 @@
     "title": "Business Systems Specialist",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Business-Systems-Specialist_2510791",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2510791"
     ],
@@ -785,7 +839,7 @@
     "title": "IT Administration Analyst",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/IT-Administration-Analyst_2523562-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2523562"
     ],
@@ -796,7 +850,7 @@
     "title": "Consultant, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2523768-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2523768"
     ],
@@ -807,7 +861,7 @@
     "title": "Consultant, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2523770",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2523770"
     ],
@@ -818,7 +872,7 @@
     "title": "Senior Consultant, PEGA Solution",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--PEGA-Solution_2523937",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2523937"
     ],
@@ -829,7 +883,7 @@
     "title": "Senior Consultant - Solution Designer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant---Solution-Designer_2524263-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2524263"
     ],
@@ -840,7 +894,7 @@
     "title": "Delivery Lead - Contact Center AI Platform",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Delivery-Lead---Contact-Center-AI-Platform_2521600",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2521600"
     ],
@@ -851,7 +905,7 @@
     "title": "Sr. Consultant, Technology Architecture",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Technology-Architecture_2520756",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2520756"
     ],
@@ -862,7 +916,7 @@
     "title": "z/OS Intermediate Systems Programmer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/z-OS-Intermediate-Systems-Programmer_2513308-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2513308"
     ],
@@ -873,7 +927,7 @@
     "title": "Director, Mainframe Operations",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Mainframe-Operations_2523335-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2523335"
     ],
@@ -884,7 +938,7 @@
     "title": "Software Development Engineer in Test (SDET)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Development-Engineer-in-Test--SDET-_2519714-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2519714"
     ],
@@ -895,7 +949,7 @@
     "title": "Consultant, Infrastructure Management, Employee Technology Operations Services.",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Infrastructure-Management--Employee-Technology-Operations-Services_2523627",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2523627"
     ],
@@ -906,7 +960,7 @@
     "title": "Oracle DBA, Infrastructure Operations and Networks",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Oracle-DBA--Infrastructure-Operations-and-Networks_2522211",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2522211"
     ],
@@ -917,7 +971,7 @@
     "title": "Sr. Consultant, Cloud Engineering - Azure",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Cloud-Engineering---Azure_2515335",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2515335"
     ],
@@ -925,65 +979,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2523432",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2523432"
-    ],
-    "id": "2523432",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Production Application Support",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Production-Application-Support_2521207",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2521207"
-    ],
-    "id": "2521207",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Application Operations DBA",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Operations-DBA_2522016-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2522016"
-    ],
-    "id": "2522016",
-    "source": "CIBC"
-  },
-  {
-    "title": "Cloud Security Engineer (DLP Specialist)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Information-Security_2505964",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2505964"
-    ],
-    "id": "2505964",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Consultant, Database Management (IMS & CICS)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Database-Management--IMS---CICS-_2516903-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2516903"
-    ],
-    "id": "2516903",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R029072"
     ],
@@ -991,10 +990,65 @@
     "source": "Ciena"
   },
   {
+    "title": "Python Developer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Python-Developer_R029201",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029201"
+    ],
+    "id": "R029201",
+    "source": "Ciena"
+  },
+  {
+    "title": "Vodafone Account Leader",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mumbai/Vodafone-Account-Leader_R029269",
+    "locationsText": "Mumbai",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029269"
+    ],
+    "id": "R029269",
+    "source": "Ciena"
+  },
+  {
+    "title": "Routing/IP Software Engineer - Control Plane",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Routing-IP-Software-Engineer---Control-Plane_R029107",
+    "locationsText": "UK- Edinburgh - 19A Canning St",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029107"
+    ],
+    "id": "R029107",
+    "source": "Ciena"
+  },
+  {
+    "title": "Application Support Engineer-Mulesoft",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Application-Support-Engineer--Service-Reliability-Engineering_R028475",
+    "locationsText": "Remote- India- Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028475"
+    ],
+    "id": "R028475",
+    "source": "Ciena"
+  },
+  {
+    "title": "Solutions Architect Sales (Technical Salesforce)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-GA/Solutions-Architect-Sales_R027702",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R027702"
+    ],
+    "id": "R027702",
+    "source": "Ciena"
+  },
+  {
     "title": "Software Engineering Placement",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Placement_R028779",
     "locationsText": "UK- Edinburgh - 19A Canning St",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R028779"
     ],
@@ -1005,7 +1059,7 @@
     "title": "Associate, People Services",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Associate--People-Services_R029307",
     "locationsText": "Baltimore",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R029307"
     ],
@@ -1016,7 +1070,7 @@
     "title": "Senior Accountant, Regional Statutory Accounting",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Senior-Accountant--Regional-Statutory-Accounting_R028797-1",
     "locationsText": "Remote- India- Gurugram",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R028797"
     ],
@@ -1027,7 +1081,7 @@
     "title": "Optical DSP Engineer - New Grad or Early in Career",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Optical-DSP-Engineer---New-Grad-or-Early-in-Career_R029306",
     "locationsText": "Atlanta",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R029306"
     ],
@@ -1038,7 +1092,7 @@
     "title": "Software Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Software-Engineer_R029271",
     "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R029271"
     ],
@@ -1049,7 +1103,7 @@
     "title": "Service Reliability Engineer- .Net",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Service-Reliability-Engineer_R028486",
     "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R028486"
     ],
@@ -1060,7 +1114,7 @@
     "title": "Associate Program Mangement",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Program-Mangement_R029263",
     "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R029263"
     ],
@@ -1071,7 +1125,7 @@
     "title": "Material Planner Buyer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Thailand-Celestica/Material-Planner-Buyer_R029288",
     "locationsText": "Thailand-Celestica",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R029288"
     ],
@@ -1082,7 +1136,7 @@
     "title": "Project Manager - Cyber Security",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Project-Manager---Cyber-Security_R029022",
     "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R029022"
     ],
@@ -1093,7 +1147,7 @@
     "title": "Layout Design Co-op (Winter 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Layout-Design-Co-op--Winter-2026-_R029276",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R029276"
     ],
@@ -1104,7 +1158,7 @@
     "title": "Software Design Intern (Winter 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Design-Intern--Winter-2026-_R029275",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R029275"
     ],
@@ -1115,7 +1169,7 @@
     "title": "NPI Test Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/NPI-Test-Engineer_R029122-1",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R029122"
     ],
@@ -1126,7 +1180,7 @@
     "title": "Consultant, CMS Business Development",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Consultant--CMS-Business-Development_R029287",
     "locationsText": "Remote-US",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R029287"
     ],
@@ -1137,7 +1191,7 @@
     "title": "Intern, Associate Buyer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Intern--Associate-Buyer_R029268",
     "locationsText": "Guadalajara",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R029268"
     ],
@@ -1145,65 +1199,22 @@
     "source": "Ciena"
   },
   {
-    "title": "Front End Software Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Front-End-Software-Developer_R029240-1",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "title": "Senior Solutions Engineer \u2013 Digital Payment and Mobile Applications",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Field/Manager-of-Digital-Payment---Mobile-Applications_R003468",
+    "locationsText": "United States - Field",
+    "postedOn": "Posted Yesterday",
+    "remoteType": "Hybrid or Remote Eligible",
     "bulletFields": [
-      "R029240"
+      "R003468"
     ],
-    "id": "R029240",
-    "source": "Ciena"
-  },
-  {
-    "title": "Hardware (PCBA) Design and Verification Co-op (Winter 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Co-op--Winter-2026-_R028923",
-    "locationsText": "Canada- Ottawa- 383 Terry Fox- Bldg C",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028923"
-    ],
-    "id": "R028923",
-    "source": "Ciena"
-  },
-  {
-    "title": "Embedded Software System Developer- Optical",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/WaveLogic-Technologies-Field-Applications-Engineer_R026772",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R026772"
-    ],
-    "id": "R026772",
-    "source": "Ciena"
-  },
-  {
-    "title": "Coherent Pluggable Transponder - Systems Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Coherent-Pluggable-Transponder---Systems-Engineer_R027713",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R027713"
-    ],
-    "id": "R027713",
-    "source": "Ciena"
-  },
-  {
-    "title": "RLS WIP Coordinator",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/RLS-WIP-Coordinator_R029178",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029178"
-    ],
-    "id": "R029178",
-    "source": "Ciena"
+    "id": "R003468",
+    "source": "Entrust"
   },
   {
     "title": "Electrical Engineer II - PCB Design",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/PC-Board-Designer_R003307",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "remoteType": "Hybrid Eligible",
     "bulletFields": [
       "R003307"
@@ -1215,7 +1226,7 @@
     "title": "Senior .NET Software Developer - Hybrid, Minnesota",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Cloud-Technical-Program-Manager---Development-Deployment_R003274",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "remoteType": "Hybrid Eligible",
     "bulletFields": [
       "R003274"
@@ -1227,7 +1238,7 @@
     "title": "Engineering Project Manager - R&D",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Engineering-Project-Manager_R003794",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R003794"
     ],
@@ -1238,7 +1249,7 @@
     "title": "Full-Stack Developer II \u2013 Java | Hybrid | Minneapolis, MN",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II---Hybrid--Minneapolis_R003293",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "remoteType": "Hybrid Eligible",
     "bulletFields": [
       "R003293"
@@ -1250,23 +1261,11 @@
     "title": "Sr. C++ Software Developer (Desktop Driver development)",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Sr-Software-Developer_R003784",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 19 Days Ago",
+    "postedOn": "Posted 20 Days Ago",
     "bulletFields": [
       "R003784"
     ],
     "id": "R003784",
-    "source": "Entrust"
-  },
-  {
-    "title": "Sr Solutions Engineer \u2013 Digital Payment and Mobile application",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Field/Manager-of-Digital-Payment---Mobile-Applications_R003468",
-    "locationsText": "United States - Field",
-    "postedOn": "Posted 28 Days Ago",
-    "remoteType": "Hybrid or Remote Eligible",
-    "bulletFields": [
-      "R003468"
-    ],
-    "id": "R003468",
     "source": "Entrust"
   },
   {
@@ -1280,6 +1279,86 @@
     ],
     "id": "R003006",
     "source": "Entrust"
+  },
+  {
+    "id": "job_20251023131422_MTH3ILGJNYOWPDPY",
+    "title": "Inside Technical Sales Representative (Entry)",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L5Z9",
+    "department": "Sales",
+    "description": "<p>In this position you will use your engineering skills to assist in the daily operations of the sales team for multiple industries interacting with a worldwide customer base.</p><p>This position is a fantastic introduction to the broadcast industry, and can help candidates develop skills and expand their knowledge base, to assist with long term career growth within both the company and industry.</p><p><strong>Responsibilities:</strong></p><ul><li>Assisting customers and/or Evertz outside sales team with system design and equipment, while maintaining a strong and professional relationship with all customers.</li><li>Determine customer needs and provide the most cost effective and innovative solution and pricing, with accompanying system drawing.</li><li>Interact with Evertz R&amp;D Teams to determine the best possible solution(s)to fully satisfy customer expectations and requirements.</li><li>Attend Product Training to further develop skills and knowledge, and to keep yourself up to date on technical advances and changes within the broadcast industry.</li><li>Work with team members to facilitate calls, manage workflow, and ensure all customers&#8217; needs and wants are addressed</li><li>Be proactive and accountable for deadlines and job requirements to ensure projects are executed on time and professionally.</li></ul><p><strong>Qualifications:</strong></p><ul><li>Desire to develop new skills and gain knowledge in an ever growing industry.</li><li>Be results oriented, self-motivated, and a team player</li><li>Experience/Passion for the&#160;Electronics/IT/Computer Science field(s)</li><li>Excellent verbal and written communication skills, problem-solving ability, and interpersonal skills</li><li>Ability to demonstrate leadership skills and initiative</li><li>Attentive to the needs of customers, responds quickly and competently to customer requests</li><li>Adept at learning and adapting to new technologies</li><li>Experience working with broadcast/post-production products would be an asset</li></ul><p>Don't meet every single requirement?&#160;At Evertz, we are dedicated to building a diverse, inclusive, and authentic workplace, so if you're excited about this role but your past experience doesn't align perfectly with every qualification, we encourage you to apply anyways. You may be just the right candidate for this or another role.</p><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "4xSDg8OdLg",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20251023131338_EUWISIRA9XO6TZAN",
+    "title": "RFP Coordinator",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7N3A3",
+    "department": "Administration",
+    "description": "<p><strong>Responsibilities:</strong></p><ul><li>Coordinate the end-to-end process of responding to RFPs</li><li>Understand RFP requirements and coordinate with internal teams&#160;</li><li>Ensure compliance with RFP instructions and deadlines&#160;</li><li>Maintain a database of past proposals&#160;</li><li>Communicate effectively with internal teams</li><li>Liase with Sales and customers to determine RFP requirements&#160;</li><li>Craft comprehensive responses to meet the specific requirements outlined in each RFP</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "10CVQmE6yZ",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20251022192457_ZVWAGCFJRIREM4D0",
+    "title": "Project Engineer (File Based, MAM & Playout Systems)",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L5Z9",
+    "department": "R&D",
+    "description": "<p>This role would suit a person with a desire to work in a diverse position where there is always something new to learn. Being a global company, there are many opportunities to work closely with some of the largest media and entertainment (M&amp;E) and broadcast companies in the world. We emphasize teamwork, promote creativity and enjoy being at the forefront edge of high-tech in our industry.</p><p><strong>Responsibilities:</strong></p><ul><li>Stand-up media workflows and playout solutions for Media &amp; Entertainment (M&amp;E) customers globally</li><li>Help customers streamline operations by adopting the industry&#8217;s leading workflow &amp; playout solution</li><li>Design and deploy public cloud compute infrastructure</li><li>Design and deploy on-premises virtualization compute infrastructure clusters</li><li>Configure file-based workflows and deploy custom scripts to build media content supply chains</li><li>Configure playout systems to create linear broadcast and OTT streams</li><li>Integrate third party hardware, software and APIs to create end-to-end media workflows</li><li>Work with technical team lead and other team members in an Agile environment</li><li>Own and deliver crucial elements of the project&#8217;s technical deployment</li><li>Drive customer satisfaction by delivering systems to an agreed upon specification</li><li>Routine reporting on project progress and issues to internal stakeholders</li><li>Escalate issues to Research and Development team for resolution</li></ul><p><strong>Requirements:</strong></p><ul><li>Education in Computer Engineering, Software Engineering, Computer Science, Networking or similar technical discipline</li><li>Excellent debug and problem resolution skills</li><li>Ability to quickly learn new technologies and translate into practical use</li><li>Familiarity with Linux operating system</li><li>Knowledge of scripting languages (e.g. JavaScript, Python)</li></ul><p><strong>The following would be an asset in your day-to-day work in this role:</strong></p><ul><li>Computer networking knowledge</li><li>Experience with relational databases (e.g. MySQL, Amazon Aurora, MariaDB)</li><li>Practical knowledge of public cloud compute platforms (e.g. AWS, Google, Azure)</li><li>Experience with Agile work planning methods</li><li>Experience with broadcast automation, device control and media management</li><li>Knowledge of current digital video compression standards and file types</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery. Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers. With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "5mrEQIGrKV",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20251022192417_VPCHPHVMY6OZYSYO",
+    "title": "Field Service Engineer  (Entry, Intermediate & Sr.) - NY/NJ",
+    "country_id": "United States",
+    "city": "New York",
+    "state": "NY",
+    "zip": "",
+    "department": "Technical Support",
+    "description": "<p>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging mix that combines technical know-how and customer service in regards to inquiries regarding products, installations and systems.</p><p><strong>Responsibilities:</strong></p><ul><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess the customer&#8217;s product application, troubleshoot and diagnosis issues through research and/or re-creation to determine the root cause</li><li>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear and professional manner</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback to aid in design changes including customer &#8220;feature requests&#8221; to product managers</li><li>Support the development of product communications by generating or authoring customer guides and provide the technical writing group with information including Pinouts, FAQ, Application notes, Best Practices and customer product or system configuration and product integration with other manufacturer&#8217;s products</li><li>Install product(s) or systems at customer sites and delivering training to customers in-house or abroad</li></ul><p><strong>Qualifications:</strong></p><ul><li>Electrical, Electronic, or Computer Electronic Technician Diploma required</li><li>Direct experience with Server Hardware, Linux OS and Network setup is an asset</li><li>Similar experience will be considered an asset</li><li>Unparalleled desire to help the customer and deliver service excellence</li><li>Passion for technology and learning new software and hardware products</li><li>Strong verbal and written communication skills</li><li>Self driven with a desire to add value to an energetic team</li><li>Problem-solving ability and able to react to changing situations</li><li>Ability to multi-task in a fast-paced environment</li><li>Must be eligible for international travel and be able to work alone with little or no supervision</li><li>1-2 years experience working with broadcast/post-production products would be an asset</li><li>Must have a valid driver&#8217;s license</li></ul><p><strong>What we offer:</strong></p><ul><li>Competitive total compensation package</li><li>Comprehensive Benefit Plan</li><li>Company contributed 401k Plan</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "PTZ9OGcjQQ",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20251022192334_XGJSOLP26NBVIMXT",
+    "title": "Field Service Engineer - Network Engineer  (Entry, Intermediate & Sr.)",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L5Z9",
+    "department": "Technical Support",
+    "description": "<p>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging mix that combines technical know-how and customer service skills both in-house and when traveling to our customer&#8217;s production studios and distribution facilities.<br><br>You will be challenged with configuring, commissioning, and systematically trouble shooting Ethernet/IP networks for the latest advancements in broadcast networks and video processing equipment.</p><p><strong>Responsibilities:</strong></p><ul><li>Engage in implementation, documentation and deployment on the build out of both small and large scale IP Networks supporting broadcast infrastructures</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess the customer&#8217;s application, troubleshoot and diagnose issues through research and/or re-creation to determine the root cause</li><li>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear and professional manner</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback to aid in design changes including customer &#8220;feature requests&#8221; to product managers</li><li>Support the development of product communications by generating or authoring customer guides and provide the technical writing group with information including Pinouts, FAQ, Application notes, Best Practices and customer product or system configuration and product integration with other manufacturer&#8217;s products</li><li>Install product(s) or systems at customer sites and delivering training to customers in-house or abroad</li><li>(RFC 2328), PIM, QOS, RIP, Sflow, SNMP, STP/RSTP/MST (IEEE 802.1d), VARP/VRRP, VLAN (IEEE 802.1q), VRF</li></ul><p><strong>Qualifications:</strong></p><ul><li>Unparalleled desire to help the customer and deliver service excellence</li><li>Education in Computer Networking or related recent practical experience</li><li>Electrical, Electronic, or Computer Electronic Technician or engineering education or related recent practical experience</li><li>A strong comfort level with Linux is highly desired</li><li>Some Network trouble shooting experience</li><li>Knowledge of IP Networking Protocols (IGMPv2/v3, RIP, BGP, OSPF, EIGRP)</li><li>Knowledge of Internet network technologies (DNS, Firewall, SSH, HTTP)</li><li>Must have a valid Ontario driver&#8217;s license</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "iMSjgFggyx",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20251022132222_TOGMQ6WXANRPJX39",
@@ -1324,6 +1403,22 @@
     "description": "<p><br>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Quintech Electronics &amp; Communications, Inc.<br>This position is a challenging mix that combines technical know-how and customer service skills both in-house and when traveling to our customer&#8217;s facilities.<br><br>Responsibilities:</p><ul><li>Travel to customer sites for installation, maintenance, and upgrading of systems, including both hardware and software components.</li><li>Provide on-site and remote technical support to ensure successful deployment and operation of products.</li><li>Serve as the primary point of contact for customers, listening to their concerns and needs with professionalism and technical insight.</li><li>Act as a liaison between customers and internal teams, especially sales and engineering, to communicate feedback and identify potential business opportunities.</li><li>Document service activities, system performance, and customer feedback in a clear and timely manner.</li><li>Support technical training and onboarding for customers when needed.</li><li>Travel to US-based customers as needed, up to 75%</li><li>Provide other duties as assigned and adhere to company policies and procedures</li></ul>Qualifications:<br>Minimum qualifications:<ul><li>Bachelors Degree or Diploma in computer science or equivalent</li><li>Be results oriented, self-motivated, and a team player</li><li>Strong analytical, research, and problem-solving skills</li><li>Strong computer science fundamentals (logic &amp; discrete mathematics, algorithms, data structures)</li><li>Position may require candidate to meet eligibility requirements for security clearance</li></ul>&#160;Preferred qualifications:<ul><li>Python and Javascript</li><li>Shell scripting (Bash) and Unix command&#160;line</li><li>Linux tools and services</li><li>Computer networking and network programming</li><li>Distributed systems and service-oriented design</li><li>Databases (e.g. PostgreSQL, MySQL)</li><li>Version control systems (e.g. git, svn)</li><li>Virtualization technology (e.g. VMware, VirtualBox, KVM)</li></ul><p>Position is a full-time, daylight position, M-F 7:30am-3:30pm<br><br>Seeking Candidates local to Indiana, PA or Pittsburgh, PA<br>We offer a competitive salary and excellent benefit package which includes:&#160;Paid Time Off, Paid Holidays, Medical/Dental/Vision, Company-Paid Life Insurance, Employee Appreciation Events...and More!<br>Quintech Electronics and Communications, Inc. (Quintech) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!<br>Quintech does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.<br>All employment decisions are decided based on qualifications, merit, and business needs.<br>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.<br>Thank you for considering a career with Quintech!<br><br>&#160;</p>",
     "type": "Full Time",
     "board_code": "YT4sVmfBNk",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20251021123901_DDTKJ1EOKHXIH8FK",
+    "title": "Customer Order Coordinator",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "Administration",
+    "description": "<p>We are seeking a detail-oriented Order Processing Coordinator to accurately enter and manage orders based on customer purchase orders and internal requests for Production and R&amp;D. This role involves close collaboration with the Production team to monitor ship dates and address any delays.<br><br>The successful candidate will communicate order status clearly and promptly to internal departments, sales representatives, project managers, and customers, ensuring transparency and efficient coordination throughout the order fulfillment process.</p><p><strong>Responsibilities:</strong></p><ul><li>Create internal sales order within custom billing system&#160;</li><li>Organize delivery details such as, system customization notes, ship date, mode of transport, and payment terms</li><li>Provide customers and sales team with delivery updates such as, order revision requirements and transit rescheduling</li></ul><p><strong>Qualifications:&#160;</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational and time management skills</li><li>Excellent verbal and written communication skills, and problem-solving ability</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;&#160;</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "8Noh2E7ATt",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -1410,22 +1505,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20251021123901_DDTKJ1EOKHXIH8FK",
-    "title": "Customer Order Coordinator",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "<p>We are seeking a detail-oriented Order Processing Coordinator to accurately enter and manage orders based on customer purchase orders and internal requests for Production and R&amp;D. This role involves close collaboration with the Production team to monitor ship dates and address any delays.<br><br>The successful candidate will communicate order status clearly and promptly to internal departments, sales representatives, project managers, and customers, ensuring transparency and efficient coordination throughout the order fulfillment process.</p><p><strong>Responsibilities:</strong></p><ul><li>Create internal sales order within custom billing system&#160;</li><li>Organize delivery details such as, system customization notes, ship date, mode of transport, and payment terms</li><li>Provide customers and sales team with delivery updates such as, order revision requirements and transit rescheduling</li></ul><p><strong>Qualifications:&#160;</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational and time management skills</li><li>Excellent verbal and written communication skills, and problem-solving ability</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;&#160;</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "8Noh2E7ATt",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20251021123936_BBOXACWXXG762NGN",
     "title": "Return Merchandise Administrator",
     "country_id": "Canada",
@@ -1436,6 +1515,22 @@
     "description": "<p>We are seeking a detail-oriented and customer-focused professional to join our team in a key support role. This position is responsible for managing customer return requests initiated by the Service team, ensuring merchandise is returned to Evertz in accordance with established Standard Operating Procedures (SOPs).<br><br>The role involves close collaboration with internal departments&#8212;including Production, Logistics, Sales, Administration, and Technical Support&#8212;to facilitate warranty replacements, coordinate repair unit shipments, and prepare replacement quotes for customers. The ideal candidate thrives in a fast-paced, collaborative environment and is committed to delivering a seamless customer experience.<br><br><strong>Responsibilities:</strong></p><ul><li>General administrative duties&#160;</li><li>Evaluation of customer needs and solutions&#160;</li><li>Issue and process Return Merchandise Authorization numbers (RMAs) for customer hardware returns&#160;</li><li>Correspond with customers regarding returns, status updates and payments&#160;</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>Post-Secondary Education in related field (Business, Administration) or related experience</li><li>Excellent verbal and written communication skills, critical thinking skills, problem-solving ability, time management skills and interpersonal skills&#160;</li><li>Ability to work in a fast-paced environment&#160;</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li><li>Some customer service experience if preferred&#160;</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "r3FE3nJZim",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20251021124137_R8LC7N8XRT70L4LW",
+    "title": "Sales Administrator - Venues",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L5Z9",
+    "department": "Administration",
+    "description": "<p>This role supports the Inside Technical Sales Team by managing data, coordinating projects, and maintaining accurate records for sports and venue-related initiatives. This role involves compiling customer information, analyzing data, updating project trackers, and ensuring timely execution of tasks. The administrator also facilitates pricing approvals, organizes project files, and helps drive efficient communication and workflow between departments to support sales operations.<br><br><strong>Responsibilities:</strong></p><ul><li>Retrieve and compile relevant customer data, including order history, invoices and other required information</li><li>Manage multiple projects simultaneously, prioritizing tasks, reviewing requests, and taking action to meet deadlines&#160;</li><li>Research, prepare and analyze data from multiple databases to support Sales Team&#160;</li><li>Maintain a master tracker spreadsheet to monitor all sports and venue projects&#160;</li><li>Create, organize, and manage files for all sports and venue projects</li><li>Create and maintain individual summary spreadsheets for all sports projects&#160;</li><li>Archive completed sports and venue projects, and notify sales representatives following final decisions&#160;</li><li>Gather pricing feedback from sales representatives and submit for approval&#160;</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>Desire to develop new skills and gain knowledge in an ever-growing industry.</li><li>Be results oriented, self-motivated, and a team player</li><li>Experience/Passion for the&#160;Electronics/IT/Computer Science field(s)</li><li>Excellent verbal and written communication skills, problem-solving ability, and interpersonal skills</li><li>Ability to demonstrate leadership skills and initiative</li><li>Attentive to the needs of customers, responds quickly and competently to customer requests</li><li>Adept at learning and adapting to new technologies</li><li>Experience working with broadcast/post-production products would be an asset</li></ul><p>Don't meet every single requirement?&#160;At Evertz, we are dedicated to building a diverse, inclusive, and authentic workplace, so if you're excited about this role but your past experience doesn't align perfectly with every qualification, we encourage you to apply anyways. You may be just the right candidate for this or another role.</p><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "C6ynRUH9zX",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -1516,22 +1611,6 @@
     "description": "We are seeking a highly organized and proactive Administrative Coordinator to support our Chief Financial Officer (CFO). This role requires exceptional attention to detail, strong communication skills, and the ability to manage multiple priorities in a fast-paced environment. The Administrative Coordinator will act as a key point of contact, ensuring the smooth operation of day-to-day activities and providing critical administrative support to the CFO and the Finance team.<br><br><strong>Responsibilities:</strong><ul><li>Provide general administrative support to the Finance team&#160;</li><li>Provide high-level administrative support for the CFO&#160;</li><li>Prepare, proofread, and edit correspondence, reports, presentations, and other documents&#160;</li><li>Assist with board meeting preparation, including assembling materials, scheduling, and distributing documents&#160;</li><li>Organize and maintain records, files, and electronic systems for easy access and efficiency&#160;</li><li>Manage confidential and sensitive information with discretion&#160;</li></ul><strong>Qualifications:</strong><ul><li>Must have post-secondary education in Business Administration or related field&#160;</li><li>Minimum 2 to 3 years' experience in similar position&#160;</li><li>Ability to work well with all levels of internal management and staff, as well as outside clients and vendors&#160;</li><li>Knowledge of Microsoft Office including Excel and Word&#160;</li><li>Excellent verbal and written communication skills, problem-solving ability, time management skills and interpersonal skills&#160;</li></ul><p><strong>Location:</strong> Burlington, In-Office<br><br><strong>Hours: </strong>8:30AM &#8211; 5:00PM<br><br><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Contracted",
     "board_code": "5dTMfCsMnp",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20251021124137_R8LC7N8XRT70L4LW",
-    "title": "Sales Administrator - Venues",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "Administration",
-    "description": "<p>This role supports the Inside Technical Sales Team by managing data, coordinating projects, and maintaining accurate records for sports and venue-related initiatives. This role involves compiling customer information, analyzing data, updating project trackers, and ensuring timely execution of tasks. The administrator also facilitates pricing approvals, organizes project files, and helps drive efficient communication and workflow between departments to support sales operations.<br><br><strong>Responsibilities:</strong></p><ul><li>Retrieve and compile relevant customer data, including order history, invoices and other required information</li><li>Manage multiple projects simultaneously, prioritizing tasks, reviewing requests, and taking action to meet deadlines&#160;</li><li>Research, prepare and analyze data from multiple databases to support Sales Team&#160;</li><li>Maintain a master tracker spreadsheet to monitor all sports and venue projects&#160;</li><li>Create, organize, and manage files for all sports and venue projects</li><li>Create and maintain individual summary spreadsheets for all sports projects&#160;</li><li>Archive completed sports and venue projects, and notify sales representatives following final decisions&#160;</li><li>Gather pricing feedback from sales representatives and submit for approval&#160;</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>Desire to develop new skills and gain knowledge in an ever-growing industry.</li><li>Be results oriented, self-motivated, and a team player</li><li>Experience/Passion for the&#160;Electronics/IT/Computer Science field(s)</li><li>Excellent verbal and written communication skills, problem-solving ability, and interpersonal skills</li><li>Ability to demonstrate leadership skills and initiative</li><li>Attentive to the needs of customers, responds quickly and competently to customer requests</li><li>Adept at learning and adapting to new technologies</li><li>Experience working with broadcast/post-production products would be an asset</li></ul><p>Don't meet every single requirement?&#160;At Evertz, we are dedicated to building a diverse, inclusive, and authentic workplace, so if you're excited about this role but your past experience doesn't align perfectly with every qualification, we encourage you to apply anyways. You may be just the right candidate for this or another role.</p><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "C6ynRUH9zX",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -1666,22 +1745,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20250910114529_KPJVYG6HLZPVH5AC",
-    "title": "Field Network Engineer  (Entry, Intermediate & Sr.)",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "Technical Support",
-    "description": "<p>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging mix that combines technical know-how and customer service skills both in-house and when traveling to our customer&#8217;s production studios and distribution facilities.<br><br>You will be challenged with configuring, commissioning, and systematically trouble shooting Ethernet/IP networks for the latest advancements in broadcast networks and video processing equipment.<br>&#160;</p><p><strong>Responsibilities:</strong></p><ul><li>Engage in implementation, documentation and deployment on the build out of both small and large scale IP Networks supporting broadcast infrastructures</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess the customer&#8217;s application, troubleshoot and diagnose issues through research and/or re-creation to determine the root cause</li><li>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear and professional manner</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback to aid in design changes including customer &#8220;feature requests&#8221; to product managers</li><li>Support the development of product communications by generating or authoring customer guides and provide the technical writing group with information including Pinouts, FAQ, Application notes, Best Practices and customer product or system configuration and product integration with other manufacturer&#8217;s products</li><li>Install product(s) or systems at customer sites and delivering training to customers in-house or abroad</li><li>(RFC 2328), PIM, QOS, RIP, Sflow, SNMP, STP/RSTP/MST (IEEE 802.1d), VARP/VRRP, VLAN (IEEE 802.1q), VRF</li></ul><p><strong>Qualifications:</strong></p><ul><li>Unparalleled desire to help the customer and deliver service excellence</li><li>Education in Computer Networking or related recent practical experience</li><li>Electrical, Electronic, or Computer Electronic Technician or engineering education or related recent practical experience</li><li>A strong comfort level with Linux is highly desired</li><li>Some Network trouble shooting experience</li><li>Knowledge of IP Networking Protocols (IGMPv2/v3, RIP, BGP, OSPF, EIGRP)</li><li>Knowledge of Internet network technologies (DNS, Firewall, SSH, HTTP)</li><li>Must have a valid Ontario driver&#8217;s license</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 1700 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "NzaQsoV0Om",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20250910114451_HUXXXRF6SADX3IOY",
     "title": "Field Service Engineer (Entry, Intermediate & Sr.)",
     "country_id": "Canada",
@@ -1692,6 +1755,22 @@
     "description": "<p>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging mix that combines technical know-how and customer service skills both in-house and when traveling to our customer&#8217;s production studios and distribution facilities.<br><br>You will be challenged with configuring, commissioning, and systematically trouble shooting Ethernet/IP networks for the latest advancements in broadcast networks and video processing equipment.</p><p><strong>Responsibilities:</strong></p><ul><li>Engage in implementation, documentation and deployment on the build out of both small and large scale IP Networks supporting broadcast infrastructures</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess the customer&#8217;s application, troubleshoot and diagnose issues through research and/or re-creation to determine the root cause</li><li>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear and professional manner</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback to aid in design changes including customer &#8220;feature requests&#8221; to product managers</li><li>Support the development of product communications by generating or authoring customer guides and provide the technical writing group with information including Pinouts, FAQ, Application notes, Best Practices and customer product or system configuration and product integration with other manufacturer&#8217;s products</li><li>Install product(s) or systems at customer sites and delivering training to customers in-house or abroad</li><li>(RFC 2328), PIM, QOS, RIP, Sflow, SNMP, STP/RSTP/MST (IEEE 802.1d), VARP/VRRP, VLAN (IEEE 802.1q), VRF</li></ul><p><strong>Qualifications:</strong></p><ul><li>Unparalleled desire to help the customer and deliver service excellence</li><li>Education in Computer Networking or related recent practical experience</li><li>Electrical, Electronic, or Computer Electronic Technician or engineering education or related recent practical experience</li><li>A strong comfort level with Linux is highly desired</li><li>Some Network trouble shooting experience</li><li>Knowledge of IP Networking Protocols (IGMPv2/v3, RIP, BGP, OSPF, EIGRP)</li><li>Knowledge of Internet network technologies (DNS, Firewall, SSH, HTTP)</li><li>Must have a valid Ontario driver&#8217;s license</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p><p></p>",
     "type": "Full Time",
     "board_code": "9CQibmtU8n",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20250910114529_KPJVYG6HLZPVH5AC",
+    "title": "Field Network Engineer  (Entry, Intermediate & Sr.)",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L5Z9",
+    "department": "Technical Support",
+    "description": "<p>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging mix that combines technical know-how and customer service skills both in-house and when traveling to our customer&#8217;s production studios and distribution facilities.<br><br>You will be challenged with configuring, commissioning, and systematically trouble shooting Ethernet/IP networks for the latest advancements in broadcast networks and video processing equipment.<br>&#160;</p><p><strong>Responsibilities:</strong></p><ul><li>Engage in implementation, documentation and deployment on the build out of both small and large scale IP Networks supporting broadcast infrastructures</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess the customer&#8217;s application, troubleshoot and diagnose issues through research and/or re-creation to determine the root cause</li><li>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear and professional manner</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback to aid in design changes including customer &#8220;feature requests&#8221; to product managers</li><li>Support the development of product communications by generating or authoring customer guides and provide the technical writing group with information including Pinouts, FAQ, Application notes, Best Practices and customer product or system configuration and product integration with other manufacturer&#8217;s products</li><li>Install product(s) or systems at customer sites and delivering training to customers in-house or abroad</li><li>(RFC 2328), PIM, QOS, RIP, Sflow, SNMP, STP/RSTP/MST (IEEE 802.1d), VARP/VRRP, VLAN (IEEE 802.1q), VRF</li></ul><p><strong>Qualifications:</strong></p><ul><li>Unparalleled desire to help the customer and deliver service excellence</li><li>Education in Computer Networking or related recent practical experience</li><li>Electrical, Electronic, or Computer Electronic Technician or engineering education or related recent practical experience</li><li>A strong comfort level with Linux is highly desired</li><li>Some Network trouble shooting experience</li><li>Knowledge of IP Networking Protocols (IGMPv2/v3, RIP, BGP, OSPF, EIGRP)</li><li>Knowledge of Internet network technologies (DNS, Firewall, SSH, HTTP)</li><li>Must have a valid Ontario driver&#8217;s license</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 1700 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "NzaQsoV0Om",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -1954,48 +2033,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20250708192022_P2UTZZNBSEC2D1QS",
+    "id": "job_20250708192248_ESPOALTBD1TRAUFW",
     "title": "Solutions Architect & Evangelist - Media/Broadcast",
-    "country_id": "Turkey",
+    "country_id": "Saudi Arabia",
     "city": "",
     "state": "",
     "zip": "",
     "department": "R&D",
     "description": "<p>As a Solutions Architect &amp; Evangelist within the Media Distribution Group, you will work closely with customers promoting and designing enterprise grade Playout, Media Asset Management (MAM) and Distribution solutions. The successful candidate must be able to capture our client&#8217;s vision, business requirements as well as technical requirements and enable those utilizing Evertz hardware, software and professional services offerings.&#160; You will act as a focal point for Evertz clients and Evertz staff (account managers, R&amp;D engineers, project managers, and executive management) to completely architect, design and document system requirements and implementation approaches for end-to-end enterprise solutions. The successful candidate must be comfortable and effective in a client facing role.<br><br>Responsibilities:</p><ul><li>Work collaboratively with the account management team identifying and engaging with prospective Playout, MAM and Media Distribution customers.</li><li>Assisting with identifying new customers while also growing and maintaining systems within existing customer base</li><li>Work collaboratively with the account manager to define and document system scope</li><li>Provide initial solutions to clients with Evertz equipment selection &amp; systems design, refine over the design process to provide final quotation and supporting documentation</li><li>Work with internal resources and the client to provide client demonstrations and/or documentation as proof of concept system, as required</li><li>Work collaboratively with internal, client and third party teams to understand current and future business and technical requirements</li><li>Take lead on proposal creation and refinement, take ownership and produce accurate documentation for bid set.</li><li>Identify and manage project risks, clearly state assumptions, and work with client and internal resources to mitigate risks in advance of deployment.</li><li>Ultimately create a clear and well thought out design package, gap analysis, functional specifications, and budget</li><li>Act as the technical authority throughout the design, pre-commissioning, onsite commissioning, training and sustaining engineering phases</li><li>Travel as required to client sites</li></ul><br>Qualifications:<ul><li>Experience in designing, documenting and sustaining full life cycle end-to-end enterprise-wide client facing projects.</li><li>Experience working with file-based broadcast, production, post-production, non-linear distribution, automated transcoding and quality control, business/traffic systems type deployments and workflows i.e. the complete broadcast and media food chain.</li><li>Electronics engineering (or similar) education</li><li>Problem-solving, and strong communication skills</li><li>Results oriented, self-motivated, and team player</li><li>Familiar with BXF and industry standard traffic solutions</li><li>Must have 3 or more years experience deploying file based work flow solutions</li><li>Experience with Broadcast IT with network infrastructure</li><li>Understanding in applications integration with business systems via the use of XML as the interchange format</li><li>Knowledge of current digital video compression standards and file types</li><li>Good written and verbal communication skills</li></ul><p>What we Offer:</p><ul><li>Competitive total compensation package</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p>About Evertz:</p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Contracted",
-    "board_code": "Fwk5FvkSFa",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20250708192110_BMVLGZBVSXQAVX8D",
-    "title": "Solutions Architect & Evangelist - Media/Broadcast",
-    "country_id": "Egypt",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "department": "R&D",
-    "description": "<p>As a Solutions Architect &amp; Evangelist within the Media Distribution Group, you will work closely with customers promoting and designing enterprise grade Playout, Media Asset Management (MAM) and Distribution solutions. The successful candidate must be able to capture our client&#8217;s vision, business requirements as well as technical requirements and enable those utilizing Evertz hardware, software and professional services offerings.&#160; You will act as a focal point for Evertz clients and Evertz staff (account managers, R&amp;D engineers, project managers, and executive management) to completely architect, design and document system requirements and implementation approaches for end-to-end enterprise solutions. The successful candidate must be comfortable and effective in a client facing role.<br><br>Responsibilities:</p><ul><li>Work collaboratively with the account management team identifying and engaging with prospective Playout, MAM and Media Distribution customers.</li><li>Assisting with identifying new customers while also growing and maintaining systems within existing customer base</li><li>Work collaboratively with the account manager to define and document system scope</li><li>Provide initial solutions to clients with Evertz equipment selection &amp; systems design, refine over the design process to provide final quotation and supporting documentation</li><li>Work with internal resources and the client to provide client demonstrations and/or documentation as proof of concept system, as required</li><li>Work collaboratively with internal, client and third party teams to understand current and future business and technical requirements</li><li>Take lead on proposal creation and refinement, take ownership and produce accurate documentation for bid set.</li><li>Identify and manage project risks, clearly state assumptions, and work with client and internal resources to mitigate risks in advance of deployment.</li><li>Ultimately create a clear and well thought out design package, gap analysis, functional specifications, and budget</li><li>Act as the technical authority throughout the design, pre-commissioning, onsite commissioning, training and sustaining engineering phases</li><li>Travel as required to client sites</li></ul><br>Qualifications:<ul><li>Experience in designing, documenting and sustaining full life cycle end-to-end enterprise-wide client facing projects.</li><li>Experience working with file-based broadcast, production, post-production, non-linear distribution, automated transcoding and quality control, business/traffic systems type deployments and workflows i.e. the complete broadcast and media food chain.</li><li>Electronics engineering (or similar) education</li><li>Problem-solving, and strong communication skills</li><li>Results oriented, self-motivated, and team player</li><li>Familiar with BXF and industry standard traffic solutions</li><li>Must have 3 or more years experience deploying file based work flow solutions</li><li>Experience with Broadcast IT with network infrastructure</li><li>Understanding in applications integration with business systems via the use of XML as the interchange format</li><li>Knowledge of current digital video compression standards and file types</li><li>Good written and verbal communication skills</li></ul><p>What we Offer:</p><ul><li>Competitive total compensation package</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p>About Evertz:</p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Contracted",
-    "board_code": "EAXMlr1hsu",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20250708192128_ZKV5ZPVNDS3G41FH",
-    "title": "Solutions Architect & Evangelist - Media/Broadcast",
-    "country_id": "United Arab Emirates",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "department": "R&D",
-    "description": "<p>As a Solutions Architect &amp; Evangelist within the Media Distribution Group, you will work closely with customers promoting and designing enterprise grade Playout, Media Asset Management (MAM) and Distribution solutions. The successful candidate must be able to capture our client&#8217;s vision, business requirements as well as technical requirements and enable those utilizing Evertz hardware, software and professional services offerings.&#160; You will act as a focal point for Evertz clients and Evertz staff (account managers, R&amp;D engineers, project managers, and executive management) to completely architect, design and document system requirements and implementation approaches for end-to-end enterprise solutions. The successful candidate must be comfortable and effective in a client facing role.<br><br>Responsibilities:</p><ul><li>Work collaboratively with the account management team identifying and engaging with prospective Playout, MAM and Media Distribution customers.</li><li>Assisting with identifying new customers while also growing and maintaining systems within existing customer base</li><li>Work collaboratively with the account manager to define and document system scope</li><li>Provide initial solutions to clients with Evertz equipment selection &amp; systems design, refine over the design process to provide final quotation and supporting documentation</li><li>Work with internal resources and the client to provide client demonstrations and/or documentation as proof of concept system, as required</li><li>Work collaboratively with internal, client and third party teams to understand current and future business and technical requirements</li><li>Take lead on proposal creation and refinement, take ownership and produce accurate documentation for bid set.</li><li>Identify and manage project risks, clearly state assumptions, and work with client and internal resources to mitigate risks in advance of deployment.</li><li>Ultimately create a clear and well thought out design package, gap analysis, functional specifications, and budget</li><li>Act as the technical authority throughout the design, pre-commissioning, onsite commissioning, training and sustaining engineering phases</li><li>Travel as required to client sites</li></ul><br>Qualifications:<ul><li>Experience in designing, documenting and sustaining full life cycle end-to-end enterprise-wide client facing projects.</li><li>Experience working with file-based broadcast, production, post-production, non-linear distribution, automated transcoding and quality control, business/traffic systems type deployments and workflows i.e. the complete broadcast and media food chain.</li><li>Electronics engineering (or similar) education</li><li>Problem-solving, and strong communication skills</li><li>Results oriented, self-motivated, and team player</li><li>Familiar with BXF and industry standard traffic solutions</li><li>Must have 3 or more years experience deploying file based work flow solutions</li><li>Experience with Broadcast IT with network infrastructure</li><li>Understanding in applications integration with business systems via the use of XML as the interchange format</li><li>Knowledge of current digital video compression standards and file types</li><li>Good written and verbal communication skills</li></ul><p>What we Offer:</p><ul><li>Competitive total compensation package</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p>About Evertz:</p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Contracted",
-    "board_code": "iCs7GPet0B",
+    "board_code": "PlzxGFn4Nk",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -2018,22 +2065,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20250708192248_ESPOALTBD1TRAUFW",
-    "title": "Solutions Architect & Evangelist - Media/Broadcast",
-    "country_id": "Saudi Arabia",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "department": "R&D",
-    "description": "<p>As a Solutions Architect &amp; Evangelist within the Media Distribution Group, you will work closely with customers promoting and designing enterprise grade Playout, Media Asset Management (MAM) and Distribution solutions. The successful candidate must be able to capture our client&#8217;s vision, business requirements as well as technical requirements and enable those utilizing Evertz hardware, software and professional services offerings.&#160; You will act as a focal point for Evertz clients and Evertz staff (account managers, R&amp;D engineers, project managers, and executive management) to completely architect, design and document system requirements and implementation approaches for end-to-end enterprise solutions. The successful candidate must be comfortable and effective in a client facing role.<br><br>Responsibilities:</p><ul><li>Work collaboratively with the account management team identifying and engaging with prospective Playout, MAM and Media Distribution customers.</li><li>Assisting with identifying new customers while also growing and maintaining systems within existing customer base</li><li>Work collaboratively with the account manager to define and document system scope</li><li>Provide initial solutions to clients with Evertz equipment selection &amp; systems design, refine over the design process to provide final quotation and supporting documentation</li><li>Work with internal resources and the client to provide client demonstrations and/or documentation as proof of concept system, as required</li><li>Work collaboratively with internal, client and third party teams to understand current and future business and technical requirements</li><li>Take lead on proposal creation and refinement, take ownership and produce accurate documentation for bid set.</li><li>Identify and manage project risks, clearly state assumptions, and work with client and internal resources to mitigate risks in advance of deployment.</li><li>Ultimately create a clear and well thought out design package, gap analysis, functional specifications, and budget</li><li>Act as the technical authority throughout the design, pre-commissioning, onsite commissioning, training and sustaining engineering phases</li><li>Travel as required to client sites</li></ul><br>Qualifications:<ul><li>Experience in designing, documenting and sustaining full life cycle end-to-end enterprise-wide client facing projects.</li><li>Experience working with file-based broadcast, production, post-production, non-linear distribution, automated transcoding and quality control, business/traffic systems type deployments and workflows i.e. the complete broadcast and media food chain.</li><li>Electronics engineering (or similar) education</li><li>Problem-solving, and strong communication skills</li><li>Results oriented, self-motivated, and team player</li><li>Familiar with BXF and industry standard traffic solutions</li><li>Must have 3 or more years experience deploying file based work flow solutions</li><li>Experience with Broadcast IT with network infrastructure</li><li>Understanding in applications integration with business systems via the use of XML as the interchange format</li><li>Knowledge of current digital video compression standards and file types</li><li>Good written and verbal communication skills</li></ul><p>What we Offer:</p><ul><li>Competitive total compensation package</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p>About Evertz:</p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Contracted",
-    "board_code": "PlzxGFn4Nk",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20250708192142_ODV5H8F7JCA3CJ9U",
     "title": "Solutions Architect & Evangelist - Media/Broadcast",
     "country_id": "Oman",
@@ -2044,6 +2075,54 @@
     "description": "<p>As a Solutions Architect &amp; Evangelist within the Media Distribution Group, you will work closely with customers promoting and designing enterprise grade Playout, Media Asset Management (MAM) and Distribution solutions. The successful candidate must be able to capture our client&#8217;s vision, business requirements as well as technical requirements and enable those utilizing Evertz hardware, software and professional services offerings.&#160; You will act as a focal point for Evertz clients and Evertz staff (account managers, R&amp;D engineers, project managers, and executive management) to completely architect, design and document system requirements and implementation approaches for end-to-end enterprise solutions. The successful candidate must be comfortable and effective in a client facing role.<br><br>Responsibilities:</p><ul><li>Work collaboratively with the account management team identifying and engaging with prospective Playout, MAM and Media Distribution customers.</li><li>Assisting with identifying new customers while also growing and maintaining systems within existing customer base</li><li>Work collaboratively with the account manager to define and document system scope</li><li>Provide initial solutions to clients with Evertz equipment selection &amp; systems design, refine over the design process to provide final quotation and supporting documentation</li><li>Work with internal resources and the client to provide client demonstrations and/or documentation as proof of concept system, as required</li><li>Work collaboratively with internal, client and third party teams to understand current and future business and technical requirements</li><li>Take lead on proposal creation and refinement, take ownership and produce accurate documentation for bid set.</li><li>Identify and manage project risks, clearly state assumptions, and work with client and internal resources to mitigate risks in advance of deployment.</li><li>Ultimately create a clear and well thought out design package, gap analysis, functional specifications, and budget</li><li>Act as the technical authority throughout the design, pre-commissioning, onsite commissioning, training and sustaining engineering phases</li><li>Travel as required to client sites</li></ul><br>Qualifications:<ul><li>Experience in designing, documenting and sustaining full life cycle end-to-end enterprise-wide client facing projects.</li><li>Experience working with file-based broadcast, production, post-production, non-linear distribution, automated transcoding and quality control, business/traffic systems type deployments and workflows i.e. the complete broadcast and media food chain.</li><li>Electronics engineering (or similar) education</li><li>Problem-solving, and strong communication skills</li><li>Results oriented, self-motivated, and team player</li><li>Familiar with BXF and industry standard traffic solutions</li><li>Must have 3 or more years experience deploying file based work flow solutions</li><li>Experience with Broadcast IT with network infrastructure</li><li>Understanding in applications integration with business systems via the use of XML as the interchange format</li><li>Knowledge of current digital video compression standards and file types</li><li>Good written and verbal communication skills</li></ul><p>What we Offer:</p><ul><li>Competitive total compensation package</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p>About Evertz:</p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Contracted",
     "board_code": "KaUw9tvUX4",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20250708192128_ZKV5ZPVNDS3G41FH",
+    "title": "Solutions Architect & Evangelist - Media/Broadcast",
+    "country_id": "United Arab Emirates",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "department": "R&D",
+    "description": "<p>As a Solutions Architect &amp; Evangelist within the Media Distribution Group, you will work closely with customers promoting and designing enterprise grade Playout, Media Asset Management (MAM) and Distribution solutions. The successful candidate must be able to capture our client&#8217;s vision, business requirements as well as technical requirements and enable those utilizing Evertz hardware, software and professional services offerings.&#160; You will act as a focal point for Evertz clients and Evertz staff (account managers, R&amp;D engineers, project managers, and executive management) to completely architect, design and document system requirements and implementation approaches for end-to-end enterprise solutions. The successful candidate must be comfortable and effective in a client facing role.<br><br>Responsibilities:</p><ul><li>Work collaboratively with the account management team identifying and engaging with prospective Playout, MAM and Media Distribution customers.</li><li>Assisting with identifying new customers while also growing and maintaining systems within existing customer base</li><li>Work collaboratively with the account manager to define and document system scope</li><li>Provide initial solutions to clients with Evertz equipment selection &amp; systems design, refine over the design process to provide final quotation and supporting documentation</li><li>Work with internal resources and the client to provide client demonstrations and/or documentation as proof of concept system, as required</li><li>Work collaboratively with internal, client and third party teams to understand current and future business and technical requirements</li><li>Take lead on proposal creation and refinement, take ownership and produce accurate documentation for bid set.</li><li>Identify and manage project risks, clearly state assumptions, and work with client and internal resources to mitigate risks in advance of deployment.</li><li>Ultimately create a clear and well thought out design package, gap analysis, functional specifications, and budget</li><li>Act as the technical authority throughout the design, pre-commissioning, onsite commissioning, training and sustaining engineering phases</li><li>Travel as required to client sites</li></ul><br>Qualifications:<ul><li>Experience in designing, documenting and sustaining full life cycle end-to-end enterprise-wide client facing projects.</li><li>Experience working with file-based broadcast, production, post-production, non-linear distribution, automated transcoding and quality control, business/traffic systems type deployments and workflows i.e. the complete broadcast and media food chain.</li><li>Electronics engineering (or similar) education</li><li>Problem-solving, and strong communication skills</li><li>Results oriented, self-motivated, and team player</li><li>Familiar with BXF and industry standard traffic solutions</li><li>Must have 3 or more years experience deploying file based work flow solutions</li><li>Experience with Broadcast IT with network infrastructure</li><li>Understanding in applications integration with business systems via the use of XML as the interchange format</li><li>Knowledge of current digital video compression standards and file types</li><li>Good written and verbal communication skills</li></ul><p>What we Offer:</p><ul><li>Competitive total compensation package</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p>About Evertz:</p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Contracted",
+    "board_code": "iCs7GPet0B",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20250708192110_BMVLGZBVSXQAVX8D",
+    "title": "Solutions Architect & Evangelist - Media/Broadcast",
+    "country_id": "Egypt",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "department": "R&D",
+    "description": "<p>As a Solutions Architect &amp; Evangelist within the Media Distribution Group, you will work closely with customers promoting and designing enterprise grade Playout, Media Asset Management (MAM) and Distribution solutions. The successful candidate must be able to capture our client&#8217;s vision, business requirements as well as technical requirements and enable those utilizing Evertz hardware, software and professional services offerings.&#160; You will act as a focal point for Evertz clients and Evertz staff (account managers, R&amp;D engineers, project managers, and executive management) to completely architect, design and document system requirements and implementation approaches for end-to-end enterprise solutions. The successful candidate must be comfortable and effective in a client facing role.<br><br>Responsibilities:</p><ul><li>Work collaboratively with the account management team identifying and engaging with prospective Playout, MAM and Media Distribution customers.</li><li>Assisting with identifying new customers while also growing and maintaining systems within existing customer base</li><li>Work collaboratively with the account manager to define and document system scope</li><li>Provide initial solutions to clients with Evertz equipment selection &amp; systems design, refine over the design process to provide final quotation and supporting documentation</li><li>Work with internal resources and the client to provide client demonstrations and/or documentation as proof of concept system, as required</li><li>Work collaboratively with internal, client and third party teams to understand current and future business and technical requirements</li><li>Take lead on proposal creation and refinement, take ownership and produce accurate documentation for bid set.</li><li>Identify and manage project risks, clearly state assumptions, and work with client and internal resources to mitigate risks in advance of deployment.</li><li>Ultimately create a clear and well thought out design package, gap analysis, functional specifications, and budget</li><li>Act as the technical authority throughout the design, pre-commissioning, onsite commissioning, training and sustaining engineering phases</li><li>Travel as required to client sites</li></ul><br>Qualifications:<ul><li>Experience in designing, documenting and sustaining full life cycle end-to-end enterprise-wide client facing projects.</li><li>Experience working with file-based broadcast, production, post-production, non-linear distribution, automated transcoding and quality control, business/traffic systems type deployments and workflows i.e. the complete broadcast and media food chain.</li><li>Electronics engineering (or similar) education</li><li>Problem-solving, and strong communication skills</li><li>Results oriented, self-motivated, and team player</li><li>Familiar with BXF and industry standard traffic solutions</li><li>Must have 3 or more years experience deploying file based work flow solutions</li><li>Experience with Broadcast IT with network infrastructure</li><li>Understanding in applications integration with business systems via the use of XML as the interchange format</li><li>Knowledge of current digital video compression standards and file types</li><li>Good written and verbal communication skills</li></ul><p>What we Offer:</p><ul><li>Competitive total compensation package</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p>About Evertz:</p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Contracted",
+    "board_code": "EAXMlr1hsu",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20250708192022_P2UTZZNBSEC2D1QS",
+    "title": "Solutions Architect & Evangelist - Media/Broadcast",
+    "country_id": "Turkey",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "department": "R&D",
+    "description": "<p>As a Solutions Architect &amp; Evangelist within the Media Distribution Group, you will work closely with customers promoting and designing enterprise grade Playout, Media Asset Management (MAM) and Distribution solutions. The successful candidate must be able to capture our client&#8217;s vision, business requirements as well as technical requirements and enable those utilizing Evertz hardware, software and professional services offerings.&#160; You will act as a focal point for Evertz clients and Evertz staff (account managers, R&amp;D engineers, project managers, and executive management) to completely architect, design and document system requirements and implementation approaches for end-to-end enterprise solutions. The successful candidate must be comfortable and effective in a client facing role.<br><br>Responsibilities:</p><ul><li>Work collaboratively with the account management team identifying and engaging with prospective Playout, MAM and Media Distribution customers.</li><li>Assisting with identifying new customers while also growing and maintaining systems within existing customer base</li><li>Work collaboratively with the account manager to define and document system scope</li><li>Provide initial solutions to clients with Evertz equipment selection &amp; systems design, refine over the design process to provide final quotation and supporting documentation</li><li>Work with internal resources and the client to provide client demonstrations and/or documentation as proof of concept system, as required</li><li>Work collaboratively with internal, client and third party teams to understand current and future business and technical requirements</li><li>Take lead on proposal creation and refinement, take ownership and produce accurate documentation for bid set.</li><li>Identify and manage project risks, clearly state assumptions, and work with client and internal resources to mitigate risks in advance of deployment.</li><li>Ultimately create a clear and well thought out design package, gap analysis, functional specifications, and budget</li><li>Act as the technical authority throughout the design, pre-commissioning, onsite commissioning, training and sustaining engineering phases</li><li>Travel as required to client sites</li></ul><br>Qualifications:<ul><li>Experience in designing, documenting and sustaining full life cycle end-to-end enterprise-wide client facing projects.</li><li>Experience working with file-based broadcast, production, post-production, non-linear distribution, automated transcoding and quality control, business/traffic systems type deployments and workflows i.e. the complete broadcast and media food chain.</li><li>Electronics engineering (or similar) education</li><li>Problem-solving, and strong communication skills</li><li>Results oriented, self-motivated, and team player</li><li>Familiar with BXF and industry standard traffic solutions</li><li>Must have 3 or more years experience deploying file based work flow solutions</li><li>Experience with Broadcast IT with network infrastructure</li><li>Understanding in applications integration with business systems via the use of XML as the interchange format</li><li>Knowledge of current digital video compression standards and file types</li><li>Good written and verbal communication skills</li></ul><p>What we Offer:</p><ul><li>Competitive total compensation package</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p>About Evertz:</p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Contracted",
+    "board_code": "Fwk5FvkSFa",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -2130,22 +2209,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20250421191926_POIRNYBF0GTRRAIY",
-    "title": "Project Engineer (File Based, MAM & Playout Systems)",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "R&D",
-    "description": "<p>This role would suit a person with a desire to work in a diverse position where there is always something new to learn. Being a global company, there are many opportunities to work closely with some of the largest media and entertainment (M&amp;E) and broadcast companies in the world. We emphasize teamwork, promote creativity and enjoy being at the forefront edge of high-tech in our industry.</p><p><strong>Responsibilities:</strong></p><ul><li>Stand-up media workflows and playout solutions for Media &amp; Entertainment (M&amp;E) customers globally</li><li>Help customers streamline operations by adopting the industry&#8217;s leading workflow &amp; playout solution</li><li>Design and deploy public cloud compute infrastructure</li><li>Design and deploy on-premises virtualization compute infrastructure clusters</li><li>Configure file-based workflows and deploy custom scripts to build media content supply chains</li><li>Configure playout systems to create linear broadcast and OTT streams</li><li>Integrate third party hardware, software and APIs to create end-to-end media workflows</li><li>Work with technical team lead and other team members in an Agile environment</li><li>Own and deliver crucial elements of the project&#8217;s technical deployment</li><li>Drive customer satisfaction by delivering systems to an agreed upon specification</li><li>Routine reporting on project progress and issues to internal stakeholders</li><li>Escalate issues to Research and Development team for resolution</li></ul><p><strong>Requirements:</strong></p><ul><li>Education in Computer Engineering, Software Engineering, Computer Science, Networking or similar technical discipline</li><li>Excellent debug and problem resolution skills</li><li>Ability to quickly learn new technologies and translate into practical use</li><li>Familiarity with Linux operating system</li><li>Knowledge of scripting languages (e.g. JavaScript, Python)</li></ul><p><strong>The following would be an asset in your day-to-day work in this role:</strong></p><ul><li>Computer networking knowledge</li><li>Experience with relational databases (e.g. MySQL, Amazon Aurora, MariaDB)</li><li>Practical knowledge of public cloud compute platforms (e.g. AWS, Google, Azure)</li><li>Experience with Agile work planning methods</li><li>Experience with broadcast automation, device control and media management</li><li>Knowledge of current digital video compression standards and file types</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery. Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers. With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "1uMOZaQfQZ",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20250417123228_GNOQE8KFRJVZSWMT",
     "title": "Senior Software Engineer (Backend)",
     "country_id": "Poland",
@@ -2188,86 +2251,6 @@
     "description": "<p><span><span><span><span><span>We&#8217;re looking for highly motivated, passionate site reliability engineers to join our growing team. At evertz.io, our teams are building services that are used by the biggest names in the exciting broadcast and media industry. Our services are hosted in AWS, with a Serverless First mindset.</span></span></span></span><br><span><span><span><span>As part of this role, you will work with our talented teams to help harden our multi-tenant SaaS platform. Using best in class observability tooling, you will be working to debug incidents, while also identifying and implementing improvements to the platform to ensure its continued reliability. Your drive to eliminate toil will see you automating processes and building the tools to do so.</span></span></span></span><br><span><span><span><span>We offer flexible working hours, great benefits, and the freedom to experiment with new technologies and tools to build better products.</span></span></span></span><br><span><span><b>&#160;</b></span></span><br><span><span><b><span><span>Skills and experience you will bring&#160;</span></span></b></span></span></span></p><ul><li><span><span><span><span><span>At least 3 years of hands-on experience managing critical, high-availability production infrastructure, demonstrating success in maintaining reliability and maximizing application uptime.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Proficient in at least one programming language (such as Python, Java, or Rust), with experience designing and building production-quality automation, tools, or software libraries.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>At least 3 years working with monitoring, log aggregation, and observability platforms such as Datadog, CloudWatch, Honeycomb, Splunk, or New Relic, using data-driven insights to proactively identify and resolve issues.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Excellent analytical skills with the ability to understand end-to-end use cases, map system flows, debug complex issues, and anticipate potential failure points.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Proven track record translating SLO&#8217;s and SLI&#8217;s into actionable improvements. Reliability, monitoring, and observability are not just words to you.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>At least 3 years of experience with cloud technologies, in particular AWS Services and tools such as Cloud Formation, Lambda, DynamoDB, SQS, SNS, EC2, S3, AWS CLI, Boto3.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Solid foundation in Linux systems administration, networking, and security.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Familiarity with the use and configuration of CI &amp; CD pipelines such as Jenkins &amp; AWS CodePipeline. &#160;</span></span></span></span></span></li></ul><br><span><span><span><b><span><span>Additional skills and experience that will make you standout&#160;</span></span></b></span></span></span><ul><li><span><span><span><span><span>Experience architecting and deploying serverless applications in cloud environments.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Experience with infrastructure-as-code tools like Terraform or CloudFormation, enabling reproducible and scalable environments.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Previous participation in production on-call rotations, with direct involvement in incident management and post-incident reviews.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Demonstrated expertise in performance optimization for core AWS services, including Lambda, DynamoDB, API Gateway, SQS, EventBridge, and EC2.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Experience supporting and improving systems with frequent, high-velocity deployment cycles.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Familiarity with security compliance frameworks (e.g., OWASP, ISO, CSA, PCI), and hands-on experience conducting threat assessments and implementing remediation plans.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Background in security practices, including penetration testing, threat modeling, and usage of both open-source and commercial security tools.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Experience developing and implementing advanced deployment strategies for web application infrastructures such as canary, A/B testing, blue/green deployments, or red/line patterns.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Hands-on experience with chaos engineering intentionally testing systems under extreme conditions to improve reliability and fault tolerance.&#160;</span></span></span></span></span></li><li><span><span><span><span><span>Track record of championing system reliability, continuous improvement, and operational excellence throughout an organization.&#160;</span></span></span></span></span></li></ul><p><br><span><span><span><b><i><span><span>Experience: 4 to 6 years +<br>Education: Computer Science and Information technology graduation<br>Work mode: Remote/Hybrid<br>Office Timing: 1pm to 9pm IST</span></span></i></b><br><br><span><span><b>The Team:</b><br>The evertz.io Engineering Team builds next-generation systems for content management and distribution in the Media and Entertainment industry. Disney, NBCUniversal, Discovery, BBC, and many other content producers and publishers use our products and services to make the most of their file-based and live content for the least effort.<br>We work with high quality video in real-time and non-real-time scenarios across a wide range of cutting-edge tech. Specializations within the group span from low-level video manipulation and analysis, through back-end management and orchestration services, to web delivered UIs. Working in parallel with these teams is the Scientific Computing Group who work in computer vision, data science and machine learning, taking experiments in Jupyter notebooks through to deployment in production. This makes for a challenging and rewarding engineering experience of continual learning and plenty of opportunity to explore different parts of the stack.<br>Our technology stack includes a Serverless microservice architecture that capitalizes on the full breadth of AWS services with code written in Python, Rust and Java, our UI uses the latest versions of Angular, Typescript and NgRx, our CI/CD pipelines leverage AWS, Jenkins, Nexus, and Bazel in addition to our in-house release-management application to build and release 100&#8217;s of software components.<br>As a Site Reliability Engineer, you will join our talented and passionate team building evertz.io: a collection of services that will be used by the biggest names in the exciting broadcast and media industry. Our services are hosted in AWS, with a Serverless First mindset.<br>We work in agile, low-bureaucracy, high-creativity, cross-functional teams spread across the world. It&#8217;s a highly creative work environment where we support your growth with opportunities for career progression, mentoring others and third-party education. The team is built on trust and is relaxed, open and welcoming to all.</span></span></span></span></span></p>",
     "type": "Full Time",
     "board_code": "AlYWmrIkff",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20241230182831_NHE0KJKAQP0AAFG6",
-    "title": "Field Service Engineer  (Entry, Intermediate & Sr.) - PA",
-    "country_id": "United States",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "15106",
-    "department": "Technical Support",
-    "description": "<p>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging mix that combines technical know-how and customer service in regards to inquiries regarding products, installations and systems.</p><p><strong>Responsibilities:</strong></p><ul><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess the customer&#8217;s product application; troubleshoot and diagnose issues through research and/or re-creation to determine the root cause</li><li>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear and professional manner</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li><li>Support the development of product communications by generating or authoring customer guides and providing the technical writing group with information that includes Pinouts, FAQ, Application notes, Best Practices, customer product or system configurations, and product integration with other manufacturer&#8217;s products</li><li>Install product(s) or systems at customer sites and deliver training to customers in-house or abroad</li></ul><p><strong>Qualifications:</strong></p><ul><li>Electrical, Electronic, or Computer Electronic Technician Diploma required</li><li>Direct experience with Server Hardware, Linux OS and Network setup is an asset</li><li>Similar experience will be considered an asset</li><li>Unparalleled desire to help the customer and deliver service excellence</li><li>Passion for technology and learning new software and hardware products</li><li>Strong verbal and written communication skills</li><li>Self driven with a desire to add value to an energetic team</li><li>Problem-solving ability and able to react to changing situations</li><li>Ability to multi-task in a fast-paced environment</li><li>Must be eligible for international travel and be able to work alone with little or no supervision</li><li>1-2 years experience working with broadcast/post-production products would be an asset</li><li>Must have a valid driver&#8217;s license</li></ul><p><strong>What we offer:</strong></p><ul><li>Competitive total compensation package</li><li>Comprehensive Benefit Plan</li><li>Company contributed 401k Plan</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "NtA0wFFM2z",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20241230134703_BWICDDNL88OSWLYF",
-    "title": "Field Service Engineer  (Entry, Intermediate & Sr.) - NY/NJ",
-    "country_id": "United States",
-    "city": "New York",
-    "state": "NY",
-    "zip": "",
-    "department": "Technical Support",
-    "description": "<p>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging mix that combines technical know-how and customer service in regards to inquiries regarding products, installations and systems.</p><p><strong>Responsibilities:</strong></p><ul><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess the customer&#8217;s product application, troubleshoot and diagnosis issues through research and/or re-creation to determine the root cause</li><li>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear and professional manner</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback to aid in design changes including customer &#8220;feature requests&#8221; to product managers</li><li>Support the development of product communications by generating or authoring customer guides and provide the technical writing group with information including Pinouts, FAQ, Application notes, Best Practices and customer product or system configuration and product integration with other manufacturer&#8217;s products</li><li>Install product(s) or systems at customer sites and delivering training to customers in-house or abroad</li></ul><p><strong>Qualifications:</strong></p><ul><li>Electrical, Electronic, or Computer Electronic Technician Diploma required</li><li>Direct experience with Server Hardware, Linux OS and Network setup is an asset</li><li>Similar experience will be considered an asset</li><li>Unparalleled desire to help the customer and deliver service excellence</li><li>Passion for technology and learning new software and hardware products</li><li>Strong verbal and written communication skills</li><li>Self driven with a desire to add value to an energetic team</li><li>Problem-solving ability and able to react to changing situations</li><li>Ability to multi-task in a fast-paced environment</li><li>Must be eligible for international travel and be able to work alone with little or no supervision</li><li>1-2 years experience working with broadcast/post-production products would be an asset</li><li>Must have a valid driver&#8217;s license</li></ul><p><strong>What we offer:</strong></p><ul><li>Competitive total compensation package</li><li>Comprehensive Benefit Plan</li><li>Company contributed 401k Plan</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "LgsgYhuygW",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20241230134118_LHVCSH56WDAUAQGR",
-    "title": "Field Service Engineer  (Entry, Intermediate & Sr.) - CO",
-    "country_id": "United States",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "",
-    "department": "Technical Support",
-    "description": "<p>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging mix that combines technical know-how and customer service in regards to inquiries regarding products, installations and systems.</p><p><strong>Responsibilities:</strong></p><ul><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess the customer&#8217;s product application, troubleshoot and diagnosis issues through research and/or re-creation to determine the root cause</li><li>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear and professional manner</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback to aid in design changes including customer &#8220;feature requests&#8221; to product managers</li><li>Support the development of product communications by generating or authoring customer guides and provide the technical writing group with information including Pinouts, FAQ, Application notes, Best Practices and customer product or system configuration and product integration with other manufacturer&#8217;s products</li><li>Install product(s) or systems at customer sites and delivering training to customers in-house or abroad</li></ul><p><strong>Qualifications:</strong></p><ul><li>Electrical, Electronic, or Computer Electronic Technician Diploma required</li><li>Direct experience with Server Hardware, Linux OS and Network setup is an asset</li><li>Similar experience will be considered an asset</li><li>Unparalleled desire to help the customer and deliver service excellence</li><li>Passion for technology and learning new software and hardware products</li><li>Strong verbal and written communication skills</li><li>Self driven with a desire to add value to an energetic team</li><li>Problem-solving ability and able to react to changing situations</li><li>Ability to multi-task in a fast-paced environment</li><li>Must be eligible for international travel and be able to work alone with little or no supervision</li><li>1-2 years experience working with broadcast/post-production products would be an asset</li><li>Must have a valid driver&#8217;s license</li></ul><p><strong>What we offer:</strong></p><ul><li>Competitive total compensation package</li><li>Comprehensive Benefit Plan</li><li>Company contributed 401k Plan</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "Vg0i0IbGzu",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20241230133539_QRSRHZG87K4AVWXS",
-    "title": "Field Service Engineer  (Entry, Intermediate & Sr.) - AZ",
-    "country_id": "United States",
-    "city": "Chandler",
-    "state": "AZ",
-    "zip": "85226",
-    "department": "Technical Support",
-    "description": "<p>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging mix that combines technical know-how and customer service in regards to inquiries regarding products, installations and systems.</p><p><strong>Responsibilities:</strong></p><ul><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess the customer&#8217;s product application, troubleshoot and diagnosis issues through research and/or re-creation to determine the root cause</li><li>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear and professional manner</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback to aid in design changes including customer &#8220;feature requests&#8221; to product managers</li><li>Support the development of product communications by generating or authoring customer guides and provide the technical writing group with information including Pinouts, FAQ, Application notes, Best Practices and customer product or system configuration and product integration with other manufacturer&#8217;s products</li><li>Install product(s) or systems at customer sites and delivering training to customers in-house or abroad</li></ul><p><strong>Qualifications:</strong></p><ul><li>Electrical, Electronic, or Computer Electronic Technician Diploma required</li><li>Direct experience with Server Hardware, Linux OS and Network setup is an asset</li><li>Similar experience will be considered an asset</li><li>Unparalleled desire to help the customer and deliver service excellence</li><li>Passion for technology and learning new software and hardware products</li><li>Strong verbal and written communication skills</li><li>Self driven with a desire to add value to an energetic team</li><li>Problem-solving ability and able to react to changing situations</li><li>Ability to multi-task in a fast-paced environment</li><li>Must be eligible for international travel and be able to work alone with little or no supervision</li><li>1-2 years experience working with broadcast/post-production products would be an asset</li><li>Must have a valid driver&#8217;s license</li></ul><p><strong>What we offer:</strong></p><ul><li>Competitive total compensation package</li><li>Comprehensive Benefit Plan</li><li>Company contributed 401k Plan</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "8XZbHh5w5J",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20241227131832_GR5I8CJ6PMJ0TQKJ",
-    "title": "Field Service Engineer - Network Engineer  (Entry, Intermediate & Sr.)",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "Technical Support",
-    "description": "<p>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging mix that combines technical know-how and customer service skills both in-house and when traveling to our customer&#8217;s production studios and distribution facilities.<br><br>You will be challenged with configuring, commissioning, and systematically trouble shooting Ethernet/IP networks for the latest advancements in broadcast networks and video processing equipment.</p><p><strong>Responsibilities:</strong></p><ul><li>Engage in implementation, documentation and deployment on the build out of both small and large scale IP Networks supporting broadcast infrastructures</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess the customer&#8217;s application, troubleshoot and diagnose issues through research and/or re-creation to determine the root cause</li><li>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear and professional manner</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback to aid in design changes including customer &#8220;feature requests&#8221; to product managers</li><li>Support the development of product communications by generating or authoring customer guides and provide the technical writing group with information including Pinouts, FAQ, Application notes, Best Practices and customer product or system configuration and product integration with other manufacturer&#8217;s products</li><li>Install product(s) or systems at customer sites and delivering training to customers in-house or abroad</li><li>(RFC 2328), PIM, QOS, RIP, Sflow, SNMP, STP/RSTP/MST (IEEE 802.1d), VARP/VRRP, VLAN (IEEE 802.1q), VRF</li></ul><p><strong>Qualifications:</strong></p><ul><li>Unparalleled desire to help the customer and deliver service excellence</li><li>Education in Computer Networking or related recent practical experience</li><li>Electrical, Electronic, or Computer Electronic Technician or engineering education or related recent practical experience</li><li>A strong comfort level with Linux is highly desired</li><li>Some Network trouble shooting experience</li><li>Knowledge of IP Networking Protocols (IGMPv2/v3, RIP, BGP, OSPF, EIGRP)</li><li>Knowledge of Internet network technologies (DNS, Firewall, SSH, HTTP)</li><li>Must have a valid Ontario driver&#8217;s license</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "McY5cRUNBX",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

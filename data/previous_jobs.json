@@ -738,6 +738,17 @@
     "source": "SST"
   },
   {
+    "title": "Entry Level Financial Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Entry-Level-Financial-Operations_R37392",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37392"
+    ],
+    "id": "R37392",
+    "source": "SST"
+  },
+  {
     "title": "Client Experience, Client Support Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney---255-George-St/Client-Experience--Client-Support-Manager_R37548",
     "locationsText": "2 Locations",
@@ -746,17 +757,6 @@
       "R37548"
     ],
     "id": "R37548",
-    "source": "SST"
-  },
-  {
-    "title": "Client Experience Manager, Client Support",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne-Australia/Client-Experience-Manager--Client-Support-PA2025TACSTBAU2_R37546",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37546"
-    ],
-    "id": "R37546",
     "source": "SST"
   },
   {
@@ -991,6 +991,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Software Engineering Placement/Internship (3-12 months)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Placement_R028779",
+    "locationsText": "UK- Edinburgh - 19A Canning St",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028779"
+    ],
+    "id": "R028779",
+    "source": "Ciena"
+  },
+  {
+    "title": "Hardware (PCBA) Design and Verification Co-op (Winter 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Co-op--Winter-2026-_R029295",
+    "locationsText": "Canada- Ottawa- 383 Terry Fox- Bldg C",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029295"
+    ],
+    "id": "R029295",
+    "source": "Ciena"
+  },
+  {
     "title": "Manager, Service Reliability Engineering",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Manager--Service-Reliability-Engineering_R028474",
     "locationsText": "Remote-US",
@@ -1076,17 +1098,6 @@
       "R027702"
     ],
     "id": "R027702",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Engineering Placement",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Placement_R028779",
-    "locationsText": "UK- Edinburgh - 19A Canning St",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R028779"
-    ],
-    "id": "R028779",
     "source": "Ciena"
   },
   {
@@ -1186,17 +1197,6 @@
       "R029276"
     ],
     "id": "R029276",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Design Intern (Winter 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Design-Intern--Winter-2026-_R029275",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029275"
-    ],
-    "id": "R029275",
     "source": "Ciena"
   },
   {
@@ -2288,6 +2288,48 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 155061,
+    "type": "careers",
+    "title": "Senior Fullstack Software Engineer I",
+    "link": "https://www.surveymonkey.com/careers/7126204-senior-fullstack-software-engineer-i/",
+    "path": "/careers/7126204-senior-fullstack-software-engineer-i/",
+    "date": "2025-10-23T15:00:12",
+    "date_modified": "2025-10-23T15:00:12",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Fullstack Software Engineer I",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 394,
+        "slug": "portland",
+        "name": "Portland, OR",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/portland/",
+        "path": "/careers/office/portland/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 154947,

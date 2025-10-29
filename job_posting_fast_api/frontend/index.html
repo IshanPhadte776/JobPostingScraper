@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Scraper Dashboard</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f0f2f5;
+      margin: 0;
+      padding: 2rem;
+      color: #333;
+    }
+
+    h1, h2 {
+      text-align: center;
+      color: #2c3e50;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .btn {
+      padding: 0.6rem 1.2rem;
+      margin: 0.5rem;
+      border: none;
+      border-radius: 5px;
+      background: #3498db;
+      color: white;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+    .btn:hover { background: #2980b9; }
+    .btn:disabled { background: #95a5a6; cursor: not-allowed; }
+
+    #output {
+      background: white;
+      padding: 1rem;
+      margin-top: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      max-height: 300px;
+      overflow-y: auto;
+      text-align: left;
+      font-family: monospace;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+
+    /* Company Cards */
+    .company-group {
+      margin-top: 2rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+      gap: 1rem;
+    }
+
+    .company-card {
+      background: white;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+      cursor: pointer;
+      transition: transform 0.2s, box-shadow 0.2s;
+      text-transform: capitalize;
+      font-weight: bold;
+    }
+
+    .company-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+      background: #ecf0f1;
+    }
+
+    .group-title {
+      margin-bottom: 0.5rem;
+      font-size: 1.2rem;
+      color: #34495e;
+    }
+
+    /* Job Cards */
+    .job-cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+
+    .job-card {
+      background: white;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+      text-align: left;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .job-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    }
+
+    .job-title {
+      font-weight: bold;
+      font-size: 1.1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .job-info {
+      font-size: 0.95rem;
+      margin-bottom: 0.3rem;
+      color: #555;
+    }
+
+    .job-link {
+      display: inline-block;
+      margin-top: 0.5rem;
+      padding: 0.3rem 0.6rem;
+      background: #2ecc71;
+      color: white;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 0.9rem;
+      transition: background 0.3s;
+    }
+    .job-link:hover { background: #27ae60; }
+
+    .full-time { border-left: 5px solid #3498db; }
+    .part-time { border-left: 5px solid #f1c40f; }
+    .contract { border-left: 5px solid #e74c3c; }
+
+    @media (max-width: 600px) {
+      .btn { width: 100%; margin: 0.5rem 0; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Job Scraper Dashboard</h1>
+
+    <div>
+      <button class="btn" id="scrapeBtn">Scrape All Jobs</button>
+      <button class="btn" id="getJobsBtn">Get Previous Jobs</button>
+      <button class="btn" id="getCompaniesBtn">List Companies</button>
+    </div>
+
+    <div id="companiesContainer"></div>
+    <div id="jobsContainer" class="job-cards"></div>
+
+    <div>
+      <h2>Output:</h2>
+      <pre id="output">Nothing yet...</pre>
+    </div>
+  </div>
+
+  <script>
+    const output = document.getElementById("output");
+    const companiesContainer = document.getElementById("companiesContainer");
+    const jobsContainer = document.getElementById("jobsContainer");
+
+    async function fetchData(url, method="GET", body=null) {
+      try {
+        const res = await fetch(url, {
+          method,
+          headers: { 'Content-Type': 'application/json' },
+          body: body ? JSON.stringify(body) : null
+        });
+        if (!res.ok) throw new Error(res.statusText);
+        console.log(`Response from ${url}:`, res);
+        return await res.json();
+      } catch (err) {
+        output.textContent = "Error: " + err;
+        throw err;
+      }
+    }
+
+    function getJobClass(employmentStatus) {
+        if (!employmentStatus) return "";
+        const status = employmentStatus.toLowerCase();
+        if (status.includes("full")) return "full-time";
+        if (status.includes("part")) return "part-time";
+        if (status.includes("contract") || status.includes("temp")) return "contract";
+        return "";
+    }
+
+    function displayJobs(jobs) {
+        jobsContainer.innerHTML = "";
+        if (!Array.isArray(jobs) || jobs.length === 0) {
+            jobsContainer.innerHTML = '<div style="text-align: center; padding: 2rem;">No jobs found</div>';
+            return;
+        }
+
+        jobs.forEach(job => {
+            const card = document.createElement("div");
+            card.className = `job-card ${getJobClass(job.type)}`;
+
+            const location = [job.city, job.state, job.location].filter(Boolean).join(", ");
+            
+            card.innerHTML = `
+                <div class="job-title">${job.title || "No title"}</div>
+                ${job.company ? `<div class="job-info"><strong>Company:</strong> ${job.company}</div>` : ""}
+                ${job.department ? `<div class="job-info"><strong>Dept:</strong> ${job.department}</div>` : ""}
+                ${job.type ? `<div class="job-info"><strong>Type:</strong> ${job.type}</div>` : ""}
+                ${location ? `<div class="job-info"><strong>Location:</strong> ${location}</div>` : ""}
+                <a class="job-link" href="${job.url}" target="_blank">Apply Now</a>
+            `;
+            jobsContainer.appendChild(card);
+        });
+    }
+
+
+document.getElementById("scrapeBtn").addEventListener("click", async () => {
+  const btn = document.getElementById("scrapeBtn");
+  btn.disabled = true;
+  output.textContent = "Starting job scraping process... ⏳";
+
+  try {
+    // Start the scraping process
+    const data = await fetchData("http://127.0.0.1:8000/scrape");
+    if (data.status !== "started" || !data.taskId) {
+      throw new Error("Failed to start scraping process");
+    }
+
+    // Poll for status every 2 seconds
+    const taskId = data.taskId;
+    output.textContent = "Scraping jobs from all sources... This may take a minute... ⏳";
+    
+    const checkStatus = async () => {
+      try {
+        const statusData = await fetchData(`http://127.0.0.1:8000/scrape/status/${taskId}`);
+        console.log("Status check returned:", statusData);
+
+        if (statusData.status === "error") {
+          throw new Error(statusData.error || "Failed to scrape jobs");
+        }
+        
+        if (statusData.status === "completed") {
+          displayJobs(statusData.jobs);
+          output.textContent = `Successfully scraped ${statusData.count} jobs! (${new Date(statusData.timestamp).toLocaleTimeString()})`;
+          btn.disabled = false;
+          return true;
+        }
+        
+        return false;
+      } catch (err) {
+        if (err.message.includes("404")) {
+          // Status file not found yet, keep polling
+          return false;
+        }
+        throw err;
+      }
+    };
+
+    // Poll until complete or error
+    const pollInterval = setInterval(async () => {
+      try {
+        const isDone = await checkStatus();
+        if (isDone) {
+          clearInterval(pollInterval);
+        }
+      } catch (err) {
+        output.textContent = "❌ Error checking scrape status: " + err;
+        clearInterval(pollInterval);
+        btn.disabled = false;
+      }
+    }, 2000);
+
+    // Set a timeout to stop polling after 5 minutes
+    setTimeout(() => {
+      clearInterval(pollInterval);
+      if (btn.disabled) {
+        btn.disabled = false;
+        output.textContent = "⚠️ Scraping is taking longer than expected. Please check 'Get Previous Jobs' in a few minutes.";
+      }
+    }, 5 * 60 * 1000);
+
+  } catch (err) {
+    output.textContent = "❌ Error starting job scrape: " + err;
+    btn.disabled = false;
+  }
+});
+
+// Fetch previous jobs
+document.getElementById("getJobsBtn").addEventListener("click", async () => {
+  const btn = document.getElementById("getJobsBtn");
+  btn.disabled = true;
+  output.textContent = "Fetching previous jobs...";
+  
+  try {
+    const data = await fetchData("http://127.0.0.1:8000/jobs");
+    if (data.status === "success") {
+      displayJobs(data.jobs);
+      output.textContent = `Loaded ${data.jobs.length} previous jobs!`;
+    } else {
+      throw new Error(data.message || "Failed to fetch jobs");
+    }
+  } catch (err) {
+    output.textContent = "❌ Error loading jobs: " + err;
+  } finally {
+    btn.disabled = false;
+  }
+});
+
+// Fetch and display companies
+document.getElementById("getCompaniesBtn").addEventListener("click", async () => {
+  const btn = document.getElementById("getCompaniesBtn");
+  btn.disabled = true;
+  output.textContent = "Fetching companies...";
+
+  try {
+    const data = await fetchData("http://127.0.0.1:8000/companies");
+    if (!data.status === "success") {
+      throw new Error(data.message || "Failed to fetch companies");
+    }
+
+    output.textContent = "Companies loaded! Click any company to scrape its jobs.";
+    companiesContainer.innerHTML = "";
+    jobsContainer.innerHTML = "";
+
+    const companies = data.companies || {};
+    for (const [type, companyList] of Object.entries(companies)) {
+      const groupDiv = document.createElement("div");
+      groupDiv.className = "company-group";
+      const title = document.createElement("div");
+      title.className = "group-title";
+      title.textContent = type.replace("_", " ").toUpperCase();
+      groupDiv.appendChild(title);
+
+      companyList.forEach(company => {
+        const card = document.createElement("div");
+        card.className = "company-card";
+        card.textContent = company;
+        card.addEventListener("click", async () => {
+          card.style.opacity = "0.7";
+          output.textContent = `Scraping jobs for ${company}...`;
+          try {
+            const res = await fetchData(`http://127.0.0.1:8000/scrape?company=${encodeURIComponent(company)}`);
+            if (res.status === "success") {
+              displayJobs(res.jobs);
+              output.textContent = `Found ${res.jobs.length} jobs for ${company}!`;
+            } else {
+              throw new Error(res.message || "Failed to scrape jobs");
+            }
+          } catch (err) {
+            output.textContent = "❌ Error scraping company: " + err;
+          } finally {
+            card.style.opacity = "1";
+          }
+        });
+        groupDiv.appendChild(card);
+      });
+
+      companiesContainer.appendChild(groupDiv);
+    }
+  } catch (err) {
+    output.textContent = "❌ Error loading companies: " + err;
+  } finally {
+    btn.disabled = false;
+  }
+});
+    
+  </script>
+
+</body>
+</html>

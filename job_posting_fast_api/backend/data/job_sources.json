@@ -1,0 +1,102 @@
+{
+  "ENDPOINTS": [
+    "https://giatecscientific.bamboohr.com/careers/list",
+    "https://solace.bamboohr.com/careers/list",
+    "https://truecontext.bamboohr.com/careers/list",
+    "https://distillersr.bamboohr.com/careers/list",
+    "https://recollective.bamboohr.com/careers/list"
+  ],
+
+  "WORKDAY_SOURCES": [
+    {
+        "name": "SST",
+        "endpoint": "https://wd1.myworkdaysite.com/wday/cxs/ssctech/SSCTechnologies/jobs",
+        "headers": {"Content-Type": "application/json"},
+        "payload": {},
+        "url_prefix": "https://wd1.myworkdaysite.com/en-US/ssctech",
+        "public_board_url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies"
+    },
+    {
+        "name": "CIBC",
+        "endpoint": "https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/jobs",
+        "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "Referer": "https://cibc.wd3.myworkdayjobs.com/search?State__Region__Province=218a720b28a74c67b5c6d42c00bdadfa&jobFamilyGroup=4bbe6c74e8a70126f29430a881012510",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 11.0; Surface Duo) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+        },
+        "payload": {
+            "appliedFacets": {
+                "State__Region__Province": ["218a720b28a74c67b5c6d42c00bdadfa"],
+                "jobFamilyGroup": ["4bbe6c74e8a70126f29430a881012510"]
+            },
+            "searchText": "",
+            "locationArg": {},
+            "sortBy": "relevance"
+        },
+        "url_prefix": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc",
+        "public_board_url": "https://cibc.wd3.myworkdayjobs.com/search"
+    },
+    {
+        "name": "Ciena",
+        "endpoint": "https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/Careers/jobs",
+        "headers": {"Content-Type": "application/json", "Accept": "application/json"},
+        "payload": {},
+        "url_prefix": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena",
+        "public_board_url": "https://ciena.wd5.myworkdayjobs.com/Careers"
+    },
+    {
+        "name": "Entrust",
+        "endpoint": "https://entrust.wd1.myworkdayjobs.com/wday/cxs/entrust/EntrustCareers/jobs",
+        "headers": {"Content-Type": "application/json"},
+        "payload": {
+            "appliedFacets": {
+                "locationCountry": ["a30a87ed25634629aa6c3958aa2b91ea", "bc33aa3152ec42d4995f4791a106ed09"],
+                "jobFamilyGroup": ["94f2a69b2507011c7bbbfc6f78076b26"]
+            },
+            "searchText": "",
+            "locationArg": {},
+            "sortBy": "relevance"
+        },
+        "url_prefix": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust",
+        "public_board_url": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers?locationCountry=a30a87ed25634629aa6c3958aa2b91ea&locationCountry=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=94f2a69b2507011c7bbbfc6f78076b26"
+    }
+],
+
+"THIRD_PARTY_SOURCES": [
+    {
+        "name": "Evertz",
+        "endpoint": "https://evertz.com/includes/json/careers.json"
+    },
+    {
+        "name": "SurveyMonkey",
+        "endpoint": "https://www.surveymonkey.com/content-svc/sm/content/v3/careers/?career_department=engineering&per_page=100&page=1"
+    }
+],
+
+"FAILED_COMPANIES": [
+    {
+        "name": "Kinaxis",
+        "endpoint": "https://careers-kinaxis.icims.com/jobs/search",
+        "reason": "couldn't find the rest endpoint for jobs"
+    },
+    {
+        "name": "Solink",
+        "endpoint": "https://solink.com/careers/#positions",
+        "reason": "couldn't find the rest endpoint for jobs"
+    },
+    {
+        "name": "Amdocs",
+        "endpoint": "https://jobs.amdocs.com/careers",
+        "reason": "odd job searching structure"
+    }
+],
+
+"LOTS_OF_WORK": [
+    {
+        "name": "Qlik",
+        "endpoint": "https://www.qlik.com/us/company/careers/job-listings?page=1&limit=94",
+        "reason": "custom work for custom site"
+    }
+]
+}

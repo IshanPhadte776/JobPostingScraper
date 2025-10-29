@@ -1,0 +1,301 @@
+# AWS Deployment Guide
+
+This guide provides step-by-step instructions for deploying the **Job Posting Scraper** application to AWS. The application consists of a React frontend and a FastAPI backend.
+
+## Table of Contents
+- [Prerequisites](#prerequisites)
+- [Frontend Deployment (React → S3/CloudFront)](#frontend-deployment)
+- [Backend Deployment (FastAPI → Elastic Beanstalk)](#backend-deployment)
+- [Post-Deployment Configuration](#post-deployment-configuration)
+- [Troubleshooting](#troubleshooting)
+
+---
+
+## Prerequisites
+
+Before you begin, ensure you have:
+
+- AWS account with appropriate permissions
+- AWS CLI installed and configured (`aws configure`)
+- Node.js and npm installed (for frontend)
+- Python 3.11+ installed (for backend)
+- EB CLI installed (`pip install awsebcli`)
+
+---
+
+## Frontend Deployment
+
+The React frontend will be hosted on **AWS S3** with optional **CloudFront** CDN distribution.
+
+### Step 1: Build the React Application
+
+```bash
+cd job_posting_fast_api/frontend
+npm install
+npm run build
+```
+
+This creates an optimized production build in the `build/` directory.
+
+### Step 2: Create an S3 Bucket
+
+1. Log into the AWS Management Console
+2. Navigate to **S3** service
+3. Click **Create bucket**
+4. Configure bucket settings:
+   - **Bucket name**: `job-posting-scraper-frontend` (must be globally unique)
+   - **Region**: Choose your preferred region
+   - **Uncheck** "Block all public access" (required for static website hosting)
+   - Acknowledge the warning about public access
+
+### Step 3: Enable Static Website Hosting
+
+1. Select your newly created bucket
+2. Go to **Properties** tab
+3. Scroll to **Static website hosting**
+4. Click **Edit** and configure:
+   - **Enable** static website hosting
+   - **Index document**: `index.html`
+   - **Error document**: `index.html` (for React Router support)
+5. Save changes and note the **bucket website endpoint**
+
+### Step 4: Upload Build Files
+
+Upload the contents of the `build/` folder to S3:
+
+```bash
+aws s3 sync build/ s3://job-posting-scraper-frontend --delete
+```
+
+Or use the AWS Console:
+1. Open your S3 bucket
+2. Click **Upload**
+3. Drag and drop all files from the `build/` directory
+4. Click **Upload**
+
+### Step 5: Configure Bucket Permissions
+
+Add a bucket policy to allow public read access:
+
+1. Go to **Permissions** tab
+2. Click **Bucket Policy**
+3. Add the following policy (replace `YOUR-BUCKET-NAME`):
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "PublicReadGetObject",
+      "Effect": "Allow",
+      "Principal": "*",
+      "Action": "s3:GetObject",
+      "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME/*"
+    }
+  ]
+}
+```
+
+### Step 6: Configure React API URL
+
+Update the backend API endpoint in your React app:
+
+1. Create or edit `frontend/.env.production`:
+
+```env
+REACT_APP_API_URL=https://your-backend-url.elasticbeanstalk.com
+```
+
+2. Rebuild and redeploy:
+
+```bash
+npm run build
+aws s3 sync build/ s3://job-posting-scraper-frontend --delete
+```
+
+### Step 7: Verify Deployment
+
+Access your React app via the S3 website endpoint:
+- Format: `http://job-posting-scraper-frontend.s3-website-REGION.amazonaws.com`
+- Find the exact URL in S3 bucket → Properties → Static website hosting
+
+### (Optional) Step 8: Set Up CloudFront CDN
+
+For better performance and HTTPS support:
+
+1. Navigate to **CloudFront** in AWS Console
+2. Click **Create Distribution**
+3. Configure:
+   - **Origin Domain**: Select your S3 bucket website endpoint
+   - **Viewer Protocol Policy**: Redirect HTTP to HTTPS
+   - **Default Root Object**: `index.html`
+4. Create distribution and note the CloudFront domain name
+5. Update `REACT_APP_API_URL` if needed and redeploy
+
+---
+
+## Backend Deployment
+
+The FastAPI backend will be deployed to **AWS Elastic Beanstalk**.
+
+### Step 1: Prepare Backend Structure
+
+Ensure your backend folder has the following structure:
+
+```
+backend/
+├── main.py
+├── requirements.txt
+└── Procfile
+```
+
+### Step 2: Create Procfile
+
+Create a `Procfile` in the `backend/` directory:
+
+```
+web: uvicorn main:app --host 0.0.0.0 --port 8000
+```
+
+This tells Elastic Beanstalk how to run your FastAPI application.
+
+### Step 3: Update requirements.txt
+
+Ensure all dependencies are listed:
+
+```txt
+fastapi
+uvicorn[standard]
+pydantic
+requests
+beautifulsoup4
+# Add any other dependencies your app needs
+```
+
+### Step 4: Initialize Elastic Beanstalk
+
+Navigate to your backend directory and initialize:
+
+```bash
+cd backend
+eb init -p python-3.11 JobPostingScraper
+```
+
+Follow the prompts:
+- Select your AWS region
+- Choose to use AWS credentials or configure them
+- (Optional) Set up SSH for instances
+
+### Step 5: Create EB Environment
+
+Create and deploy your application environment:
+
+```bash
+eb create job-posting-api
+```
+
+This process takes several minutes. EB will:
+- Create an EC2 instance
+- Set up load balancer
+- Configure auto-scaling
+- Deploy your application
+
+### Step 6: Configure Environment Variables
+
+Set environment variables for sensitive data:
+
+#### Option A: Using EB CLI
+
+```bash
+eb setenv EMAIL_USER=your-email@example.com EMAIL_PASSWORD=your-app-password
+```
+
+#### Option B: Using AWS Console
+
+1. Navigate to **Elastic Beanstalk** in AWS Console
+2. Select your application
+3. Go to **Configuration** → **Software**
+4. Click **Edit**
+5. Scroll to **Environment properties**
+6. Add:
+   - `EMAIL_USER`: Your email address
+   - `EMAIL_PASSWORD`: Your email app password
+7. Click **Apply**
+
+### Step 7: Update Backend Code
+
+Ensure your `main.py` uses environment variables:
+
+```python
+import os
+
+EMAIL_USER = os.environ.get("EMAIL_USER")
+EMAIL_PASSWORD = os.environ.get("EMAIL_PASSWORD")
+```
+
+### Step 8: Deploy Updates
+
+Whenever you make changes to your backend:
+
+```bash
+eb deploy
+```
+
+### Step 9: Verify Backend Deployment
+
+Check your API is running:
+
+```bash
+eb open
+```
+
+Or visit: `https://job-posting-api.REGION.elasticbeanstalk.com`
+
+Test the API endpoints:
+- `GET /` - Health check
+- `GET /docs` - FastAPI interactive documentation
+
+---
+
+## Post-Deployment Configuration
+
+### Enable CORS on Backend
+
+Ensure your FastAPI backend allows requests from your frontend:
+
+```python
+from fastapi.middleware.cors import CORSMiddleware
+
+app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://job-posting-scraper-frontend.s3-website-REGION.amazonaws.com",
+        "https://YOUR-CLOUDFRONT-DOMAIN.cloudfront.net"
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+```
+
+Redeploy after changes:
+
+```bash
+eb deploy
+```
+
+### Set Up Custom Domain (Optional)
+
+#### For Frontend (S3/CloudFront):
+1. Register domain in **Route 53**
+2. Create CloudFront distribution if not already done
+3. Request SSL certificate in **AWS Certificate Manager**
+4. Configure CloudFront to use custom domain and certificate
+5. Update Route 53 DNS records to point to CloudFront
+
+#### For Backend (Elastic Beanstalk):
+1. Go to EB environment → Configuration → Load Balancer
+2. Add HTTPS listener with SSL certificate
+3. Update Route 53 DNS records to point to EB environment

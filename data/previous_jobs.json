@@ -740,6 +740,39 @@
     "source": "SST"
   },
   {
+    "title": "Infrastructure Architect",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Infrastructure-Architect_2511976",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2511976"
+    ],
+    "id": "2511976",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Enterprise Data & Records",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Enterprise-Data---Records_2522964",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2522964"
+    ],
+    "id": "2522964",
+    "source": "CIBC"
+  },
+  {
+    "title": "Software Development Engineer in Test (SDET)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Development-Engineer-in-Test--SDET-_2525005",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2525005"
+    ],
+    "id": "2525005",
+    "source": "CIBC"
+  },
+  {
     "title": "Consultant, Application Development - Java",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development---Java_2506848",
     "locationsText": "Toronto, ON",
@@ -927,39 +960,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2523432",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2523432"
-    ],
-    "id": "2523432",
-    "source": "CIBC"
-  },
-  {
-    "title": "Technical Team Lead",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Technical-Team-Lead_2524471",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2524471"
-    ],
-    "id": "2524471",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior NAS Infrastructure Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-NAS-Infrastructure-Engineer_2512460",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2512460"
-    ],
-    "id": "2512460",
-    "source": "CIBC"
-  },
-  {
     "title": "VP Sales - India GCE Leader",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/VP-Sales---India-GCE-Leader_R029104",
     "locationsText": "2 Locations",
@@ -990,6 +990,17 @@
       "R029072"
     ],
     "id": "R029072",
+    "source": "Ciena"
+  },
+  {
+    "title": "Datapath - Software Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Datapath---Software-Engineer_R029110",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029110"
+    ],
+    "id": "R029110",
     "source": "Ciena"
   },
   {
@@ -1166,17 +1177,6 @@
       "R027285"
     ],
     "id": "R027285",
-    "source": "Ciena"
-  },
-  {
-    "title": "QA Engineer/Module Lead - Routing & switching testing + Python Automation",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India--Gurgaon--JSK-Tower--Plot-13/QA-Engineer-Module-Lead---Routing---switching-testing---Python-Automation_R029234",
-    "locationsText": "India- Gurgaon- JSK Tower- Plot 13",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029234"
-    ],
-    "id": "R029234",
     "source": "Ciena"
   },
   {

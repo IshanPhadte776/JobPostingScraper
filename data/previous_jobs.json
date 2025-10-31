@@ -573,14 +573,6 @@
     "source": "SST"
   },
   {
-    "bulletFields": [
-      "R29258"
-    ],
-    "id": "R29258",
-    "externalPath": "",
-    "source": "SST"
-  },
-  {
     "title": "Director Private Equity Fund Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Director-Private-Equity-Fund-Accounting_R34986",
     "locationsText": "Maharashtra, Navi Mumbai",
@@ -724,6 +716,28 @@
     "source": "SST"
   },
   {
+    "title": "Full Stack Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---California-US/Full-Stack-Engineer_R38027",
+    "locationsText": "26 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38027"
+    ],
+    "id": "R38027",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellevue-WA/Senior-Associate_R38407",
+    "locationsText": "Bellevue, WA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38407"
+    ],
+    "id": "R38407",
+    "source": "SST"
+  },
+  {
     "title": "Sr. Sales Executive, Asset Management Technology - HYBRID",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Asset-Management-Technology-Sales-Executive---PA-CRITICAL-Q3-R1-_R35685",
     "locationsText": "3 Locations",
@@ -746,15 +760,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Financial Client Relations Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Senior-Associate-Client-Relationship-Specialist_R36993",
-    "locationsText": "2 Locations",
+    "title": "Application Production Support Consultant",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Production-Support-Consultant_2508001-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36993"
+      "2508001"
     ],
-    "id": "R36993",
-    "source": "SST"
+    "id": "2508001",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development_2511972",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2511972"
+    ],
+    "id": "2511972",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Telecommunications, Teams Voice Support - Bilingual",
@@ -955,26 +980,15 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Solutions Designer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Solutions-Designer_2522216",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
+    "title": "Senior Director, Product Line Management, WaveLogic Technologies",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Director--Product-Line-Management--WaveLogic-Technologies_R029369",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "2522216"
+      "R029369"
     ],
-    "id": "2522216",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2524463",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "2524463"
-    ],
-    "id": "2524463",
-    "source": "CIBC"
+    "id": "R029369",
+    "source": "Ciena"
   },
   {
     "title": "Navigator NCS Product Line Manager",
@@ -1007,6 +1021,39 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Photonics Test and Measurement Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Test-and-Measurement-Engineer_R029341-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029341"
+    ],
+    "id": "R029341",
+    "source": "Ciena"
+  },
+  {
+    "title": "Vulnerability Management Analyst",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Vulnerability-Management-Analyst_R028788",
+    "locationsText": "Remote- India- Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028788"
+    ],
+    "id": "R028788",
+    "source": "Ciena"
+  },
+  {
+    "title": "Photonics Program Management Co-op - Winter 2026",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Program-Management-Co-op---Winter-2026_R029343",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029343"
+    ],
+    "id": "R029343",
     "source": "Ciena"
   },
   {
@@ -1150,50 +1197,6 @@
       "R028976"
     ],
     "id": "R028976",
-    "source": "Ciena"
-  },
-  {
-    "title": "Consultant Sales Engineering",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Dubai/Consultant-Sales-Engineering_R029337",
-    "locationsText": "5 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029337"
-    ],
-    "id": "R029337",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software QA Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Software-QA-Engineer_R029060",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029060"
-    ],
-    "id": "R029060",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Marketing Manager, Field and Channel Marketing, Middle East",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Riyadh/Senior-Marketing-Manager--Field-and-Channel-Marketing--Middle-East_R028452",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R028452"
-    ],
-    "id": "R028452",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software QA/SVT Intern",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Software-QA-SVT-Intern_R029334",
-    "locationsText": "UK- Edinburgh - 19A Canning St",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029334"
-    ],
-    "id": "R029334",
     "source": "Ciena"
   },
   {

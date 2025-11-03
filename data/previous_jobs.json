@@ -707,6 +707,17 @@
     "source": "SST"
   },
   {
+    "title": "Full Stack Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---California-US/Full-Stack-Engineer_R38027",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38027"
+    ],
+    "id": "R38027",
+    "source": "SST"
+  },
+  {
     "title": "Front End Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---California-US/Front-End-Engineer_R38026",
     "locationsText": "5 Locations",
@@ -729,15 +740,15 @@
     "source": "SST"
   },
   {
-    "title": "Sales Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Sales-Associate_R38043",
-    "locationsText": "Mumbai, India",
+    "title": "DevSecOps Support Consultant - ServiceNow",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--ServiceNow--DevSecOps-Support_2504314",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38043"
+      "2504314"
     ],
-    "id": "R38043",
-    "source": "SST"
+    "id": "2504314",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Web Development (12 Month Contract)",
@@ -949,17 +960,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Consultant, Java Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Java-Developer-Consultant_2524414",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2524414"
-    ],
-    "id": "2524414",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -979,6 +979,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Customer Technical Advocate",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Customer-Technical-Advocate_R029207",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029207"
+    ],
+    "id": "R029207",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Optical Solutions Sales Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Riyadh/Senior-Optical-Sales-Engineer_R028462",
+    "locationsText": "Riyadh",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028462"
+    ],
+    "id": "R028462",
     "source": "Ciena"
   },
   {
@@ -1155,28 +1177,6 @@
       "R029044"
     ],
     "id": "R029044",
-    "source": "Ciena"
-  },
-  {
-    "title": "End User Support Analyst",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/End-User-Support-Analyst_R028736",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R028736"
-    ],
-    "id": "R028736",
-    "source": "Ciena"
-  },
-  {
-    "title": "Blue Planet Advanced Technical Support: BPUAA Support EMEA",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK/Blue-Planet-Advanced-Technical-Support--BPUAA-Support-EMEA_R029256",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029256"
-    ],
-    "id": "R029256",
     "source": "Ciena"
   },
   {

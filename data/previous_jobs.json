@@ -665,58 +665,58 @@
     "source": "SST"
   },
   {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Account-Executive_R36444",
+    "title": "Senior Project Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bristol-UK/Project-Manager--PA25CDOBAQ1052-_R32263-1",
+    "locationsText": "Bristol UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R32263"
+    ],
+    "id": "R32263",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Senior-Software-Engineer_R38636",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38636"
+    ],
+    "id": "R38636",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Director, Client Success Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Director--Client-Success-Manager_R38337",
     "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36444"
+      "R38337"
     ],
-    "id": "R36444",
+    "id": "R38337",
     "source": "SST"
   },
   {
-    "title": "Compliance Reporting Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Compliance-Reporting-Specialist_R29690",
-    "locationsText": "2 Locations",
+    "title": "Associate Director, Client Success",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Associate-Director--Client-Success_R38338-1",
+    "locationsText": "San Francisco, CA",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R29690"
+      "R38338"
     ],
-    "id": "R29690",
+    "id": "R38338",
     "source": "SST"
   },
   {
-    "title": "Strategic Client Relationship Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Strategic-Client-Relationship-Executive_R37179",
-    "locationsText": "New York, NY",
+    "title": "Senior Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Engagement-Specialist_R37705",
+    "locationsText": "Chicago, IL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37179"
+      "R37705"
     ],
-    "id": "R37179",
-    "source": "SST"
-  },
-  {
-    "title": "Investor Services Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Luxembourg-City-Luxembourg/Investor-Services-Associate_R34592",
-    "locationsText": "Luxembourg City, Luxembourg",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R34592"
-    ],
-    "id": "R34592",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Senior-Associate_R37885",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37885"
-    ],
-    "id": "R37885",
+    "id": "R37705",
     "source": "SST"
   },
   {

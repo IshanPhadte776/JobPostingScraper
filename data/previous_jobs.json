@@ -665,59 +665,81 @@
     "source": "SST"
   },
   {
-    "title": "Senior Project Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bristol-UK/Project-Manager--PA25CDOBAQ1052-_R32263-1",
-    "locationsText": "Bristol UK",
+    "title": "Manager - Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland/Manager---Investor-Services_R38343",
+    "locationsText": "Dublin, Ireland",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R32263"
+      "R38343"
     ],
-    "id": "R32263",
+    "id": "R38343",
     "source": "SST"
   },
   {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Senior-Software-Engineer_R38636",
-    "locationsText": "Denver, CO",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38636"
-    ],
-    "id": "R38636",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Director, Client Success Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Director--Client-Success-Manager_R38337",
+    "title": "Senior Associate, Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Investor-Services_R38318",
     "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38337"
+      "R38318"
     ],
-    "id": "R38337",
+    "id": "R38318",
     "source": "SST"
   },
   {
-    "title": "Associate Director, Client Success",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Associate-Director--Client-Success_R38338-1",
-    "locationsText": "San Francisco, CA",
+    "title": "Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager_R37302",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38338"
+      "R37302"
     ],
-    "id": "R38338",
+    "id": "R37302",
     "source": "SST"
   },
   {
-    "title": "Senior Consultant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Engagement-Specialist_R37705",
-    "locationsText": "Chicago, IL",
+    "title": "Director - Client Relationship Management",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Director---Client-Relationship-Management_R37964",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37705"
+      "R37964"
     ],
-    "id": "R37705",
+    "id": "R37964",
     "source": "SST"
+  },
+  {
+    "title": "Senior Business Development Director \u2013 Hedge Fund Administration",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Director_R37936-1",
+    "locationsText": "London - 1 Ropemaker Street",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37936"
+    ],
+    "id": "R37936",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development_2511972",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2511972"
+    ],
+    "id": "2511972",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Performance Tester",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Performance-Tester_2521554",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2521554"
+    ],
+    "id": "2521554",
+    "source": "CIBC"
   },
   {
     "title": "Technology Service Manager( Identity & Remote Access Services)",
@@ -885,17 +907,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development_2511972",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2511972"
-    ],
-    "id": "2511972",
-    "source": "CIBC"
-  },
-  {
     "title": "Consultant, Telecommunications, Teams Voice Support - Bilingual",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Montreal-QC/Consultant--Telecommunications--Teams-Voice-Support---Bilingual_2524547",
     "locationsText": "2 Locations",
@@ -929,17 +940,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Enterprise Data & Records",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Enterprise-Data---Records_2522964",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2522964"
-    ],
-    "id": "2522964",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -962,9 +962,9 @@
     "source": "Ciena"
   },
   {
-    "title": "Solutions Engineering & Introduction Engineer",
+    "title": "Solutions Engineering & Introduction Engineer, IP / Optical Network Management",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Solutions-Engineering---Introduction-Engineer_R029375",
-    "locationsText": "Ottawa",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
       "R029375"

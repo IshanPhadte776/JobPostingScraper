@@ -676,6 +676,17 @@
     "source": "SST"
   },
   {
+    "title": "Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Account-Executive_R38602",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38602"
+    ],
+    "id": "R38602",
+    "source": "SST"
+  },
+  {
     "title": "Associate, Investor Services",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Associate--Investor-Services_R38472",
     "locationsText": "Windsor, CT",
@@ -709,15 +720,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Data Analyst, Regulatory Solutions",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Data-Analyst_R35293",
-    "locationsText": "New York, NY",
+    "title": "Sr. Security Service Manager, Application Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Security-Service-Manager--Application-Security_2520590",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35293"
+      "2520590"
     ],
-    "id": "R35293",
-    "source": "SST"
+    "id": "2520590",
+    "source": "CIBC"
   },
   {
     "title": "Senior Consultant, Strategy & Solutions",
@@ -929,17 +940,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Application Consultant (Architect/Lead)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Consultant--Digital-Banking--Microservices--Java--Cloud-native-_2427628",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2427628"
-    ],
-    "id": "2427628",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -959,6 +959,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Advanced Technical Support, Blue Planet Portfolio Specialist",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Advanced-Technical-Support--Blue-Planet-Portfolio-Specialist_R029410",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029410"
+    ],
+    "id": "R029410",
+    "source": "Ciena"
+  },
+  {
+    "title": "Advanced Technical Support Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Advanced-Technical-Support-Engineer_R029407",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029407"
+    ],
+    "id": "R029407",
     "source": "Ciena"
   },
   {
@@ -1138,26 +1160,16 @@
     "source": "Ciena"
   },
   {
-    "title": "Technologue en Photonique/ Photonic Technologist",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Technologue-en-Photonique_R029151",
-    "locationsText": "Quebec",
-    "postedOn": "Posted 2 Days Ago",
+    "title": "Software Developer II - Hybrid, Minnesota",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Cloud-Technical-Program-Manager---Development-Deployment_R003274",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted Today",
+    "remoteType": "Hybrid Eligible",
     "bulletFields": [
-      "R029151"
+      "R003274"
     ],
-    "id": "R029151",
-    "source": "Ciena"
-  },
-  {
-    "title": "Digital Senior Verification Engineer - SOC Subsystem Integration",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-Senior-Verification-Engineer---SOC-Subsystem-Integration_R028717",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028717"
-    ],
-    "id": "R028717",
-    "source": "Ciena"
+    "id": "R003274",
+    "source": "Entrust"
   },
   {
     "title": "Principal Software Developer",
@@ -1205,18 +1217,6 @@
       "R003307"
     ],
     "id": "R003307",
-    "source": "Entrust"
-  },
-  {
-    "title": "Senior .NET Software Developer - Hybrid, Minnesota",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Cloud-Technical-Program-Manager---Development-Deployment_R003274",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 21 Days Ago",
-    "remoteType": "Hybrid Eligible",
-    "bulletFields": [
-      "R003274"
-    ],
-    "id": "R003274",
     "source": "Entrust"
   },
   {

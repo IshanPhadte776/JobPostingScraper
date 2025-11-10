@@ -656,6 +656,28 @@
     "source": "SST"
   },
   {
+    "title": "Principal Product Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Principal-Product-Manager_R33566",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R33566"
+    ],
+    "id": "R33566",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Systems Engineer, Black Diamond",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Tennessee-US/Senior-Systems-Engineer--Black-Diamond_R36789",
+    "locationsText": "Remote - Tennessee, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36789"
+    ],
+    "id": "R36789",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Data Analyst, Regulatory Solutions",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Data-Analyst_R35293",
     "locationsText": "New York, NY",
@@ -675,28 +697,6 @@
       "R38754"
     ],
     "id": "R38754",
-    "source": "SST"
-  },
-  {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---North-Carolina-US/Account-Executive_R37767",
-    "locationsText": "Remote - North Carolina, US",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37767"
-    ],
-    "id": "R37767",
-    "source": "SST"
-  },
-  {
-    "title": "Data Operations Supervisor - PA-DSR-Q4-N-4",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Data-Operations-Supervisor---PA-DSR-Q4-N-4_R38641",
-    "locationsText": "7 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38641"
-    ],
-    "id": "R38641",
     "source": "SST"
   },
   {
@@ -953,6 +953,39 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Accountant - Global",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Accountant---Global_R028895",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028895"
+    ],
+    "id": "R028895",
+    "source": "Ciena"
+  },
+  {
+    "title": "NPI Hardware Test Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/NPI-Hardware-Test-Engineer_R029436",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029436"
+    ],
+    "id": "R029436",
+    "source": "Ciena"
+  },
+  {
+    "title": "Hardware Engineer 1",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Engineer-1_R029440",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029440"
+    ],
+    "id": "R029440",
+    "source": "Ciena"
+  },
+  {
     "title": "Python / GoLang Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/DevOps-CloudOps-Engineer--Kubernetes_R028922",
     "locationsText": "2 Locations",
@@ -1104,39 +1137,6 @@
       "R029024"
     ],
     "id": "R029024",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Test Engineer \u2013 IP Routing",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Test-Engineer---IP-Routing_R027849",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R027849"
-    ],
-    "id": "R027849",
-    "source": "Ciena"
-  },
-  {
-    "title": "Photonics Test and Measurement Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Test-and-Measurement-Engineer_R029341-1",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029341"
-    ],
-    "id": "R029341",
-    "source": "Ciena"
-  },
-  {
-    "title": "Lab Engineer, Automation Framework",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Lab-Engineer--Automation-Framework_R027835",
-    "locationsText": "Remote-Canada",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R027835"
-    ],
-    "id": "R027835",
     "source": "Ciena"
   },
   {

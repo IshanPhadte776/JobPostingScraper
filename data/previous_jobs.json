@@ -656,6 +656,28 @@
     "source": "SST"
   },
   {
+    "title": "Associate, Tax",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Associate--Tax_R38341",
+    "locationsText": "Union, NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38341"
+    ],
+    "id": "R38341",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Tax Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Tax-Accounting_R38286-1",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38286"
+    ],
+    "id": "R38286",
+    "source": "SST"
+  },
+  {
     "title": "Principal Product Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Principal-Product-Manager_R33566",
     "locationsText": "Waltham MA - 10 CityPoint",
@@ -678,26 +700,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Data Analyst, Regulatory Solutions",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Data-Analyst_R35293",
-    "locationsText": "New York, NY",
+    "title": "Consultant, Application Operations DBA",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Operations-DBA_2522016-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35293"
+      "2522016"
     ],
-    "id": "R35293",
-    "source": "SST"
-  },
-  {
-    "title": "Manager- Superannuation Administration",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Manager--Superannuation-Administration_R38754",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38754"
-    ],
-    "id": "R38754",
-    "source": "SST"
+    "id": "2522016",
+    "source": "CIBC"
   },
   {
     "title": "QE Co-Ordinator",
@@ -906,17 +917,6 @@
       "2524853"
     ],
     "id": "2524853",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Technology Architecture",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Technology-Architecture_2520756",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "2520756"
-    ],
-    "id": "2520756",
     "source": "CIBC"
   },
   {
@@ -2166,22 +2166,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20250724192317_QH0SIZRFQPKPDGUQ",
-    "title": "Applications Engineer - Colorado Springs, CO",
-    "country_id": "United States",
-    "city": "Colorado Springs",
-    "state": "CO",
-    "zip": "",
-    "department": "R&D",
-    "description": "<p>The ideal candidate for this role will be someone that is very keen to build&#160;knowledge and&#160;driven to seek exposure to multiple facets of broadcasting.&#160; They will be highly self-motivated and enjoy a dynamic fast paced environment that places a very high emphasis on teamwork and collaboration across multiple disciplines.</p><p><strong>Responsibilities:</strong></p><ul><li>Travel to customer sites for installation, maintenance, and upgrading of systems, including both hardware and software components.</li><li>Provide on-site and remote technical support to ensure successful deployment and operation of products.</li><li>Serve as the primary point of contact for customers, listening to their concerns and needs with professionalism and technical insight.</li><li>Act as a liaison between customers and internal teams, especially sales and engineering, to communicate feedback and identify potential business opportunities.</li><li>Document service activities, system performance, and customer feedback in a clear and timely manner.</li><li>Support technical training and onboarding for customers when needed.</li><li>Travel to US-based customers as needed</li><li>Provide other duties as assigned and adhere to company policies and procedures</li></ul><strong>Requirements:</strong><ul><li>Must be a US Citizen</li><li>Education in Electronics, Electrical, Computer Science, Computer Engineering or related discipline</li><li>Be results oriented, self-motivated, and a team player</li><li>Strong analytical, research, and problem-solving skills</li><li>Strong computer science fundamentals (logic &amp; discrete mathematics, algorithms, data structures)</li><li>Position may require candidate to meet eligibility requirements for security clearance</li></ul><p><strong>What we offer:</strong></p><ul><li>Competitive total compensation package</li><li>Comprehensive Benefit Plan</li><li>Company contributed 401k Plan</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "2WHbSdSsPO",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20250724200639_RLKVLQWRAPPGBP7O",
     "title": "Sales Engineer - Colorado Springs, CO",
     "country_id": "United States",
@@ -2192,6 +2176,22 @@
     "description": "<strong>Responsibilities:&#160;</strong><ul><li>Lead trade show technical preparations and coordinate the sourcing, staging, testing and preparation of all equipment to guarantee success</li><li>Coordinate, source, build, rehearse and execute Proofs of Concept and Demonstration Systems as required</li><li>Lead technical discussions with new system integrators and partners learning our products, APIs and interfaces</li><li>Assist with New Product Introductions by facilitating timely knowledge transfer, reviewing first application designs for correctness and tracking first application Purchase Order commitments</li><li>Maintain clear and detailed engineering logs of all issues and discoveries to facilitate follow up and resolution</li><li>Travel to US-based customers as needed&#160;</li></ul><strong>Requirements:</strong><ul><li>Must be a US Citizen &#160;</li><li>Education in Electronics, Electrical, Computer Science, Computer Engineering or related discipline</li><li>Excellent written, verbal and technical communication skills along with the ability to interact and communicate with individuals at all levels of the organization.</li><li>Excellent customer relations, customer service and presentation skills</li><li>Must have ability to understand departmental operations and procedures.</li><li>Position may require candidate to meet eligibility requirements for security clearance</li></ul><p><strong>What we offer:</strong></p><ul><li>Competitive total compensation package</li><li>Comprehensive Benefit Plan</li><li>Company contributed 401k Plan</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "xq9pQ68ZTT",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20250724192317_QH0SIZRFQPKPDGUQ",
+    "title": "Applications Engineer - Colorado Springs, CO",
+    "country_id": "United States",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "",
+    "department": "R&D",
+    "description": "<p>The ideal candidate for this role will be someone that is very keen to build&#160;knowledge and&#160;driven to seek exposure to multiple facets of broadcasting.&#160; They will be highly self-motivated and enjoy a dynamic fast paced environment that places a very high emphasis on teamwork and collaboration across multiple disciplines.</p><p><strong>Responsibilities:</strong></p><ul><li>Travel to customer sites for installation, maintenance, and upgrading of systems, including both hardware and software components.</li><li>Provide on-site and remote technical support to ensure successful deployment and operation of products.</li><li>Serve as the primary point of contact for customers, listening to their concerns and needs with professionalism and technical insight.</li><li>Act as a liaison between customers and internal teams, especially sales and engineering, to communicate feedback and identify potential business opportunities.</li><li>Document service activities, system performance, and customer feedback in a clear and timely manner.</li><li>Support technical training and onboarding for customers when needed.</li><li>Travel to US-based customers as needed</li><li>Provide other duties as assigned and adhere to company policies and procedures</li></ul><strong>Requirements:</strong><ul><li>Must be a US Citizen</li><li>Education in Electronics, Electrical, Computer Science, Computer Engineering or related discipline</li><li>Be results oriented, self-motivated, and a team player</li><li>Strong analytical, research, and problem-solving skills</li><li>Strong computer science fundamentals (logic &amp; discrete mathematics, algorithms, data structures)</li><li>Position may require candidate to meet eligibility requirements for security clearance</li></ul><p><strong>What we offer:</strong></p><ul><li>Competitive total compensation package</li><li>Comprehensive Benefit Plan</li><li>Company contributed 401k Plan</li><li>Work-life balance</li><li>Career progression</li><li>Casual work environment</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "2WHbSdSsPO",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -2224,22 +2224,6 @@
     "description": "<span><span><span><span><span>We are seeking a skilled and detail oriented Frontend Developer with 4 to 5 years of experience to join our growing technology team and build responsive, accessible, and high performance user interfaces for our broadcasting platforms. You will collaborate with design and product teams to translate ideas into clean, reusable components using modern frameworks and deliver seamless user experiences across our digital products.<br>This is an exciting opportunity to contribute to innovative media solutions, enhance user engagement through thoughtful UI development, and stay at the forefront of front-end technologies in a fast paced, content-driven environment.</span></span></span></span></span><br><br><span><span><b><span><span><span>Key Responsibilities</span></span></span></b></span></span><ul><li><span><span><span><span><span><span>Develop and maintain responsive and accessible user interfaces using web technologies &amp; modern frameworks like React, Angular or any other. Collaborate with designers&#160;to translate UX designs into pixel-perfect, interactive reusable components for multiple application within product.</span></span></span></span></span></span></li><li><span><span><span><span><span><span>Enhance user experience&#160;through performance optimizations, animations, and micro-interactions. Implement and contribute&#160;to design systems and component libraries for consistent UI/UX across products. Ensure accessibility (WCAG)&#160;and cross-browser compatibility. Stay current&#160;with front-end trends, technologies, and best practices.</span></span></span></span></span></span></li></ul><span><span><b><span><span><span>Required Skills and Qualifications</span></span></span></b></span></span><ul><li><span><span><span><span><span><span>4to 5 years of relevant work experience </span></span></span></span></span></span></li><li><span><span><span><span><span><span>Strong proficiency in HTML5, CSS3, SCSS, LESS, SAAS, JS, OOJS, JavaScript (ES6+)</span></span></span></span></span></span></li><li><span><span><span><span><span><span>Experience with modern front-end frameworks&#160;(Angular &amp; React preferred)</span></span></span></span></span></span></li><li><span><span><span><span><span><span>Deep understanding of UI/UX principles&#160;and responsive designs structures and patterns</span></span></span></span></span></span></li><li><span><span><span><span><span><span>Familiarity with component-based architecture&#160;and state management and SPA life cycles in depth Knowledge of performance optimization techniques&#160;(lazy loading, code splitting, &#8230;</span></span></span></span></span></span></li><li><span><span><span><span><span><span>Proficiency with version control systems&#160;(Git), Confluence (JIRA), CI/CD pipelines and agile workflows </span></span></span></span></span></span></li><li><span><span><span><span><span><span>Comfortable with build tools&#160;like Webpack, Vite, or Parcel. Experience with testing tools, automation with modern framework is a plus</span></span></span></span></span></span></li></ul><br><span><span><b><span><span>Value You Bring to the Team</span></span></b></span></span><ul><li><span><span><span><span><span>A strong experienced, technical and reliable resource who can pick things up quickly research things on her own.</span></span></span></span></span></li><li><span><span><span><span><span>Ability to pick up UI development backlog tickets which are piling up on XPS / Reflektor / 5800 MSC</span></span></span></span></span></li><li><span><span><span><span><span>Strong collaboration&#160;and communication skills.</span></span></span></span></span></li><li><span><span><span><span><span>Detail-oriented with a passion for polished user experiences.</span></span></span></span></span></li><li><span><span><span><span><span>Problem-solving mindset with a user-first perspective.</span></span></span></span></span></li><li><span><span><span><span><span>Ability to balance design vision and technical constraints</span></span></span></span></span></li></ul><br><br><span><span><b><i><span><span>Office Timing: 1pm to 9pm IST</span></span></i></b></span></span><br><span><span><b><i><span><span>Office Location: Manyata Tech Park, Bangalore, India</span></span></i></b></span></span><br><span><span><b><i><span><span>Work Model: Hybrid/ In person at office</span></span></i></b></span></span><br><br><span><span><b><span><span>About Evertz:</span></span></b></span></span><br><span><span><span><span>Evertz India is the subsidy of Evertz Microsystems (TSX:ET)&#160; a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery. Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers. With over 2000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</span></span></span></span><br><br>&#160;",
     "type": "Full Time",
     "board_code": "1qpYCPlpsP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20250618123709_OCOPTK1XTIM48T65",
-    "title": "Site Reliability Engineer",
-    "country_id": "Poland",
-    "city": "Warsaw",
-    "state": "",
-    "zip": "",
-    "department": "",
-    "description": "<p>We&#8217;re looking for highly motivated, passionate site reliability engineers to join our growing team. At evertz.io, our teams are building services that are used by the biggest names in the exciting broadcast and media industry. Our services are hosted in AWS, with a Serverless First mindset.</p><p>As part of this role you will work with our talented teams to help harden our multi-tenant SaaS platform. Using best in class observability tooling, you will be working to debug incidents, while also identifying and implementing improvements to the platform to ensure its continued reliability. Your drive to eliminate toil will see you automating processes and building the tools to do so.</p><p>We offer flexible working hours, great benefits, and the freedom to experiment with new technologies and tools to build better products.</p><h3><strong>Skills and Experience you will bring:</strong></h3><ul><li>At least 3 years of hands-on experience managing critical, high-availability production infrastructure, demonstrating success in maintaining reliability and maximizing application uptime.&#160;</li><li>Proficient in at least one programming language (such as Python, Java, or Rust), with experience designing and building production-quality automation, tools, or software libraries.&#160;</li><li>At least 3 years working with monitoring, log aggregation, and observability platforms such as Datadog, CloudWatch, Honeycomb, Splunk, or New Relic, using data-driven insights to proactively identify and resolve issues.&#160;</li><li>Excellent analytical skills with the ability to understand end-to-end use cases, map system flows, debug complex issues, and anticipate potential failure points.&#160;</li><li>Proven track record translating SLO&#8217;s and SLI&#8217;s into actionable improvements. Reliability, monitoring, and observability are not just words to you.&#160;</li><li>At least 3 years of experience with cloud technologies, in particular AWS Services and tools such as Cloud Formation, Lambda, DynamoDB, SQS, SNS, EC2, S3, AWS CLI, Boto3.&#160;</li><li>Solid foundation in Linux systems administration, networking, and security.&#160;</li><li>Familiarity with the use and configuration of CI &amp; CD pipelines such as Jenkins &amp; AWS CodePipeline. &#160;</li></ul><h3><strong>Additional skills and experience that will make you standout:</strong></h3><ul><li>Experience architecting and deploying serverless applications in cloud environments.&#160;</li><li>Experience with infrastructure-as-code tools like Terraform or CloudFormation, enabling reproducible and scalable environments.&#160;</li><li>Previous participation in production on-call rotations, with direct involvement in incident management and post-incident reviews.&#160;</li><li>Demonstrated expertise in performance optimization for core AWS services, including Lambda, DynamoDB, API Gateway, SQS, EventBridge, and EC2.&#160;</li><li>Experience supporting and improving systems with frequent, high-velocity deployment cycles.&#160;</li><li>Familiarity with security compliance frameworks (e.g., OWASP, ISO, CSA, PCI), and hands-on experience conducting threat assessments and implementing remediation plans.&#160;</li><li>Background in security practices, including penetration testing, threat modeling, and usage of both open-source and commercial security tools.&#160;</li><li>Experience developing and implementing advanced deployment strategies for web application infrastructures&#8212;such as canary, A/B testing, blue/green deployments, or red/line patterns.&#160;</li><li>Hands-on experience with chaos engineering&#8212;intentionally testing systems under extreme conditions to improve reliability and fault tolerance.&#160;</li><li>Track record of championing system reliability, continuous improvement, and operational excellence throughout an organization.</li></ul><h3><strong>Recruitment process:</strong></h3><ul><li class=\"d-flex align-items-center mb-0 mb-3\">Screening with recruiter&#8239;(45 min)</li><li class=\"d-flex align-items-center mb-0 mb-3\">Technical interview with Team Members (90 min)</li><li class=\"d-flex align-items-center mb-0\">Interview with Hiring Manager (60 min)</li></ul>",
-    "type": "Full Time",
-    "board_code": "HBEIfAaRY1",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

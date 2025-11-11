@@ -380,26 +380,6 @@
     "url": "https://solace.bamboohr.com/career/careers/708"
   },
   {
-    "id": "709",
-    "jobOpeningName": "Professional Services Consultant - Europe",
-    "departmentId": "18762",
-    "departmentLabel": "Professional Services",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": "United Kingdom",
-      "state": null,
-      "province": null,
-      "city": "London"
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/709"
-  },
-  {
     "id": "714",
     "jobOpeningName": "Senior Software Developer ",
     "departmentId": "18550",
@@ -478,6 +458,28 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://truecontext.bamboohr.com/career/careers/37"
+  },
+  {
+    "title": "Principal Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Principal-Software-Engineer_R34003",
+    "locationsText": "Boston, MA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R34003"
+    ],
+    "id": "R34003",
+    "source": "SST"
+  },
+  {
+    "title": "Solutions Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mexico-City-Mexico/Solutions-Consultant_R34480",
+    "locationsText": "Mexico City, Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R34480"
+    ],
+    "id": "R34480",
+    "source": "SST"
   },
   {
     "title": "Manager, Real Estate Accounting/Private Markets",
@@ -623,17 +625,6 @@
     "source": "SST"
   },
   {
-    "title": "Solutions Consultant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Mexico/Solutions-Consultant_R34480",
-    "locationsText": "Remote - Mexico",
-    "postedOn": "Posted 30+ Days Ago",
-    "bulletFields": [
-      "R34480"
-    ],
-    "id": "R34480",
-    "source": "SST"
-  },
-  {
     "title": "Senior Quant Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Quant-Developer_R35179",
     "locationsText": "Maharashtra, Navi Mumbai",
@@ -645,58 +636,47 @@
     "source": "SST"
   },
   {
-    "title": "Manager, Field Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Parramatta---3-Parramatta-Square/Manager--Field-Services_R38175",
-    "locationsText": "Parramatta - 3 Parramatta Square",
+    "title": "Data Operations Supervisor - PA-DSR-Q4-N-4",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Data-Operations-Supervisor---PA-DSR-Q4-N-4_R38641",
+    "locationsText": "27 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38175"
+      "R38641"
     ],
-    "id": "R38175",
+    "id": "R38641",
+    "source": "SST"
+  },
+  {
+    "title": "Director, IT Field Services Americas",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Director--Head-of-CTO-Field-Services-Americas_R38496",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38496"
+    ],
+    "id": "R38496",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Field Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne---800-Bourke-St/Manager--Field-Services_R38178-1",
+    "locationsText": "Melbourne - 800 Bourke St",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38178"
+    ],
+    "id": "R38178",
     "source": "SST"
   },
   {
     "title": "Field Services Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne---800-Bourke-St/Field-Services-Engineer_R38179",
-    "locationsText": "Melbourne - 800 Bourke St",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Parramatta---3-Parramatta-Square/Field-Services-Engineer_R38177-1",
+    "locationsText": "Parramatta - 3 Parramatta Square",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38179"
+      "R38177"
     ],
-    "id": "R38179",
-    "source": "SST"
-  },
-  {
-    "title": "Lead Product Researcher",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Lead-Product-Researcher_R38778",
-    "locationsText": "London - 1 Ropemaker Street",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38778"
-    ],
-    "id": "R38778",
-    "source": "SST"
-  },
-  {
-    "title": "SC3 - PA2025Q3GCC019",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/SC3---PA2025Q3GCC019_R37162",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37162"
-    ],
-    "id": "R37162",
-    "source": "SST"
-  },
-  {
-    "title": "SC3 : PA25MKOQ3CV003",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/SC3---PA25MKOQ3CV003_R34098",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R34098"
-    ],
-    "id": "R34098",
+    "id": "R38177",
     "source": "SST"
   },
   {

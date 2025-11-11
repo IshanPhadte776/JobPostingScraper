@@ -636,6 +636,39 @@
     "source": "SST"
   },
   {
+    "title": "Associate Director",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Pennsylvania-US/Associate-Director_R38713",
+    "locationsText": "Remote - Pennsylvania US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38713"
+    ],
+    "id": "R38713",
+    "source": "SST"
+  },
+  {
+    "title": "IT Service Desk Analyst - PA2025Q3JB132",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Ontario-Toronto/IT-Service-Desk-Analyst---PA2025Q3JB132_R37125",
+    "locationsText": "Ontario, Toronto",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37125"
+    ],
+    "id": "R37125",
+    "source": "SST"
+  },
+  {
+    "title": "Client Services Analyst I",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-I_R38561",
+    "locationsText": "Jacksonville, FL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38561"
+    ],
+    "id": "R38561",
+    "source": "SST"
+  },
+  {
     "title": "Data Operations Supervisor - PA-DSR-Q4-N-4",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Data-Operations-Supervisor---PA-DSR-Q4-N-4_R38641",
     "locationsText": "27 Locations",
@@ -644,39 +677,6 @@
       "R38641"
     ],
     "id": "R38641",
-    "source": "SST"
-  },
-  {
-    "title": "Director, IT Field Services Americas",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Director--Head-of-CTO-Field-Services-Americas_R38496",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38496"
-    ],
-    "id": "R38496",
-    "source": "SST"
-  },
-  {
-    "title": "Manager, Field Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne---800-Bourke-St/Manager--Field-Services_R38178-1",
-    "locationsText": "Melbourne - 800 Bourke St",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38178"
-    ],
-    "id": "R38178",
-    "source": "SST"
-  },
-  {
-    "title": "Field Services Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Parramatta---3-Parramatta-Square/Field-Services-Engineer_R38177-1",
-    "locationsText": "Parramatta - 3 Parramatta Square",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38177"
-    ],
-    "id": "R38177",
     "source": "SST"
   },
   {
@@ -933,14 +933,14 @@
     "source": "Ciena"
   },
   {
-    "title": "Buyer, Commodity Management",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Buyer--Commodity-Management_R029406",
-    "locationsText": "Guadalajara",
+    "title": "Test Engineering Manager for Coherent Modems",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Test-Engineering-Manager-for-Coherent-Modems_R029218-1",
+    "locationsText": "Ottawa",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R029406"
+      "R029218"
     ],
-    "id": "R029406",
+    "id": "R029218",
     "source": "Ciena"
   },
   {

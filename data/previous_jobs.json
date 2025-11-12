@@ -636,6 +636,17 @@
     "source": "SST"
   },
   {
+    "title": "Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Software-Engineer_R38433",
+    "locationsText": "Windsor, CT",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38433"
+    ],
+    "id": "R38433",
+    "source": "SST"
+  },
+  {
     "title": "Geneva Consultant",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---United-Kingdom/Geneva-Consultant_R38757",
     "locationsText": "3 Locations",
@@ -666,17 +677,6 @@
       "R38810"
     ],
     "id": "R38810",
-    "source": "SST"
-  },
-  {
-    "title": "Application Support Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Application-Support-Specialist_R38809",
-    "locationsText": "London, UK",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38809"
-    ],
-    "id": "R38809",
     "source": "SST"
   },
   {
@@ -933,6 +933,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Sales Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Sales-Engineer_R029421",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029421"
+    ],
+    "id": "R029421",
+    "source": "Ciena"
+  },
+  {
+    "title": "Solution Architect, Sales Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-CO/Solution-Architect--Sales-Engineering_R029415",
+    "locationsText": "Remote-US-CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029415"
+    ],
+    "id": "R029415",
+    "source": "Ciena"
+  },
+  {
     "title": "Director of Talent Acquisition - Americas",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director-of-Talent-Acquisition---Americas_R029139",
     "locationsText": "Ottawa",
@@ -985,17 +1007,6 @@
       "R028534"
     ],
     "id": "R028534",
-    "source": "Ciena"
-  },
-  {
-    "title": "Solution Architect, Sales Engineering",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Solution-Architect--Sales-Engineering_R029415",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029415"
-    ],
-    "id": "R029415",
     "source": "Ciena"
   },
   {
@@ -1106,17 +1117,6 @@
       "R029443"
     ],
     "id": "R029443",
-    "source": "Ciena"
-  },
-  {
-    "title": "Production Designer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Production-Designer_R029376",
-    "locationsText": "Remote-Canada",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029376"
-    ],
-    "id": "R029376",
     "source": "Ciena"
   },
   {

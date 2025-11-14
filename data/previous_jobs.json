@@ -440,26 +440,6 @@
     "url": "https://truecontext.bamboohr.com/career/careers/36"
   },
   {
-    "id": "37",
-    "jobOpeningName": "Implementation Specialist",
-    "departmentId": "18231",
-    "departmentLabel": "Professional Services",
-    "employmentStatusLabel": "Full time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://truecontext.bamboohr.com/career/careers/37"
-  },
-  {
     "id": "112",
     "jobOpeningName": "Enterprise Account Executive ",
     "departmentId": "18226",
@@ -696,6 +676,17 @@
     "source": "SST"
   },
   {
+    "title": "Internal Audit & Corporate Finance Intern",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-Jersey-US/Internal-Audit---Corporate-Finance-Intern_R38787",
+    "locationsText": "Remote - New Jersey, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38787"
+    ],
+    "id": "R38787",
+    "source": "SST"
+  },
+  {
     "title": "Senior Software Engineer - PA2025INDOFF177",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Software-Engineer---PA2025INDOFF177_R32361",
     "locationsText": "Hyderabad, India",
@@ -729,15 +720,15 @@
     "source": "SST"
   },
   {
-    "title": "Revenue Operations Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Revenue-Operations-Analyst_R37224",
-    "locationsText": "Hyderabad, India",
+    "title": "Sr. QA Analyst, IT",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-QA-Analyst--IT_2521792",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37224"
+      "2521792"
     ],
-    "id": "R37224",
-    "source": "SST"
+    "id": "2521792",
+    "source": "CIBC"
   },
   {
     "title": "Senior Cloud Solution Designer",
@@ -949,28 +940,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Cash Management Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Cash-Management-Business-Systems-Analysis_2520541-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2520541"
-    ],
-    "id": "2520541",
-    "source": "CIBC"
-  },
-  {
-    "title": "Director, Services Operations - Ciena Government Solutions Team (CGSI)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Director--Services-Operations---Ciena-Government-Solutions-Team--CGSI-_R029129-1",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029129"
-    ],
-    "id": "R029129",
-    "source": "Ciena"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -993,9 +962,20 @@
     "source": "Ciena"
   },
   {
+    "title": "Revenue Specialist, Services Business Operations",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Revenue-Specialist--Services-Business-Operations_R029026-1",
+    "locationsText": "Remote-Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029026"
+    ],
+    "id": "R029026",
+    "source": "Ciena"
+  },
+  {
     "title": "Optical Systems Product Line Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Systems-Product-Line-Manager_R029450",
-    "locationsText": "Ottawa",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Optical-Systems-Product-Line-Manager_R029450",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
       "R029450"

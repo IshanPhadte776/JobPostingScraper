@@ -420,6 +420,26 @@
     "url": "https://solace.bamboohr.com/career/careers/716"
   },
   {
+    "id": "717",
+    "jobOpeningName": "Senior Technical Program Manager",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/717"
+  },
+  {
     "id": "36",
     "jobOpeningName": "Software Engineer (Backend)",
     "departmentId": "18221",
@@ -687,37 +707,59 @@
     "source": "SST"
   },
   {
-    "title": "Associate Sales Development Representative",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Sales-Development-Representative_R38653",
+    "title": "Director, Private Markets Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Director--Private-Markets-Accounting_R35491",
+    "locationsText": "Boston, MA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35491"
+    ],
+    "id": "R35491",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Private Equity Fund of Funds",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Private-Equity-Fund-of-Funds_R38676-1",
     "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38653"
+      "R38676"
     ],
-    "id": "R38653",
+    "id": "R38676",
     "source": "SST"
   },
   {
-    "title": "Business / Quality Assurance Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland/Business---Quality-Assurance-Analyst_R38298",
-    "locationsText": "Dublin, Ireland",
+    "title": "Associate Manager - Private Equity Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Associate-Manager---Private-Equity-Accounting_R37682",
+    "locationsText": "Boston, MA",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38298"
+      "R37682"
     ],
-    "id": "R38298",
+    "id": "R37682",
     "source": "SST"
   },
   {
-    "title": "Business Development Representative (French Speaking)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Paris-France/Business-Development-Representative--French-Speaking-_R38752",
-    "locationsText": "Paris, France",
+    "title": "Sr. Analyst, Production Application Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--Production-Application-Support_2526519",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38752"
+      "2526519"
     ],
-    "id": "R38752",
-    "source": "SST"
+    "id": "2526519",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Quality-Assurance--L7-_2525514",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2525514"
+    ],
+    "id": "2525514",
+    "source": "CIBC"
   },
   {
     "title": "Application Development: Platform Lead",
@@ -918,28 +960,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant-Application-Development_2524262-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2524262"
-    ],
-    "id": "2524262",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Application Developer (ETL)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Application-Developer--ETL-_2522934",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2522934"
-    ],
-    "id": "2522934",
-    "source": "CIBC"
-  },
-  {
     "title": "Vice President, Global Internal Audit",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Vice-President--Global-Internal-Audit_R029491",
     "locationsText": "Baltimore",
@@ -970,6 +990,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Engineer, Routing and Switching - Dataplane",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Software-Engineer--Routing-and-Switching---Dataplane_R029459",
+    "locationsText": "UK- Edinburgh - 19A Canning St",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029459"
+    ],
+    "id": "R029459",
+    "source": "Ciena"
+  },
+  {
+    "title": "Development Engine \u2013 Security Engineering Co-Op (Winter 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Development-Engine---Security-Engineering-Co-Op--Winter-2026-_R029505-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029505"
+    ],
+    "id": "R029505",
     "source": "Ciena"
   },
   {
@@ -1138,26 +1180,15 @@
     "source": "Ciena"
   },
   {
-    "title": "Blue Planet Advanced Technical Support: BPUAA Support EMEA",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK/Blue-Planet-Advanced-Technical-Support--BPUAA-Support-EMEA_R029417",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
+    "title": "Firmware Engineer I",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-I_R003876",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "R029417"
+      "R003876"
     ],
-    "id": "R029417",
-    "source": "Ciena"
-  },
-  {
-    "title": "NPI Manufacturing Test Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Thailand/NPI-Manufacturing-Test-Engineer_R029483",
-    "locationsText": "Remote-Thailand",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029483"
-    ],
-    "id": "R029483",
-    "source": "Ciena"
+    "id": "R003876",
+    "source": "Entrust"
   },
   {
     "title": "Electrical Engineer II",

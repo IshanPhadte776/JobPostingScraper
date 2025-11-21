@@ -707,6 +707,28 @@
     "source": "SST"
   },
   {
+    "title": "Manager, Alternative Investment Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Manager--Alternative-Investment-Specialist_R39023",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39023"
+    ],
+    "id": "R39023",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Sales Development Representative",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Sales-Development-Representative_R38654",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38654"
+    ],
+    "id": "R38654",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, FOF/Private Equity",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--FOF-Private-Equity_R38994",
     "locationsText": "New York, NY",
@@ -718,26 +740,15 @@
     "source": "SST"
   },
   {
-    "title": "Business Analyst - with testing experience",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland/Business---Quality-Assurance-Analyst_R38298",
-    "locationsText": "Dublin, Ireland",
+    "title": "Sr. Consultant, Information & Cyber Security Governance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Information---Cyber-Security-Governance_2522608",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38298"
+      "2522608"
     ],
-    "id": "R38298",
-    "source": "SST"
-  },
-  {
-    "title": "Client Support Representative - Mid/Senior/Principal Levels",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Client-Support-Representative---Mid-Senior-Principal-Levels_R39198-1",
-    "locationsText": "Hyderabad, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39198"
-    ],
-    "id": "R39198",
-    "source": "SST"
+    "id": "2522608",
+    "source": "CIBC"
   },
   {
     "title": "Experienced Direct Applicant Portal",
@@ -949,17 +960,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2521960",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "2521960"
-    ],
-    "id": "2521960",
-    "source": "CIBC"
-  },
-  {
     "title": "Vice President, Global Internal Audit",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Vice-President--Global-Internal-Audit_R029491",
     "locationsText": "Baltimore",
@@ -1136,17 +1136,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Accountant",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Accountant_R029251",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029251"
-    ],
-    "id": "R029251",
-    "source": "Ciena"
-  },
-  {
     "title": "PET Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/PET-Developer_R029371",
     "locationsText": "Remote- India- Gurugram",
@@ -1177,6 +1166,17 @@
       "R028939"
     ],
     "id": "R028939",
+    "source": "Ciena"
+  },
+  {
+    "title": "COOP/Intern Optical System Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/COOP-Intern-Optical-System-Engineer_R029481",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 3 Days Ago",
+    "bulletFields": [
+      "R029481"
+    ],
+    "id": "R029481",
     "source": "Ciena"
   },
   {

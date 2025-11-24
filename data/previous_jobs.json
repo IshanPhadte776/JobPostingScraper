@@ -663,17 +663,6 @@
     "source": "SST"
   },
   {
-    "title": "Solutions Consultant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mexico-City-Mexico/Solutions-Consultant_R34480",
-    "locationsText": "Mexico City, Mexico",
-    "postedOn": "Posted 13 Days Ago",
-    "bulletFields": [
-      "R34480"
-    ],
-    "id": "R34480",
-    "source": "SST"
-  },
-  {
     "title": "Manager, Real Estate Accounting/Private Markets",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Grand-Cayman-Cayman-Islands/Manager--Real-Estate-Accounting-Private-Markets_R38564",
     "locationsText": "Grand Cayman, Cayman Islands",
@@ -704,6 +693,17 @@
       "R38205"
     ],
     "id": "R38205",
+    "source": "SST"
+  },
+  {
+    "title": "Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager_R37302",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37302"
+    ],
+    "id": "R37302",
     "source": "SST"
   },
   {
@@ -1048,14 +1048,11 @@
     "source": "Ciena"
   },
   {
-    "title": "Lab Support Installation Specialist",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Lab-Support-Installation-Specialist_R029510",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R029510"
     ],
     "id": "R029510",
+    "externalPath": "",
     "source": "Ciena"
   },
   {

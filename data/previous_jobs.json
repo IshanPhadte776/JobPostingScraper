@@ -200,26 +200,6 @@
     "url": "https://solace.bamboohr.com/career/careers/687"
   },
   {
-    "id": "689",
-    "jobOpeningName": "Senior Software Developer (Frontend)",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/689"
-  },
-  {
     "id": "693",
     "jobOpeningName": "AI Solutions Architect(Pre-Sales) - Remote, US",
     "departmentId": "18676",
@@ -340,26 +320,6 @@
     "url": "https://solace.bamboohr.com/career/careers/705"
   },
   {
-    "id": "708",
-    "jobOpeningName": "Senior Cloud Site Reliability Engineer",
-    "departmentId": "18562",
-    "departmentLabel": "Support",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/708"
-  },
-  {
     "id": "714",
     "jobOpeningName": "Senior Software Developer ",
     "departmentId": "18550",
@@ -418,6 +378,26 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/717"
+  },
+  {
+    "id": "719",
+    "jobOpeningName": "Cloud\u202fSite Reliability\u202fEngineer",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Singapore ",
+      "state": "Singapore"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/719"
   },
   {
     "id": "36",
@@ -665,59 +645,81 @@
     "source": "SST"
   },
   {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sao-Paolo-Brazil/Account-Executive_R38788-1",
-    "locationsText": "Sao Paolo, Brazil",
+    "title": "PA2025Q4JB035 - Senior Software QA Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland/PA2025Q4JB035---Senior-Software-QA-Engineer_R39203",
+    "locationsText": "Dublin, Ireland",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38788"
+      "R39203"
     ],
-    "id": "R38788",
+    "id": "R39203",
     "source": "SST"
   },
   {
-    "title": "Inside Sales",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Inside-Sales_R39447",
-    "locationsText": "Boston, MA",
+    "title": "Senior Associate, Tax",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Associate--Tax_R38252",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39447"
+      "R38252"
     ],
-    "id": "R39447",
+    "id": "R38252",
     "source": "SST"
   },
   {
-    "title": "Associate Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Associate-Manager_R32676",
-    "locationsText": "Mumbai, India",
+    "title": "Product Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Product-Manager_R37438",
+    "locationsText": "Jacksonville, FL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R32676"
+      "R37438"
     ],
-    "id": "R32676",
+    "id": "R37438",
     "source": "SST"
   },
   {
-    "title": "Senior Director Business Development",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Atlanta-GA/Senior-Director-Business-Development_R39211",
-    "locationsText": "Atlanta, GA",
+    "title": "Engagement Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Engagement-Manager_R38917",
+    "locationsText": "London, UK",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39211"
+      "R38917"
     ],
-    "id": "R39211",
+    "id": "R38917",
     "source": "SST"
   },
   {
-    "title": "Client support Rep.",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India---Block-B/Client-support-Rep_R34247",
-    "locationsText": "Hyderabad India - Block B",
+    "title": "Software Engineer, Black Diamond",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Software-Engineer--Black-Diamond_R39051",
+    "locationsText": "Jacksonville, FL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R34247"
+      "R39051"
     ],
-    "id": "R34247",
+    "id": "R39051",
     "source": "SST"
+  },
+  {
+    "title": "Senior Technical Delivery Lead",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Technical-Delivery-Lead_2525697",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2525697"
+    ],
+    "id": "2525697",
+    "source": "CIBC"
+  },
+  {
+    "title": "Director, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Application-Development_2525590",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2525590"
+    ],
+    "id": "2525590",
+    "source": "CIBC"
   },
   {
     "title": "Software Development Engineer in Test (SDET)",
@@ -915,28 +917,6 @@
       "2525760"
     ],
     "id": "2525760",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Records and Data",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Records-and-Data_2525433-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2525433"
-    ],
-    "id": "2525433",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Manager, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2519794",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2519794"
-    ],
-    "id": "2519794",
     "source": "CIBC"
   },
   {

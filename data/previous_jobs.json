@@ -320,6 +320,26 @@
     "url": "https://solace.bamboohr.com/career/careers/705"
   },
   {
+    "id": "708",
+    "jobOpeningName": "Senior Cloud Site Reliability Engineer",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/708"
+  },
+  {
     "id": "714",
     "jobOpeningName": "Senior Software Developer ",
     "departmentId": "18550",
@@ -645,6 +665,28 @@
     "source": "SST"
   },
   {
+    "title": "Professional Services Consultant, SS&C Genesis / Advent Investment Suite",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Professional-Services-Consultant--SS-C-Genesis---Advent-Investment-Suite_R38721",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38721"
+    ],
+    "id": "R38721",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Sales Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Sales-Operations_R39432",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39432"
+    ],
+    "id": "R39432",
+    "source": "SST"
+  },
+  {
     "title": "Senior Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney---255-George-St/Senior-Software-Engineer_R39132",
     "locationsText": "2 Locations",
@@ -675,28 +717,6 @@
       "R39191"
     ],
     "id": "R39191",
-    "source": "SST"
-  },
-  {
-    "title": "Capital Markets - Client Support Specialist | Mid/Senior/Principal Levels",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Client-Support-Representative---Mid-Senior-Principal-Levels_R39198-1",
-    "locationsText": "Hyderabad, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39198"
-    ],
-    "id": "R39198",
-    "source": "SST"
-  },
-  {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R37872",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37872"
-    ],
-    "id": "R37872",
     "source": "SST"
   },
   {
@@ -997,17 +1017,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Solutions Engineering & Introduction Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Montreal/Solutions-Engineering---Introduction-Engineer_R029498",
-    "locationsText": "Montreal",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029498"
-    ],
-    "id": "R029498",
-    "source": "Ciena"
-  },
-  {
     "title": "Software Engineering Internship or Placement",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern_R028780",
     "locationsText": "UK- Edinburgh - 19A Canning St",
@@ -1137,6 +1146,17 @@
       "R029509"
     ],
     "id": "R029509",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Engineering Intern (Winter 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Engineering-Intern_R028411",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 6 Days Ago",
+    "bulletFields": [
+      "R028411"
+    ],
+    "id": "R028411",
     "source": "Ciena"
   },
   {

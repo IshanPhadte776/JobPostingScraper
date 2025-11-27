@@ -480,6 +480,17 @@
     "url": "https://distillersr.bamboohr.com/career/careers/114"
   },
   {
+    "title": "Associate - Fund Accountant - Hedge Funds (NKP Goregaon, Mumbai)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate---Fund-Accountant---Hedge-Funds--NKP-Goregaon--Mumbai-_R36879",
+    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36879"
+    ],
+    "id": "R36879",
+    "source": "SST"
+  },
+  {
     "title": "Client Support Representative",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Client-Support-Representative_R38906",
     "postedOn": "Posted Today",
@@ -688,15 +699,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Systems Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Systems-Analyst_R38807",
-    "locationsText": "Hyderabad, India",
+    "title": "Consultant, Automation & Analytics",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Automation---Analytics_2527413",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38807"
+      "2527413"
     ],
-    "id": "R38807",
-    "source": "SST"
+    "id": "2527413",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr Analyst, Automation & Analytics",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--Automation---Analytics_2527327",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2527327"
+    ],
+    "id": "2527327",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Application Development",
@@ -897,28 +919,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr Consultant, RACF Security Administrator",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--RACF-Security-Administrator_2526489",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2526489"
-    ],
-    "id": "2526489",
-    "source": "CIBC"
-  },
-  {
-    "title": "Data Platform Support Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Platform-Support-Engineer_2526605",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2526605"
-    ],
-    "id": "2526605",
-    "source": "CIBC"
-  },
-  {
     "title": "Vice President, Global Internal Audit",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Vice-President--Global-Internal-Audit_R029491",
     "locationsText": "Baltimore",
@@ -952,14 +952,11 @@
     "source": "Ciena"
   },
   {
-    "title": "Global Customer Care Business Intelligence Intern (Winter 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Global-Customer-Care-Business-Intelligence-Intern--Winter-2026-_R029514",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
     "bulletFields": [
       "R029514"
     ],
     "id": "R029514",
+    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -1004,17 +1001,6 @@
       "R029148"
     ],
     "id": "R029148",
-    "source": "Ciena"
-  },
-  {
-    "title": "Associate, IT Network Engineering",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate--IT-Network-Engineering_R029517",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029517"
-    ],
-    "id": "R029517",
     "source": "Ciena"
   },
   {
@@ -1136,6 +1122,17 @@
       "R029459"
     ],
     "id": "R029459",
+    "source": "Ciena"
+  },
+  {
+    "title": "Advanced Technical Support Engineer 3",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK/Advanced-Technical-Support-Engineer-3_R029418",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted 3 Days Ago",
+    "bulletFields": [
+      "R029418"
+    ],
+    "id": "R029418",
     "source": "Ciena"
   },
   {

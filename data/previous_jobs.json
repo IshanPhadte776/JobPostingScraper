@@ -655,6 +655,28 @@
     "source": "SST"
   },
   {
+    "title": "Intern - Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Intern---Fund-Accounting_R39046",
+    "locationsText": "Braintree MA - 30 Braintree Hill Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39046"
+    ],
+    "id": "R39046",
+    "source": "SST"
+  },
+  {
+    "title": "Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager_R37302",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37302"
+    ],
+    "id": "R37302",
+    "source": "SST"
+  },
+  {
     "title": "PA26SJPYYEQ1097 - Contingent Worker",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Thane-India/PA26SJPYYEQ1097---Contingent-Worker_R38926",
     "locationsText": "Thane, India",
@@ -663,17 +685,6 @@
       "R38926"
     ],
     "id": "R38926",
-    "source": "SST"
-  },
-  {
-    "title": "Intern - Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Intern---Fund-Accounting_R38871",
-    "locationsText": "Union, NJ",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38871"
-    ],
-    "id": "R38871",
     "source": "SST"
   },
   {
@@ -688,15 +699,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Project Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Senior-Project-Manager_R36796",
-    "locationsText": "Mumbai, India",
+    "title": "Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2526819",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36796"
+      "2526819"
     ],
-    "id": "R36796",
-    "source": "SST"
+    "id": "2526819",
+    "source": "CIBC"
+  },
+  {
+    "title": "Platform Engineer - MLOps",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Machine-Learning-Platform-Engineer_2518481",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2518481"
+    ],
+    "id": "2518481",
+    "source": "CIBC"
   },
   {
     "title": "Senior Consultant, Technology Solution Designer",
@@ -864,17 +886,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Azure Machine Learning Platform Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Machine-Learning-Platform-Engineer_2518481",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2518481"
-    ],
-    "id": "2518481",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr. Functional lead",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Technical-lead_2521046",
     "locationsText": "Toronto, ON",
@@ -905,17 +916,6 @@
       "2525697"
     ],
     "id": "2525697",
-    "source": "CIBC"
-  },
-  {
-    "title": "Director, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Application-Development_2525590",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2525590"
-    ],
-    "id": "2525590",
     "source": "CIBC"
   },
   {
@@ -952,6 +952,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Revenue Accounting Analyst",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Revenue-Accounting-Analyst_R029461",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029461"
+    ],
+    "id": "R029461",
+    "source": "Ciena"
+  },
+  {
     "title": "Intern: AI Prompt Engineer for Technical Documentation (Winter 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Intern--AI-Prompt-Engineer-for-Technical-Documentation--Winter-2026-_R029548",
     "locationsText": "Ottawa",
@@ -960,17 +971,6 @@
       "R029548"
     ],
     "id": "R029548",
-    "source": "Ciena"
-  },
-  {
-    "title": "UI Developer- Angular2+",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/UI-Developer--Angular2-_R029502",
-    "locationsText": "Remote- India- Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029502"
-    ],
-    "id": "R029502",
     "source": "Ciena"
   },
   {

@@ -400,6 +400,26 @@
     "url": "https://solace.bamboohr.com/career/careers/719"
   },
   {
+    "id": "720",
+    "jobOpeningName": "Senior Datapath Software Developer ",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/720"
+  },
+  {
     "id": "36",
     "jobOpeningName": "Software Engineer (Backend)",
     "departmentId": "18221",
@@ -655,14 +675,25 @@
     "source": "SST"
   },
   {
-    "title": "Intern - Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Intern---Fund-Accounting_R39046",
-    "locationsText": "Braintree MA - 30 Braintree Hill Park",
+    "title": "Senior Associate, Data Analyst, Regulatory Solutions",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Data-Analyst_R35293",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39046"
+      "R35293"
     ],
-    "id": "R39046",
+    "id": "R35293",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Hedge Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-OH/Manager--Hedge-Fund-Accounting_R37847",
+    "locationsText": "Dublin, OH",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37847"
+    ],
+    "id": "R37847",
     "source": "SST"
   },
   {
@@ -685,17 +716,6 @@
       "R38926"
     ],
     "id": "R38926",
-    "source": "SST"
-  },
-  {
-    "title": "S3",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/S3_R38545",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38545"
-    ],
-    "id": "R38545",
     "source": "SST"
   },
   {
@@ -952,6 +972,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Procurement and Inventory Mgmt. Specialist",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Procurement-and-Inventory-Mgmt-Specialist_R029460",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029460"
+    ],
+    "id": "R029460",
+    "source": "Ciena"
+  },
+  {
     "title": "Revenue Accounting Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Revenue-Accounting-Analyst_R029461",
     "locationsText": "Remote-US",
@@ -1092,17 +1123,6 @@
       "R027931"
     ],
     "id": "R027931",
-    "source": "Ciena"
-  },
-  {
-    "title": "Associate Accountant, Accounts Receivable",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Accountant--Accounts-Receivable_R029473",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029473"
-    ],
-    "id": "R029473",
     "source": "Ciena"
   },
   {

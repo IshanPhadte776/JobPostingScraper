@@ -520,6 +520,17 @@
     "url": "https://distillersr.bamboohr.com/career/careers/114"
   },
   {
+    "title": "Senior Associate, Middle Office Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Middle-Office-Operations_R38085",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38085"
+    ],
+    "id": "R38085",
+    "source": "SST"
+  },
+  {
     "title": "Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Software-Engineer_R38205",
     "locationsText": "2 Locations",
@@ -695,48 +706,58 @@
     "source": "SST"
   },
   {
-    "title": "Client Services Analyst I",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-I_R38556",
+    "title": "Client Advocate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Advocate_R39656",
     "locationsText": "Jacksonville, FL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38556"
+      "R39656"
     ],
-    "id": "R38556",
+    "id": "R39656",
     "source": "SST"
   },
   {
-    "title": "Client Services Analyst I",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-I_R38562",
-    "locationsText": "Jacksonville, FL",
+    "title": "Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Atlanta-GA/Associate_R39090",
+    "locationsText": "Atlanta, GA",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38562"
+      "R39090"
     ],
-    "id": "R38562",
+    "id": "R39090",
     "source": "SST"
   },
   {
-    "title": "Client Services Analyst I",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-I_R38560",
-    "locationsText": "Jacksonville, FL",
+    "title": "Sales Director",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sales-Director_R38816",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38560"
+      "R38816"
     ],
-    "id": "R38560",
+    "id": "R38816",
     "source": "SST"
   },
   {
-    "title": "Client Services Analyst I",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-I_R38555",
-    "locationsText": "Jacksonville, FL",
+    "title": "Data Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Engineer_2527379-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38555"
+      "2527379"
     ],
-    "id": "R38555",
-    "source": "SST"
+    "id": "2527379",
+    "source": "CIBC"
+  },
+  {
+    "title": "Director, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Application-Development_2526718",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2526718"
+    ],
+    "id": "2526718",
+    "source": "CIBC"
   },
   {
     "title": "Devops Engineer",
@@ -758,17 +779,6 @@
       "2527337"
     ],
     "id": "2527337",
-    "source": "CIBC"
-  },
-  {
-    "title": "Data Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Engineer_2527379-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2527379"
-    ],
-    "id": "2527379",
     "source": "CIBC"
   },
   {
@@ -948,17 +958,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Functional lead",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Technical-lead_2521046",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2521046"
-    ],
-    "id": "2521046",
-    "source": "CIBC"
-  },
-  {
     "title": "Vice President, Global Internal Audit",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Vice-President--Global-Internal-Audit_R029491",
     "locationsText": "Baltimore",
@@ -989,6 +988,50 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Delivery Architect, Professional Services",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Delivery-Architect--Professional-Services_R029173",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029173"
+    ],
+    "id": "R029173",
+    "source": "Ciena"
+  },
+  {
+    "title": "Service Partner Management Consultant",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Service-Partner-Management-Consultant_R029331",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029331"
+    ],
+    "id": "R029331",
+    "source": "Ciena"
+  },
+  {
+    "title": "Commercial Management Analyst, GCN Region",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada-Ontario/Commercial-Management-Analyst--GCN-Region_R029528",
+    "locationsText": "Remote-Canada-Ontario",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029528"
+    ],
+    "id": "R029528",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Associate, People & Culture",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Senior-Associate--People---Culture_R029228",
+    "locationsText": "Remote-Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029228"
+    ],
+    "id": "R029228",
     "source": "Ciena"
   },
   {
@@ -1132,50 +1175,6 @@
       "R029540"
     ],
     "id": "R029540",
-    "source": "Ciena"
-  },
-  {
-    "title": "Analog Intern",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Germany--Braunschweig/Analog-Intern_R029546",
-    "locationsText": "Germany- Braunschweig",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029546"
-    ],
-    "id": "R029546",
-    "source": "Ciena"
-  },
-  {
-    "title": "Oracle PLM Cloud Analyst",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Oracle-PLM-Cloud-Analyst_R029261",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029261"
-    ],
-    "id": "R029261",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Associate, Sales Engineering",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Associate--Sales-Engineering_R029148",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029148"
-    ],
-    "id": "R029148",
-    "source": "Ciena"
-  },
-  {
-    "title": "Embedded Software System Developer- Optical",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/WaveLogic-Technologies-Field-Applications-Engineer_R026772",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R026772"
-    ],
-    "id": "R026772",
     "source": "Ciena"
   },
   {

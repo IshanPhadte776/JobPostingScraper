@@ -180,6 +180,26 @@
     "url": "https://solace.bamboohr.com/career/careers/687"
   },
   {
+    "id": "689",
+    "jobOpeningName": "Senior Software Developer (Frontend)",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/689"
+  },
+  {
     "id": "693",
     "jobOpeningName": "AI Solutions Architect(Pre-Sales) - Remote, US",
     "departmentId": "18676",
@@ -675,59 +695,48 @@
     "source": "SST"
   },
   {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R38900",
-    "locationsText": "Maharashtra, Navi Mumbai",
+    "title": "Client Services Analyst I",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-I_R38556",
+    "locationsText": "Jacksonville, FL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38900"
+      "R38556"
     ],
-    "id": "R38900",
+    "id": "R38556",
     "source": "SST"
   },
   {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney-Australia/Account-Executive_R38901",
-    "locationsText": "Sydney, Australia",
+    "title": "Client Services Analyst I",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-I_R38562",
+    "locationsText": "Jacksonville, FL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38901"
+      "R38562"
     ],
-    "id": "R38901",
+    "id": "R38562",
     "source": "SST"
   },
   {
-    "title": "Associate Principal Consultant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Associate-Principal-Consultant_R39483",
-    "locationsText": "London - 1 Ropemaker Street",
+    "title": "Client Services Analyst I",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-I_R38560",
+    "locationsText": "Jacksonville, FL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39483"
+      "R38560"
     ],
-    "id": "R39483",
+    "id": "R38560",
     "source": "SST"
   },
   {
-    "title": "Automation Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Karnataka/Automation-Developer_R37754",
-    "locationsText": "Remote - Karnataka",
+    "title": "Client Services Analyst I",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-I_R38555",
+    "locationsText": "Jacksonville, FL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37754"
+      "R38555"
     ],
-    "id": "R37754",
+    "id": "R38555",
     "source": "SST"
-  },
-  {
-    "title": "Senior Application Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Application-Developer_2523556",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2523556"
-    ],
-    "id": "2523556",
-    "source": "CIBC"
   },
   {
     "title": "Devops Engineer",
@@ -939,6 +948,17 @@
     "source": "CIBC"
   },
   {
+    "title": "Sr. Functional lead",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Technical-lead_2521046",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 6 Days Ago",
+    "bulletFields": [
+      "2521046"
+    ],
+    "id": "2521046",
+    "source": "CIBC"
+  },
+  {
     "title": "Vice President, Global Internal Audit",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Vice-President--Global-Internal-Audit_R029491",
     "locationsText": "Baltimore",
@@ -969,6 +989,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Principal SI/PI Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Principal-SI-PI-Design-Engineer_R029568",
+    "locationsText": "New Providence - NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029568"
+    ],
+    "id": "R029568",
+    "source": "Ciena"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Business-Intelligence-Analyst_R029524-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029524"
+    ],
+    "id": "R029524",
     "source": "Ciena"
   },
   {
@@ -1137,28 +1179,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Resident Engineer 4 Technical Support",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Resident-Engineer-4-Technical-Support_R028574",
-    "locationsText": "Baltimore",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R028574"
-    ],
-    "id": "R028574",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior ASIC Design Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-ASIC-Design-Engineer_R028006",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R028006"
-    ],
-    "id": "R028006",
-    "source": "Ciena"
-  },
-  {
     "title": "Software Developer II C++ Driver Development",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Sr-Software-Developer_R003784",
     "locationsText": "United States - Shakopee, MN (GHQ)",
@@ -1191,6 +1211,22 @@
     ],
     "id": "R003794",
     "source": "Entrust"
+  },
+  {
+    "id": "job_20251202132321_HWAGIJ7MAJLF3FEV",
+    "title": "Quality Control Operator",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "Testing (Electronic)",
+    "description": "<p>As a team member of the Order Fulfillment and Quality Control department, you will be challenged with inspecting electronic equipment while processing against customer purchase orders.</p><p><strong>Responsibilities:</strong></p><ul><li>Inspecting electronic equipment configured for customer systems</li><li>Verifying product meets latest hardware and software standards</li><li>Scanning barcode information in an AS/400 system</li><li>Function as a member of the production team</li><li>Comply with OSHA, SDS standards and Evertz H&amp;S Safety Policies and Procedures</li><li>Any other duties as required.</li></ul><p><strong>Requirements:</strong></p><ul><li>High school Diploma, technical education an asset but not required</li><li>Experience working in a manufacturing environment</li><li>Excellent verbal and written communication skills, problem solving ability, time&#160;management skills and interpersonal skills.</li><li>Comfortable using a computer, familiar with Microsoft Outlook, Word, Excel</li><li>Positive attitude and able to work in a fast paced environment</li><li>Results oriented</li><li>Self-motivated</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Us:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 1700 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "MO9qQ5viNV",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20251126154006_R83AHNVBIKTYYVIL",
@@ -2361,22 +2397,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20251007143525_WYOCEACDFWOI62PZ",
-    "title": "Quality Control Operator",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Testing (Electronic)",
-    "description": "<p>As a team member of the Order Fulfillment and Quality Control department, you will be challenged with inspecting electronic equipment while processing against customer purchase orders.</p><p><strong>Responsibilities:</strong></p><ul><li>Inspecting electronic equipment configured for customer systems</li><li>Verifying product meets latest hardware and software standards</li><li>Scanning barcode information in an AS/400 system</li><li>Function as a member of the production team</li><li>Comply with OSHA, SDS standards and Evertz H&amp;S Safety Policies and Procedures</li><li>Any other duties as required.</li></ul><p><strong>Requirements:</strong></p><ul><li>High school Diploma, technical education an asset but not required</li><li>Experience working in a manufacturing environment</li><li>Excellent verbal and written communication skills, problem solving ability, time&#160;management skills and interpersonal skills.</li><li>Comfortable using a computer, familiar with Microsoft Outlook, Word, Excel</li><li>Positive attitude and able to work in a fast paced environment</li><li>Results oriented</li><li>Self-motivated</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>About Us:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 1700 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "JAp3bxqWmA",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20250724200639_RLKVLQWRAPPGBP7O",
     "title": "Sales Engineer - Colorado Springs, CO",
     "country_id": "United States",
@@ -2435,6 +2455,22 @@
     "description": "<span><span><span><span lang=\"en-gb\"><span><span><span>We are seeking </span></span></span></span><span lang=\"en-gb\"><span><span><span>an exceptional</span></span></span></span><span lang=\"en-gb\"><span><span><span> <b>Frontend Developer</b> with 3 to 6 years of experience to join our growing technology team and build responsive, accessible, and high-performance user interfaces for our broadcasting platforms. You will collaborate with design and product teams to translate ideas into clean, reusable components using modern frameworks and deliver seamless user experiences across our digital products.</span></span></span></span><br><span lang=\"en-gb\"><span><span><span>This is an exciting opportunity to contribute to innovative media solutions, enhance user engagement through thoughtful UI development, and stay at the forefront of front-end technologies in a fast paced, content-driven environment.</span></span></span></span></span></span></span><br><br><br><span><span><span><b><span lang=\"en-gb\"><span><span><span>So, who are we?</span></span></span></span></b></span></span></span><br><span><span><span><span><span lang=\"en-gb\"><span><span><span>Evertz India is the subsidy of Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery. </span></span></span></span></span></span></span></span><br><span><span><span><span><span lang=\"en-gb\"><span><span><span>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers. </span></span></span></span></span></span></span></span><br><span><span><span><span><span lang=\"en-gb\"><span><span><span>With over 2000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</span></span></span></span></span></span></span></span><br><span><span><span><b><span lang=\"en-gb\"><span><span><span>What You&#8217;ll Do</span></span></span></span></b></span></span></span><ul><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Develop and maintain responsive and accessible user interfaces using web technologies &amp; modern frameworks like React, Angular or any other. Collaborate with designers to translate UX designs into pixel-perfect, interactive reusable components for multiple application within product.</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Enhance user experience through performance optimizations, animations, and micro-interactions. Implement and contribute to design systems and component libraries for consistent UI/UX across products. Ensure accessibility (WCAG) and cross-browser compatibility. Stay current with front-end trends, technologies, and best practices.</span></span></span></span></span></span></span></span></li></ul><br><span><span><span><span><b><span lang=\"en-gb\"><span><span><span>What you'll need for this role? </span></span></span></span></b>&#160;</span></span></span></span><br><br><span><span><span><span><b><span lang=\"en-gb\"><span><span><span>Key Qualification Requirements</span></span></span></span></b></span></span></span></span><ul><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>3 to 6 years of relevant work experience</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Strong proficiency in HTML5, CSS3, SCSS, LESS, SAAS, JS, OOJS, JavaScript (ES6+)</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Experience with modern front-end frameworks (Angular &amp; React preferred)</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Deep understanding of UI/UX principles and responsive designs structures and patterns</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Familiarity with component-based architecture and state management and SPA life cycles in depth Knowledge of performance optimization techniques (lazy loading, code splitting)</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Proficiency with version control systems (Git), Confluence (JIRA), CI/CD pipelines and agile workflows</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Comfortable with build tools like Webpack, Vite, or Parcel. Experience with testing tools, automation with modern framework is a plus</span></span></span></span></span></span></span></span></li></ul><br><span><span><span><span><b><span lang=\"en-gb\"><span><span><span>Who we&#8217;re looking for?</span></span></span></span></b></span></span></span></span><ul><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>A strong experienced, technical and reliable resource who can pick things up quickly research things on her own.</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Ability to pick up UI development backlog tickets which are piling up on XPS / Reflektor / 5800 MSC</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Strong collaboration and communication skills.</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Detail-oriented with a passion for polished user experiences.</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Problem-solving mindset with a user-first perspective.</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Ability to balance design vision and technical constraints</span></span></span></span></span></span></span></span></li></ul><br><span><span><span><span><b><span lang=\"en-gb\"><span><span><span>Your Growth </span></span></span></span></b></span></span></span></span><br><span><span><span><span lang=\"en-gb\"><span><span><span>At Evertz, we believe your career should be more than just a job it should be a path to growth and achievement. If you see an opportunity, we encourage you to seize it. Push boundaries, challenge your own limits, and pursue the goals you&#8217;ve always dreamed of.</span></span></span></span></span></span></span><br><span><span><span><span lang=\"en-gb\"><span><span><span>We&#8217;ll equip you with the resources, learning programs, and mentorship you need to accelerate your success&#8212;both internally and externally. Our commitment is to support you every step of the way.</span></span></span></span></span></span></span><br><span><span><span><span lang=\"en-gb\"><span><span><span>The possibilities are endless because we&#8217;re aiming high. With ambitious plans to expand globally, drive revenue growth, and deliver the world&#8217;s most advanced broadcasting experiences, we&#8217;re looking for passionate individuals to join us on this exciting journey.</span></span></span></span></span></span></span><br><span><span><span><b><span lang=\"en-gb\"><span><span><span>The perks </span></span></span></span></b><span lang=\"en-gb\"><span><span><span>It really is more than a job. We&#8217;ll recognize your talent and make sure that you can still have a life &#8211; at work, and outside of it. </span></span></span></span></span></span></span><ul><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Flexible working hours and work-from-home opportunities.</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Inhouse knowledge and product training </span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Exposure to global broadcast platforms</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Performance-related bonuses.</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Insurance and medical plans.</span></span></span></span></span></span></span></span></li><li><span><span><span><span><span lang=\"en-gb\"><span><span><span>Employee friendly leave policy</span></span></span></span></span></span></span></span></li></ul><br><span><span><span><b><span lang=\"en-gb\"><span><span><span>Work Culture</span></span></span></span></b></span></span></span><br><span><span><span><span lang=\"en-gb\"><span><span><span>We embrace a hybrid work model, giving you the best of both worlds&#8217; flexibility and collaboration. This approach fuels our core drivers of innovation: diversity, adaptability, and strong connections. You&#8217;ll join a dynamic, inclusive team that thrives on creativity and fresh ideas.</span></span></span></span></span></span></span><br><span><span><span><span lang=\"en-gb\"><span><span><span>Ask our employees at Evertz what they love most, and you&#8217;ll hear one word repeated: culture. Here, you can bring your authentic self to work. Your unique background whether it&#8217;s your ethnicity, orientation, beliefs, age, identity, or abilities adds value and perspective to everything we do.</span></span></span></span></span></span></span><br><span><span><span><span lang=\"en-gb\"><span><span><span>We welcome talent from all walks of life and anyone eager to help us achieve our vision. If you&#8217;re ready to align with our values and lead innovation forward, we&#8217;d love to hear from you.</span></span></span></span></span></span></span><br><span><span><span><b><span lang=\"en-gb\"><span><span><span>Office Timing:</span></span></span></span></b><span lang=\"en-gb\"><span><span><span> 1pm to 9pm IST</span></span></span></span><br><span lang=\"en-gb\"><span><span><b><span>Office Location</span></b><span>: Manyata Tech Park, Bangalore, India</span><br><b><span>Work Model:</span></b><span> Hybrid</span></span></span></span></span></span></span><br><span><span><span><b><span lang=\"en-gb\"><span><span>Join us for this exciting journey. Apply now!</span></span></span></b></span></span></span><br>&#160;",
     "type": "Full Time",
     "board_code": "1qpYCPlpsP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20250618123709_OCOPTK1XTIM48T65",
+    "title": "Site Reliability Engineer",
+    "country_id": "Poland",
+    "city": "Warsaw",
+    "state": "",
+    "zip": "",
+    "department": "",
+    "description": "<p>We&#8217;re looking for highly motivated, passionate site reliability engineers to join our growing team. At evertz.io, our teams are building services that are used by the biggest names in the exciting broadcast and media industry. Our services are hosted in AWS, with a Serverless First mindset.</p><p>As part of this role you will work with our talented teams to help harden our multi-tenant SaaS platform. Using best in class observability tooling, you will be working to debug incidents, while also identifying and implementing improvements to the platform to ensure its continued reliability. Your drive to eliminate toil will see you automating processes and building the tools to do so.</p><p>We offer flexible working hours, great benefits, and the freedom to experiment with new technologies and tools to build better products.</p><h3><strong>Skills and Experience you will bring:</strong></h3><ul><li>At least 3 years of hands-on experience managing critical, high-availability production infrastructure, demonstrating success in maintaining reliability and maximizing application uptime.&#160;</li><li>Proficient in at least one programming language (such as Python, Java, or Rust), with experience designing and building production-quality automation, tools, or software libraries.&#160;</li><li>At least 3 years working with monitoring, log aggregation, and observability platforms such as Datadog, CloudWatch, Honeycomb, Splunk, or New Relic, using data-driven insights to proactively identify and resolve issues.&#160;</li><li>Excellent analytical skills with the ability to understand end-to-end use cases, map system flows, debug complex issues, and anticipate potential failure points.&#160;</li><li>Proven track record translating SLO&#8217;s and SLI&#8217;s into actionable improvements. Reliability, monitoring, and observability are not just words to you.&#160;</li><li>At least 3 years of experience with cloud technologies, in particular AWS Services and tools such as Cloud Formation, Lambda, DynamoDB, SQS, SNS, EC2, S3, AWS CLI, Boto3.&#160;</li><li>Solid foundation in Linux systems administration, networking, and security.&#160;</li><li>Familiarity with the use and configuration of CI &amp; CD pipelines such as Jenkins &amp; AWS CodePipeline. &#160;</li></ul><h3><strong>Additional skills and experience that will make you standout:</strong></h3><ul><li>Experience architecting and deploying serverless applications in cloud environments.&#160;</li><li>Experience with infrastructure-as-code tools like Terraform or CloudFormation, enabling reproducible and scalable environments.&#160;</li><li>Previous participation in production on-call rotations, with direct involvement in incident management and post-incident reviews.&#160;</li><li>Demonstrated expertise in performance optimization for core AWS services, including Lambda, DynamoDB, API Gateway, SQS, EventBridge, and EC2.&#160;</li><li>Experience supporting and improving systems with frequent, high-velocity deployment cycles.&#160;</li><li>Familiarity with security compliance frameworks (e.g., OWASP, ISO, CSA, PCI), and hands-on experience conducting threat assessments and implementing remediation plans.&#160;</li><li>Background in security practices, including penetration testing, threat modeling, and usage of both open-source and commercial security tools.&#160;</li><li>Experience developing and implementing advanced deployment strategies for web application infrastructures&#8212;such as canary, A/B testing, blue/green deployments, or red/line patterns.&#160;</li><li>Hands-on experience with chaos engineering&#8212;intentionally testing systems under extreme conditions to improve reliability and fault tolerance.&#160;</li><li>Track record of championing system reliability, continuous improvement, and operational excellence throughout an organization.</li></ul><h3><strong>Recruitment process:</strong></h3><ul><li class=\"d-flex align-items-center mb-0 mb-3\">Screening with recruiter&#8239;(45 min)</li><li class=\"d-flex align-items-center mb-0 mb-3\">Technical interview with Team Members (90 min)</li><li class=\"d-flex align-items-center mb-0\">Interview with Hiring Manager (60 min)</li></ul>",
+    "type": "Full Time",
+    "board_code": "HBEIfAaRY1",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

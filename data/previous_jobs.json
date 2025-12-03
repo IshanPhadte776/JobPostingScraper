@@ -673,6 +673,50 @@
     "source": "SST"
   },
   {
+    "title": "Manager - Fund Accounting, Private Debt",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Manager---Private-Debt-Fund-Accounting_R35460",
+    "locationsText": "London, UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35460"
+    ],
+    "id": "R35460",
+    "source": "SST"
+  },
+  {
+    "title": "Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Associate_R39101",
+    "locationsText": "Windsor, CT",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39101"
+    ],
+    "id": "R39101",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate_R37864",
+    "locationsText": "Maharashtra, Navi Mumbai",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37864"
+    ],
+    "id": "R37864",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Software Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Stamford-CT--Three-Harbor-Landing/Associate-Software-Developer_R38722",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38722"
+    ],
+    "id": "R38722",
+    "source": "SST"
+  },
+  {
     "title": "Associate Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate-Manager_R32375",
     "locationsText": "Maharashtra, Navi Mumbai",
@@ -695,48 +739,15 @@
     "source": "SST"
   },
   {
-    "title": "Data Migration Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/Data-Migration-Specialist_R38822",
-    "locationsText": "Remote - New York, US",
+    "title": "Intermediate Quality Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Intermediate-Quality-Engineer_2527045-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38822"
+      "2527045"
     ],
-    "id": "R38822",
-    "source": "SST"
-  },
-  {
-    "title": "PA2025HTQ3022 DevOps Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland/PA2025HTQ3022-DevOps-Engineer_R35822",
-    "locationsText": "Dublin, Ireland",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R35822"
-    ],
-    "id": "R35822",
-    "source": "SST"
-  },
-  {
-    "title": "PA2025Q3JB137  - Full Stack QA Tester",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Lichfield-UK/PA2025Q3JB137----Full-Stack-QA-Tester_R38774",
-    "locationsText": "Lichfield, UK",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38774"
-    ],
-    "id": "R38774",
-    "source": "SST"
-  },
-  {
-    "title": "PA25DBOQ4CC002 - S1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/PA25DBOQ4CC002---S1_R38158",
-    "locationsText": "Pune, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38158"
-    ],
-    "id": "R38158",
-    "source": "SST"
+    "id": "2527045",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Solution Design and Strategy",
@@ -945,17 +956,6 @@
       "2526609"
     ],
     "id": "2526609",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Production support consultant",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Production-support-consultant_2521039",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2521039"
-    ],
-    "id": "2521039",
     "source": "CIBC"
   },
   {
@@ -2635,6 +2635,48 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 156480,
+    "type": "careers",
+    "title": "Senior Software Engineer I",
+    "link": "https://www.surveymonkey.com/careers/7392832-senior-software-engineer-i/",
+    "path": "/careers/7392832-senior-software-engineer-i/",
+    "date": "2025-12-03T11:00:08",
+    "date_modified": "2025-12-03T11:00:08",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer I",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 393,
+        "slug": "ottawa",
+        "name": "Ottawa, Canada",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
+        "path": "/careers/office/ottawa/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 156151,

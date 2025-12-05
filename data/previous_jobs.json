@@ -340,26 +340,6 @@
     "url": "https://solace.bamboohr.com/career/careers/705"
   },
   {
-    "id": "708",
-    "jobOpeningName": "Senior Cloud Site Reliability Engineer",
-    "departmentId": "18562",
-    "departmentLabel": "Support",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/708"
-  },
-  {
     "id": "714",
     "jobOpeningName": "Senior Software Developer ",
     "departmentId": "18550",
@@ -704,6 +684,17 @@
     "source": "SST"
   },
   {
+    "title": "Director of Strategic Pricing",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Director-of-Strategic-Pricing_R38791-1",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38791"
+    ],
+    "id": "R38791",
+    "source": "SST"
+  },
+  {
     "title": "Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate_R38526",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
@@ -723,17 +714,6 @@
       "R37703"
     ],
     "id": "R37703",
-    "source": "SST"
-  },
-  {
-    "title": "Financial Associate 1 - PA-OFF-BPO-Q4-R007",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Financial-Associate-1---PA-OFF-BPO-Q4-R007_R37717",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37717"
-    ],
-    "id": "R37717",
     "source": "SST"
   },
   {

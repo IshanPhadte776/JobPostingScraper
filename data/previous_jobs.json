@@ -704,58 +704,58 @@
     "source": "SST"
   },
   {
-    "title": "Sales Executive Hedge Funds and Private Markets",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Executive-Fund-Administration-Services_R39685",
+    "title": "Global Partner Solution Program Lead",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Wisconsin-US/Global-Partner-Solution-Program-Lead_R39718",
+    "locationsText": "14 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39718"
+    ],
+    "id": "R39718",
+    "source": "SST"
+  },
+  {
+    "title": "Front End Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Front-End-Software-Engineer_R33717",
+    "locationsText": "San Francisco, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R33717"
+    ],
+    "id": "R33717",
+    "source": "SST"
+  },
+  {
+    "title": "Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R38505",
+    "locationsText": "Maharashtra, Navi Mumbai",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38505"
+    ],
+    "id": "R38505",
+    "source": "SST"
+  },
+  {
+    "title": "Client Relations Manager - PA-CRM-Q4-N001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Client-Relations-Manager---PA-CRM-Q4-N001_R39695",
     "locationsText": "9 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39685"
+      "R39695"
     ],
-    "id": "R39685",
+    "id": "R39695",
     "source": "SST"
   },
   {
-    "title": "Senior Front End Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Senior-Front-End-Developer_R39586",
-    "locationsText": "Bucharest, Romania",
+    "title": "Client Relations Manager - PA-CRM-Q1-R003",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Client-Relations-Manager---PA-CRM-Q1-R003_R39696",
+    "locationsText": "8 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39586"
+      "R39696"
     ],
-    "id": "R39586",
-    "source": "SST"
-  },
-  {
-    "title": "PA26SJPYYEQ1097 - Contingent Worker",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Thane-India/PA26SJPYYEQ1097---Contingent-Worker_R38926",
-    "locationsText": "Thane, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38926"
-    ],
-    "id": "R38926",
-    "source": "SST"
-  },
-  {
-    "title": "Pre-Req Approval Id: PA26SJPYYEQ1097 - S1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Pre-Req-Approval-Id--PA26SJPYYEQ1097---S1_R38942",
-    "locationsText": "Pune, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38942"
-    ],
-    "id": "R38942",
-    "source": "SST"
-  },
-  {
-    "title": "PA26SJPYYEQ1097 Contract Staff",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/PA26SJPYYEQ1097-Contract-Staff_R38989",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38989"
-    ],
-    "id": "R38989",
+    "id": "R39696",
     "source": "SST"
   },
   {
@@ -979,6 +979,17 @@
     "source": "CIBC"
   },
   {
+    "title": "Senior Field Applications Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Field-Applications-Engineer_R029574",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029574"
+    ],
+    "id": "R029574",
+    "source": "Ciena"
+  },
+  {
     "title": "Vice President, Global Internal Audit",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Vice-President--Global-Internal-Audit_R029491",
     "locationsText": "Baltimore",
@@ -1185,17 +1196,6 @@
       "R029523"
     ],
     "id": "R029523",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Associate, Project Compliance Officer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Associate--Project-Compliance-Office_R029558",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029558"
-    ],
-    "id": "R029558",
     "source": "Ciena"
   },
   {
@@ -2628,6 +2628,48 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 156723,
+    "type": "careers",
+    "title": "Senior Software Engineer I",
+    "link": "https://www.surveymonkey.com/careers/7392833-senior-software-engineer-i/",
+    "path": "/careers/7392833-senior-software-engineer-i/",
+    "date": "2025-12-08T13:00:09",
+    "date_modified": "2025-12-08T13:00:09",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer I",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 399,
+        "slug": "canada-remote",
+        "name": "Canada - Remote",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/canada-remote/",
+        "path": "/careers/office/canada-remote/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 156480,

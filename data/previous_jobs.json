@@ -684,6 +684,39 @@
     "source": "SST"
   },
   {
+    "title": "Technical Program Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Ontario-Toronto/Technical-Program-Manager_R39569",
+    "locationsText": "Ontario, Toronto",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39569"
+    ],
+    "id": "R39569",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate - Fund Accounting (LH-BPO)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/West-Palm-Beach-FL/Senior-Associate---Fund-Accounting--LH-BPO-_R36148",
+    "locationsText": "West Palm Beach, FL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36148"
+    ],
+    "id": "R36148",
+    "source": "SST"
+  },
+  {
+    "title": "Sr. Business Research Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Business-Research-Analyst_R38306",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38306"
+    ],
+    "id": "R38306",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellevue-WA/Senior-Associate_R38407",
     "locationsText": "Bellevue, WA",
@@ -706,37 +739,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Gurgaon-India/Senior-Associate_R38397",
-    "locationsText": "Gurgaon, India",
+    "title": "Consultant, Production Application Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2528076",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38397"
+      "2528076"
     ],
-    "id": "R38397",
-    "source": "SST"
+    "id": "2528076",
+    "source": "CIBC"
   },
   {
-    "title": "Associate Director, Sales Enablement",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Bulgaria/Associate-Director--Sales-Enablement_R39781",
-    "locationsText": "Remote - Bulgaria",
+    "title": "Consultant, Production Application Support - Mainframe",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support---Mainframe_2527427",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39781"
+      "2527427"
     ],
-    "id": "R39781",
-    "source": "SST"
-  },
-  {
-    "title": "Cyber Security & Compliance Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dubai-UAE/Cyber-Security---Compliance-Associate_R39776",
-    "locationsText": "Dubai, UAE",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39776"
-    ],
-    "id": "R39776",
-    "source": "SST"
+    "id": "2527427",
+    "source": "CIBC"
   },
   {
     "title": "z/OS Sr. Hardware Planner",
@@ -937,28 +959,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Director, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director--Application-Development_2527653",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2527653"
-    ],
-    "id": "2527653",
-    "source": "CIBC"
-  },
-  {
-    "title": "Infrastructure Architect",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Infrastructure-Architect_2511976",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2511976"
-    ],
-    "id": "2511976",
-    "source": "CIBC"
-  },
-  {
     "title": "AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Application-Developer_R028890",
     "locationsText": "2 Locations",
@@ -1014,6 +1014,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Blue Planet Advanced Technical Support: BPUAA & ROA Support NA",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Blue-Planet-Advanced-Technical-Support--BPUAA---ROA-Support-NA_R029592",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029592"
+    ],
+    "id": "R029592",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Consultant, Account Management for Brazil",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Brazil/Senior-Consultant--Account-Management-for-Brazil_R029605",
     "locationsText": "Remote-Brazil",
@@ -1033,17 +1044,6 @@
       "R029565"
     ],
     "id": "R029565",
-    "source": "Ciena"
-  },
-  {
-    "title": "Blue Planet Advanced Technical Support: BPUAA & ROA Support NA",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Blue-Planet-Advanced-Technical-Support--BPUAA---ROA-Support-NA_R029592",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029592"
-    ],
-    "id": "R029592",
     "source": "Ciena"
   },
   {

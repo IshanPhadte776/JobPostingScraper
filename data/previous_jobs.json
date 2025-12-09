@@ -520,6 +520,17 @@
     "url": "https://distillersr.bamboohr.com/career/careers/114"
   },
   {
+    "title": "Principal Product Manager SDE",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Principle-Product-Manager-SDE_R36919",
+    "locationsText": "Waltham, MA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36919"
+    ],
+    "id": "R36919",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate - Fund Tax Accountant",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney-Australia/Associate---Fund-Tax-Accountant_R39435-1",
     "locationsText": "Sydney, Australia",
@@ -607,17 +618,6 @@
     "source": "SST"
   },
   {
-    "title": "Principal Product Manager SDE",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Principle-Product-Manager-SDE_R36919",
-    "locationsText": "Waltham, MA",
-    "postedOn": "Posted 21 Days Ago",
-    "bulletFields": [
-      "R36919"
-    ],
-    "id": "R36919",
-    "source": "SST"
-  },
-  {
     "title": "Operations Manager, Technical Support Team (PA-CAL-Q4-001)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Operations-Manager--PA-CAL-Q4-001-_R37839",
     "locationsText": "Denver, CO",
@@ -684,6 +684,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellevue-WA/Senior-Associate_R38407",
+    "locationsText": "Bellevue, WA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38407"
+    ],
+    "id": "R38407",
+    "source": "SST"
+  },
+  {
     "title": "Engagement Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Engagement-Manager_R39650",
     "locationsText": "New York, NY",
@@ -728,15 +739,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior DevOps Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne-Australia/Senior-DevOps-Engineer_R36123",
-    "locationsText": "2 Locations",
+    "title": "z/OS Sr. Hardware Planner",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/z-OS-Intermediate-Systems-Programmer_2512942",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36123"
+      "2512942"
     ],
-    "id": "R36123",
-    "source": "SST"
+    "id": "2512942",
+    "source": "CIBC"
   },
   {
     "title": "Staff Automation Quality Engineer",
@@ -948,17 +959,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Data Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Engineer_2527379-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2527379"
-    ],
-    "id": "2527379",
-    "source": "CIBC"
-  },
-  {
     "title": "AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Application-Developer_R028890",
     "locationsText": "2 Locations",
@@ -1014,6 +1014,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Consultant, Account Management for Brazil",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Brazil/Senior-Consultant--Account-Management-for-Brazil_R029605",
+    "locationsText": "Remote-Brazil",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029605"
+    ],
+    "id": "R029605",
+    "source": "Ciena"
+  },
+  {
+    "title": "Associate, Services Contract",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Associate--Services-Contract_R029565",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029565"
+    ],
+    "id": "R029565",
+    "source": "Ciena"
+  },
+  {
     "title": "Blue Planet Advanced Technical Support: BPUAA & ROA Support NA",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Blue-Planet-Advanced-Technical-Support--BPUAA---ROA-Support-NA_R029592",
     "locationsText": "2 Locations",
@@ -1055,17 +1077,6 @@
       "R029576"
     ],
     "id": "R029576",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior SerDes System/DSP Design Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-SerDes-System-DSP-Design-Engineer_R029550",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029550"
-    ],
-    "id": "R029550",
     "source": "Ciena"
   },
   {
@@ -1165,17 +1176,6 @@
       "R029467"
     ],
     "id": "R029467",
-    "source": "Ciena"
-  },
-  {
-    "title": "Routing/IP Software Engineer - Control Plane",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Routing-IP-Software-Engineer---Control-Plane_R029107",
-    "locationsText": "UK- Edinburgh - 19A Canning St",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029107"
-    ],
-    "id": "R029107",
     "source": "Ciena"
   },
   {

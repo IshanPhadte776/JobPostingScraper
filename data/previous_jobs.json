@@ -575,17 +575,6 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Middle Office Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Middle-Office-Operations_R38085",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "R38085"
-    ],
-    "id": "R38085",
-    "source": "SST"
-  },
-  {
     "title": "Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Software-Engineer_R38205",
     "locationsText": "2 Locations",
@@ -670,6 +659,17 @@
       "R35179"
     ],
     "id": "R35179",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Data Analyst, Regulatory Solutions",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Data-Analyst_R35293",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35293"
+    ],
+    "id": "R35293",
     "source": "SST"
   },
   {

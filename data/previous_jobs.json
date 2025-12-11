@@ -684,6 +684,50 @@
     "source": "SST"
   },
   {
+    "title": "Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Associate_R39048",
+    "locationsText": "Boston, MA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39048"
+    ],
+    "id": "R39048",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Investor-Services_R38318",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38318"
+    ],
+    "id": "R38318",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Director, Sr. Program Manager - PA-CMO-Q1-25-R001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Associate-Director--Sr-Program-Manager---PA-CMO-Q1-25-R001_R39609",
+    "locationsText": "22 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39609"
+    ],
+    "id": "R39609",
+    "source": "SST"
+  },
+  {
+    "title": "Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager_R37302",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37302"
+    ],
+    "id": "R37302",
+    "source": "SST"
+  },
+  {
     "title": "QA Automation Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/QA-Automation-Engineer_R38698",
     "locationsText": "New York, NY",
@@ -692,50 +736,6 @@
       "R38698"
     ],
     "id": "R38698",
-    "source": "SST"
-  },
-  {
-    "title": "Program Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Program-Manager_R38277",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38277"
-    ],
-    "id": "R38277",
-    "source": "SST"
-  },
-  {
-    "title": "Service Delivery Manager - (PA2025Q3JB143)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Ontario-Toronto/Service-Delivery-Manager----PA2025Q3JB143-_R39430",
-    "locationsText": "Ontario, Toronto",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39430"
-    ],
-    "id": "R39430",
-    "source": "SST"
-  },
-  {
-    "title": "Business Development Representative",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Stockholm-Sweden/Sales-Associate_R38231",
-    "locationsText": "Stockholm, Sweden",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38231"
-    ],
-    "id": "R38231",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Project Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Senior-Project-Manager_R36796",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36796"
-    ],
-    "id": "R36796",
     "source": "SST"
   },
   {
@@ -1014,6 +1014,39 @@
     "source": "Ciena"
   },
   {
+    "title": "Routing/IP Software Engineer - Dataplane",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Routing-IP-Software-Engineer---Dataplane_R028476",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028476"
+    ],
+    "id": "R028476",
+    "source": "Ciena"
+  },
+  {
+    "title": "Ing\u00e9nieur / Sp\u00e9cialiste m\u00e9canique",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Ingnieur---Spcialiste-mcanique_R029611",
+    "locationsText": "Quebec",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029611"
+    ],
+    "id": "R029611",
+    "source": "Ciena"
+  },
+  {
+    "title": "Associate Accountant, Accounts Receivable",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Accountant--Accounts-Receivable_R029473",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029473"
+    ],
+    "id": "R029473",
+    "source": "Ciena"
+  },
+  {
     "title": "Software Engineer Systems - C programming",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Software-Engineer-Systems---C-programming_R029310",
     "locationsText": "Gurugram",
@@ -1143,39 +1176,6 @@
       "R029585"
     ],
     "id": "R029585",
-    "source": "Ciena"
-  },
-  {
-    "title": "Specialist, IT Internal Audit",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Specialist--IT-Internal-Audit_R029576-1",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029576"
-    ],
-    "id": "R029576",
-    "source": "Ciena"
-  },
-  {
-    "title": "Product Life Cycle Project Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Life-Cycle-Project-Manager_R028613-1",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R028613"
-    ],
-    "id": "R028613",
-    "source": "Ciena"
-  },
-  {
-    "title": "Verification Engineer Intern (Summer 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Verification-Engineer-Intern--Summer-2026-_R028813-1",
-    "locationsText": "Atlanta",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R028813"
-    ],
-    "id": "R028813",
     "source": "Ciena"
   },
   {

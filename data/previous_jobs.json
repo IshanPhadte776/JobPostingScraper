@@ -520,6 +520,17 @@
     "url": "https://distillersr.bamboohr.com/career/careers/114"
   },
   {
+    "title": "Operations Manager, Technical Support Team (PA-CAL-Q4-001)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Operations-Manager--PA-CAL-Q4-001-_R37839",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37839"
+    ],
+    "id": "R37839",
+    "source": "SST"
+  },
+  {
     "title": "Senior Project Consultant (Microsoft Dynamics 365/ Power Platform)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Project-Consultant--Microsoft-Dynamics-365--Power-Platform-_R39658",
     "locationsText": "Toronto, Canada",
@@ -528,17 +539,6 @@
       "R39658"
     ],
     "id": "R39658",
-    "source": "SST"
-  },
-  {
-    "title": "Operations Manager, Technical Support Team (PA-CAL-Q4-001)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Operations-Manager--PA-CAL-Q4-001-_R37839",
-    "locationsText": "Denver, CO",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R37839"
-    ],
-    "id": "R37839",
     "source": "SST"
   },
   {
@@ -1014,6 +1014,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Junior Software Developer, Hybrid - Ottawa, ON",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Junior-Software-Developer--Hybrid---Ottawa--ON_R029610",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029610"
+    ],
+    "id": "R029610",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Software Engineer \u2013 Embedded Software (Optical Networking)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Software-Lead-Engineer_R028592",
     "locationsText": "Atlanta",
@@ -1165,17 +1176,6 @@
       "R029492"
     ],
     "id": "R029492",
-    "source": "Ciena"
-  },
-  {
-    "title": "Consultant, Sales Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Consultant--Sales-Engineer_R029607",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029607"
-    ],
-    "id": "R029607",
     "source": "Ciena"
   },
   {
@@ -2770,6 +2770,48 @@
     "source": "Evertz"
   },
   {
+    "id": 157154,
+    "type": "careers",
+    "title": "Senior Software Engineer I",
+    "link": "https://www.surveymonkey.com/careers/7315001-senior-software-engineer-i/",
+    "path": "/careers/7315001-senior-software-engineer-i/",
+    "date": "2025-12-12T12:00:11",
+    "date_modified": "2025-12-12T12:00:11",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer I",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
     "id": 156723,
     "type": "careers",
     "title": "Senior Software Engineer I",
@@ -3058,48 +3100,6 @@
         "description": "",
         "link": "https://www.surveymonkey.com/careers/office/ireland-remote/",
         "path": "/careers/office/ireland-remote/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 154947,
-    "type": "careers",
-    "title": "Senior Software Engineer I",
-    "link": "https://www.surveymonkey.com/careers/7315001-senior-software-engineer-i/",
-    "path": "/careers/7315001-senior-software-engineer-i/",
-    "date": "2025-10-21T15:00:08",
-    "date_modified": "2025-10-21T15:00:08",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer I",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 470,
-        "slug": "bengaluru",
-        "name": "Bengaluru, India",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
-        "path": "/careers/office/bengaluru/"
-      },
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
       }
     ],
     "job_location": "",

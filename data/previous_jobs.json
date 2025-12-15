@@ -120,6 +120,26 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/284"
   },
   {
+    "id": "285",
+    "jobOpeningName": "Manager, Alliance Partnerships & RMC Sales",
+    "departmentId": "18813",
+    "departmentLabel": "Sales & Success",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/285"
+  },
+  {
     "id": "630",
     "jobOpeningName": "Solutions Engineer",
     "departmentId": "18676",
@@ -715,6 +735,39 @@
     "source": "SST"
   },
   {
+    "title": "Associate Director, Client Success",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Associate-Director--Client-Success_R38338-1",
+    "locationsText": "San Francisco, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38338"
+    ],
+    "id": "R38338",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Solutions Consultant, Eclipse Client Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Associate-Solutions-Consultant--Eclipse-Client-Services_R38290",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38290"
+    ],
+    "id": "R38290",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Director, Client Success Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Director--Client-Success-Manager_R38337",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38337"
+    ],
+    "id": "R38337",
+    "source": "SST"
+  },
+  {
     "title": "OG Portfolio Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Fort-Worth-TX/Senior-Portfolio-Manager_R34965-1",
     "locationsText": "Fort Worth, TX",
@@ -726,37 +779,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Tax",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Senior-Associate--Tax_R38380",
-    "locationsText": "2 Locations",
+    "title": "Senior Consultant, Technology Solution Designer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Technology-Solution-Designer_2527213-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38380"
+      "2527213"
     ],
-    "id": "R38380",
-    "source": "SST"
-  },
-  {
-    "title": "Services Sales Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Engagement-Manager_R39650",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39650"
-    ],
-    "id": "R39650",
-    "source": "SST"
-  },
-  {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Associate_R37244",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37244"
-    ],
-    "id": "R37244",
-    "source": "SST"
+    "id": "2527213",
+    "source": "CIBC"
   },
   {
     "title": "z/OS Intermediate Systems Programmer",
@@ -965,17 +996,6 @@
       "2517518"
     ],
     "id": "2517518",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Production Application Support",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2528076",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2528076"
-    ],
-    "id": "2528076",
     "source": "CIBC"
   },
   {
@@ -2804,6 +2824,56 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 157232,
+    "type": "careers",
+    "title": "Director, Engineering",
+    "link": "https://www.surveymonkey.com/careers/7418321-director-engineering/",
+    "path": "/careers/7418321-director-engineering/",
+    "date": "2025-12-15T14:00:06",
+    "date_modified": "2025-12-15T14:00:06",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Director, Engineering",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 399,
+        "slug": "canada-remote",
+        "name": "Canada - Remote",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/canada-remote/",
+        "path": "/careers/office/canada-remote/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 393,
+        "slug": "ottawa",
+        "name": "Ottawa, Canada",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
+        "path": "/careers/office/ottawa/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 157154,

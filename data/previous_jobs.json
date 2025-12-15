@@ -715,6 +715,17 @@
     "source": "SST"
   },
   {
+    "title": "OG Portfolio Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Fort-Worth-TX/Senior-Portfolio-Manager_R34965-1",
+    "locationsText": "Fort Worth, TX",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R34965"
+    ],
+    "id": "R34965",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Tax",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Senior-Associate--Tax_R38380",
     "locationsText": "2 Locations",
@@ -748,15 +759,26 @@
     "source": "SST"
   },
   {
-    "title": "Tax associate - US tax",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hong-Kong-JP/Tax-associate---US-tax_R39215-1",
-    "locationsText": "Hong Kong (JP)",
+    "title": "Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2528271",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39215"
+      "2528271"
     ],
-    "id": "R39215",
-    "source": "SST"
+    "id": "2528271",
+    "source": "CIBC"
+  },
+  {
+    "title": "Full Stack Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Developer_2528673",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2528673"
+    ],
+    "id": "2528673",
+    "source": "CIBC"
   },
   {
     "title": "Senior Consultant, Application Development",
@@ -954,28 +976,6 @@
       "2527427"
     ],
     "id": "2527427",
-    "source": "CIBC"
-  },
-  {
-    "title": "z/OS Sr. Hardware Planner",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/z-OS-Intermediate-Systems-Programmer_2512942",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2512942"
-    ],
-    "id": "2512942",
-    "source": "CIBC"
-  },
-  {
-    "title": "Staff Automation Quality Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Staff-Automation-Quality-Engineer_2527990-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2527990"
-    ],
-    "id": "2527990",
     "source": "CIBC"
   },
   {

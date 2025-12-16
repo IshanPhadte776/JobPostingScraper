@@ -735,6 +735,39 @@
     "source": "SST"
   },
   {
+    "title": "Associate Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mexico-City-Mexico/Inside-Sales-Representative_R33534",
+    "locationsText": "Mexico City, Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R33534"
+    ],
+    "id": "R33534",
+    "source": "SST"
+  },
+  {
+    "title": "Sales Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Pennsylvania-US/Sales-Engineer_R39108",
+    "locationsText": "10 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39108"
+    ],
+    "id": "R39108",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Private Equity/Hedge Tax",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Private-Equity-Hedge-Tax_R38949",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38949"
+    ],
+    "id": "R38949",
+    "source": "SST"
+  },
+  {
     "title": "S3 - PA26DBOQ1CSV020",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/M1---PA26DBOQ1CSV020_R38589",
     "locationsText": "Mumbai, India",
@@ -746,37 +779,37 @@
     "source": "SST"
   },
   {
-    "title": "Site Reliability Engineer, Cloud Incident Response",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Site-Reliability-Engineer--Cloud-Incident-Response_R37931",
-    "locationsText": "London, UK",
+    "title": "Sr. Analyst, Information Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--Information-Security_2528669",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37931"
+      "2528669"
     ],
-    "id": "R37931",
-    "source": "SST"
+    "id": "2528669",
+    "source": "CIBC"
   },
   {
-    "title": "Contingent Worker",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Contingent-Worker_R39950",
-    "locationsText": "Maharashtra, Navi Mumbai",
+    "title": "MarTech Developer \u2013 Customer Engagement Platforms",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/MarTech-Developer---Customer-Engagement-Platforms_2526242",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39950"
+      "2526242"
     ],
-    "id": "R39950",
-    "source": "SST"
+    "id": "2526242",
+    "source": "CIBC"
   },
   {
-    "title": "Business Development Representative",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Stockholm-Sweden/Business-Development-Representative_R39791",
-    "locationsText": "Stockholm, Sweden",
+    "title": "Sr. Director, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director--Application-Development_2527653",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39791"
+      "2527653"
     ],
-    "id": "R39791",
-    "source": "SST"
+    "id": "2527653",
+    "source": "CIBC"
   },
   {
     "title": "Senior Consultant, PEGA Solution",
@@ -966,39 +999,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Production Application Suppport",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Suppport_2527954-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2527954"
-    ],
-    "id": "2527954",
-    "source": "CIBC"
-  },
-  {
-    "title": "C#/.Net Intermediate Application Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/C--Net-Intermediate-Application-Developer_2520797",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2520797"
-    ],
-    "id": "2520797",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development_2528376",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2528376"
-    ],
-    "id": "2528376",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -1051,6 +1051,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "CISO & Executive Reporting and Metrics Analyst",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/CISO---Executive-Reporting-and-Metrics-Analyst_R029541",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029541"
+    ],
+    "id": "R029541",
     "source": "Ciena"
   },
   {
@@ -1205,17 +1216,6 @@
       "R029133"
     ],
     "id": "R029133",
-    "source": "Ciena"
-  },
-  {
-    "title": "Leader, Indirect Procurement",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Leader--Indirect-Procurement_R029560",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029560"
-    ],
-    "id": "R029560",
     "source": "Ciena"
   },
   {

@@ -560,6 +560,17 @@
     "url": "https://distillersr.bamboohr.com/career/careers/114"
   },
   {
+    "title": "Business Systems Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Indiana-US/Business-Systems-Analyst_RSH002",
+    "locationsText": "Remote - Indiana, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "RSH002"
+    ],
+    "id": "RSH002",
+    "source": "SST"
+  },
+  {
     "title": "Senior Business Systems Analysis Professional",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Indiana-US/Senior-Business-Systems-Analysis-Professional_RSH001",
     "locationsText": "Remote - Indiana, US",
@@ -735,6 +746,17 @@
     "source": "SST"
   },
   {
+    "title": "Oracle / Postgres Database Administrator",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Oracle---Postgres-Database-Administrator_R39678",
+    "locationsText": "51 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39678"
+    ],
+    "id": "R39678",
+    "source": "SST"
+  },
+  {
     "title": "Associate Director - AML",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Luxembourg-City-Luxembourg/Associate-Director---AML_R39698",
     "locationsText": "Luxembourg City, Luxembourg",
@@ -757,26 +779,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior QA Engineer - PA26WIPTECOFFQ1063",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Pune/Senior-QA-Engineer---PA26WIPTECOFFQ1063_R39179",
-    "locationsText": "Remote - Pune",
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2525951",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39179"
+      "2525951"
     ],
-    "id": "R39179",
-    "source": "SST"
-  },
-  {
-    "title": "Application Support Manager - PA26WIPTECOFFQ1041",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Pune/Application-Support-Manager---PA26WIPTECOFFQ1041_R39149",
-    "locationsText": "Remote - Pune",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39149"
-    ],
-    "id": "R39149",
-    "source": "SST"
+    "id": "2525951",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Analyst, Information Security",
@@ -985,17 +996,6 @@
       "2528139"
     ],
     "id": "2528139",
-    "source": "CIBC"
-  },
-  {
-    "title": "Advisor, Information Security",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Advisor--Information-Security_2527876",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2527876"
-    ],
-    "id": "2527876",
     "source": "CIBC"
   },
   {

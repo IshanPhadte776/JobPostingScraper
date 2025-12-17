@@ -746,6 +746,17 @@
     "source": "SST"
   },
   {
+    "title": "Systems Integration Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Systems-Integration-Engineer_R39814",
+    "locationsText": "Bucharest, Romania",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39814"
+    ],
+    "id": "R39814",
+    "source": "SST"
+  },
+  {
     "title": "Engagement Specialist",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Principal-Engagement-Specialist_R38492",
     "locationsText": "3 Locations",
@@ -768,15 +779,37 @@
     "source": "SST"
   },
   {
-    "title": "Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Software-Engineer_R38571",
-    "locationsText": "Hyderabad, India",
+    "title": "First Nations/Metis/Inuit Candidates \u2013 CIBC Technology Positions",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/First-Nations-Metis-Inuit-Candidates---CIBC-Technology-Positions_2513330",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38571"
+      "2513330"
     ],
-    "id": "R38571",
-    "source": "SST"
+    "id": "2513330",
+    "source": "CIBC"
+  },
+  {
+    "title": "Full Stack Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Developer_2527600",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2527600"
+    ],
+    "id": "2527600",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Analyst, Information Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--Information-Security_2528669",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2528669"
+    ],
+    "id": "2528669",
+    "source": "CIBC"
   },
   {
     "title": "Senior Analyst, Production Application Support, Global Wires and Payment Technology.",
@@ -831,17 +864,6 @@
       "2525951"
     ],
     "id": "2525951",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Analyst, Information Security",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--Information-Security_2528669",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2528669"
-    ],
-    "id": "2528669",
     "source": "CIBC"
   },
   {
@@ -966,17 +988,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Full Stack Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Developer_2528673",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2528673"
-    ],
-    "id": "2528673",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Consultant, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development_2526651-1",
     "locationsText": "Toronto, ON",
@@ -985,17 +996,6 @@
       "2526651"
     ],
     "id": "2526651",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Data Visualization and Insights",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Data-Visualization-and-Insights_2528188",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2528188"
-    ],
-    "id": "2528188",
     "source": "CIBC"
   },
   {
@@ -1051,6 +1051,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Hardware Design Co-Op (Summer 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Design-Co-Op--Summer-2026-_R029620",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029620"
+    ],
+    "id": "R029620",
+    "source": "Ciena"
+  },
+  {
+    "title": "Coop Student - NPI Test Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Coop-Student---NPI-Test-Engineer_R029638-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029638"
+    ],
+    "id": "R029638",
     "source": "Ciena"
   },
   {
@@ -1194,28 +1216,6 @@
       "R029596"
     ],
     "id": "R029596",
-    "source": "Ciena"
-  },
-  {
-    "title": "Product Life Cycle Project Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Life-Cycle-Project-Manager_R028613-1",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028613"
-    ],
-    "id": "R028613",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Golang Developer- Kubernetes & Cloud",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Golang-Developer--Kubernetes---Cloud_R028918",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028918"
-    ],
-    "id": "R028918",
     "source": "Ciena"
   },
   {

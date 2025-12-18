@@ -746,37 +746,70 @@
     "source": "SST"
   },
   {
-    "title": "Data Migration Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/Data-Migration-Specialist_R38822",
-    "locationsText": "Remote - New York, US",
+    "title": "Java Developer PA26DIGIQ1014",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Java-Developer-PA26DIGIQ1014_R39805",
+    "locationsText": "Bucharest, Romania",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38822"
+      "R39805"
     ],
-    "id": "R38822",
+    "id": "R39805",
     "source": "SST"
   },
   {
-    "title": "Senior Principal Engagement Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Principal-Engagement-Specialist_R37994",
-    "locationsText": "Hyderabad, India",
+    "title": "Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Stamford-CT--Three-Harbor-Landing/Manager_R39082",
+    "locationsText": "Stamford CT \u2013 Three Harbor Landing",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37994"
+      "R39082"
     ],
-    "id": "R37994",
+    "id": "R39082",
     "source": "SST"
   },
   {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Account-Executive_R39796",
-    "locationsText": "San Francisco, CA",
+    "title": "Programmer Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Program-Analyst_R38284",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39796"
+      "R38284"
     ],
-    "id": "R39796",
+    "id": "R38284",
     "source": "SST"
+  },
+  {
+    "title": "Sr. Manager, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2519794",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2519794"
+    ],
+    "id": "2519794",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Consultant, Data Engineering",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Data-Engineering_2528344",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2528344"
+    ],
+    "id": "2528344",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Data Visualization and AI Analytics",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Data-Visualization-and-AI-Analytics_2528343-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2528343"
+    ],
+    "id": "2528343",
+    "source": "CIBC"
   },
   {
     "title": "Cloud Security Engineer (DLP Specialist)",
@@ -966,39 +999,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Consultant, Technology Solution Designer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Technology-Solution-Designer_2527213-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2527213"
-    ],
-    "id": "2527213",
-    "source": "CIBC"
-  },
-  {
-    "title": "z/OS Intermediate Systems Programmer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/z-OS-Intermediate-Systems-Programmer_2513308-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2513308"
-    ],
-    "id": "2513308",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2528271",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2528271"
-    ],
-    "id": "2528271",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -1051,6 +1051,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Data Scientist - AI Model Optimization (LLM/SLM) for Network Automation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Data-Scientist---AI-Model-Optimization--LLM-SLM--for-Network-Automation_R028547",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028547"
+    ],
+    "id": "R028547",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Digital Verification Engineer (DAC/ADC DSP Correction)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Digital-Verification-Engineer--DAC-ADC-DSP-Correction-_R029625",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029625"
+    ],
+    "id": "R029625",
     "source": "Ciena"
   },
   {
@@ -1194,28 +1216,6 @@
       "R029541"
     ],
     "id": "R029541",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Data Analyst - People Analytics",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Data-Analyst---People-Analytics_R029547",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029547"
-    ],
-    "id": "R029547",
-    "source": "Ciena"
-  },
-  {
-    "title": "Partner Accelerator- EMEA",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Spain/Partner-Accelerator--EMEA_R029624",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029624"
-    ],
-    "id": "R029624",
     "source": "Ciena"
   },
   {

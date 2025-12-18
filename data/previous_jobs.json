@@ -746,6 +746,28 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Software Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Software-Developer_RAX0003",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "RAX0003"
+    ],
+    "id": "RAX0003",
+    "source": "SST"
+  },
+  {
+    "title": "Data Migration Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/Data-Migration-Specialist_R38822",
+    "locationsText": "Remote - New York, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38822"
+    ],
+    "id": "R38822",
+    "source": "SST"
+  },
+  {
     "title": "Java Developer PA26DIGIQ1014",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Java-Developer-PA26DIGIQ1014_R39805",
     "locationsText": "Bucharest, Romania",
@@ -757,26 +779,15 @@
     "source": "SST"
   },
   {
-    "title": "Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Stamford-CT--Three-Harbor-Landing/Manager_R39082",
-    "locationsText": "Stamford CT \u2013 Three Harbor Landing",
+    "title": "Senior Business Systems Analyst (12 Months Fixed Term)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Business-Systems-Analyst_2525385",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39082"
+      "2525385"
     ],
-    "id": "R39082",
-    "source": "SST"
-  },
-  {
-    "title": "Programmer Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Program-Analyst_R38284",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38284"
-    ],
-    "id": "R38284",
-    "source": "SST"
+    "id": "2525385",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Manager, Application Development",
@@ -988,17 +999,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2528484",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2528484"
-    ],
-    "id": "2528484",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -1051,6 +1051,50 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Quality Program Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Canada--Ottawa--385-Terry-Fox--Bldg-B/Quality-Program-Manager_R029603",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029603"
+    ],
+    "id": "R029603",
+    "source": "Ciena"
+  },
+  {
+    "title": "Product Verification Technologist",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Verification-Technologist_R029635",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029635"
+    ],
+    "id": "R029635",
+    "source": "Ciena"
+  },
+  {
+    "title": "Digital ASIC Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-ASIC-Design-Engineer_R029626",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029626"
+    ],
+    "id": "R029626",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Analog Hardware Designer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Hardware-Designer_R028532",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028532"
+    ],
+    "id": "R028532",
     "source": "Ciena"
   },
   {
@@ -1131,17 +1175,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Associate Accountant, Accounts Receivable",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Accountant--Accounts-Receivable_R029473",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029473"
-    ],
-    "id": "R029473",
-    "source": "Ciena"
-  },
-  {
     "title": "Advisor, Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Advisor--Product-Line-Manager_R029630",
     "locationsText": "Ottawa",
@@ -1183,39 +1216,6 @@
       "R029644"
     ],
     "id": "R029644",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Associate, People & Culture",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Argentina/Senior-Associate--People---Culture_R029228",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029228"
-    ],
-    "id": "R029228",
-    "source": "Ciena"
-  },
-  {
-    "title": "Project Manager - Cyber Security",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Project-Manager---Cyber-Security_R029022",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029022"
-    ],
-    "id": "R029022",
-    "source": "Ciena"
-  },
-  {
-    "title": "CISO & Executive Reporting and Metrics Analyst",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/CISO---Executive-Reporting-and-Metrics-Analyst_R029541",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029541"
-    ],
-    "id": "R029541",
     "source": "Ciena"
   },
   {

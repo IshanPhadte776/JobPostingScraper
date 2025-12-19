@@ -580,6 +580,17 @@
     "url": "https://distillersr.bamboohr.com/career/careers/114"
   },
   {
+    "title": "Operations Manager, Technical Support Team (PA-CAL-Q4-001)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Operations-Manager--PA-CAL-Q4-001-_R37839",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37839"
+    ],
+    "id": "R37839",
+    "source": "SST"
+  },
+  {
     "title": "Business Systems Analyst",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Indiana-US/Business-Systems-Analyst_RSH002",
     "locationsText": "Remote - Indiana, US",
@@ -610,17 +621,6 @@
       "R36919"
     ],
     "id": "R36919",
-    "source": "SST"
-  },
-  {
-    "title": "Operations Manager, Technical Support Team (PA-CAL-Q4-001)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Operations-Manager--PA-CAL-Q4-001-_R37839",
-    "locationsText": "Denver, CO",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R37839"
-    ],
-    "id": "R37839",
     "source": "SST"
   },
   {
@@ -755,6 +755,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Software Engineer - Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-Software-Engineer---Accounting_R39455",
+    "locationsText": "San Francisco, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39455"
+    ],
+    "id": "R39455",
+    "source": "SST"
+  },
+  {
     "title": "Manager, Client Financial Reporting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Manager--Client-Financial-Reporting_R40117",
     "locationsText": "Mississauga, Canada",
@@ -788,15 +799,15 @@
     "source": "SST"
   },
   {
-    "title": "Machine Learning Research Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---UK/Machine-Learning-Research-Engineer_R39911",
-    "locationsText": "2 Locations",
+    "title": "Cloud Security Engineer\u00a0(MDE Specialist)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Cloud-Security-Engineer--MDE-Specialist-_2527336-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39911"
+      "2527336"
     ],
-    "id": "R39911",
-    "source": "SST"
+    "id": "2527336",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Data and AI Analytics",
@@ -1008,17 +1019,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2528271",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "2528271"
-    ],
-    "id": "2528271",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -1060,6 +1060,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Solution Architect, Sales Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-CO/Solution-Architect--Sales-Engineering_R029415",
+    "locationsText": "Remote-US-CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029415"
+    ],
+    "id": "R029415",
     "source": "Ciena"
   },
   {
@@ -1173,17 +1184,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Hardware Design Co-Op (Summer 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Design-Co-Op--Summer-2026-_R029620",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029620"
-    ],
-    "id": "R029620",
-    "source": "Ciena"
-  },
-  {
     "title": "Coop Student - NPI Test Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Coop-Student---NPI-Test-Engineer_R029638-1",
     "locationsText": "Ottawa",
@@ -1248,17 +1248,6 @@
       "R003307"
     ],
     "id": "R003307",
-    "source": "Entrust"
-  },
-  {
-    "title": "Engineering Project Manager - R&D",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Engineering-Project-Manager_R003794",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 30+ Days Ago",
-    "bulletFields": [
-      "R003794"
-    ],
-    "id": "R003794",
     "source": "Entrust"
   },
   {

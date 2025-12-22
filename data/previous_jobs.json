@@ -240,46 +240,6 @@
     "url": "https://solace.bamboohr.com/career/careers/686"
   },
   {
-    "id": "687",
-    "jobOpeningName": "Software Developer",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/687"
-  },
-  {
-    "id": "689",
-    "jobOpeningName": "Senior Software Developer (Frontend)",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/689"
-  },
-  {
     "id": "693",
     "jobOpeningName": "AI Solutions Architect(Pre-Sales) - Remote, US",
     "departmentId": "18676",
@@ -380,26 +340,6 @@
     "url": "https://solace.bamboohr.com/career/careers/705"
   },
   {
-    "id": "714",
-    "jobOpeningName": "Senior Software Developer ",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/714"
-  },
-  {
     "id": "716",
     "jobOpeningName": "Senior SAP Architect ",
     "departmentId": "19559",
@@ -420,26 +360,6 @@
     "url": "https://solace.bamboohr.com/career/careers/716"
   },
   {
-    "id": "717",
-    "jobOpeningName": "Senior Technical Program Manager",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/717"
-  },
-  {
     "id": "719",
     "jobOpeningName": "Cloud\u202fSite Reliability\u202fEngineer",
     "departmentId": "18562",
@@ -458,26 +378,6 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/719"
-  },
-  {
-    "id": "720",
-    "jobOpeningName": "Senior Datapath Software Developer ",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/720"
   },
   {
     "id": "38",
@@ -766,35 +666,36 @@
     "source": "SST"
   },
   {
-    "title": "Sales Director Fintech",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sales-Director_R38816",
+    "title": "Manager - Client Relationship Management",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager---Client-Relationship-Management_R36907",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38816"
+      "R36907"
     ],
-    "id": "R38816",
+    "id": "R36907",
     "source": "SST"
   },
   {
-    "title": "Account Executive - Investment Banks",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---District-of-Columbia-US/Account-Executive---Investment-Banks_R39863",
-    "locationsText": "Remote - District of Columbia, US",
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate_R39452",
+    "locationsText": "Mumbai India - Nirlon Knowledge Park",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39863"
+      "R39452"
     ],
-    "id": "R39863",
+    "id": "R39452",
     "source": "SST"
   },
   {
-    "title": "Sales Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Associate_R39974",
-    "locationsText": "New York, NY",
+    "title": "Implementation Consultant - Eclipse Client Service",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Implementation-Consultant---Eclipse-Client-Service_R39206",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39974"
+      "R39206"
     ],
-    "id": "R39974",
+    "id": "R39206",
     "source": "SST"
   },
   {
@@ -941,17 +842,6 @@
     "source": "CIBC"
   },
   {
-    "title": "First Nations/Metis/Inuit Candidates \u2013 CIBC Technology Positions",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/First-Nations-Metis-Inuit-Candidates---CIBC-Technology-Positions_2513330",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2513330"
-    ],
-    "id": "2513330",
-    "source": "CIBC"
-  },
-  {
     "title": "Full Stack Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Developer_2527600",
     "locationsText": "Toronto, ON",
@@ -1007,14 +897,25 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Consultant, PEGA Solution",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--PEGA-Solution_2523937",
+    "title": "Sr. Director, Cyber Security Services Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director--Cyber-Security-Services-Management_2528576-1",
     "locationsText": "Toronto, ON",
     "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
-      "2523937"
+      "2528576"
     ],
-    "id": "2523937",
+    "id": "2528576",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Risk Advisor",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Risk-Advisor_2528266",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 7 Days Ago",
+    "bulletFields": [
+      "2528266"
+    ],
+    "id": "2528266",
     "source": "CIBC"
   },
   {

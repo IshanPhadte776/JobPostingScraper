@@ -766,37 +766,48 @@
     "source": "SST"
   },
   {
-    "title": "Business Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Texas-US/Learning---Development-Specialist_R34196",
-    "locationsText": "Remote - Texas, US",
+    "title": "Sales Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Associate_R39974",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R34196"
+      "R39974"
     ],
-    "id": "R34196",
+    "id": "R39974",
     "source": "SST"
   },
   {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R39026",
-    "locationsText": "Maharashtra, Navi Mumbai",
+    "title": "Sales Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Associate_R39975",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39026"
+      "R39975"
     ],
-    "id": "R39026",
+    "id": "R39975",
     "source": "SST"
   },
   {
-    "title": "Full Stack Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---California-US/Full-Stack-Engineer_R38027",
-    "locationsText": "5 Locations",
+    "title": "Sr. Business Research Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Business-Research-Analyst_R38306",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38027"
+      "R38306"
     ],
-    "id": "R38027",
+    "id": "R38306",
     "source": "SST"
+  },
+  {
+    "title": "Consultant, Infrastructure Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Infrastructure-Management_2526991",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2526991"
+    ],
+    "id": "2526991",
+    "source": "CIBC"
   },
   {
     "title": "Business Analyst",
@@ -1008,17 +1019,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Director, Cyber Security Services Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director--Cyber-Security-Services-Management_2528576-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2528576"
-    ],
-    "id": "2528576",
-    "source": "CIBC"
-  },
-  {
     "title": "Navigator NCS Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
     "locationsText": "3 Locations",
@@ -1060,6 +1060,39 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Director, Change Management",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Director--Change-Management_R029683",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029683"
+    ],
+    "id": "R029683",
+    "source": "Ciena"
+  },
+  {
+    "title": "Director, Value Realization",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Director--Value-Realization_R029685-1",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029685"
+    ],
+    "id": "R029685",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Program Director of Enterprise Transformation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US--MD--Hanover--7035-Baltimore/Senior-Program-Director-of-Enterprise-Transformation_R029681",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029681"
+    ],
+    "id": "R029681",
     "source": "Ciena"
   },
   {
@@ -1204,51 +1237,6 @@
     ],
     "id": "R029630",
     "source": "Ciena"
-  },
-  {
-    "title": "Specialist, Customer Order Fulfillment",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Belfast/Specialist--Customer-Order-Fulfillment_R029639-1",
-    "locationsText": "Belfast",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029639"
-    ],
-    "id": "R029639",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Associate, Global Technical Support",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Senior-Associate--Global-Technical-Support_R029206",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R029206"
-    ],
-    "id": "R029206",
-    "source": "Ciena"
-  },
-  {
-    "title": "Java Developer - ASIC, Ottawa - On-Site",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Java-Developer---ASIC--Ottawa---On-Site_R029644-1",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R029644"
-    ],
-    "id": "R029644",
-    "source": "Ciena"
-  },
-  {
-    "title": "Electrical Engineer II",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/PC-Board-Designer_R003307",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 30+ Days Ago",
-    "remoteType": "Hybrid Eligible",
-    "bulletFields": [
-      "R003307"
-    ],
-    "id": "R003307",
-    "source": "Entrust"
   },
   {
     "id": "job_20251218200235_OPRK4SHJLNM5HHDD",

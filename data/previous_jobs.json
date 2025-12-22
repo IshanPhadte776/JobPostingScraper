@@ -766,6 +766,27 @@
     "source": "SST"
   },
   {
+    "title": "Sales Director Fintech",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sales-Director_R38816",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38816"
+    ],
+    "id": "R38816",
+    "source": "SST"
+  },
+  {
+    "title": "Account Executive - Investment Banks",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---District-of-Columbia-US/Account-Executive---Investment-Banks_R39863",
+    "locationsText": "Remote - District of Columbia, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39863"
+    ],
+    "id": "R39863",
+    "source": "SST"
+  },
+  {
     "title": "Sales Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Associate_R39974",
     "locationsText": "New York, NY",
@@ -774,28 +795,6 @@
       "R39974"
     ],
     "id": "R39974",
-    "source": "SST"
-  },
-  {
-    "title": "Sales Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Associate_R39975",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39975"
-    ],
-    "id": "R39975",
-    "source": "SST"
-  },
-  {
-    "title": "Sr. Business Research Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Business-Research-Analyst_R38306",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38306"
-    ],
-    "id": "R38306",
     "source": "SST"
   },
   {
@@ -1019,17 +1018,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Navigator NCS Product Line Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Line-Manager_R029072",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R029072"
-    ],
-    "id": "R029072",
-    "source": "Ciena"
-  },
-  {
     "title": "AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Application-Developer_R028890",
     "locationsText": "2 Locations",
@@ -1236,6 +1224,17 @@
       "R029630"
     ],
     "id": "R029630",
+    "source": "Ciena"
+  },
+  {
+    "title": "Specialist, Customer Order Fulfillment",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Belfast/Specialist--Customer-Order-Fulfillment_R029639-1",
+    "locationsText": "Belfast",
+    "postedOn": "Posted 5 Days Ago",
+    "bulletFields": [
+      "R029639"
+    ],
+    "id": "R029639",
     "source": "Ciena"
   },
   {

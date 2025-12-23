@@ -666,6 +666,28 @@
     "source": "SST"
   },
   {
+    "title": "Director, Compliance Advisory",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Director--Compliance-Advisory_R39878",
+    "locationsText": "London - 1 Ropemaker Street",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39878"
+    ],
+    "id": "R39878",
+    "source": "SST"
+  },
+  {
+    "title": "Engagement Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Principal-Engagement-Specialist_R39443",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39443"
+    ],
+    "id": "R39443",
+    "source": "SST"
+  },
+  {
     "title": "Data Analyst",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Data-Analyst_R38656",
     "locationsText": "2 Locations",
@@ -677,26 +699,15 @@
     "source": "SST"
   },
   {
-    "title": "Engagement Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Principal-Engagement-Specialist_R39441",
-    "locationsText": "2 Locations",
+    "title": "Consultant, Information Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2529186",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39441"
+      "2529186"
     ],
-    "id": "R39441",
-    "source": "SST"
-  },
-  {
-    "title": "S4",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/S4_R38546",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38546"
-    ],
-    "id": "R38546",
-    "source": "SST"
+    "id": "2529186",
+    "source": "CIBC"
   },
   {
     "title": "Software Developer (Azure Databricks)",
@@ -905,17 +916,6 @@
       "2528266"
     ],
     "id": "2528266",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2528722",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2528722"
-    ],
-    "id": "2528722",
     "source": "CIBC"
   },
   {

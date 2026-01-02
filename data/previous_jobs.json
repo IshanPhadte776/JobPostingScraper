@@ -568,15 +568,26 @@
     "source": "SST"
   },
   {
-    "title": "M1 - PA26DBOQ1CSV024",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/M1---PA26DBOQ1CSV024_R38593",
-    "locationsText": "Mumbai, India",
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Senior-Associate_R39972",
+    "locationsText": "Evansville, IN",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38593"
+      "R39972"
     ],
-    "id": "R38593",
+    "id": "R39972",
     "source": "SST"
+  },
+  {
+    "title": "Senior Consultant, Technology Solution Designer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Technology-Solution-Designer_2527213-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2527213"
+    ],
+    "id": "2527213",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Director, Information Security",
@@ -810,6 +821,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Resident Engineer - Remote US",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Resident-Engineer---Remote-US_R029586",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029586"
+    ],
+    "id": "R029586",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Software Engineer - Java",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Software-Engineer---Java_R028927",
     "locationsText": "2 Locations",
@@ -829,14 +851,6 @@
       "R028849"
     ],
     "id": "R028849",
-    "source": "Ciena"
-  },
-  {
-    "bulletFields": [
-      "R028866"
-    ],
-    "id": "R028866",
-    "externalPath": "",
     "source": "Ciena"
   },
   {

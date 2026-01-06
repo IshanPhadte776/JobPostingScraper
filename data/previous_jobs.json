@@ -428,15 +428,26 @@
     "source": "SST"
   },
   {
-    "title": "Associate Manager LH BPO",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Tokyo-Japan/Associate-Manager-LH-BPO_R40002",
-    "locationsText": "Tokyo, Japan",
+    "title": "Associate Fund Accountant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate-Fund-Accountant_R28041",
+    "locationsText": "Denver, CO",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40002"
+      "R28041"
     ],
-    "id": "R40002",
+    "id": "R28041",
     "source": "SST"
+  },
+  {
+    "title": "Sr. Manager, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2519794",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2519794"
+    ],
+    "id": "2519794",
+    "source": "CIBC"
   },
   {
     "title": "Senior Analyst, Production Application Support, Global Wires and Payment Technology.",

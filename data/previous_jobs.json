@@ -428,15 +428,26 @@
     "source": "SST"
   },
   {
-    "title": "Associate Fund Accountant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate-Fund-Accountant_R28041",
-    "locationsText": "Denver, CO",
+    "title": "Quality Lead (Complaints Handling)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Basildon-UK/Quality-Lead---PA256FCRQ1002_R40028",
+    "locationsText": "Basildon, UK",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R28041"
+      "R40028"
     ],
-    "id": "R28041",
+    "id": "R40028",
     "source": "SST"
+  },
+  {
+    "title": "Senior Cloud Solution Designer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Cloud-Solution-Designer_2525866",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2525866"
+    ],
+    "id": "2525866",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Manager, Application Development",
@@ -648,17 +659,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Director, Cyber Security Services Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director--Cyber-Security-Services-Management_2528576-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 22 Days Ago",
-    "bulletFields": [
-      "2528576"
-    ],
-    "id": "2528576",
-    "source": "CIBC"
-  },
-  {
     "title": "AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Application-Developer_R028890",
     "locationsText": "2 Locations",
@@ -689,6 +689,47 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "bulletFields": [
+      "R029717"
+    ],
+    "id": "R029717",
+    "externalPath": "",
+    "source": "Ciena"
+  },
+  {
+    "title": "Director of Supply Chain Data Solutions",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director-of-Supply-Chain-Data-Solutions_R029339",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029339"
+    ],
+    "id": "R029339",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Software Engineer \u2013 Embedded Software (Optical Networking)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Software-Lead-Engineer_R028592",
+    "locationsText": "Atlanta",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028592"
+    ],
+    "id": "R028592",
+    "source": "Ciena"
+  },
+  {
+    "title": "NPI Hardware Co-op (8 month - May 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/NPI-Hardware-Co-op--8-month---May-2026-_R029723-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029723"
+    ],
+    "id": "R029723",
     "source": "Ciena"
   },
   {
@@ -832,50 +873,6 @@
       "R029718"
     ],
     "id": "R029718",
-    "source": "Ciena"
-  },
-  {
-    "title": "Delivery Architect \u2013 Assurance",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pune/Delivery-Architect---Assurance_R028711",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R028711"
-    ],
-    "id": "R028711",
-    "source": "Ciena"
-  },
-  {
-    "title": "Optical Networks Product Verification Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Networks-Product-Verification-Engineer---New-Grad_R029225",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029225"
-    ],
-    "id": "R029225",
-    "source": "Ciena"
-  },
-  {
-    "title": "Resident Engineer - Remote US",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Resident-Engineer---Remote-US_R029586",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029586"
-    ],
-    "id": "R029586",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior - AI Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Lead---AI-Engineer_R028849",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R028849"
-    ],
-    "id": "R028849",
     "source": "Ciena"
   },
   {

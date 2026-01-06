@@ -373,17 +373,6 @@
     "source": "SST"
   },
   {
-    "title": "Senior Project Consultant (Microsoft Dynamics 365/ Power Platform)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Project-Consultant--Microsoft-Dynamics-365--Power-Platform-_R39658",
-    "locationsText": "Toronto, Canada",
-    "postedOn": "Posted 26 Days Ago",
-    "bulletFields": [
-      "R39658"
-    ],
-    "id": "R39658",
-    "source": "SST"
-  },
-  {
     "title": "Engagement Specialist",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Engagement-Specialist_R39849",
     "locationsText": "6 Locations",
@@ -428,15 +417,37 @@
     "source": "SST"
   },
   {
-    "title": "Quality Lead (Complaints Handling)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Basildon-UK/Quality-Lead---PA256FCRQ1002_R40028",
-    "locationsText": "Basildon, UK",
+    "title": "Associate Manager, Communications",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Associate-Manager--Communications_R40119",
+    "locationsText": "6 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40028"
+      "R40119"
     ],
-    "id": "R40028",
+    "id": "R40119",
     "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Loan Servicing (Accounting)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Senior-Associate--Loan-Servicing--Accounting-_R40076",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40076"
+    ],
+    "id": "R40076",
+    "source": "SST"
+  },
+  {
+    "title": "Service Integration Lead",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Service-Integration-Lead_2529128",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2529128"
+    ],
+    "id": "2529128",
+    "source": "CIBC"
   },
   {
     "title": "Senior Cloud Solution Designer",
@@ -648,17 +659,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Consultant, PEGA Solution",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--PEGA-Solution_2523937",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 22 Days Ago",
-    "bulletFields": [
-      "2523937"
-    ],
-    "id": "2523937",
-    "source": "CIBC"
-  },
-  {
     "title": "AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Application-Developer_R028890",
     "locationsText": "2 Locations",
@@ -692,11 +692,14 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Systems Sales Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Systems-Sales-Engineer_R029717",
+    "locationsText": "12 Locations",
+    "postedOn": "Posted Today",
     "bulletFields": [
       "R029717"
     ],
     "id": "R029717",
-    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -741,17 +744,6 @@
       "R029698"
     ],
     "id": "R029698",
-    "source": "Ciena"
-  },
-  {
-    "title": "PET Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/PET-Developer_R029371",
-    "locationsText": "Remote- India- Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029371"
-    ],
-    "id": "R029371",
     "source": "Ciena"
   },
   {
@@ -873,6 +865,17 @@
       "R029718"
     ],
     "id": "R029718",
+    "source": "Ciena"
+  },
+  {
+    "title": "Delivery Architect \u2013 Assurance",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pune/Delivery-Architect---Assurance_R028711",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R028711"
+    ],
+    "id": "R028711",
     "source": "Ciena"
   },
   {

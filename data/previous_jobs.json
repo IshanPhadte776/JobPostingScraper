@@ -508,15 +508,37 @@
     "source": "SST"
   },
   {
-    "title": "Associate Financial Operations Consulting & Support Analyst - PA-DSR-Q1_2025-R1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Associate-Financial-Operations-Consulting---Support-Analyst---PA-DSR-Q1-2025-R1_R40084",
-    "locationsText": "Kansas City, MO",
+    "title": "Associate Director; Private Equity Fund Accounting (East Coast Region)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Director--Private-Equity-Fund-Accounting--East-Coast-Region-_R37686-1",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40084"
+      "R37686"
     ],
-    "id": "R40084",
+    "id": "R37686",
     "source": "SST"
+  },
+  {
+    "title": "Sr. Functional Lead  (Portfolio management)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Functional-Lead---Portfolio-management-_2600108",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2600108"
+    ],
+    "id": "2600108",
+    "source": "CIBC"
+  },
+  {
+    "title": "Java Application Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Java-Application-Developer_2525034-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2525034"
+    ],
+    "id": "2525034",
+    "source": "CIBC"
   },
   {
     "title": "Senior Consultant, Application Development",
@@ -717,28 +739,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Information Security",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2529239",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2529239"
-    ],
-    "id": "2529239",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Solution Design",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Solution-Design_2523533",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2523533"
-    ],
-    "id": "2523533",
-    "source": "CIBC"
-  },
-  {
     "title": "AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Application-Developer_R028890",
     "locationsText": "2 Locations",
@@ -772,36 +772,11 @@
     "source": "Ciena"
   },
   {
-    "title": "NOC Project Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Project-Manager_R029675",
-    "locationsText": "Buenos Aires",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029675"
-    ],
-    "id": "R029675",
-    "source": "Ciena"
-  },
-  {
-    "title": "NOC Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029657",
-    "locationsText": "Buenos Aires",
-    "postedOn": "Posted Today",
     "bulletFields": [
       "R029657"
     ],
     "id": "R029657",
-    "source": "Ciena"
-  },
-  {
-    "title": "NOC Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029659",
-    "locationsText": "Buenos Aires",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029659"
-    ],
-    "id": "R029659",
+    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -835,17 +810,6 @@
       "R029709"
     ],
     "id": "R029709",
-    "source": "Ciena"
-  },
-  {
-    "title": "Service Reliability Engineer- .Net",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Service-Reliability-Engineer_R028486",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R028486"
-    ],
-    "id": "R028486",
     "source": "Ciena"
   },
   {
@@ -956,6 +920,39 @@
       "R028972"
     ],
     "id": "R028972",
+    "source": "Ciena"
+  },
+  {
+    "title": "Associate, Customer Success Advocacy",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Belfast--87-Park-House/Associate--Customer-Success-Advocacy_R029693",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R029693"
+    ],
+    "id": "R029693",
+    "source": "Ciena"
+  },
+  {
+    "title": "Commercial Manager \u2013 Software",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India--Gurgaon--JSK-Tower--Plot-13/Commercial-Manager---Software_R029492",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R029492"
+    ],
+    "id": "R029492",
+    "source": "Ciena"
+  },
+  {
+    "title": "Modem Hardware & Engineer New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Modem-Hardware---Engineer-New-Grad_R029462-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R029462"
+    ],
+    "id": "R029462",
     "source": "Ciena"
   },
   {

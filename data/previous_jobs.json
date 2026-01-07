@@ -41,7 +41,7 @@
   },
   {
     "id": "286",
-    "jobOpeningName": "Account Executive, Engineering & CMT",
+    "jobOpeningName": "Account Executive",
     "departmentId": "18813",
     "departmentLabel": "Sales & Success",
     "employmentStatusLabel": "Full-Time",
@@ -437,26 +437,37 @@
     "source": "SST"
   },
   {
-    "title": "Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Manager_R38103",
-    "locationsText": "Maharashtra, Navi Mumbai",
+    "title": "Senior Analyst, Financial Planning & Analysis",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Analyst--Financial-Planning---Analysis_R40014-1",
+    "locationsText": "Waltham MA - 10 CityPoint",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38103"
+      "R40014"
     ],
-    "id": "R38103",
+    "id": "R40014",
     "source": "SST"
   },
   {
-    "title": "M1 - PA26DBOQ2CSV008",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/M1---PA26DBOQ2CSV008_R38603",
-    "locationsText": "Mumbai, India",
+    "title": "PA2025Q4JB036 Senior IT Engineer\u200b - Infrastructure",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Lichfield-UK/PA2025Q4JB036-Senior-IT-Engineer----Infrastructure_R40008",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38603"
+      "R40008"
     ],
-    "id": "R38603",
+    "id": "R40008",
     "source": "SST"
+  },
+  {
+    "title": "Sr. Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2528954",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2528954"
+    ],
+    "id": "2528954",
+    "source": "CIBC"
   },
   {
     "title": "Intake Specialist",
@@ -668,17 +679,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Information Security",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2529186",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 15 Days Ago",
-    "bulletFields": [
-      "2529186"
-    ],
-    "id": "2529186",
-    "source": "CIBC"
-  },
-  {
     "title": "AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Application-Developer_R028890",
     "locationsText": "2 Locations",
@@ -709,6 +709,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Project Manager, Associate - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/London/Project-Manager--Associate_R029640",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029640"
+    ],
+    "id": "R029640",
+    "source": "Ciena"
+  },
+  {
+    "title": "Project Manager, Associate - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Project-Manager--Associate_R029629",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029629"
+    ],
+    "id": "R029629",
     "source": "Ciena"
   },
   {
@@ -855,17 +877,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Associate, Customer Success Advocacy",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Germany/Associate--Customer-Success-Advocacy_R029694",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029694"
-    ],
-    "id": "R029694",
-    "source": "Ciena"
-  },
-  {
     "title": "Commercial Manager \u2013 Software",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India--Gurgaon--JSK-Tower--Plot-13/Commercial-Manager---Software_R029492",
     "locationsText": "2 Locations",
@@ -874,17 +885,6 @@
       "R029492"
     ],
     "id": "R029492",
-    "source": "Ciena"
-  },
-  {
-    "title": "Project Manager, Associate",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Project-Manager--Associate_R029629",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029629"
-    ],
-    "id": "R029629",
     "source": "Ciena"
   },
   {

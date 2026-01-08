@@ -548,15 +548,37 @@
     "source": "SST"
   },
   {
-    "title": "Graduate - Business Analyst PASWCAPBAUON619",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney---255-George-St/Graduate---Business-Analyst-PASWCAPBAUON619_R40146",
-    "locationsText": "Sydney - 255 George St",
+    "title": "Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Georgia-US/Account-Executive_R39653",
+    "locationsText": "Remote - Georgia, US",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40146"
+      "R39653"
     ],
-    "id": "R40146",
+    "id": "R39653",
     "source": "SST"
+  },
+  {
+    "title": "Data Platform Support Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Platform-Support-Engineer_2526605",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2526605"
+    ],
+    "id": "2526605",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Consultant, Cloud Environment Management, Big Data Services",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Cloud-Environment-Management--Big-Data-Services_2523731",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2523731"
+    ],
+    "id": "2523731",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Android Developer",
@@ -754,28 +776,6 @@
       "2526922"
     ],
     "id": "2526922",
-    "source": "CIBC"
-  },
-  {
-    "title": "Data Developer (1 year contract/1 year secondment)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Developer--1-year-contract-1-year-secondment-_2528197",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2528197"
-    ],
-    "id": "2528197",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Production Application Support \u2013 Mainframe NDM Operations",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support---Mainframe_2527427",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2527427"
-    ],
-    "id": "2527427",
     "source": "CIBC"
   },
   {
@@ -2847,90 +2847,6 @@
         "description": "",
         "link": "https://www.surveymonkey.com/careers/office/portland/",
         "path": "/careers/office/portland/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 155503,
-    "type": "careers",
-    "title": "Senior Software Engineer-ML Platform",
-    "link": "https://www.surveymonkey.com/careers/7379164-senior-fullstack-software-engineer-i/",
-    "path": "/careers/7379164-senior-fullstack-software-engineer-i/",
-    "date": "2025-11-05T20:00:10",
-    "date_modified": "2025-11-05T20:00:10",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer-ML Platform",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      },
-      {
-        "id": 404,
-        "slug": "us-remote",
-        "name": "US - Remote",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/us-remote/",
-        "path": "/careers/office/us-remote/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 155505,
-    "type": "careers",
-    "title": "Senior Software Engineer ML Platform",
-    "link": "https://www.surveymonkey.com/careers/7379166-senior-fullstack-software-engineer-i/",
-    "path": "/careers/7379166-senior-fullstack-software-engineer-i/",
-    "date": "2025-11-05T20:00:10",
-    "date_modified": "2025-11-05T20:00:10",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer ML Platform",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 399,
-        "slug": "canada-remote",
-        "name": "Canada - Remote",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/canada-remote/",
-        "path": "/careers/office/canada-remote/"
-      },
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
       }
     ],
     "job_location": "",

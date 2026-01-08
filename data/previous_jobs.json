@@ -548,14 +548,14 @@
     "source": "SST"
   },
   {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Georgia-US/Account-Executive_R39653",
-    "locationsText": "Remote - Georgia, US",
+    "title": "Associate Director, Private Equity Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Director--Private-Equity-Accounting_R38068",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39653"
+      "R38068"
     ],
-    "id": "R39653",
+    "id": "R38068",
     "source": "SST"
   },
   {
@@ -812,6 +812,58 @@
     "source": "Ciena"
   },
   {
+    "bulletFields": [
+      "R029707"
+    ],
+    "id": "R029707",
+    "externalPath": "",
+    "source": "Ciena"
+  },
+  {
+    "title": "NOC Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029658",
+    "locationsText": "Buenos Aires",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029658"
+    ],
+    "id": "R029658",
+    "source": "Ciena"
+  },
+  {
+    "title": "NOC Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029696",
+    "locationsText": "Buenos Aires",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029696"
+    ],
+    "id": "R029696",
+    "source": "Ciena"
+  },
+  {
+    "title": "NOC Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029669",
+    "locationsText": "Buenos Aires",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029669"
+    ],
+    "id": "R029669",
+    "source": "Ciena"
+  },
+  {
+    "title": "NOC Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029674",
+    "locationsText": "Buenos Aires",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029674"
+    ],
+    "id": "R029674",
+    "source": "Ciena"
+  },
+  {
     "title": "Java Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Scala-Developer_R028866",
     "locationsText": "2 Locations",
@@ -941,61 +993,6 @@
       "R029550"
     ],
     "id": "R029550",
-    "source": "Ciena"
-  },
-  {
-    "title": "NOC \u2013 Automation Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC---Automation-Engineer_R029703",
-    "locationsText": "Buenos Aires",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029703"
-    ],
-    "id": "R029703",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Systems Sales Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Systems-Sales-Engineer_R029717",
-    "locationsText": "12 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029717"
-    ],
-    "id": "R029717",
-    "source": "Ciena"
-  },
-  {
-    "title": "Director of Supply Chain Data Solutions",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director-of-Supply-Chain-Data-Solutions_R029339",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029339"
-    ],
-    "id": "R029339",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Software Engineer \u2013 Embedded Software (Optical Networking)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Software-Lead-Engineer_R028592",
-    "locationsText": "Atlanta",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028592"
-    ],
-    "id": "R028592",
-    "source": "Ciena"
-  },
-  {
-    "title": "NPI Hardware Co-op (8 month - May 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/NPI-Hardware-Co-op--8-month---May-2026-_R029723-1",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029723"
-    ],
-    "id": "R029723",
     "source": "Ciena"
   },
   {

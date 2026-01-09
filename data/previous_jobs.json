@@ -180,26 +180,6 @@
     "url": "https://solace.bamboohr.com/career/careers/699"
   },
   {
-    "id": "716",
-    "jobOpeningName": "Senior SAP Architect ",
-    "departmentId": "19559",
-    "departmentLabel": "Other",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": "United Kingdom",
-      "state": "Greater London",
-      "province": null,
-      "city": "London"
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/716"
-  },
-  {
     "id": "721",
     "jobOpeningName": " Sales Development Representative (SDR) - French Speaking ",
     "departmentId": "18617",
@@ -548,14 +528,14 @@
     "source": "SST"
   },
   {
-    "title": "Governance, Risk and compliance- Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Governance--Risk-and-compliance--Analyst_R40403",
-    "locationsText": "Hyderabad, India",
+    "title": "Senior Associate , OTC Valuations Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-OH/Senior-Associate---Valuations_R40126",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40403"
+      "R40126"
     ],
-    "id": "R40403",
+    "id": "R40126",
     "source": "SST"
   },
   {
@@ -812,6 +792,17 @@
     "source": "Ciena"
   },
   {
+    "title": "ASIC Engineer Co-op (Summer 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Co-op--Summer-2026-_R029736",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029736"
+    ],
+    "id": "R029736",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Analyst - IT-applications - Oracle EBS",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Senior-Analyst---IT-applications---Oracle-EBS_R029715",
     "locationsText": "Remote- India- Gurugram",
@@ -985,17 +976,6 @@
       "R029709"
     ],
     "id": "R029709",
-    "source": "Ciena"
-  },
-  {
-    "title": "\u00a0Software Engineer - C and Networking",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/XMLNAME--Software-Engineer---C-and-Networking_R029690",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029690"
-    ],
-    "id": "R029690",
     "source": "Ciena"
   },
   {

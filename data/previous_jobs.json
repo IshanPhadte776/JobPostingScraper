@@ -539,6 +539,28 @@
     "source": "SST"
   },
   {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Software-Engineer_2421418-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2421418"
+    ],
+    "id": "2421418",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Data Engineer - Azure",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Data-Engineer---Azure_2600103",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2600103"
+    ],
+    "id": "2600103",
+    "source": "CIBC"
+  },
+  {
     "title": "Senior Consultant, PEGA Solution",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--PEGA-Solution_2523937",
     "locationsText": "Toronto, ON",
@@ -737,28 +759,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Solution Design and Strategy",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Solution-Design-and-Strategy_2522430",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2522430"
-    ],
-    "id": "2522430",
-    "source": "CIBC"
-  },
-  {
-    "title": "Service Integration Lead",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Service-Integration-Lead_2529128",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2529128"
-    ],
-    "id": "2529128",
-    "source": "CIBC"
-  },
-  {
     "title": "AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Application-Developer_R028890",
     "locationsText": "2 Locations",
@@ -789,6 +789,50 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "NOC Change Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Change-Manager_R029704",
+    "locationsText": "Buenos Aires",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029704"
+    ],
+    "id": "R029704",
+    "source": "Ciena"
+  },
+  {
+    "title": "NOC Problem Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Problem-Manager_R029705",
+    "locationsText": "Buenos Aires",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029705"
+    ],
+    "id": "R029705",
+    "source": "Ciena"
+  },
+  {
+    "title": "NOC Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029697",
+    "locationsText": "Buenos Aires",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029697"
+    ],
+    "id": "R029697",
+    "source": "Ciena"
+  },
+  {
+    "title": "NOC Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029687",
+    "locationsText": "Buenos Aires",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029687"
+    ],
+    "id": "R029687",
     "source": "Ciena"
   },
   {
@@ -932,50 +976,6 @@
       "R029721"
     ],
     "id": "R029721",
-    "source": "Ciena"
-  },
-  {
-    "title": "Salesforce Engineering Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India--Gurgaon--JSK-Tower--Plot-13/Salesforce-Engineering-Manager_R029133",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029133"
-    ],
-    "id": "R029133",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Engineer system - C/C++ Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Software-Engineer-system---C-C---Developer_R029698",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029698"
-    ],
-    "id": "R029698",
-    "source": "Ciena"
-  },
-  {
-    "title": "Project Manager, Associate - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/London/Project-Manager--Associate_R029640",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029640"
-    ],
-    "id": "R029640",
-    "source": "Ciena"
-  },
-  {
-    "title": "Hardware Design Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Design-Engineer---New-Grad_R029709",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029709"
-    ],
-    "id": "R029709",
     "source": "Ciena"
   },
   {

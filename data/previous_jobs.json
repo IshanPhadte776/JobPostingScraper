@@ -486,47 +486,47 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellevue-WA/Senior-Associate_R38407",
-    "locationsText": "Bellevue, WA",
+    "title": "Account Executive - IBD",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Account-Executive---IBD_R38186",
+    "locationsText": "London - 1 Ropemaker Street",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38407"
+      "R38186"
     ],
-    "id": "R38407",
+    "id": "R38186",
     "source": "SST"
   },
   {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate_R38832",
+    "title": "Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Software-Engineer_R38677",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38677"
+    ],
+    "id": "R38677",
+    "source": "SST"
+  },
+  {
+    "title": "Client Advocate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Advocate_R40456",
     "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38832"
+      "R40456"
     ],
-    "id": "R38832",
+    "id": "R40456",
     "source": "SST"
   },
   {
-    "title": "Senior Associate - Qualified Plan (PA2025Q3OS-R001)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Associate---Qualified-Plan--PA2025Q3OS-R001-_R36239",
-    "locationsText": "Hyderabad, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36239"
-    ],
-    "id": "R36239",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Full Stack Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Full-Stack-Developer_2525622",
+    "title": "Consultant, Business Systems Analysis (Compliance and Audit)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis--Compliance-and-Audit-_2600570",
     "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "2525622"
+      "2600570"
     ],
-    "id": "2525622",
+    "id": "2600570",
     "source": "CIBC"
   },
   {
@@ -772,14 +772,14 @@
     "source": "Ciena"
   },
   {
-    "title": "Software Engineer Co-op - Summer 2026",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Engineer-Co-op---Summer-2026_R029760-1",
-    "locationsText": "Ottawa",
+    "title": "Technologue en Photonique/ Photonic Technologist",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Technologue-en-Photonique_R029151",
+    "locationsText": "Quebec",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R029760"
+      "R029151"
     ],
-    "id": "R029760",
+    "id": "R029151",
     "source": "Ciena"
   },
   {
@@ -846,22 +846,6 @@
       "R028711"
     ],
     "id": "R028711",
-    "source": "Ciena"
-  },
-  {
-    "bulletFields": [
-      "R029752"
-    ],
-    "id": "R029752",
-    "externalPath": "",
-    "source": "Ciena"
-  },
-  {
-    "bulletFields": [
-      "R029744"
-    ],
-    "id": "R029744",
-    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -953,12 +937,26 @@
     "source": "Ciena"
   },
   {
+    "title": "Project Manager, Associate - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Project-Manager--Associate_R029629",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
-      "R003984"
+      "R029629"
     ],
-    "id": "R003984",
-    "externalPath": "",
-    "source": "Entrust"
+    "id": "R029629",
+    "source": "Ciena"
+  },
+  {
+    "title": "NOC Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029696",
+    "locationsText": "Buenos Aires",
+    "postedOn": "Posted 4 Days Ago",
+    "bulletFields": [
+      "R029696"
+    ],
+    "id": "R029696",
+    "source": "Ciena"
   },
   {
     "id": "job_20260108211235_M8OQSI4W2DNKUCPQ",

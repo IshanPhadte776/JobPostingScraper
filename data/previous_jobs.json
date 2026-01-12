@@ -486,6 +486,17 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Director, Product Management (Commercial Loan Services)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Director--Product-Management--Commercial-Loan-Services-_R40123",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40123"
+    ],
+    "id": "R40123",
+    "source": "SST"
+  },
+  {
     "title": "Account Executive - IBD",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Account-Executive---IBD_R38186",
     "locationsText": "London - 1 Ropemaker Street",
@@ -505,17 +516,6 @@
       "R38677"
     ],
     "id": "R38677",
-    "source": "SST"
-  },
-  {
-    "title": "Client Advocate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Advocate_R40456",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40456"
-    ],
-    "id": "R40456",
     "source": "SST"
   },
   {
@@ -772,6 +772,39 @@
     "source": "Ciena"
   },
   {
+    "title": "JIRA Automation Intern with AI/GAI Insights",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/JIRA-Automation-Intern-with-AI-GAI-Insights_R029750",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029750"
+    ],
+    "id": "R029750",
+    "source": "Ciena"
+  },
+  {
+    "title": "Metro Field Tech",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Metro-Field-Tech_R029770",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029770"
+    ],
+    "id": "R029770",
+    "source": "Ciena"
+  },
+  {
+    "title": "Digital Verification/Design Co-op (Summer 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-Verification-Design-Co-op--Summer-2026-_R029732",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029732"
+    ],
+    "id": "R029732",
+    "source": "Ciena"
+  },
+  {
     "title": "Technologue en Photonique/ Photonic Technologist",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Technologue-en-Photonique_R029151",
     "locationsText": "Quebec",
@@ -923,39 +956,6 @@
       "R029728"
     ],
     "id": "R029728",
-    "source": "Ciena"
-  },
-  {
-    "title": "Patent Agent",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Patent-Agent_R029359",
-    "locationsText": "Remote-Canada",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029359"
-    ],
-    "id": "R029359",
-    "source": "Ciena"
-  },
-  {
-    "title": "Project Manager, Associate - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Project-Manager--Associate_R029629",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029629"
-    ],
-    "id": "R029629",
-    "source": "Ciena"
-  },
-  {
-    "title": "NOC Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029696",
-    "locationsText": "Buenos Aires",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029696"
-    ],
-    "id": "R029696",
     "source": "Ciena"
   },
   {

@@ -486,6 +486,28 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellevue-WA/Senior-Associate_R38407",
+    "locationsText": "Bellevue, WA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38407"
+    ],
+    "id": "R38407",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate_R38832",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38832"
+    ],
+    "id": "R38832",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate - Qualified Plan (PA2025Q3OS-R001)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Associate---Qualified-Plan--PA2025Q3OS-R001-_R36239",
     "locationsText": "Hyderabad, India",
@@ -497,26 +519,26 @@
     "source": "SST"
   },
   {
-    "title": "Technical Support Specialist - ACM - Algo Credit Manager experience or Openshift (Riyadh, KSA)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Saudi-Arabia/Senior-Technical-Consultant--Riyadh--KSA-_R26534",
-    "locationsText": "Remote - Saudi Arabia",
+    "title": "Senior Full Stack Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Full-Stack-Developer_2525622",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R26534"
+      "2525622"
     ],
-    "id": "R26534",
-    "source": "SST"
+    "id": "2525622",
+    "source": "CIBC"
   },
   {
-    "title": "Senior Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Senior-Account-Executive_R39952",
-    "locationsText": "London - 1 Ropemaker Street",
+    "title": "Full Stack Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Developer_2527600",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39952"
+      "2527600"
     ],
-    "id": "R39952",
-    "source": "SST"
+    "id": "2527600",
+    "source": "CIBC"
   },
   {
     "title": "Director, Technology Currency Governance",
@@ -717,28 +739,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Solutions Designer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Solutions-Designer_2529351",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2529351"
-    ],
-    "id": "2529351",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Functional Lead  (Portfolio management)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Functional-Lead---Portfolio-management-_2600108",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2600108"
-    ],
-    "id": "2600108",
-    "source": "CIBC"
-  },
-  {
     "title": "AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Application-Developer_R028890",
     "locationsText": "2 Locations",
@@ -769,6 +769,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Engineer Co-op - Summer 2026",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Engineer-Co-op---Summer-2026_R029760-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029760"
+    ],
+    "id": "R029760",
+    "source": "Ciena"
+  },
+  {
+    "title": "PET Developer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/PET-Developer_R029371",
+    "locationsText": "Remote- India- Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029371"
+    ],
+    "id": "R029371",
     "source": "Ciena"
   },
   {
@@ -827,25 +849,19 @@
     "source": "Ciena"
   },
   {
-    "title": "ASIC Digital backend Physical Implementation Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Digital-backend-Physical-Implementation-Engineer_R029752",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R029752"
     ],
     "id": "R029752",
+    "externalPath": "",
     "source": "Ciena"
   },
   {
-    "title": "ASIC Digital backend Physical Implementation Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Digital-backend-Physical-Implementation-Engineer_R029744",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R029744"
     ],
     "id": "R029744",
+    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -879,25 +895,6 @@
       "R029724"
     ],
     "id": "R029724",
-    "source": "Ciena"
-  },
-  {
-    "title": "NOC Problem Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Problem-Manager_R029705",
-    "locationsText": "Buenos Aires",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029705"
-    ],
-    "id": "R029705",
-    "source": "Ciena"
-  },
-  {
-    "bulletFields": [
-      "R029697"
-    ],
-    "id": "R029697",
-    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -954,6 +951,14 @@
     ],
     "id": "R029359",
     "source": "Ciena"
+  },
+  {
+    "bulletFields": [
+      "R003984"
+    ],
+    "id": "R003984",
+    "externalPath": "",
+    "source": "Entrust"
   },
   {
     "id": "job_20260108211235_M8OQSI4W2DNKUCPQ",

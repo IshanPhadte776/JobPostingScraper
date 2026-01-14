@@ -486,37 +486,70 @@
     "source": "SST"
   },
   {
-    "title": "Pre-Req Approval Id: PA26SJPYYEQ1097 - SC1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Thane-India/Pre-Req-Approval-Id--PA26SJPYYEQ1097---SC1_R40513",
-    "locationsText": "Thane, India",
+    "title": "Corporate Accounting Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Accounting-Manager_R38090",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40513"
+      "R38090"
     ],
-    "id": "R40513",
+    "id": "R38090",
     "source": "SST"
   },
   {
-    "title": "PA26SJPYYEQ1097 Contract Staff",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/PA26SJPYYEQ1097-Contract-Staff_R40508",
-    "locationsText": "Mumbai, India",
+    "title": "Manager, Alternative Investment Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Manager--Alternative-Investment-Specialist_R39023",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40508"
+      "R39023"
     ],
-    "id": "R40508",
+    "id": "R39023",
     "source": "SST"
   },
   {
-    "title": "Senior Java Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Senior-Java-Developer-PA26DIGIQ1014_R39804",
-    "locationsText": "Bucharest, Romania",
+    "title": "Associate Manager, Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Associate-Manager--Fund-Accounting_R40313",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39804"
+      "R40313"
     ],
-    "id": "R39804",
+    "id": "R40313",
     "source": "SST"
+  },
+  {
+    "title": "Senior Full Stack Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Full-Stack-Developer_2600798-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2600798"
+    ],
+    "id": "2600798",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2528839",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2528839"
+    ],
+    "id": "2528839",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Consultant, Application Development and Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development-and-Support_2518359",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2518359"
+    ],
+    "id": "2518359",
+    "source": "CIBC"
   },
   {
     "title": "Analyst, IT Quality Assurance",
@@ -706,39 +739,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Platform Engineer - MLOps",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Machine-Learning-Platform-Engineer_2518481",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2518481"
-    ],
-    "id": "2518481",
-    "source": "CIBC"
-  },
-  {
-    "title": "Security Engineer (Microsoft Defender for Endpoint)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Cloud-Security-Engineer--MDE-Specialist-_2527336-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2527336"
-    ],
-    "id": "2527336",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Software-Engineer_2421418-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2421418"
-    ],
-    "id": "2421418",
-    "source": "CIBC"
-  },
-  {
     "title": "AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Application-Developer_R028890",
     "locationsText": "2 Locations",
@@ -769,6 +769,61 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Consultant, Sales Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Consultant--Sales-Engineering_R029416",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029416"
+    ],
+    "id": "R029416",
+    "source": "Ciena"
+  },
+  {
+    "title": "\u00c9tudiant Coop en Ing\u00e9nierie Photonique (\u00c9t\u00e9 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/tudiant-Coop-en-Ingnierie-Photonique--t-2026-_R029777",
+    "locationsText": "Quebec",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029777"
+    ],
+    "id": "R029777",
+    "source": "Ciena"
+  },
+  {
+    "title": "Optical Modem Hardware Intern (Summer 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Modem-Hardware-Intern--Summer-2026-_R029783",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029783"
+    ],
+    "id": "R029783",
+    "source": "Ciena"
+  },
+  {
+    "title": "PON NPI Test Engineering Coop Student",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/PON-NPI-Test-Engineering-Coop-Student_R029695",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029695"
+    ],
+    "id": "R029695",
+    "source": "Ciena"
+  },
+  {
+    "title": "Technical Support Engineer (Intern)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Belfast--87-Park-House/Technical-Support-Engineer--Intern-_R029761",
+    "locationsText": "UK- Belfast- 87 Park House",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029761"
+    ],
+    "id": "R029761",
     "source": "Ciena"
   },
   {
@@ -901,61 +956,6 @@
       "R029261"
     ],
     "id": "R029261",
-    "source": "Ciena"
-  },
-  {
-    "title": "Routing/IP Software Engineer - Dataplane",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Routing-IP-Software-Engineer---Dataplane_R028476",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028476"
-    ],
-    "id": "R028476",
-    "source": "Ciena"
-  },
-  {
-    "title": "NOC Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029660",
-    "locationsText": "Buenos Aires",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029660"
-    ],
-    "id": "R029660",
-    "source": "Ciena"
-  },
-  {
-    "title": "NOC Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Engineer_R029706",
-    "locationsText": "Buenos Aires",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029706"
-    ],
-    "id": "R029706",
-    "source": "Ciena"
-  },
-  {
-    "title": "NOC Egineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/NOC-Egineer_R029671-1",
-    "locationsText": "Buenos Aires",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029671"
-    ],
-    "id": "R029671",
-    "source": "Ciena"
-  },
-  {
-    "title": "Technologue en Photonique/ Photonic Technologist",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Technologue-en-Photonique_R029151",
-    "locationsText": "Quebec",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029151"
-    ],
-    "id": "R029151",
     "source": "Ciena"
   },
   {

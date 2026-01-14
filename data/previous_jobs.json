@@ -486,6 +486,28 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate, Alternative Investment Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Senior-Associate--Alternative-Investment-Specialist_R39724",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39724"
+    ],
+    "id": "R39724",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Manager, Private Equity / FOF",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Associate-Manager--Private-Equity---FOF_R40152",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40152"
+    ],
+    "id": "R40152",
+    "source": "SST"
+  },
+  {
     "title": "Corporate Accounting Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Accounting-Manager_R38090",
     "locationsText": "3 Locations",
@@ -497,26 +519,48 @@
     "source": "SST"
   },
   {
-    "title": "Manager, Alternative Investment Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Manager--Alternative-Investment-Specialist_R39023",
-    "locationsText": "2 Locations",
+    "title": "Sr. Oracle OBIEE Application Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Oracle-OBIEE-Application-Developer_2600845",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39023"
+      "2600845"
     ],
-    "id": "R39023",
-    "source": "SST"
+    "id": "2600845",
+    "source": "CIBC"
   },
   {
-    "title": "Associate Manager, Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Associate-Manager--Fund-Accounting_R40313",
-    "locationsText": "2 Locations",
+    "title": "Sr. Consultant, Infrastructure Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Infrastructure-Management_2529046",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40313"
+      "2529046"
     ],
-    "id": "R40313",
-    "source": "SST"
+    "id": "2529046",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Consultant, Production Application Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Production-Application-Support_2521207",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2521207"
+    ],
+    "id": "2521207",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2524357",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2524357"
+    ],
+    "id": "2524357",
+    "source": "CIBC"
   },
   {
     "title": "Senior Full Stack Developer",
@@ -692,50 +736,6 @@
       "2529233"
     ],
     "id": "2529233",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Endpoint Analyst - Enterprise Endpoint Compute",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Endpoint-Analyst---Enterprise-Endpoint-Compute_2528775",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2528775"
-    ],
-    "id": "2528775",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Manager, Employee Technology Services",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Employee-Technology-Services_2529248-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2529248"
-    ],
-    "id": "2529248",
-    "source": "CIBC"
-  },
-  {
-    "title": "Java Developer (Java/J2EE/Angular 7+/SpringBoot)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Java-Developer--Java-J2EE-Angular-7--SpringBoot-_2600448",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2600448"
-    ],
-    "id": "2600448",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Infrastructure Engineer, Patching",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Infrastructure-Engineer--Patching_2526995",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2526995"
-    ],
-    "id": "2526995",
     "source": "CIBC"
   },
   {
@@ -2541,6 +2541,48 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 158060,
+    "type": "careers",
+    "title": "Senior Service Delivery Manager II &#8211; Jira &#038; Automation",
+    "link": "https://www.surveymonkey.com/careers/7515025-senior-service-delivery-manager-ii-jira-automation/",
+    "path": "/careers/7515025-senior-service-delivery-manager-ii-jira-automation/",
+    "date": "2026-01-14T14:00:07",
+    "date_modified": "2026-01-14T14:00:07",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Service Delivery Manager II &#8211; Jira &#038; Automation",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 394,
+        "slug": "portland",
+        "name": "Portland, OR",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/portland/",
+        "path": "/careers/office/portland/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 157249,

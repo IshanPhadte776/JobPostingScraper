@@ -486,6 +486,17 @@
     "source": "SST"
   },
   {
+    "title": "Event Coordinator",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Massachussets-US/Event-Coordinator_R39932",
+    "locationsText": "11 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39932"
+    ],
+    "id": "R39932",
+    "source": "SST"
+  },
+  {
     "title": "Product Director - UX & Design",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Product-Director---UX---Design_R40502",
     "locationsText": "London, UK",
@@ -505,17 +516,6 @@
       "R38298"
     ],
     "id": "R38298",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Director, Strategic Business Transformation Program Management",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Director--Strategic-Business-Transformation-Program-Management_R40500",
-    "locationsText": "Waltham MA - 10 CityPoint",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R40500"
-    ],
-    "id": "R40500",
     "source": "SST"
   },
   {
@@ -772,6 +772,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Content Strategist",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Data-Architect_R029205",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029205"
+    ],
+    "id": "R029205",
+    "source": "Ciena"
+  },
+  {
     "title": "CISO & Executive Reporting and Metrics Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/CISO---Executive-Reporting-and-Metrics-Analyst_R029541",
     "locationsText": "2 Locations",
@@ -934,17 +945,6 @@
       "R028788"
     ],
     "id": "R028788",
-    "source": "Ciena"
-  },
-  {
-    "title": "Service Reliability Engineer- .Net",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Service-Reliability-Engineer_R028486",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028486"
-    ],
-    "id": "R028486",
     "source": "Ciena"
   },
   {
@@ -2881,48 +2881,6 @@
         "description": "",
         "link": "https://www.surveymonkey.com/careers/office/portland/",
         "path": "/careers/office/portland/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 155462,
-    "type": "careers",
-    "title": "Senior Software Engineer II",
-    "link": "https://www.surveymonkey.com/careers/7376805-senior-software-engineer-ii/",
-    "path": "/careers/7376805-senior-software-engineer-ii/",
-    "date": "2025-11-04T20:00:11",
-    "date_modified": "2025-11-04T20:00:11",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer II",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      },
-      {
-        "id": 400,
-        "slug": "ireland-remote",
-        "name": "Ireland - Remote",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/ireland-remote/",
-        "path": "/careers/office/ireland-remote/"
       }
     ],
     "job_location": "",

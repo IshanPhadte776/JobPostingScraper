@@ -486,37 +486,59 @@
     "source": "SST"
   },
   {
-    "title": "Event Coordinator",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Massachussets-US/Event-Coordinator_R39932",
-    "locationsText": "11 Locations",
+    "title": "Business Systems Analyst PA-BAS_Q1_003",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Business-Systems-Analyst-PA-BAS-Q1-003_R40467",
+    "locationsText": "Kansas City, MO",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39932"
+      "R40467"
     ],
-    "id": "R39932",
+    "id": "R40467",
     "source": "SST"
   },
   {
-    "title": "Product Director - UX & Design",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Product-Director---UX---Design_R40502",
-    "locationsText": "London, UK",
+    "title": "Senior Director, Product Manager - Loans",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Senior-Director--Product-Manager---Loans_R39126",
+    "locationsText": "Dallas, TX",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40502"
+      "R39126"
     ],
-    "id": "R40502",
+    "id": "R39126",
     "source": "SST"
   },
   {
-    "title": "Business Analyst - with testing experience",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland/Business---Quality-Assurance-Analyst_R38298",
-    "locationsText": "Dublin, Ireland",
+    "title": "Billing Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Billing-Analyst_R40490",
+    "locationsText": "Kansas City, MO",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38298"
+      "R40490"
     ],
-    "id": "R38298",
+    "id": "R40490",
     "source": "SST"
+  },
+  {
+    "title": "Senior Manager, Application Services",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Application-Services_2601068",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2601068"
+    ],
+    "id": "2601068",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr Consultant, Cash Management Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Cash-Management-Business-Systems-Analysis_2600836",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2600836"
+    ],
+    "id": "2600836",
+    "source": "CIBC"
   },
   {
     "title": "Senior Consultant, Application Development",
@@ -714,28 +736,6 @@
       "2512878"
     ],
     "id": "2512878",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2523904",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2523904"
-    ],
-    "id": "2523904",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Business Systems Analysis (Compliance and Audit)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis--Compliance-and-Audit-_2600570",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2600570"
-    ],
-    "id": "2600570",
     "source": "CIBC"
   },
   {

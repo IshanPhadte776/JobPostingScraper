@@ -240,26 +240,6 @@
     "url": "https://truecontext.bamboohr.com/career/careers/40"
   },
   {
-    "id": "112",
-    "jobOpeningName": "Enterprise Account Executive ",
-    "departmentId": "18226",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Kanata",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://distillersr.bamboohr.com/career/careers/112"
-  },
-  {
     "id": "113",
     "jobOpeningName": "Enterprise Account Executive ",
     "departmentId": "18226",
@@ -475,48 +455,70 @@
     "source": "SST"
   },
   {
-    "title": "Position Site Reliability Engineer (SRE) - Feb - July Co-Op 2026",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Position-Site-Reliability-Engineer--SRE----Jan-to-June-Co-Op-2026_R39662",
-    "locationsText": "Waltham, MA",
+    "title": "Client Services Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Connecticut-US/Client-Services-Consultant_R40089-1",
+    "locationsText": "Remote - Connecticut, US",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39662"
+      "R40089"
     ],
-    "id": "R39662",
+    "id": "R40089",
     "source": "SST"
   },
   {
-    "title": "Associate Financial Operations Consulting & Support Analyst - PA-DSR-Q1_2025-R1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Associate-Financial-Operations-Consulting---Support-Analyst---PA-DSR-Q1-2025-R1_R40084",
-    "locationsText": "Kansas City, MO",
+    "title": "Senior Director, Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Senior-Director--Fund-Accounting_R40499",
+    "locationsText": "Boston MA - One Post Office Square",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40084"
+      "R40499"
     ],
-    "id": "R40084",
+    "id": "R40499",
     "source": "SST"
   },
   {
-    "title": "S3",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/S3_R38544",
-    "locationsText": "Mumbai, India",
+    "title": "Sales Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Associate_R40264",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38544"
+      "R40264"
     ],
-    "id": "R38544",
+    "id": "R40264",
     "source": "SST"
   },
   {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kuala-Lumpur-Malaysia/Senior-Associate_R40378",
-    "locationsText": "2 Locations",
+    "title": "Sales Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Associate_R40407",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40378"
+      "R40407"
     ],
-    "id": "R40378",
+    "id": "R40407",
     "source": "SST"
+  },
+  {
+    "title": "Consultant, Security Analytics & Reporting",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Security-Analytics---Reporting_2529280-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2529280"
+    ],
+    "id": "2529280",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Analyst, IT Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Analyst--IT-Quality-Assurance_2600941",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2600941"
+    ],
+    "id": "2600941",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, IT Quality Assurance",
@@ -717,28 +719,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2529166",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2529166"
-    ],
-    "id": "2529166",
-    "source": "CIBC"
-  },
-  {
-    "title": "Infrastructure Architect",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Infrastructure-Architect_2511976",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2511976"
-    ],
-    "id": "2511976",
-    "source": "CIBC"
-  },
-  {
     "title": "AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Application-Developer_R028890",
     "locationsText": "2 Locations",
@@ -769,6 +749,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Assistant Technique",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Assistant-Technique_R029811",
+    "locationsText": "Quebec",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029811"
+    ],
+    "id": "R029811",
+    "source": "Ciena"
+  },
+  {
+    "title": "Waveserver Software Developer Co-op (Summer 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Waveserver-Software-Developer-Co-op--Winter-2026-_R029322",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029322"
+    ],
+    "id": "R029322",
     "source": "Ciena"
   },
   {
@@ -937,26 +939,20 @@
     "source": "Ciena"
   },
   {
-    "title": "Technical Support Engineer (Intern)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Belfast--87-Park-House/Technical-Support-Engineer--Intern-_R029761",
-    "locationsText": "UK- Belfast- 87 Park House",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029761"
-    ],
-    "id": "R029761",
-    "source": "Ciena"
-  },
-  {
-    "title": "ASIC Engineer Co-op (Summer 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Co-op--Summer-2026-_R029736",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029736"
-    ],
-    "id": "R029736",
-    "source": "Ciena"
+    "id": "job_20260116135410_FLJOIJB2ATVX2YAR",
+    "title": "RFP Coordinator",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7N3A3",
+    "department": "Administration",
+    "description": "<p><strong>Responsibilities:</strong></p><ul><li>Coordinate the end-to-end process of responding to RFPs</li><li>Understand RFP requirements and coordinate with internal teams&#160;</li><li>Ensure compliance with RFP instructions and deadlines&#160;</li><li>Maintain a database of past proposals&#160;</li><li>Communicate effectively with internal teams</li><li>Liaise with Sales and customers to determine RFP requirements&#160;</li><li>Craft comprehensive responses to meet the specific requirements outlined in each RFP</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "uwEjaC1eb6",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20260114213156_QJGP2X8MUXILL3VH",
@@ -969,38 +965,6 @@
     "description": "<p>Evertz Microsystems Ltd. is a growing high-technology company and a worldwide leader in the design and manufacture of professional equipment for the television broadcast, film &amp; HDTV production &amp; post-production, cable and telco industries.</p><p><strong>Responsibilities:</strong></p><ul><li>Respond to incoming inquiries, and assign cases to Service staff</li><li>Provide administrative support to Service department</li><li>Enter caller and case information accurately and efficiently into company ticketing system</li><li>Assist in the scheduling and planning travel for Service-related customer visits</li><li>Maintain an adequate inventory of office supplies</li><li>Preparation of training materials</li><li>Punch-list tracking &amp; updating, creating meeting minutes and documentation</li><li>Other duties as assigned</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Travel, Administration) or related experience</li><li>Excellent verbal and written communication skills, time management, problem solving ability and interpersonal skills</li><li>Strong computer skills</li><li>Positive attitude and desire to work in a fast-paced, challenging environment</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 1700 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "T1piG14AAl",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260108211235_M8OQSI4W2DNKUCPQ",
-    "title": "SMT (Surface Mount Technician) Inspector, Evertz USA",
-    "country_id": "United States",
-    "city": "Indiana",
-    "state": "PA",
-    "zip": "",
-    "department": "SMT",
-    "description": "<p>Evertz USA, Inc. is seeking an&#160;<b>SMT Inspector</b>&#160;whose primary responsibilities will include verifying the quality and accuracy of surface mount technology (SMT) printed circuit board (PCB) assemblies.</p><p><strong>Additional Duties:</strong></p><ul><li>Assist in running the SMT line</li><li>Inspect boards post reflows visually and with Automated Optical Inspection (AOI) machine</li><li>Hand soldering repair when required</li><li>Be trained to run SMT line for vacation relief</li><li>Maintain clean work environment</li><li>Perform other related duties as requested, directed, or assigned</li></ul><p><strong>Qualifications:</strong></p><ul><li>Must have excellent verbal and written communication skills</li><li>Must have outstanding problem solving, time management, and critical thinking skills</li><li>Experience with electronic components in an electronics manufacturing environment</li><li>Strone attention to detail is required</li><li>Be results oriented, self-motivated, and team player</li><li>Computer knowledge is an asset</li><li>Hours of work: 7:00am - 3:30pm</li><li>Must possess US Citizenship</li><li>Valid US Passport is an asset</li></ul><p><strong>What We Offer:</strong></p><ul><li>Comprehensive benefit package, including short-term &amp; long-term disability and employer funded life insurance.&#160;</li><li>401K employer contribution&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events</li></ul><p><strong>Position is a full-time, in-person, day position, M-F 7:00am &#8211; 3:30pm</strong><br><br>Located at Evertz USA Inc. located in Indiana, PA!<br><br>Evertz USA, Inc. are proud to be an Equal Employment Opportunity and Affirmative Action employer.&#160;We celebrate, support and value diversity!<br>Evertz USA does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.<br>All employment decisions are decided based on qualifications, merit, and business needs.<br>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.<br><br>Thank you for considering a career with Evertz USA!</p>",
-    "type": "Full Time",
-    "board_code": "a7QAsvUqPm",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260108211141_UJD1WHGCWVQ54PZX",
-    "title": "SMT (Surface Mount Technician) Operator, Evertz USA",
-    "country_id": "United States",
-    "city": "Indiana",
-    "state": "PA",
-    "zip": "",
-    "department": "SMT",
-    "description": "<p>Evertz USA, Inc. is seeking a few&#160;<b>SMT Operators&#160;</b>whose primary duties will include being responsible for operating, maintaining, and troubleshooting SMT assembly machines during the SMT process.</p><p><strong>Additional Duties:</strong></p><ul><li>Assist in running the SMT line</li><li>Loading in running the SMT line</li><li>Loading reeled components on feeders</li><li>Be trained to run SMT line for vacation relief</li><li>Maintain clean work environment</li><li>Perform other related duties as requested, directed, or assigned</li></ul><p><strong>Qualifications:</strong></p><ul><li>Must have excellent verbal and written communication skills</li><li>Must have outstanding problem solving, time management, and critical thinking skills</li><li>Experience with electronic components in an electronics manufacturing environment</li><li>Strone attention to detail is required</li><li>Be results oriented, self-motivated, and team player</li><li>Computer knowledge is an asset</li><li>Hours of work: 7:00am - 3:30pm</li><li>Must possess US Citizenship</li><li>Valid US Passport is an asset</li></ul><p><strong>What We Offer:</strong></p><ul><li>Comprehensive benefit package, including short-term &amp; long-term disability and employer funded life insurance.&#160;</li><li>401K employer contribution&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events</li></ul><p><strong>Position is a full-time, in-person, day position, M-F 7:00am &#8211; 3:30pm</strong><br><br>Located at Evertz USA Inc. located in Indiana, PA!<br><br>Evertz USA, Inc. are proud to be an Equal Employment Opportunity and Affirmative Action employer.&#160;We celebrate, support and value diversity!<br>Evertz USA does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.<br>All employment decisions are decided based on qualifications, merit, and business needs.<br>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.<br><br>Thank you for considering a career with Evertz USA!</p>",
-    "type": "Full Time",
-    "board_code": "vo1654E1M4",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -1071,16 +1035,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20251231141738_XDKWRZ3TT70UFXL2",
-    "title": "Office Administrator (Entry Level)",
+    "id": "job_20251231141309_GK6ERSLUNG8NKTZF",
+    "title": "Administrative Assistant (Entry Level)",
     "country_id": "Canada",
     "city": "Burlington",
     "state": "ON",
     "zip": "L7L 5Z9",
     "department": "Administration",
-    "description": "<p>We are seeking a reliable, organized, and proactive Office Administrator&#160;to join our team. Administrators are vital to the success of our business model, playing a key role in both internal operations and client-facing excellence. In this position, you will work closely with various internal teams to generate new ideas and drive efficiencies that enhance our overall client experience.</p><p>This role requires strong communication skills, attention to detail, and the ability to multitask effectively in a fast-paced environment. The Administrative Assistant role is central to maintaining the smooth flow of office operations while contributing to broader organizational goals.</p><p><strong>Responsibilities:</strong></p><ul><li>Perform a variety of challenging administrative duties in the pre and post-sale environment</li><li>Process multiple priorities in a fast paced environment</li><li>Provide valuable support to our global sales team and their dynamic customers</li><li>Enter data accurately and efficiently into various admin platforms</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>Post Secondary Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "description": "<p>We are seeking a reliable, organized, and proactive Administrative Assistant to join our team. Administrators are vital to the success of our business model, playing a key role in both internal operations and client-facing excellence. In this position, you will work closely with various internal teams to generate new ideas and drive efficiencies that enhance our overall client experience.</p><p>This role requires strong communication skills, attention to detail, and the ability to multitask effectively in a fast-paced environment. The Administrative Assistant role is central to maintaining the smooth flow of office operations while contributing to broader organizational goals.</p><p><strong>Responsibilities:</strong></p><ul><li>Perform a variety of challenging administrative duties in the pre and post-sale environment</li><li>Process multiple priorities in a fast paced environment</li><li>Provide valuable support to our global sales team and their dynamic customers</li><li>Enter data accurately and efficiently into various admin platforms</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
-    "board_code": "xuTybUi09r",
+    "board_code": "22Z56Pr0Ri",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -1103,16 +1067,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20251231141309_GK6ERSLUNG8NKTZF",
-    "title": "Administrative Assistant (Entry Level)",
+    "id": "job_20251231141738_XDKWRZ3TT70UFXL2",
+    "title": "Office Administrator (Entry Level)",
     "country_id": "Canada",
     "city": "Burlington",
     "state": "ON",
     "zip": "L7L 5Z9",
     "department": "Administration",
-    "description": "<p>We are seeking a reliable, organized, and proactive Administrative Assistant to join our team. Administrators are vital to the success of our business model, playing a key role in both internal operations and client-facing excellence. In this position, you will work closely with various internal teams to generate new ideas and drive efficiencies that enhance our overall client experience.</p><p>This role requires strong communication skills, attention to detail, and the ability to multitask effectively in a fast-paced environment. The Administrative Assistant role is central to maintaining the smooth flow of office operations while contributing to broader organizational goals.</p><p><strong>Responsibilities:</strong></p><ul><li>Perform a variety of challenging administrative duties in the pre and post-sale environment</li><li>Process multiple priorities in a fast paced environment</li><li>Provide valuable support to our global sales team and their dynamic customers</li><li>Enter data accurately and efficiently into various admin platforms</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "description": "<p>We are seeking a reliable, organized, and proactive Office Administrator&#160;to join our team. Administrators are vital to the success of our business model, playing a key role in both internal operations and client-facing excellence. In this position, you will work closely with various internal teams to generate new ideas and drive efficiencies that enhance our overall client experience.</p><p>This role requires strong communication skills, attention to detail, and the ability to multitask effectively in a fast-paced environment. The Administrative Assistant role is central to maintaining the smooth flow of office operations while contributing to broader organizational goals.</p><p><strong>Responsibilities:</strong></p><ul><li>Perform a variety of challenging administrative duties in the pre and post-sale environment</li><li>Process multiple priorities in a fast paced environment</li><li>Provide valuable support to our global sales team and their dynamic customers</li><li>Enter data accurately and efficiently into various admin platforms</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>Post Secondary Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
-    "board_code": "22Z56Pr0Ri",
+    "board_code": "xuTybUi09r",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -2543,6 +2507,48 @@
     "source": "Evertz"
   },
   {
+    "id": 158131,
+    "type": "careers",
+    "title": "Director of Engineering &#8211; Platform Services",
+    "link": "https://www.surveymonkey.com/careers/7544337-director-of-engineering-platform-services/",
+    "path": "/careers/7544337-director-of-engineering-platform-services/",
+    "date": "2026-01-16T11:00:08",
+    "date_modified": "2026-01-16T11:00:08",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Director of Engineering &#8211; Platform Services",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 399,
+        "slug": "canada-remote",
+        "name": "Canada - Remote",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/canada-remote/",
+        "path": "/careers/office/canada-remote/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
     "id": 158080,
     "type": "careers",
     "title": "Senior Software Engineer II",
@@ -2690,14 +2696,6 @@
       }
     ],
     "career_location": [
-      {
-        "id": 399,
-        "slug": "canada-remote",
-        "name": "Canada - Remote",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/canada-remote/",
-        "path": "/careers/office/canada-remote/"
-      },
       {
         "id": 411,
         "slug": "global",

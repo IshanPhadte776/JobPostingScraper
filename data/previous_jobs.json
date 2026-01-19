@@ -280,6 +280,17 @@
     "url": "https://distillersr.bamboohr.com/career/careers/114"
   },
   {
+    "title": "Senior Project Consultant (Microsoft Dynamics 365/ Power Platform)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Project-Consultant--Microsoft-Dynamics-365--Power-Platform-_R39658",
+    "locationsText": "Toronto, Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39658"
+    ],
+    "id": "R39658",
+    "source": "SST"
+  },
+  {
     "title": "Business Systems Analyst",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Indiana-US/Business-Systems-Analyst_RSH002",
     "locationsText": "Remote - Indiana, US",
@@ -488,17 +499,6 @@
     "source": "SST"
   },
   {
-    "title": "Account Executive - Corporate Sales Colorado",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Account-Executive---Corporate-Sales-Colorado_R39735-1",
-    "locationsText": "Denver, CO",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R39735"
-    ],
-    "id": "R39735",
-    "source": "SST"
-  },
-  {
     "title": "Sr. Consultant, Solution Design and Strategy",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Solution-Design-and-Strategy_2522430",
     "locationsText": "Toronto, ON",
@@ -675,17 +675,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Full Stack Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Full-Stack-Developer_2600798-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2600798"
-    ],
-    "id": "2600798",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr. Consultant, Business Systems Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2528839",
     "locationsText": "Toronto, ON",
@@ -716,6 +705,17 @@
       "2529251"
     ],
     "id": "2529251",
+    "source": "CIBC"
+  },
+  {
+    "title": "Appian Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Appian-Developer_2600801",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 5 Days Ago",
+    "bulletFields": [
+      "2600801"
+    ],
+    "id": "2600801",
     "source": "CIBC"
   },
   {
@@ -851,25 +851,11 @@
     "source": "Ciena"
   },
   {
-    "title": "Assistant Technique",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Assistant-Technique_R029811",
-    "locationsText": "Quebec",
-    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R029811"
     ],
     "id": "R029811",
-    "source": "Ciena"
-  },
-  {
-    "title": "Waveserver Software Developer Co-op (Summer 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Waveserver-Software-Developer-Co-op--Winter-2026-_R029322",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029322"
-    ],
-    "id": "R029322",
+    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -936,6 +922,17 @@
       "R029650"
     ],
     "id": "R029650",
+    "source": "Ciena"
+  },
+  {
+    "title": "NPI Test Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/NPI-Test-Engineer_R029738",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 4 Days Ago",
+    "bulletFields": [
+      "R029738"
+    ],
+    "id": "R029738",
     "source": "Ciena"
   },
   {

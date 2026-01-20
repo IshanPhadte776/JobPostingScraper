@@ -313,17 +313,6 @@
     "source": "SST"
   },
   {
-    "title": "Manager, Real Estate Accounting/Private Markets",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Grand-Cayman-Cayman-Islands/Manager--Real-Estate-Accounting-Private-Markets_R38564",
-    "locationsText": "Grand Cayman, Cayman Islands",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "R38564"
-    ],
-    "id": "R38564",
-    "source": "SST"
-  },
-  {
     "title": "Principal Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Principal-Software-Engineer_R34003",
     "locationsText": "Boston MA - One Post Office Square",
@@ -466,6 +455,28 @@
     "source": "SST"
   },
   {
+    "title": "Director, Private Markets Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Director--Private-Markets-Accounting_R35491",
+    "locationsText": "Boston, MA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35491"
+    ],
+    "id": "R35491",
+    "source": "SST"
+  },
+  {
+    "title": "Software Build & Release Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Software-Build---Release-Manager_R40417",
+    "locationsText": "8 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40417"
+    ],
+    "id": "R40417",
+    "source": "SST"
+  },
+  {
     "title": "S3 - PA26DBOQ1FCP003",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/S3---PA26DBOQ1FCP003_R39999",
     "locationsText": "Mumbai, India",
@@ -488,15 +499,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate - Client Services (Voice)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Stirling-UK/Senior-Associate---Client-Services--Voice-_R40276",
-    "locationsText": "Stirling, UK",
+    "title": "Cyber Security Applications Developer/Analyst",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Cyber-Security-Applications-Developer-Analyst_2601472",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40276"
+      "2601472"
     ],
-    "id": "R40276",
-    "source": "SST"
+    "id": "2601472",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Solutions Designer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Solutions-Designer_2600683",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2600683"
+    ],
+    "id": "2600683",
+    "source": "CIBC"
   },
   {
     "title": "Senior Technical Delivery Lead",
@@ -694,28 +716,6 @@
       "2529046"
     ],
     "id": "2529046",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2528839",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2528839"
-    ],
-    "id": "2528839",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Consultant, Application Development and Support",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Application-Development-and-Support_2518359",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2518359"
-    ],
-    "id": "2518359",
     "source": "CIBC"
   },
   {

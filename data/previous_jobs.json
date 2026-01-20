@@ -444,58 +444,58 @@
     "source": "SST"
   },
   {
-    "title": "Senior Financial Reporting Accountant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Senior-Financial-Reporting-Accountant_R38315",
-    "locationsText": "Mississauga, Canada",
+    "title": "Associate Solutions Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Associate-Solutions-Analyst_R40580",
+    "locationsText": "Chicago, IL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38315"
+      "R40580"
     ],
-    "id": "R38315",
+    "id": "R40580",
     "source": "SST"
   },
   {
-    "title": "Associate Manager, Client Financial Reporting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Manager--Client-Financial-Reporting_R39470",
-    "locationsText": "Mississauga, Canada",
+    "title": "Senior Associate, Private Equity Tax",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Private-Equity-Tax_R38884",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39470"
+      "R38884"
     ],
-    "id": "R39470",
+    "id": "R38884",
     "source": "SST"
   },
   {
-    "title": "Mail/Distribution Services Representative (PA-MAIL-Q2-16)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Mail-Distribution-Services-Representative--PA-MAIL-Q2-16-_R35562",
-    "locationsText": "Kansas City, MO",
+    "title": "Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Halifax-Canada/Manager_R32672",
+    "locationsText": "Halifax, Canada",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35562"
+      "R32672"
     ],
-    "id": "R35562",
+    "id": "R32672",
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Implementation (LH-BPO)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/West-Palm-Beach-FL/Senior-Associate--Implementation--LH-BPO-_R38152",
-    "locationsText": "2 Locations",
+    "title": "Business Development Representative",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Ontario-Toronto/Business-Development-Representative_R39799",
+    "locationsText": "Ontario, Toronto",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38152"
+      "R39799"
     ],
-    "id": "R38152",
+    "id": "R39799",
     "source": "SST"
   },
   {
-    "title": "Director, Fund Accounting - Private Markets (West Coast)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Los-Angeles-CA/Director--Fund-Accounting---Private-Markets--West-Coast-_R40709",
-    "locationsText": "3 Locations",
+    "title": "Senior Associate, Tax",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Associate--Tax_R40232",
+    "locationsText": "Toronto, Canada",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40709"
+      "R40232"
     ],
-    "id": "R40709",
+    "id": "R40232",
     "source": "SST"
   },
   {
@@ -763,6 +763,50 @@
     "source": "Ciena"
   },
   {
+    "title": "Application Support Engineer, Service Reliability Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Application-Support-Engineer--Service-Reliability-Engineering_R028786",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028786"
+    ],
+    "id": "R028786",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Sales Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Sales-Engineer_R029412",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029412"
+    ],
+    "id": "R029412",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Sales Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Sales-Engineer_R029421",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029421"
+    ],
+    "id": "R029421",
+    "source": "Ciena"
+  },
+  {
+    "title": "Analyst - IT Applications",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Analyst---IT-Applications_R029634",
+    "locationsText": "Remote-Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029634"
+    ],
+    "id": "R029634",
+    "source": "Ciena"
+  },
+  {
     "title": "Consultant, Sales Engineering",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Consultant--Sales-Engineering_R029416",
     "locationsText": "Remote-US",
@@ -892,50 +936,6 @@
       "R029820"
     ],
     "id": "R029820",
-    "source": "Ciena"
-  },
-  {
-    "title": "Hardware Design Co-Op (May 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Design-Co-Op--May-2026-_R029825",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029825"
-    ],
-    "id": "R029825",
-    "source": "Ciena"
-  },
-  {
-    "title": "SVT/PV Engineer Routing/IP 1 - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/SVT-PV-Engineer-Routing-IP-1---New-Grad_R029809",
-    "locationsText": "UK- Edinburgh - 19A Canning St",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029809"
-    ],
-    "id": "R029809",
-    "source": "Ciena"
-  },
-  {
-    "title": "Photonics Technical Prime",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mexico--Zapopan--5850-Guadalajara/Photonics-Technical-Prime_R029797",
-    "locationsText": "Mexico- Zapopan- 5850 (Guadalajara)",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029797"
-    ],
-    "id": "R029797",
-    "source": "Ciena"
-  },
-  {
-    "title": "Analog Design Engineer  New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Germany--Braunschweig/Analog-Design-Engineer--New-Grad_R029785",
-    "locationsText": "Germany- Braunschweig",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029785"
-    ],
-    "id": "R029785",
     "source": "Ciena"
   },
   {

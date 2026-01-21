@@ -240,26 +240,6 @@
     "url": "https://truecontext.bamboohr.com/career/careers/40"
   },
   {
-    "id": "113",
-    "jobOpeningName": "Enterprise Account Executive ",
-    "departmentId": "18226",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": "United States",
-      "state": "Minnesota",
-      "province": null,
-      "city": "Minneapolis"
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://distillersr.bamboohr.com/career/careers/113"
-  },
-  {
     "id": "114",
     "jobOpeningName": "Director of Professional Services ",
     "departmentId": "18332",
@@ -565,17 +545,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Director, Application Development & Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director--Application-Development---Quality-Assurance_2601352",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2601352"
-    ],
-    "id": "2601352",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Technical Delivery Lead",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Technical-Delivery-Lead_2525697",
     "locationsText": "Toronto, ON",
@@ -719,6 +688,17 @@
     "source": "CIBC"
   },
   {
+    "title": "Director, Procurement Platforms Enablement",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Procurement-Platforms-Enablement_2600881",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 6 Days Ago",
+    "bulletFields": [
+      "2600881"
+    ],
+    "id": "2600881",
+    "source": "CIBC"
+  },
+  {
     "title": "Vice President, Global Internal Audit",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Vice-President--Global-Internal-Audit_R029491",
     "locationsText": "Baltimore",
@@ -760,6 +740,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Optical Portfolio Marketing Advisor",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Portfolio-Marketing-Advisor_R029057",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029057"
+    ],
+    "id": "R029057",
     "source": "Ciena"
   },
   {
@@ -925,17 +916,6 @@
       "R029835"
     ],
     "id": "R029835",
-    "source": "Ciena"
-  },
-  {
-    "title": "ASIC Digital Backend Physical Implementation Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Digital-Backend-Physical-Implementation-Engineer_R029822",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029822"
-    ],
-    "id": "R029822",
     "source": "Ciena"
   },
   {

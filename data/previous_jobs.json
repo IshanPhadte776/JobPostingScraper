@@ -161,7 +161,7 @@
   },
   {
     "id": "38",
-    "jobOpeningName": "Security Risk & Compliance Manager",
+    "jobOpeningName": "Security Risk & Compliance Analyst",
     "departmentId": "18273",
     "departmentLabel": "Rad-Product Management",
     "employmentStatusLabel": "Full time",
@@ -404,6 +404,39 @@
     "source": "SST"
   },
   {
+    "title": "Associate Director, Operations (LH-BPO)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/West-Palm-Beach-FL/Associate-Director--Operations--LH-BPO-_R36147",
+    "locationsText": "West Palm Beach, FL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36147"
+    ],
+    "id": "R36147",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate - Client Services Voice",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bristol-UK/Senior-Associate---Client-Services-Voice_R40277",
+    "locationsText": "Bristol UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40277"
+    ],
+    "id": "R40277",
+    "source": "SST"
+  },
+  {
+    "title": "Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sao-Paolo-Brazil/Account-Executive_R38788-1",
+    "locationsText": "Sao Paolo, Brazil",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38788"
+    ],
+    "id": "R38788",
+    "source": "SST"
+  },
+  {
     "title": "Business Readiness and Enablement Lead",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney---255-George-St/Business-Readiness-and-Enablement-Lead_R40627",
     "locationsText": "2 Locations",
@@ -426,37 +459,15 @@
     "source": "SST"
   },
   {
-    "title": "UI Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/UI-Developer_R32784",
-    "locationsText": "Bucharest, Romania",
+    "title": "Consultant, IT Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--IT-Quality-Assurance_2601628-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R32784"
+      "2601628"
     ],
-    "id": "R32784",
-    "source": "SST"
-  },
-  {
-    "title": "Account Executive - Investment Banks",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---District-of-Columbia-US/Account-Executive---Investment-Banks_R39863",
-    "locationsText": "Remote - District of Columbia, US",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R39863"
-    ],
-    "id": "R39863",
-    "source": "SST"
-  },
-  {
-    "title": "Application Support Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Application-Support-Specialist_R38809",
-    "locationsText": "London, UK",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R38809"
-    ],
-    "id": "R38809",
-    "source": "SST"
+    "id": "2601628",
+    "source": "CIBC"
   },
   {
     "title": "Director, Production Application Support",
@@ -668,17 +679,6 @@
     "source": "CIBC"
   },
   {
-    "title": "AI Product Business Analyst",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-81-Bay-16th-Floor/AI-Product-Business-Analyst_2600654",
-    "locationsText": "Toronto-81 Bay, 16th Floor",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2600654"
-    ],
-    "id": "2600654",
-    "source": "CIBC"
-  },
-  {
     "title": "Chief Information Officer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Chief-Information-Officer_R029876",
     "locationsText": "Baltimore",
@@ -742,6 +742,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Field Application Engineer Interconnect",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Field-Application-Engineer-Interconnect_R029621",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029621"
+    ],
+    "id": "R029621",
     "source": "Ciena"
   },
   {
@@ -885,17 +896,6 @@
       "R029836"
     ],
     "id": "R029836",
-    "source": "Ciena"
-  },
-  {
-    "title": "Consultant, Field Service Engineering",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Consultant--Field-Service-Engineering_R029692",
-    "locationsText": "Remote-Mexico",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029692"
-    ],
-    "id": "R029692",
     "source": "Ciena"
   },
   {

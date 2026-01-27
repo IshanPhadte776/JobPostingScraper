@@ -404,6 +404,28 @@
     "source": "SST"
   },
   {
+    "title": "Policy Services Associate- PA-AX-Q1_2026-R1",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Policy-Services-Associate--PA-AX-Q1-2026-R1_R40780",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40780"
+    ],
+    "id": "R40780",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Project Consultant (Microsoft Dynamics 365)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Senior-Project-Consultant_R40868",
+    "locationsText": "Jacksonville, FL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40868"
+    ],
+    "id": "R40868",
+    "source": "SST"
+  },
+  {
     "title": "Client Services Consultant",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Client-Services-Consultant_R40089-1",
     "locationsText": "Windsor, CT",
@@ -437,26 +459,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior .NET Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Senior-NET-Software-Engineer_R40412",
-    "locationsText": "London, UK",
+    "title": "Sr. Consultant, Information Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Information-Security_2601399-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40412"
+      "2601399"
     ],
-    "id": "R40412",
-    "source": "SST"
-  },
-  {
-    "title": "PA26WIPOQ1257 M1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Pune/PA26WIPOQ1257-M1_R39532",
-    "locationsText": "Remote - Pune",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39532"
-    ],
-    "id": "R39532",
-    "source": "SST"
+    "id": "2601399",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Business Systems Analysis",
@@ -668,17 +679,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Performance Analyst , IT Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Performance-Analyst---IT-Quality-Assurance_2524874",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2524874"
-    ],
-    "id": "2524874",
-    "source": "CIBC"
-  },
-  {
     "title": "Chief Information Officer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Chief-Information-Officer_R029876",
     "locationsText": "Baltimore",
@@ -742,6 +742,39 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Principal SerDes System/DSP Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-SerDes-System-DSP-Design-Engineer_R029550",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029550"
+    ],
+    "id": "R029550",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Engineering Intern (Summer 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Engineering-Intern--Summer-2026-_R029813-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029813"
+    ],
+    "id": "R029813",
+    "source": "Ciena"
+  },
+  {
+    "title": "Director, Tax Provision & Compliance",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Director--Tax-Provision---Compliance_R029891",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029891"
+    ],
+    "id": "R029891",
     "source": "Ciena"
   },
   {
@@ -863,39 +896,6 @@
       "R029790"
     ],
     "id": "R029790",
-    "source": "Ciena"
-  },
-  {
-    "title": "WaveServer Software Developer - Summer 2026 Co-op",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/WaveServer-Software-Developer-Co-op_R029213",
-    "locationsText": "Atlanta",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029213"
-    ],
-    "id": "R029213",
-    "source": "Ciena"
-  },
-  {
-    "title": "Junior DevOps Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Junior-DevOps-Engineer_R029494-1",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029494"
-    ],
-    "id": "R029494",
-    "source": "Ciena"
-  },
-  {
-    "title": "Director, Business Operational Excellence",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--GCC-Operational-Excellence_R029864",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029864"
-    ],
-    "id": "R029864",
     "source": "Ciena"
   },
   {

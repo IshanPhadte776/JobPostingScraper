@@ -404,6 +404,17 @@
     "source": "SST"
   },
   {
+    "title": "Associate Director, Client Success Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Associate-Director--Client-Success-Manager_R40738",
+    "locationsText": "Jacksonville, FL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40738"
+    ],
+    "id": "R40738",
+    "source": "SST"
+  },
+  {
     "title": "project manager PA25Q4PMJH026",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/project-manager-PA25Q4PMJH026_R40570",
     "locationsText": "London, UK",
@@ -448,15 +459,26 @@
     "source": "SST"
   },
   {
-    "title": "Manager, Investor Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager_R37302",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Yesterday",
+    "title": "Consultant, Application Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Security_2526290-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "R37302"
+      "2526290"
     ],
-    "id": "R37302",
-    "source": "SST"
+    "id": "2526290",
+    "source": "CIBC"
+  },
+  {
+    "title": "Director, Data & AI Insights",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Data---AI-Insights_2601556",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2601556"
+    ],
+    "id": "2601556",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Information Security",
@@ -654,28 +676,6 @@
       "2601287"
     ],
     "id": "2601287",
-    "source": "CIBC"
-  },
-  {
-    "title": "Cloud Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Cloud-Engineer_2601052",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2601052"
-    ],
-    "id": "2601052",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Director, Network Modernization",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Director--Network-Modernization_2601519-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2601519"
-    ],
-    "id": "2601519",
     "source": "CIBC"
   },
   {

@@ -404,43 +404,32 @@
     "source": "SST"
   },
   {
-    "title": "Associate Director, Client Success Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Associate-Director--Client-Success-Manager_R40738",
-    "locationsText": "Jacksonville, FL",
+    "title": "Director - Client Relationship Management",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Director---Client-Relationship-Management_R37964",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40738"
+      "R37964"
     ],
-    "id": "R40738",
+    "id": "R37964",
     "source": "SST"
   },
   {
-    "title": "project manager PA25Q4PMJH026",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/project-manager-PA25Q4PMJH026_R40570",
-    "locationsText": "London, UK",
+    "title": "Intern",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Intern_R40796",
+    "locationsText": "Boston MA - One Post Office Square",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40570"
+      "R40796"
     ],
-    "id": "R40570",
-    "source": "SST"
-  },
-  {
-    "title": "Project Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hobart---59-Liverpool-St/Project-Manager_R40472",
-    "locationsText": "6 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40472"
-    ],
-    "id": "R40472",
+    "id": "R40796",
     "source": "SST"
   },
   {
     "title": "Senior Associate, Hedge Fund Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Los-Angeles-CA/Senior-Associate--Hedge-Fund-Accounting_R39427",
     "locationsText": "Los Angeles, CA",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted Today",
     "bulletFields": [
       "R39427"
     ],
@@ -448,25 +437,36 @@
     "source": "SST"
   },
   {
-    "title": "Full Stack QA Tester",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Full-Stack-QA-Tester_R40759",
-    "locationsText": "Bangkok, Thailand",
+    "title": "Director, Insurance Implementation and Onboarding",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Senior-Associate---Operations_R35475",
+    "locationsText": "Boston, MA",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40759"
+      "R35475"
     ],
-    "id": "R40759",
+    "id": "R35475",
     "source": "SST"
   },
   {
-    "title": "Consultant, Application Security",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Security_2526290-1",
+    "title": "Senior Associate, Private Markets (Data Services)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Senior-Associate--Private-Markets--Data-Services-_R39788",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39788"
+    ],
+    "id": "R39788",
+    "source": "SST"
+  },
+  {
+    "title": "Consultant, Business System Analyst",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-System-Analyst_2523549",
     "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "2526290"
+      "2523549"
     ],
-    "id": "2526290",
+    "id": "2523549",
     "source": "CIBC"
   },
   {
@@ -745,14 +745,25 @@
     "source": "Ciena"
   },
   {
-    "title": "QA Automation Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/QA-Automation-Engineer_R029853",
-    "locationsText": "Remote- India- Gurugram",
+    "title": "Director, Tax Provision & Compliance",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Director--Tax-Provision---Compliance_R029891",
+    "locationsText": "Remote-US",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R029853"
+      "R029891"
     ],
-    "id": "R029853",
+    "id": "R029891",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Analog Hardware Designer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Hardware-Designer_R028532",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028532"
+    ],
+    "id": "R028532",
     "source": "Ciena"
   },
   {
@@ -775,17 +786,6 @@
       "R029813"
     ],
     "id": "R029813",
-    "source": "Ciena"
-  },
-  {
-    "title": "Director, Tax Provision & Compliance",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Director--Tax-Provision---Compliance_R029891",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029891"
-    ],
-    "id": "R029891",
     "source": "Ciena"
   },
   {

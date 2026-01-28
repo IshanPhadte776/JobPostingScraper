@@ -404,6 +404,39 @@
     "source": "SST"
   },
   {
+    "title": "Manager - Client Relationship Management",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager---Client-Relationship-Management_R36907",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36907"
+    ],
+    "id": "R36907",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Insurance/Investment Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Senior-Associate--Insurance-Investment-Accounting_R38217",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38217"
+    ],
+    "id": "R38217",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-Software-Engineer_R40587",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40587"
+    ],
+    "id": "R40587",
+    "source": "SST"
+  },
+  {
     "title": "Director - Client Relationship Management",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Director---Client-Relationship-Management_R37964",
     "locationsText": "2 Locations",
@@ -412,17 +445,6 @@
       "R37964"
     ],
     "id": "R37964",
-    "source": "SST"
-  },
-  {
-    "title": "Intern",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Intern_R40796",
-    "locationsText": "Boston MA - One Post Office Square",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40796"
-    ],
-    "id": "R40796",
     "source": "SST"
   },
   {
@@ -437,26 +459,15 @@
     "source": "SST"
   },
   {
-    "title": "Director, Insurance Implementation and Onboarding",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Senior-Associate---Operations_R35475",
-    "locationsText": "Boston, MA",
+    "title": "Sr Consultant, Information Security(Pen Test)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Information-Security-Pen-Test-_2601459",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R35475"
+      "2601459"
     ],
-    "id": "R35475",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate, Private Markets (Data Services)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Senior-Associate--Private-Markets--Data-Services-_R39788",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39788"
-    ],
-    "id": "R39788",
-    "source": "SST"
+    "id": "2601459",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Business System Analyst",
@@ -668,17 +679,6 @@
     "source": "CIBC"
   },
   {
-    "title": "ServiceNow Developer - ITAM",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/ServiceNow-Developer---ITAM_2601287",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2601287"
-    ],
-    "id": "2601287",
-    "source": "CIBC"
-  },
-  {
     "title": "Chief Information Officer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Chief-Information-Officer_R029876",
     "locationsText": "Baltimore",
@@ -742,6 +742,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Specialist, Services Proposal Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Specialist--Services-Proposal-Manager_R029899-1",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029899"
+    ],
+    "id": "R029899",
     "source": "Ciena"
   },
   {
@@ -885,17 +896,6 @@
       "R029823"
     ],
     "id": "R029823",
-    "source": "Ciena"
-  },
-  {
-    "title": "Backend Development Engineer Co-op (8 months - April 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Montreal/Backend-Development-Engineer-Co-op--8-months---April-2026-_R029821",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029821"
-    ],
-    "id": "R029821",
     "source": "Ciena"
   },
   {
@@ -2691,48 +2691,6 @@
     "excerpt": "",
     "images": {},
     "featured_image_alt": "Senior Software Engineer I",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      },
-      {
-        "id": 393,
-        "slug": "ottawa",
-        "name": "Ottawa, Canada",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
-        "path": "/careers/office/ottawa/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 156151,
-    "type": "careers",
-    "title": "Software Engineer II",
-    "link": "https://www.surveymonkey.com/careers/7421432-software-engineer-ii/",
-    "path": "/careers/7421432-software-engineer-ii/",
-    "date": "2025-11-24T18:00:13",
-    "date_modified": "2025-11-24T18:00:13",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Software Engineer II",
     "career_department": [
       {
         "id": 410,

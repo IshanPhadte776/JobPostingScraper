@@ -321,17 +321,6 @@
     "source": "SST"
   },
   {
-    "title": "Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Software-Engineer_R38205",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 24 Days Ago",
-    "bulletFields": [
-      "R38205"
-    ],
-    "id": "R38205",
-    "source": "SST"
-  },
-  {
     "title": "Principal Product Manager SDE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Principle-Product-Manager-SDE_R36919",
     "locationsText": "Waltham, MA",
@@ -375,48 +364,70 @@
     "source": "SST"
   },
   {
-    "title": "QA Engineer - PA25Q4OMLDSJH009",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/QA-Engineer---PA25Q4OMLDSJH009_R40353",
-    "locationsText": "Denver, CO",
+    "title": "Business System Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Ontario-Toronto/Business-System-Developer_R40617",
+    "locationsText": "Ontario, Toronto",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40353"
+      "R40617"
     ],
-    "id": "R40353",
+    "id": "R40617",
     "source": "SST"
   },
   {
-    "title": "Lead Network Security Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Lead-Network-Security-Engineer_R40890-1",
-    "locationsText": "10 Locations",
+    "title": "Senior Associate, Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Associate--Investor-Services_R35948",
+    "locationsText": "Toronto, Canada",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40890"
+      "R35948"
     ],
-    "id": "R40890",
+    "id": "R35948",
     "source": "SST"
   },
   {
-    "title": "QA Lead Engineer - PA25Q4LELDSJH007",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/QA-Lead-Engineer---PA25Q4LELDSJH007_R40344",
-    "locationsText": "Denver, CO",
+    "title": "Legal Counsel - Technology",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Legal-Counsel---Technology_R40748",
+    "locationsText": "11 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40344"
+      "R40748"
     ],
-    "id": "R40344",
+    "id": "R40748",
     "source": "SST"
   },
   {
-    "title": "PA2026Q1JBTran020 UX Designer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/PA2026Q1JBTran020-UX-Designer_R40836",
-    "locationsText": "Bangkok, Thailand",
+    "title": "Manager, CLO Loan Operations \u2013 Loan Servicing",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Manager--Alternatives-Operations_R37727",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40836"
+      "R37727"
     ],
-    "id": "R40836",
+    "id": "R37727",
     "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Tax Analyst - Hedge Funds",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Associate--Tax-Analyst---Hedge-Funds_R38879",
+    "locationsText": "Boston MA - One Post Office Square",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38879"
+    ],
+    "id": "R38879",
+    "source": "SST"
+  },
+  {
+    "title": "Sr. Manager, Information Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Information-Security_2601640",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2601640"
+    ],
+    "id": "2601640",
+    "source": "CIBC"
   },
   {
     "title": "Sr Manager, Business Systems Analysis",
@@ -625,17 +636,6 @@
       "2524193"
     ],
     "id": "2524193",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Application Development - Environment Manager (Open)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development---Environment-Manager--Open-_2601264",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2601264"
-    ],
-    "id": "2601264",
     "source": "CIBC"
   },
   {

@@ -364,6 +364,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior ReactJs developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Senior-ReactJs-developer_R40929",
+    "locationsText": "Bangkok, Thailand",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40929"
+    ],
+    "id": "R40929",
+    "source": "SST"
+  },
+  {
     "title": "Implementation Lead PA25Q4ILJH028",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Implementation-Lead-PA25Q4ILJH028_R40578",
     "locationsText": "London, UK",
@@ -408,15 +419,15 @@
     "source": "SST"
   },
   {
-    "title": "Client Solutions Specialists",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Parramatta---3-Parramatta-Square/Client-Solutions-Specialists_R40917",
-    "locationsText": "5 Locations",
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2602199-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40917"
+      "2602199"
     ],
-    "id": "R40917",
-    "source": "SST"
+    "id": "2602199",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Azure Application Development (C#/.Net)",
@@ -628,17 +639,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Consultant, Privilege Access Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Privilege-Access-Management_2601104-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2601104"
-    ],
-    "id": "2601104",
-    "source": "CIBC"
-  },
-  {
     "title": "Chief Information Officer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Chief-Information-Officer_R029876",
     "locationsText": "Baltimore",
@@ -705,6 +705,17 @@
     "source": "Ciena"
   },
   {
+    "title": "\u00a0Software Engineer - C and Networking",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/XMLNAME--Software-Engineer---C-and-Networking_R029690",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029690"
+    ],
+    "id": "R029690",
+    "source": "Ciena"
+  },
+  {
     "title": "Field Service Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mumbai/Field-Service-Engineer_R029841",
     "locationsText": "2 Locations",
@@ -760,17 +771,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Analog Design Co-op",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Analog-Design-Co-op_R029226",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029226"
-    ],
-    "id": "R029226",
-    "source": "Ciena"
-  },
-  {
     "title": "Optical Engineer Co-Op (May 2026 - 12-16 months)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Engineer-Co-Op--May-2026---12-16-months-_R029912",
     "locationsText": "Ottawa",
@@ -815,14 +815,11 @@
     "source": "Ciena"
   },
   {
-    "title": "Software Engineering Intern (Summer 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Engineering-Intern--Summer-2026-_R029813-1",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R029813"
     ],
     "id": "R029813",
+    "externalPath": "",
     "source": "Ciena"
   },
   {

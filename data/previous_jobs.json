@@ -364,6 +364,50 @@
     "source": "SST"
   },
   {
+    "title": "Process Analyst - Retail Alternative Investments",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Process-Analyst---Retail-Alternative-Investments_R39914",
+    "locationsText": "Hyderabad, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39914"
+    ],
+    "id": "R39914",
+    "source": "SST"
+  },
+  {
+    "title": "Sales Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Sales-Associate_R40744",
+    "locationsText": "Boston MA - One Post Office Square",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40744"
+    ],
+    "id": "R40744",
+    "source": "SST"
+  },
+  {
+    "title": "Digital Delivery Lead  PA26DIGRQ1001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Digital-Delivery-Lead--PA26DIGRQ1001_R40678",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40678"
+    ],
+    "id": "R40678",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Senior-Associate--Fund-Administration_R40711",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40711"
+    ],
+    "id": "R40711",
+    "source": "SST"
+  },
+  {
     "title": "Project Manager PA25Q4PMJH026",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/project-manager-PA25Q4PMJH026_R40570",
     "locationsText": "London, UK",
@@ -375,48 +419,15 @@
     "source": "SST"
   },
   {
-    "title": "Implementation Lead PA25Q4ILJH028",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Implementation-Lead-PA25Q4ILJH028_R40578",
-    "locationsText": "London, UK",
+    "title": "Information Security Risk Advisor",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Information-Security-Risk-Advisor_2601727",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40578"
+      "2601727"
     ],
-    "id": "R40578",
-    "source": "SST"
-  },
-  {
-    "title": "Implementation Manager PA25Q4IMJH022",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Implementation-Manager-PA25Q4IMJH022_R40568",
-    "locationsText": "London - 1 Ropemaker Street",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40568"
-    ],
-    "id": "R40568",
-    "source": "SST"
-  },
-  {
-    "title": "Business Development Representative",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Business-Development-Representative_R38107",
-    "locationsText": "Kansas City, MO",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38107"
-    ],
-    "id": "R38107",
-    "source": "SST"
-  },
-  {
-    "title": "Corporate Accounting Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Accounting-Manager_R38090",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38090"
-    ],
-    "id": "R38090",
-    "source": "SST"
+    "id": "2601727",
+    "source": "CIBC"
   },
   {
     "title": "Azure Data Engineer",
@@ -628,17 +639,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Back End Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Back-End-Developer_2601649",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "2601649"
-    ],
-    "id": "2601649",
-    "source": "CIBC"
-  },
-  {
     "title": "Chief Information Officer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Chief-Information-Officer_R029876",
     "locationsText": "Baltimore",
@@ -702,6 +702,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Analog Design Engineer  New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Germany--Braunschweig/Analog-Design-Engineer--New-Grad_R029931",
+    "locationsText": "Germany- Braunschweig",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029931"
+    ],
+    "id": "R029931",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Analyst - IT-applications - Oracle EBS",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Senior-Analyst---IT-applications---Oracle-EBS_R029715",
+    "locationsText": "Remote- India- Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029715"
+    ],
+    "id": "R029715",
     "source": "Ciena"
   },
   {
@@ -834,28 +856,6 @@
       "R029912"
     ],
     "id": "R029912",
-    "source": "Ciena"
-  },
-  {
-    "title": "Specialist, Services Proposal Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Specialist--Services-Proposal-Manager_R029899-1",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029899"
-    ],
-    "id": "R029899",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Analog Hardware Designer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Hardware-Designer_R028532",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028532"
-    ],
-    "id": "R028532",
     "source": "Ciena"
   },
   {
@@ -1552,22 +1552,6 @@
     "description": "<p>We are seeking a reliable, organized, and proactive Administrative Assistant to join our team. Administrators are vital to the success of our business model, playing a key role in both internal operations and client-facing excellence. In this position, you will work closely with various internal teams to generate new ideas and drive efficiencies that enhance our overall client experience.</p><p>This role requires strong communication skills, attention to detail, and the ability to multitask effectively in a fast-paced environment. The Administrative Assistant role is central to maintaining the smooth flow of office operations while contributing to broader organizational goals.</p><p><strong>Responsibilities:</strong></p><ul><li>Perform a variety of challenging administrative duties in the pre and post-sale environment</li><li>Process multiple priorities in a fast paced environment</li><li>Provide valuable support to our global sales team and their dynamic customers</li><li>Enter data accurately and efficiently into various admin platforms</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "aKTDahpfh9",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260120152526_OOL2DNPTSFU1TCRW",
-    "title": "Sales Coordinator",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "<p>The Sales Coordinator acts as the primary point of contact and administrative support for the Sales team. This role is essential in managing and streamlining all sales-related administrative tasks, including the preparation of reports, customer documentation, and other sales materials.<br><br>A core responsibility of the Sales Coordinator role is to generate accurate and timely quotes. This involves collaborating closely with multiple departments&#8212;such as Sales, Inside Sales, Solutions, and R&amp;D&#8212;to gather customer requirements and ensure that all quotes are completed and submitted by their respective deadlines.<br><br><strong>Description:</strong></p><ul><li>Provide administrative support to the sales team by preparing quotations, system evaluation agreements, reports and other sales materials/documentation as required</li><li>Serve as the primary point of contact between teams (e.g., Sales and R&amp;D), ensuring clear communication and alignment across departments to coordinate inquiries, provide updates, and support timely processing/turnaround of requests.</li><li>Consistently follow up and follow through on tasks to ensure all deadlines, and deliverables are met</li><li>Coordinate new sales campaigns by researching, preparing,&#160;distributing and reporting data</li><li>Log sales performance metrics</li><li>Coordinate customer visits at all stages of the process (incl. preparing agendas, confirming personnel availability, scheduling meetings, ordering/setting up/cleaning up food etc.)</li><li>Accurately create, update, and maintain customer records in the CRM database for reference and reporting</li><li>Provide back up support for Reception by answering/transferring incoming calls, sorting/distributing mail etc., as required</li><li>Opportunities for travel may be available</li><li>Other duties as required</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration, Events, Marketing) or related experience</li><li>0-1 year office administrative experience</li></ul><p><strong>Skills:</strong></p><ul><li>Ability to work in a fast-paced environment</li><li>Ability to work independently and as a team</li><li>Problem-solving ability</li><li>Organizational skills &amp; detail-oriented</li><li>Ability to adapt to new and changing processes</li><li>Excellent verbal and written communication skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery. Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers. With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "pk2kcjNGmT",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

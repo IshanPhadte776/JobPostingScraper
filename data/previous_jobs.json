@@ -221,17 +221,6 @@
     "source": "SST"
   },
   {
-    "title": "Supervisor, Retirement Solutions Call Center (PA2025CCQ4R-015)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Investor-Services-Supervisor---PA2025CCQ4R-015_R39125",
-    "locationsText": "10 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R39125"
-    ],
-    "id": "R39125",
-    "source": "SST"
-  },
-  {
     "title": "Principal Product Manager SDE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Principle-Product-Manager-SDE_R36919",
     "locationsText": "Waltham, MA",
@@ -364,6 +353,39 @@
     "source": "SST"
   },
   {
+    "title": "Associate, Investor Services Representative I",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate_R40764",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40764"
+    ],
+    "id": "R40764",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate_R40864",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40864"
+    ],
+    "id": "R40864",
+    "source": "SST"
+  },
+  {
+    "title": "Fund Services Associate - PA-LO-AX-Q1_2025-5",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Fund-Services-Associate---PA-LO-AX-Q1-2025-5_R40284",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40284"
+    ],
+    "id": "R40284",
+    "source": "SST"
+  },
+  {
     "title": "Principle Data Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Principle-Data-Engineer_R40323",
     "locationsText": "Hyderabad, India",
@@ -394,28 +416,6 @@
       "R40330"
     ],
     "id": "R40330",
-    "source": "SST"
-  },
-  {
-    "title": "Full Stack QA Tester",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Full-Stack-QA-Tester_R40759",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40759"
-    ],
-    "id": "R40759",
-    "source": "SST"
-  },
-  {
-    "title": "AWS Cloud Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/AWS-Cloud-Engineer_R40847",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40847"
-    ],
-    "id": "R40847",
     "source": "SST"
   },
   {
@@ -716,6 +716,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Product Security Detection Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Security-Detection-Engineer_R029804-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029804"
+    ],
+    "id": "R029804",
+    "source": "Ciena"
+  },
+  {
+    "title": "Optical Components Product Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Canada--Ottawa--5050-Innovation--Bldg-A/Optical-Components-Product-Engineer_R029987",
+    "locationsText": "Canada- Ottawa- 5050 Innovation- Bldg A",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029987"
+    ],
+    "id": "R029987",
+    "source": "Ciena"
+  },
+  {
     "title": "Vulnerability Management Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Vulnerability-Management-Analyst_R028788",
     "locationsText": "Remote- India- Gurugram",
@@ -834,28 +856,6 @@
       "R029694"
     ],
     "id": "R029694",
-    "source": "Ciena"
-  },
-  {
-    "title": "Analog Engineer 2",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Germany--Braunschweig/ASIC-Engineer-2_R029955",
-    "locationsText": "Germany- Braunschweig",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029955"
-    ],
-    "id": "R029955",
-    "source": "Ciena"
-  },
-  {
-    "title": "Analog Engineer 2",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Germany--Braunschweig/Analog-Engineer-2_R029944",
-    "locationsText": "Germany- Braunschweig",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029944"
-    ],
-    "id": "R029944",
     "source": "Ciena"
   },
   {

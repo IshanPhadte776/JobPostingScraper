@@ -353,70 +353,92 @@
     "source": "SST"
   },
   {
-    "title": "Associate, Investor Services Representative I",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate_R40764",
-    "locationsText": "Denver, CO",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40764"
-    ],
-    "id": "R40764",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate_R40864",
+    "title": "Sales Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Analyst_R40716-1",
     "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40864"
+      "R40716"
     ],
-    "id": "R40864",
+    "id": "R40716",
     "source": "SST"
   },
   {
-    "title": "Fund Services Associate - PA-LO-AX-Q1_2025-5",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Fund-Services-Associate---PA-LO-AX-Q1-2025-5_R40284",
+    "title": "Project Manager with Insurance Accounting Background",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Senior-Associate---Operations_R35475",
+    "locationsText": "Boston, MA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35475"
+    ],
+    "id": "R35475",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Senior-Software-Engineer_R38636",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38636"
+    ],
+    "id": "R38636",
+    "source": "SST"
+  },
+  {
+    "title": "Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Account-Executive_R39652",
+    "locationsText": "Chicago, IL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39652"
+    ],
+    "id": "R39652",
+    "source": "SST"
+  },
+  {
+    "title": "Managed Services Senior Operations Processor - Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Fort-Worth-TX/Managed-Services-Senior-Operations-Processor---Fund-Accounting_R40558",
     "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40284"
+      "R40558"
     ],
-    "id": "R40284",
+    "id": "R40558",
     "source": "SST"
   },
   {
-    "title": "Principle Data Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Principle-Data-Engineer_R40323",
-    "locationsText": "Hyderabad, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40323"
-    ],
-    "id": "R40323",
-    "source": "SST"
-  },
-  {
-    "title": "Specialist - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India---Commerzone-Building-7/Specialist---Financial-Services-Operations_R40526",
+    "title": "Senior Customer Success Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Senior-Customer-Success-Manager_R40878",
     "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40526"
+      "R40878"
     ],
-    "id": "R40526",
+    "id": "R40878",
     "source": "SST"
   },
   {
-    "title": "Associate / Senior Associate - Expenses and Payables (Immediate Joiners preferred)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Associate---Senior-Associate---Expenses-and-Payables_R40330",
-    "locationsText": "Hyderabad, India",
+    "title": "Director, Fusion Threat Intelligence (Program Development)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Fusion-Threat-Intelligence--Program-Development-_2602378",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40330"
+      "2602378"
     ],
-    "id": "R40330",
-    "source": "SST"
+    "id": "2602378",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr Consultant Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant-Application-Development_2602387",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2602387"
+    ],
+    "id": "2602387",
+    "source": "CIBC"
   },
   {
     "title": "Java Application Developer",
@@ -617,28 +639,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Director, Data & AI Insights",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Data---AI-Insights_2601556",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2601556"
-    ],
-    "id": "2601556",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Information Security",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Information-Security_2601399-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2601399"
-    ],
-    "id": "2601399",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -713,6 +713,61 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Global Process Owner - Sales and Operations Planning",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Global-Process-Owner---Sales-and-Operations-Planning_R029895",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029895"
+    ],
+    "id": "R029895",
+    "source": "Ciena"
+  },
+  {
+    "title": "Repairs Operations Product & Process Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Repairs-Operations-Product---Process-Engineering_R029839",
+    "locationsText": "Guadalajara",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029839"
+    ],
+    "id": "R029839",
+    "source": "Ciena"
+  },
+  {
+    "title": "Repairs Operations Failures Analysis (FA) Logistics Coordinator",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Repairs-Operations-Failures-Analysis--FA--Logistics-Coordinator_R029840",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029840"
+    ],
+    "id": "R029840",
+    "source": "Ciena"
+  },
+  {
+    "title": "Ing\u00e9nieur en Proc\u00e9d\u00e9s d'Assemblage Photonique / Photonics Assembly Process Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Process-Engineering-Technologist_R029315",
+    "locationsText": "Quebec",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029315"
+    ],
+    "id": "R029315",
+    "source": "Ciena"
+  },
+  {
+    "title": "Metro Field Tech",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Metro-Field-Tech_R029867",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029867"
+    ],
+    "id": "R029867",
     "source": "Ciena"
   },
   {
@@ -801,61 +856,6 @@
       "R029964"
     ],
     "id": "R029964",
-    "source": "Ciena"
-  },
-  {
-    "title": "Managed Services Product Line Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Managed-Services-Product-Line-Manager_R029878",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029878"
-    ],
-    "id": "R029878",
-    "source": "Ciena"
-  },
-  {
-    "title": "Analog Design Engineer  New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Germany--Braunschweig/Analog-Design-Engineer--New-Grad_R029931",
-    "locationsText": "Germany- Braunschweig",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029931"
-    ],
-    "id": "R029931",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Analyst - IT-applications - Oracle EBS",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Senior-Analyst---IT-applications---Oracle-EBS_R029715",
-    "locationsText": "Remote- India- Gurugram",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029715"
-    ],
-    "id": "R029715",
-    "source": "Ciena"
-  },
-  {
-    "title": "Field Services Project Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Field-Services-Project-Manager_R029875",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029875"
-    ],
-    "id": "R029875",
-    "source": "Ciena"
-  },
-  {
-    "title": "Associate, Customer Success Advocacy",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Germany/Associate--Customer-Success-Advocacy_R029694",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029694"
-    ],
-    "id": "R029694",
     "source": "Ciena"
   },
   {

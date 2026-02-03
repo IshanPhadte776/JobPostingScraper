@@ -353,6 +353,36 @@
     "source": "SST"
   },
   {
+    "title": "Associate,  Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Associate--Alternative-Investor-Services_R39870",
+    "locationsText": "Braintree MA - 30 Braintree Hill Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39870"
+    ],
+    "id": "R39870",
+    "source": "SST"
+  },
+  {
+    "bulletFields": [
+      "R40865"
+    ],
+    "id": "R40865",
+    "externalPath": "",
+    "source": "SST"
+  },
+  {
+    "title": "Head of Digital Assets/Tokenization - US",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Head-of-Digital-Assets-Tokenization---US--PA2025Q4-Prod-N-001-_R36744",
+    "locationsText": "11 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36744"
+    ],
+    "id": "R36744",
+    "source": "SST"
+  },
+  {
     "title": "Fund Accountant, Trust",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Fort-Worth-TX/Managed-Services-Senior-Operations-Processor---Fund-Accounting_R40558",
     "locationsText": "3 Locations",
@@ -383,39 +413,6 @@
       "R28166"
     ],
     "id": "R28166",
-    "source": "SST"
-  },
-  {
-    "title": "Head of Digital Assets/Tokenization - US",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Head-of-Digital-Assets-Tokenization---US--PA2025Q4-Prod-N-001-_R36744",
-    "locationsText": "11 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36744"
-    ],
-    "id": "R36744",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Growth Marketing Manager, North America - PA2026LBGWTH001",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Growth-Marketing-Manager--North-America---PA2026LBGWTH001_R40731",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40731"
-    ],
-    "id": "R40731",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Citrix Engineer with Automation Experience",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Basildon-UK/Senior-Citrix-Engineer_R38266",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38266"
-    ],
-    "id": "R38266",
     "source": "SST"
   },
   {
@@ -2230,6 +2227,48 @@
     "source": "Evertz"
   },
   {
+    "id": 159345,
+    "type": "careers",
+    "title": "Senior Software Engineer-II",
+    "link": "https://www.surveymonkey.com/careers/7585961-senior-software-engineer-ii/",
+    "path": "/careers/7585961-senior-software-engineer-ii/",
+    "date": "2026-02-03T12:00:07",
+    "date_modified": "2026-02-03T12:00:07",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer-II",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 394,
+        "slug": "portland",
+        "name": "Portland, OR",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/portland/",
+        "path": "/careers/office/portland/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
     "id": 158729,
     "type": "careers",
     "title": "Staff Machine Learning Engineer",
@@ -2476,48 +2515,6 @@
         "description": "",
         "link": "https://www.surveymonkey.com/careers/office/ottawa/",
         "path": "/careers/office/ottawa/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 155886,
-    "type": "careers",
-    "title": "Senior Software Engineer-II",
-    "link": "https://www.surveymonkey.com/careers/7362868-senior-software-engineer-ii/",
-    "path": "/careers/7362868-senior-software-engineer-ii/",
-    "date": "2025-11-19T00:00:10",
-    "date_modified": "2025-11-19T00:00:10",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer-II",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      },
-      {
-        "id": 394,
-        "slug": "portland",
-        "name": "Portland, OR",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/portland/",
-        "path": "/careers/office/portland/"
       }
     ],
     "job_location": "",

@@ -444,6 +444,17 @@
     "source": "SST"
   },
   {
+    "title": "Associate Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate-Manager_R37178",
+    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37178"
+    ],
+    "id": "R37178",
+    "source": "SST"
+  },
+  {
     "title": "Sales Executive Risk Analytics Software",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Executive_R38082-1",
     "locationsText": "5 Locations",
@@ -485,17 +496,6 @@
       "R40445"
     ],
     "id": "R40445",
-    "source": "SST"
-  },
-  {
-    "title": "Engagement Consultant -  Eclipse Client Service",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/Engagement-Consultant----Eclipse-Client-Service_R38475",
-    "locationsText": "Singapore",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38475"
-    ],
-    "id": "R38475",
     "source": "SST"
   },
   {
@@ -763,14 +763,11 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Field Applications Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Field-Applications-Engineer_R029574",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 30+ Days Ago",
     "bulletFields": [
       "R029574"
     ],
     "id": "R029574",
+    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -782,6 +779,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Digital ASIC Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-ASIC-Design-Engineer_R029626",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029626"
+    ],
+    "id": "R029626",
+    "source": "Ciena"
+  },
+  {
+    "title": "Principal SerDes System/DSP Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-SerDes-System-DSP-Design-Engineer_R029550",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029550"
+    ],
+    "id": "R029550",
     "source": "Ciena"
   },
   {
@@ -804,17 +823,6 @@
       "R029855"
     ],
     "id": "R029855",
-    "source": "Ciena"
-  },
-  {
-    "title": "Business Operations - People & Culture",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Business-Operations---People---Culture_R030039",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030039"
-    ],
-    "id": "R030039",
     "source": "Ciena"
   },
   {
@@ -925,17 +933,6 @@
       "R029887"
     ],
     "id": "R029887",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Quality Assurance Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/SVT-PV-Engineer-Routing-IP-1---New-Grad_R029809",
-    "locationsText": "UK- Edinburgh - 19A Canning St",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029809"
-    ],
-    "id": "R029809",
     "source": "Ciena"
   },
   {

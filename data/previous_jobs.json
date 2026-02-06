@@ -763,14 +763,6 @@
     "source": "Ciena"
   },
   {
-    "bulletFields": [
-      "R029574"
-    ],
-    "id": "R029574",
-    "externalPath": "",
-    "source": "Ciena"
-  },
-  {
     "title": "Specialist - Account Management - Routing & Switching",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Consultant---Account-Management---Routing---Switching_R026764",
     "locationsText": "Gurugram",
@@ -782,6 +774,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Software Design Intern (May 2026 - 12 Months)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Design-Intern--May-2026---12-Months-_R030074",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030074"
+    ],
+    "id": "R030074",
+    "source": "Ciena"
+  },
+  {
+    "title": "Business Operations - People & Culture",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Business-Operations---People---Culture_R030039",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030039"
+    ],
+    "id": "R030039",
+    "source": "Ciena"
+  },
+  {
     "title": "Digital ASIC Design Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-ASIC-Design-Engineer_R029626",
     "locationsText": "Ottawa",
@@ -790,6 +804,17 @@
       "R029626"
     ],
     "id": "R029626",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Sales Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Ireland/Senior-Sales-Engineering_R030061",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030061"
+    ],
+    "id": "R030061",
     "source": "Ciena"
   },
   {
@@ -870,17 +895,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Analog Design Intern",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Analog-Design-Intern_R030041",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030041"
-    ],
-    "id": "R030041",
-    "source": "Ciena"
-  },
-  {
     "title": "Optical Components Product Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Canada--Ottawa--5050-Innovation--Bldg-A/Optical-Components-Product-Engineer_R029987",
     "locationsText": "Canada- Ottawa- 5050 Innovation- Bldg A",
@@ -922,17 +936,6 @@
       "R029873"
     ],
     "id": "R029873",
-    "source": "Ciena"
-  },
-  {
-    "title": "Optical Systems Designer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Systems-Designer_R029887",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029887"
-    ],
-    "id": "R029887",
     "source": "Ciena"
   },
   {
@@ -2280,6 +2283,90 @@
     "source": "Evertz"
   },
   {
+    "id": 160326,
+    "type": "careers",
+    "title": "Staff Machine Learning Engineer",
+    "link": "https://www.surveymonkey.com/careers/7594483-staff-machine-learning-engineer/",
+    "path": "/careers/7594483-staff-machine-learning-engineer/",
+    "date": "2026-02-06T11:00:11",
+    "date_modified": "2026-02-06T11:00:11",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Staff Machine Learning Engineer",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 393,
+        "slug": "ottawa",
+        "name": "Ottawa, Canada",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
+        "path": "/careers/office/ottawa/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 160324,
+    "type": "careers",
+    "title": "Staff Machine Learning Engineer",
+    "link": "https://www.surveymonkey.com/careers/7594484-staff-machine-learning-engineer/",
+    "path": "/careers/7594484-staff-machine-learning-engineer/",
+    "date": "2026-02-06T11:00:10",
+    "date_modified": "2026-02-06T11:00:10",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Staff Machine Learning Engineer",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 399,
+        "slug": "canada-remote",
+        "name": "Canada - Remote",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/canada-remote/",
+        "path": "/careers/office/canada-remote/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
     "id": 159347,
     "type": "careers",
     "title": "Software Engineer II &#8211; Full Stack",
@@ -2358,90 +2445,6 @@
         "description": "",
         "link": "https://www.surveymonkey.com/careers/office/portland/",
         "path": "/careers/office/portland/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 158729,
-    "type": "careers",
-    "title": "Staff Machine Learning Engineer",
-    "link": "https://www.surveymonkey.com/careers/7530846-staff-machine-learning-engineer/",
-    "path": "/careers/7530846-staff-machine-learning-engineer/",
-    "date": "2026-01-21T12:00:14",
-    "date_modified": "2026-01-21T12:00:14",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Staff Machine Learning Engineer",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 399,
-        "slug": "canada-remote",
-        "name": "Canada - Remote",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/canada-remote/",
-        "path": "/careers/office/canada-remote/"
-      },
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 158379,
-    "type": "careers",
-    "title": "Staff Machine Learning Engineer",
-    "link": "https://www.surveymonkey.com/careers/7530845-staff-machine-learning-engineer/",
-    "path": "/careers/7530845-staff-machine-learning-engineer/",
-    "date": "2026-01-18T06:00:11",
-    "date_modified": "2026-01-18T06:00:11",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Staff Machine Learning Engineer",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      },
-      {
-        "id": 393,
-        "slug": "ottawa",
-        "name": "Ottawa, Canada",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
-        "path": "/careers/office/ottawa/"
       }
     ],
     "job_location": "",

@@ -378,17 +378,6 @@
     "source": "SST"
   },
   {
-    "title": "Investor Services Representative I (Retirement Services Contact Center)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Investor-Services-Representative-I---II--Retirement-Services-Contact-Center-_R36383-1",
-    "locationsText": "9 Locations",
-    "postedOn": "Posted 16 Days Ago",
-    "bulletFields": [
-      "R36383"
-    ],
-    "id": "R36383",
-    "source": "SST"
-  },
-  {
     "title": "Senior Project Consultant (Microsoft Dynamics 365/ Power Platform)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Project-Consultant--Microsoft-Dynamics-365--Power-Platform-_R39658",
     "locationsText": "Toronto, Canada",
@@ -430,6 +419,17 @@
       "R34018"
     ],
     "id": "R34018",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Hedge Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Los-Angeles-CA/Senior-Associate--Hedge-Fund-Accounting_R39427",
+    "locationsText": "Los Angeles, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39427"
+    ],
+    "id": "R39427",
     "source": "SST"
   },
   {
@@ -497,6 +497,17 @@
     ],
     "id": "R40094",
     "source": "SST"
+  },
+  {
+    "title": "Sr. Consultant",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant_2603737-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2603737"
+    ],
+    "id": "2603737",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Analyst, TechConnect",
@@ -708,17 +719,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Staff Automation Quality Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Staff-Automation-Quality-Engineer_2527990-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2527990"
-    ],
-    "id": "2527990",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -771,6 +771,39 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Waveserver Software Developer Co-op (Spring/Summer 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Waveserver-Software-Developer-Co-op--Spring-Summer-2026-_R029532",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029532"
+    ],
+    "id": "R029532",
+    "source": "Ciena"
+  },
+  {
+    "title": "CO-OP/Intern: AI Software Developer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/CO-OP-Intern--AI-Software-Developer_R030079",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030079"
+    ],
+    "id": "R030079",
+    "source": "Ciena"
+  },
+  {
+    "title": "Automation Tools Development Co-op (Summer 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Automation-Tools-Development-Co-op--Summer-2026-_R030099",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030099"
+    ],
+    "id": "R030099",
     "source": "Ciena"
   },
   {
@@ -903,39 +936,6 @@
       "R030039"
     ],
     "id": "R030039",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Sales Engineering",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Ireland/Senior-Sales-Engineering_R030061",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030061"
-    ],
-    "id": "R030061",
-    "source": "Ciena"
-  },
-  {
-    "title": "Product Security Lab Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Product-Security-Lab-Engineer_R029855",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029855"
-    ],
-    "id": "R029855",
-    "source": "Ciena"
-  },
-  {
-    "title": "Director, Services Portfolio Marketing",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Services-Portfolio-Marketing_R030027-1",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030027"
-    ],
-    "id": "R030027",
     "source": "Ciena"
   },
   {

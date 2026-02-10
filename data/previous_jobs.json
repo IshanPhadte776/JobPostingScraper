@@ -266,17 +266,17 @@
     "departmentLabel": "Marketing",
     "employmentStatusLabel": "Temporary, Full-time",
     "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
+      "city": null,
+      "state": null
     },
     "atsLocation": {
-      "country": null,
-      "state": null,
+      "country": "Canada",
+      "state": "Ontario",
       "province": null,
-      "city": null
+      "city": "Ottawa"
     },
     "isRemote": null,
-    "locationType": "2",
+    "locationType": "1",
     "url": "https://recollective.bamboohr.com/career/careers/100"
   },
   {
@@ -433,6 +433,17 @@
     "source": "SST"
   },
   {
+    "title": "Assistant Vice President, Global Money Market Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Assistant-Vice-President--Global-Money-Market-Services_R41011",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41011"
+    ],
+    "id": "R41011",
+    "source": "SST"
+  },
+  {
     "title": "Learning and Development - Associate Director",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Learning-and-Development---Associate-Director_R41133",
     "locationsText": "New York, NY",
@@ -488,15 +499,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior Performance Test Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne-Australia/Principal-QA-Engineer---PASWTECNEWBAUON307_R36252",
-    "locationsText": "Melbourne, Australia",
+    "title": "Sr. Manager, Application Development (GenAI)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2519794",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36252"
+      "2519794"
     ],
-    "id": "R36252",
-    "source": "SST"
+    "id": "2519794",
+    "source": "CIBC"
   },
   {
     "title": "Director, Solution Design",
@@ -576,14 +587,11 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant_2603737-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2603737"
     ],
     "id": "2603737",
+    "externalPath": "",
     "source": "CIBC"
   },
   {
@@ -708,17 +716,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Data Security",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Data-Security_2600597",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2600597"
-    ],
-    "id": "2600597",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Director, Product Line Management, WaveLogic Technologies",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Director--Product-Line-Management--WaveLogic-Technologies_R029369",
     "locationsText": "Remote-US",
@@ -782,6 +779,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Solutions Engineer & Introduction Intern - Summer 2026",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Solutions-Engineer---Introduction-Intern---Summer-2026_R030131",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030131"
+    ],
+    "id": "R030131",
     "source": "Ciena"
   },
   {
@@ -925,17 +933,6 @@
       "R030050"
     ],
     "id": "R030050",
-    "source": "Ciena"
-  },
-  {
-    "title": "Fullstack Developer- Java & Angular2+",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Fullstack-Developer--Java---Angular2-_R030033",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030033"
-    ],
-    "id": "R030033",
     "source": "Ciena"
   },
   {

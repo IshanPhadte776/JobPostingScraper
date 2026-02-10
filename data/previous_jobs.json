@@ -266,17 +266,17 @@
     "departmentLabel": "Marketing",
     "employmentStatusLabel": "Temporary, Full-time",
     "location": {
-      "city": null,
-      "state": null
+      "city": "Ottawa",
+      "state": "Ontario"
     },
     "atsLocation": {
-      "country": "Canada",
-      "state": "Ontario",
+      "country": null,
+      "state": null,
       "province": null,
-      "city": "Ottawa"
+      "city": null
     },
     "isRemote": null,
-    "locationType": "1",
+    "locationType": "2",
     "url": "https://recollective.bamboohr.com/career/careers/100"
   },
   {
@@ -422,6 +422,17 @@
     "source": "SST"
   },
   {
+    "title": "Manager, Customer Success",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Customer-Success_R41058",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41058"
+    ],
+    "id": "R41058",
+    "source": "SST"
+  },
+  {
     "title": "Senior Business Development Director \u2013 Private Equity and Real Estate Fund Administration",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Director_R37936-1",
     "locationsText": "London - 1 Ropemaker Street",
@@ -488,15 +499,15 @@
     "source": "SST"
   },
   {
-    "title": "Sr Automation QA - PA2026Q1JB001",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Sr-Automation-QA---PA2026Q1JB001_R40328",
-    "locationsText": "Pune, India",
+    "title": "Devops Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Developement_2522484",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40328"
+      "2522484"
     ],
-    "id": "R40328",
-    "source": "SST"
+    "id": "2522484",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Business Systems Analyst",
@@ -708,17 +719,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, IT Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--IT-Quality-Assurance_2602677",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2602677"
-    ],
-    "id": "2602677",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Director, Product Line Management, WaveLogic Technologies",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Director--Product-Line-Management--WaveLogic-Technologies_R029369",
     "locationsText": "Remote-US",
@@ -782,6 +782,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Associate, Global Technical Support",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Senior-Associate--Global-Technical-Support_R029958",
+    "locationsText": "Remote-Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029958"
+    ],
+    "id": "R029958",
     "source": "Ciena"
   },
   {
@@ -925,17 +936,6 @@
       "R030086"
     ],
     "id": "R030086",
-    "source": "Ciena"
-  },
-  {
-    "title": "Product Line Manager- AI/ML & Network Assurance",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pune/Product-Line-Manager--AI-ML---Network-Assurance_R030050",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030050"
-    ],
-    "id": "R030050",
     "source": "Ciena"
   },
   {

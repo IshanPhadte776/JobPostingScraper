@@ -220,6 +220,26 @@
     "url": "https://solace.bamboohr.com/career/careers/724"
   },
   {
+    "id": "726",
+    "jobOpeningName": "Senior DevOps Engineer",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/726"
+  },
+  {
     "id": "40",
     "jobOpeningName": "Technical Support Analyst",
     "departmentId": "18251",
@@ -422,6 +442,39 @@
     "source": "SST"
   },
   {
+    "title": "Senior Financial Operations Analyst - PA-BAS_Q1_008",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Senior-Financial-Operations-Analyst---PA-BAS-Q1-008_R41075-1",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41075"
+    ],
+    "id": "R41075",
+    "source": "SST"
+  },
+  {
+    "title": "Financial Operations Analyst - PA-BAS_Q1_004",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Financial-Operations-Analyst---PA-BAS-Q1-004_R41078",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41078"
+    ],
+    "id": "R41078",
+    "source": "SST"
+  },
+  {
+    "title": "Manager - Client Relationship Management",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager---Client-Relationship-Management_R36907",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36907"
+    ],
+    "id": "R36907",
+    "source": "SST"
+  },
+  {
     "title": "Sales Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Sales-Associate_R41029",
     "locationsText": "Toronto, Canada",
@@ -466,37 +519,15 @@
     "source": "SST"
   },
   {
-    "title": "Head of Digital Delivery - Funds PA26DIGRQ1003",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Head-of-Digital-Delivery---Funds-PA26DIGRQ1003_R40454",
-    "locationsText": "2 Locations",
+    "title": "Application Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2602625",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40454"
+      "2602625"
     ],
-    "id": "R40454",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/M1---PA26DBOQ1CSV020_R38589",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38589"
-    ],
-    "id": "R38589",
-    "source": "SST"
-  },
-  {
-    "title": "SC1 - PA26DBOQ1ADM001",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/SC1---PA26DBOQ1ADM001_R40725",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40725"
-    ],
-    "id": "R40725",
-    "source": "SST"
+    "id": "2602625",
+    "source": "CIBC"
   },
   {
     "title": "Platform Engineer - MLOps",
@@ -708,17 +739,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2602822",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2602822"
-    ],
-    "id": "2602822",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -771,6 +791,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Manager Embedded Software Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Manager-Embedded-Software-Engineering_R029526",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029526"
+    ],
+    "id": "R029526",
     "source": "Ciena"
   },
   {
@@ -925,17 +956,6 @@
       "R030125"
     ],
     "id": "R030125",
-    "source": "Ciena"
-  },
-  {
-    "title": "Waveserver Software Developer Co-op (Spring/Summer 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Waveserver-Software-Developer-Co-op--Spring-Summer-2026-_R029532",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029532"
-    ],
-    "id": "R029532",
     "source": "Ciena"
   },
   {

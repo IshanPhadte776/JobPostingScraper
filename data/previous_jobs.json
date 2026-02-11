@@ -220,26 +220,6 @@
     "url": "https://solace.bamboohr.com/career/careers/724"
   },
   {
-    "id": "38",
-    "jobOpeningName": "Security Risk & Compliance Analyst",
-    "departmentId": "18273",
-    "departmentLabel": "Rad-Product Management",
-    "employmentStatusLabel": "Full time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://truecontext.bamboohr.com/career/careers/38"
-  },
-  {
     "id": "40",
     "jobOpeningName": "Technical Support Analyst",
     "departmentId": "18251",
@@ -442,6 +422,61 @@
     "source": "SST"
   },
   {
+    "title": "Sales Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Sales-Associate_R41029",
+    "locationsText": "Toronto, Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41029"
+    ],
+    "id": "R41029",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Software Engineer - Angular",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Senior-Software-Engineer---Front-End-API_R38351",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38351"
+    ],
+    "id": "R38351",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Software Engineer - Front-End - Angular",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Senior-Software-Engineer---Front-End---Angular_R41337",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41337"
+    ],
+    "id": "R41337",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate_R41201",
+    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41201"
+    ],
+    "id": "R41201",
+    "source": "SST"
+  },
+  {
+    "title": "Head of Digital Delivery - Funds PA26DIGRQ1003",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Head-of-Digital-Delivery---Funds-PA26DIGRQ1003_R40454",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40454"
+    ],
+    "id": "R40454",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/M1---PA26DBOQ1CSV020_R38589",
     "locationsText": "Mumbai, India",
@@ -464,59 +499,15 @@
     "source": "SST"
   },
   {
-    "title": "PA2026Q1JB010 Technical Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/PA2026Q1JB010-Technical-Specialist_R40834",
-    "locationsText": "Bangkok, Thailand",
+    "title": "Platform Engineer - MLOps",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Machine-Learning-Platform-Engineer_2518481",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40834"
+      "2518481"
     ],
-    "id": "R40834",
-    "source": "SST"
-  },
-  {
-    "title": "Sr. Agile Business Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Sr-Agile-Business-Analyst_R41109",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41109"
-    ],
-    "id": "R41109",
-    "source": "SST"
-  },
-  {
-    "title": "Full Stack QA Tester",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Full-Stack-QA-Tester_R40759",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40759"
-    ],
-    "id": "R40759",
-    "source": "SST"
-  },
-  {
-    "title": "Manual End to End QA Tester",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Manual-End-to-End-QA-Tester--Open-_R37158-1",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R37158"
-    ],
-    "id": "R37158",
-    "source": "SST"
-  },
-  {
-    "title": "Data Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Data-Analyst_R41217",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41217"
-    ],
-    "id": "R41217",
-    "source": "SST"
+    "id": "2518481",
+    "source": "CIBC"
   },
   {
     "title": "Sr Manager, Business Systems Analysis",
@@ -673,28 +664,6 @@
     "source": "CIBC"
   },
   {
-    "title": "QA Consultant",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/QA-Consultant_2602435",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2602435"
-    ],
-    "id": "2602435",
-    "source": "CIBC"
-  },
-  {
-    "title": "Analyst IT Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Analyst-IT-Quality-Assurance_2602445",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2602445"
-    ],
-    "id": "2602445",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Consultant, Supplier Risk Management",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Supplier-Risk-Management_2525977",
     "locationsText": "Toronto, ON",
@@ -736,6 +705,17 @@
       "2516903"
     ],
     "id": "2516903",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2602822",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 6 Days Ago",
+    "bulletFields": [
+      "2602822"
+    ],
+    "id": "2602822",
     "source": "CIBC"
   },
   {
@@ -794,6 +774,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Repairs Operations Failures Analysis (FA) Logistics Coordinator",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Repairs-Operations-Failures-Analysis--FA--Logistics-Coordinator_R029840",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029840"
+    ],
+    "id": "R029840",
+    "source": "Ciena"
+  },
+  {
+    "title": "QA Engineer- JavaScript",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/QA-Engineer--WebdriverIO_R030059",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030059"
+    ],
+    "id": "R030059",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Digital Verification Engineer (ASIC - Client IP/Ethernet)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Senior-Digital-Verification-Engineer--ASIC---Client-IP-Ethernet-_R030076",
     "locationsText": "2 Locations",
@@ -835,17 +837,6 @@
       "R030154"
     ],
     "id": "R030154",
-    "source": "Ciena"
-  },
-  {
-    "title": "QA Engineer- Webdriver.IO",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/QA-Engineer--WebdriverIO_R030059",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030059"
-    ],
-    "id": "R030059",
     "source": "Ciena"
   },
   {
@@ -945,17 +936,6 @@
       "R029532"
     ],
     "id": "R029532",
-    "source": "Ciena"
-  },
-  {
-    "title": "CO-OP/Intern: AI Software Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/CO-OP-Intern--AI-Software-Developer_R030079",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030079"
-    ],
-    "id": "R030079",
     "source": "Ciena"
   },
   {

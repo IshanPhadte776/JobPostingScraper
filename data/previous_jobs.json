@@ -442,6 +442,50 @@
     "source": "SST"
   },
   {
+    "title": "Business Development Representative",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Business-Development-Representative_R40883",
+    "locationsText": "London - 1 Ropemaker Street",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40883"
+    ],
+    "id": "R40883",
+    "source": "SST"
+  },
+  {
+    "title": "Client Administration Associate - PA-LO-AX-Q1_2025-5",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Fund-Services-Associate---PA-LO-AX-Q1-2025-5_R40284",
+    "locationsText": "7 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40284"
+    ],
+    "id": "R40284",
+    "source": "SST"
+  },
+  {
+    "title": "Sales Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Sales-Executive_R40920",
+    "locationsText": "London, UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40920"
+    ],
+    "id": "R40920",
+    "source": "SST"
+  },
+  {
+    "title": "Sales Development Representative",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Sales-Development-Representative_R41239",
+    "locationsText": "London - 1 Ropemaker Street",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41239"
+    ],
+    "id": "R41239",
+    "source": "SST"
+  },
+  {
     "title": "Associate Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/Associate-Manager_R41166",
     "locationsText": "Singapore",
@@ -472,50 +516,6 @@
       "R38447"
     ],
     "id": "R38447",
-    "source": "SST"
-  },
-  {
-    "title": "Jr. Contract Lifecycle Operations Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Jr-Contract-Lifecycle-Operations-Specialist_R41072",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41072"
-    ],
-    "id": "R41072",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Growth Marketing Manager, North America - PA2026LBGWTH001",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Growth-Marketing-Manager--North-America---PA2026LBGWTH001_R40731",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40731"
-    ],
-    "id": "R40731",
-    "source": "SST"
-  },
-  {
-    "title": "PA26WIPOQ1257 PC2",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Pune/PA26WIPOQ1257-PC2_R39564",
-    "locationsText": "Remote - Pune",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39564"
-    ],
-    "id": "R39564",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate, Data Analyst, Regulatory Solutions",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate--Data-Analyst--Regulatory-Solutions_R40841",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40841"
-    ],
-    "id": "R40841",
     "source": "SST"
   },
   {
@@ -794,6 +794,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Associate Network Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Germany/Network-Engineer--Associate_R028464",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028464"
+    ],
+    "id": "R028464",
+    "source": "Ciena"
+  },
+  {
     "title": "QA Automation Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/QA-Automation-Engineer_R030117",
     "locationsText": "3 Locations",
@@ -945,17 +956,6 @@
       "R029532"
     ],
     "id": "R029532",
-    "source": "Ciena"
-  },
-  {
-    "title": "CO-OP/Intern: AI Software Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/CO-OP-Intern--AI-Software-Developer_R030079",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030079"
-    ],
-    "id": "R030079",
     "source": "Ciena"
   },
   {

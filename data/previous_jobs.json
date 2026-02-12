@@ -442,6 +442,28 @@
     "source": "SST"
   },
   {
+    "title": "Associate Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/Associate-Manager_R41166",
+    "locationsText": "Singapore",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41166"
+    ],
+    "id": "R41166",
+    "source": "SST"
+  },
+  {
+    "title": "Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/Manager_R41165",
+    "locationsText": "Singapore",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41165"
+    ],
+    "id": "R41165",
+    "source": "SST"
+  },
+  {
     "title": "Junior Automation Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Karnataka/Junior-Automation-Developer_R38447",
     "locationsText": "Remote - Karnataka",
@@ -494,28 +516,6 @@
       "R40841"
     ],
     "id": "R40841",
-    "source": "SST"
-  },
-  {
-    "title": "Chorus Technical Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Basildon-UK/PA2026Q1JB002---Technical-Specialist_R40546-1",
-    "locationsText": "Basildon, UK",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40546"
-    ],
-    "id": "R40546",
-    "source": "SST"
-  },
-  {
-    "title": "PA26NGOQ2AFS001 - Supervisor, Fund Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/PA26NGOQ2AFS001---Supervisor--Fund-Services-Operations_R41060",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41060"
-    ],
-    "id": "R41060",
     "source": "SST"
   },
   {
@@ -794,6 +794,17 @@
     "source": "Ciena"
   },
   {
+    "title": "QA Automation Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/QA-Automation-Engineer_R030117",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030117"
+    ],
+    "id": "R030117",
+    "source": "Ciena"
+  },
+  {
     "title": "Fullstack Developer- Java & Angular2+",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Fullstack-Developer--Java---Angular2-_R030121",
     "locationsText": "3 Locations",
@@ -824,17 +835,6 @@
       "R030154"
     ],
     "id": "R030154",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Manager Embedded Software Engineering",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Manager-Embedded-Software-Engineering_R029526",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029526"
-    ],
-    "id": "R029526",
     "source": "Ciena"
   },
   {
@@ -879,17 +879,6 @@
       "R030061"
     ],
     "id": "R030061",
-    "source": "Ciena"
-  },
-  {
-    "title": "QA Automation Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/QA-Automation-Engineer_R030117",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030117"
-    ],
-    "id": "R030117",
     "source": "Ciena"
   },
   {
@@ -956,6 +945,17 @@
       "R029532"
     ],
     "id": "R029532",
+    "source": "Ciena"
+  },
+  {
+    "title": "CO-OP/Intern: AI Software Developer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/CO-OP-Intern--AI-Software-Developer_R030079",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 3 Days Ago",
+    "bulletFields": [
+      "R030079"
+    ],
+    "id": "R030079",
     "source": "Ciena"
   },
   {

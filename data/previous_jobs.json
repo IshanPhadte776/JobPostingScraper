@@ -220,26 +220,6 @@
     "url": "https://solace.bamboohr.com/career/careers/726"
   },
   {
-    "id": "40",
-    "jobOpeningName": "Technical Support Analyst",
-    "departmentId": "18251",
-    "departmentLabel": "Ops-Support",
-    "employmentStatusLabel": "Full time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://truecontext.bamboohr.com/career/careers/40"
-  },
-  {
     "id": "114",
     "jobOpeningName": "Director of Professional Services ",
     "departmentId": "18332",
@@ -280,10 +260,30 @@
     "url": "https://recollective.bamboohr.com/career/careers/100"
   },
   {
+    "id": "101",
+    "jobOpeningName": "Operations Support Specialist",
+    "departmentId": "18390",
+    "departmentLabel": "Shared Administration",
+    "employmentStatusLabel": "Regular, Full-time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "Australia",
+      "state": "New South Wales",
+      "province": null,
+      "city": "Sydney"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://recollective.bamboohr.com/career/careers/101"
+  },
+  {
     "title": "Desktop IT Engineer / Field Services Technician",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Tokyo-Japan/Desktop-IT-Engineer---Field-Services-Technician_R41272",
     "locationsText": "Tokyo, Japan",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R41272"
     ],
@@ -294,7 +294,7 @@
     "title": "Mail/Distribution Services Representative",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Mail-Distribution-Services-Representative_R25046",
     "locationsText": "Kansas City, MO",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "R25046"
     ],
@@ -304,7 +304,7 @@
   {
     "title": "Client Support Representative",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Client-Support-Representative_R38906",
-    "postedOn": "Posted 12 Days Ago",
+    "postedOn": "Posted 13 Days Ago",
     "bulletFields": [
       "R38906"
     ],
@@ -315,7 +315,7 @@
     "title": "Dealing Administrator",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Dealing-Administrator_R36837",
     "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted 11 Days Ago",
+    "postedOn": "Posted 12 Days Ago",
     "bulletFields": [
       "R36837"
     ],
@@ -326,7 +326,7 @@
     "title": "Principal Product Manager SDE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Principle-Product-Manager-SDE_R36919",
     "locationsText": "Waltham, MA",
-    "postedOn": "Posted 12 Days Ago",
+    "postedOn": "Posted 13 Days Ago",
     "bulletFields": [
       "R36919"
     ],
@@ -337,7 +337,7 @@
     "title": "QA Engineer - PA25Q4QALDSJH008",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/QA-Engineer---PA25Q4QALDSJH008_R40351",
     "locationsText": "Denver, CO",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R40351"
     ],
@@ -348,7 +348,7 @@
     "title": "Hiring Chartered Accountant Freshers - PUNE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Hiring-Chartered-Accountant-Freshers---PUNE_R35256",
     "locationsText": "Pune, India",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "bulletFields": [
       "R35256"
     ],
@@ -359,7 +359,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Investor-Services---Manager--Associate-Manager_R35078",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "bulletFields": [
       "R35078"
     ],
@@ -370,7 +370,7 @@
     "title": "Lead Software Engineer / Dot Net Full Stack Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India---Block-B/Lead-Software-Engineer---Dot-Net-Developer_R29663",
     "locationsText": "3 Locations",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "bulletFields": [
       "R29663"
     ],
@@ -381,7 +381,7 @@
     "title": "Senior Quant Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Quant-Developer_R35179",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "bulletFields": [
       "R35179"
     ],
@@ -392,7 +392,7 @@
     "title": "Senior Project Consultant (Microsoft Dynamics 365/ Power Platform)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Project-Consultant--Microsoft-Dynamics-365--Power-Platform-_R39658",
     "locationsText": "Toronto, Canada",
-    "postedOn": "Posted 24 Days Ago",
+    "postedOn": "Posted 25 Days Ago",
     "bulletFields": [
       "R39658"
     ],
@@ -422,87 +422,109 @@
     "source": "SST"
   },
   {
-    "title": "Client Services Analyst 1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-1_R39970",
-    "locationsText": "Jacksonville, FL",
+    "title": "Automation QA Tester",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Automation-QA-Tester_R41209",
+    "locationsText": "Bangkok, Thailand",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39970"
+      "R41209"
     ],
-    "id": "R39970",
+    "id": "R41209",
     "source": "SST"
   },
   {
-    "title": "Trust Administration Senior Business Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---North-Carolina-US/Trust-Administration-Senior-Business-Analyst_R38715",
-    "locationsText": "3 Locations",
+    "title": "Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Account-Executive_R39796",
+    "locationsText": "San Francisco, CA",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38715"
+      "R39796"
     ],
-    "id": "R38715",
+    "id": "R39796",
     "source": "SST"
   },
   {
-    "title": "Implementation Consultant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Implementation-Consultant_R40423",
-    "locationsText": "4 Locations",
+    "title": "Automation Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Karnataka/Automation-Developer_R39945",
+    "locationsText": "Remote - Karnataka",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40423"
+      "R39945"
     ],
-    "id": "R40423",
+    "id": "R39945",
     "source": "SST"
   },
   {
-    "title": "Senior Business Process Automation Consultant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Johannesburg-South-Africa/Senior-Business-Process-Automation-Consultant_R40681",
-    "locationsText": "Johannesburg, South Africa",
+    "title": "Business Development Representative - New York/Hybrid",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Business-Development-Representative---New-York-Hybrid_R40712",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40681"
+      "R40712"
     ],
-    "id": "R40681",
+    "id": "R40712",
     "source": "SST"
   },
   {
-    "title": "Business Development Representative",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Business-Development-Representative_R40883",
-    "locationsText": "London - 1 Ropemaker Street",
+    "title": "PA26NGOQ2AFS004 - Supervisor, Learning & Development",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/PA26NGOQ2AFS004---Supervisor--Learning---Development_R41068",
+    "locationsText": "Maharashtra, Navi Mumbai",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40883"
+      "R41068"
     ],
-    "id": "R40883",
+    "id": "R41068",
     "source": "SST"
   },
   {
-    "title": "Client Administration Associate - PA-LO-AX-Q1_2025-5",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Fund-Services-Associate---PA-LO-AX-Q1-2025-5_R40284",
-    "locationsText": "7 Locations",
+    "title": "Lead HR Business Partner",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Lead-HR-Business-Partner_R41090",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40284"
+      "R41090"
     ],
-    "id": "R40284",
+    "id": "R41090",
     "source": "SST"
   },
   {
-    "title": "Sales Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Sales-Executive_R40920",
-    "locationsText": "London, UK",
+    "title": "Customer Helpdesk Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Customer-Helpdesk-Specialist_R40887-1",
+    "locationsText": "Hyderabad, India",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40920"
+      "R40887"
     ],
-    "id": "R40920",
+    "id": "R40887",
     "source": "SST"
+  },
+  {
+    "title": "Sr. Consultant, Back End Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer_2602746",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2602746"
+    ],
+    "id": "2602746",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Manager, Back End Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Back-End-Developer_2603335",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2603335"
+    ],
+    "id": "2603335",
+    "source": "CIBC"
   },
   {
     "title": "Identity Engineer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Identity-Engineer_2603763",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2603763"
     ],
@@ -513,7 +535,7 @@
     "title": "Application Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2602625",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2602625"
     ],
@@ -524,7 +546,7 @@
     "title": "Platform Engineer - MLOps",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Machine-Learning-Platform-Engineer_2518481",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2518481"
     ],
@@ -535,7 +557,7 @@
     "title": "Sr Manager, Business Systems Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Business-Systems-Analysis_2601327",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2601327"
     ],
@@ -546,7 +568,7 @@
     "title": "Consultant, Production Application Support (Bilingual- Spanish)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support--Bilingual--Spanish-_2527849",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2527849"
     ],
@@ -557,7 +579,7 @@
     "title": "Sr. Business Systems Analyst",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Business-Systems-Analyst_2603162",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2603162"
     ],
@@ -568,7 +590,7 @@
     "title": "Sr. BSA  (Portfolio management)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Functional-Lead---Portfolio-management-_2600108",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2600108"
     ],
@@ -579,7 +601,7 @@
     "title": "Sr. Manager, Application Development (GenAI)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2519794",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2519794"
     ],
@@ -590,7 +612,7 @@
     "title": "Director, Solution Design",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Solution-Design_2602742",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2602742"
     ],
@@ -601,7 +623,7 @@
     "title": "Consultant, Application Development (Archer Development)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--Archer-_2528859",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "2528859"
     ],
@@ -612,7 +634,7 @@
     "title": "Consultant, Backend Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Backend-Developer_2603824",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "2603824"
     ],
@@ -623,7 +645,7 @@
     "title": "Director, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Application-Development_2525590",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "2525590"
     ],
@@ -634,7 +656,7 @@
     "title": "Sr. Backend Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Backend-Developer_2603822",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "2603822"
     ],
@@ -645,7 +667,7 @@
     "title": "Director, Technology Currency Governance",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Technology-Currency-Governance_2529304",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "2529304"
     ],
@@ -656,7 +678,7 @@
     "title": "Sr. Analyst, TechConnect",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--TechConnect_2602385",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "2602385"
     ],
@@ -667,7 +689,7 @@
     "title": "Consultant, Application Development - Environment Manager (Open)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development---Environment-Manager--Open-_2601264",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2601264"
     ],
@@ -678,7 +700,7 @@
     "title": "Senior Consultant, Supplier Risk Management",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Supplier-Risk-Management_2525977",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2525977"
     ],
@@ -689,7 +711,7 @@
     "title": "Director, EAML Data Management Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--EAML-Data-Management-Development_2602704",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2602704"
     ],
@@ -697,32 +719,21 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Full Stack Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Full-Stack-Developer_2602414",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "title": "Field Applications Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "2602414"
+      "R029881"
     ],
-    "id": "2602414",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Database Administrator, Mainframe",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Database-Management--IMS---CICS-_2516903-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2516903"
-    ],
-    "id": "2516903",
-    "source": "CIBC"
+    "id": "R029881",
+    "source": "Ciena"
   },
   {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R029960"
     ],
@@ -733,7 +744,7 @@
     "title": "Chief Information Officer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Chief-Information-Officer_R029876",
     "locationsText": "Baltimore",
-    "postedOn": "Posted 17 Days Ago",
+    "postedOn": "Posted 18 Days Ago",
     "bulletFields": [
       "R029876"
     ],
@@ -741,21 +752,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Field Applications Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 20 Days Ago",
-    "bulletFields": [
-      "R029881"
-    ],
-    "id": "R029881",
-    "source": "Ciena"
-  },
-  {
     "title": "Vice President, Global Internal Audit",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Vice-President--Global-Internal-Audit_R029491",
     "locationsText": "Baltimore",
-    "postedOn": "Posted 24 Days Ago",
+    "postedOn": "Posted 25 Days Ago",
     "bulletFields": [
       "R029491"
     ],
@@ -774,51 +774,18 @@
     "source": "Ciena"
   },
   {
-    "title": "Regional Director, Commercial Management \u2013 Blue Planet, a division of Ciena",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Regional-Director--Commercial-Management---Blue-Planet--a-division-of-Ciena_R030085",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030085"
-    ],
-    "id": "R030085",
-    "source": "Ciena"
-  },
-  {
-    "title": "Associate Network Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Germany/Network-Engineer--Associate_R028464",
+    "title": "Associate, Customer Success Advocacy",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Belfast--87-Park-House/Associate--Customer-Success-Advocacy_R029693",
     "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R028464"
+      "R029693"
     ],
-    "id": "R028464",
+    "id": "R029693",
     "source": "Ciena"
   },
   {
-    "title": "QA Automation Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/QA-Automation-Engineer_R030117",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030117"
-    ],
-    "id": "R030117",
-    "source": "Ciena"
-  },
-  {
-    "title": "Fullstack Developer- Java & Angular2+",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Fullstack-Developer--Java---Angular2-_R030121",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030121"
-    ],
-    "id": "R030121",
-    "source": "Ciena"
-  },
-  {
-    "title": "Specialist \u2013 Talent Intelligence & Sourcing",
+    "title": "Sourcing Specialist",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Specialist---Talent-Intelligence---Sourcing_R030154",
     "locationsText": "Gurugram",
     "postedOn": "Posted Today",
@@ -829,10 +796,76 @@
     "source": "Ciena"
   },
   {
+    "title": "ASIC Digital Backend Physical Implementation Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Digital-Backend-Physical-Implementation-Engineer_R029822",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R029822"
+    ],
+    "id": "R029822",
+    "source": "Ciena"
+  },
+  {
+    "title": "Consultant, Sales Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Consultant--Sales-Engineering_R029416",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R029416"
+    ],
+    "id": "R029416",
+    "source": "Ciena"
+  },
+  {
+    "title": "Regional Director, Commercial Management \u2013 Blue Planet, a division of Ciena",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Regional-Director--Commercial-Management---Blue-Planet--a-division-of-Ciena_R030085",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R030085"
+    ],
+    "id": "R030085",
+    "source": "Ciena"
+  },
+  {
+    "title": "Associate Network Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Germany/Network-Engineer--Associate_R028464",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R028464"
+    ],
+    "id": "R028464",
+    "source": "Ciena"
+  },
+  {
+    "title": "QA Automation Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/QA-Automation-Engineer_R030117",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R030117"
+    ],
+    "id": "R030117",
+    "source": "Ciena"
+  },
+  {
+    "title": "Fullstack Developer- Java & Angular2+",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Fullstack-Developer--Java---Angular2-_R030121",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R030121"
+    ],
+    "id": "R030121",
+    "source": "Ciena"
+  },
+  {
     "title": "Repairs Operations Failures Analysis (FA) Logistics Coordinator",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Repairs-Operations-Failures-Analysis--FA--Logistics-Coordinator_R029840",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R029840"
     ],
@@ -843,7 +876,7 @@
     "title": "QA Engineer- JavaScript",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/QA-Engineer--WebdriverIO_R030059",
     "locationsText": "3 Locations",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R030059"
     ],
@@ -854,7 +887,7 @@
     "title": "Senior Digital Verification Engineer (ASIC - Client IP/Ethernet)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Senior-Digital-Verification-Engineer--ASIC---Client-IP-Ethernet-_R030076",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R030076"
     ],
@@ -865,7 +898,7 @@
     "title": "Senior Sales Engineering",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Ireland/Senior-Sales-Engineering_R030061",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R030061"
     ],
@@ -876,7 +909,7 @@
     "title": "Optical Engineer, Autonomous Photonic Network Applications",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Engineer--Autonomous-Photonic-Network-Applications_R029917-1",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R029917"
     ],
@@ -887,7 +920,7 @@
     "title": "Executive Assistant",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mumbai/Executive-Assistant_R030143",
     "locationsText": "Mumbai",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R030143"
     ],
@@ -898,44 +931,11 @@
     "title": "QA Engineer - Python Automation",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pune/QA-Engineer---Python-Automation_R030087",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R030087"
     ],
     "id": "R030087",
-    "source": "Ciena"
-  },
-  {
-    "title": "Quality Program Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Canada--Ottawa--385-Terry-Fox--Bldg-B/Quality-Program-Manager_R029603",
-    "locationsText": "5 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029603"
-    ],
-    "id": "R029603",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Mixed Signal ASIC Test Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Mixed-Signal-ASIC-Test-Engineer_R030125",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030125"
-    ],
-    "id": "R030125",
-    "source": "Ciena"
-  },
-  {
-    "title": "Waveserver Software Developer Co-op (Spring/Summer 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Waveserver-Software-Developer-Co-op--Spring-Summer-2026-_R029532",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029532"
-    ],
-    "id": "R029532",
     "source": "Ciena"
   },
   {
@@ -1243,6 +1243,22 @@
     "source": "Evertz"
   },
   {
+    "id": "job_20260210172739_H6026Y2Z0EKARG4J",
+    "title": "Internal Failure Analysis Technician",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L5Z9",
+    "department": "Testing (Electronic)",
+    "description": "<p><strong>Responsibilities:</strong></p><ul><li>Troubleshoot and repair a variety of complex electronic circuits to the component level</li><li>Provide failure analysis and/or root cause analysis of defects and/or field returns</li><li>Set up and operate specialized and standard test equipment to diagnose, test and analyze the performance of electrical and electronic components, assemblies and systems</li><li>Build &amp; test the latest film &amp; television equipment that incorporates the most advanced components available to the industry</li><li>Function as a member of the production team</li><li>Any other duties as required.</li></ul><p><strong>Qualifications:</strong></p><ul><li>2 year Electrical Technician or 3 year Electrical Technology Co-op program.</li><li>Experience in electronics testing and troubleshooting is required.</li><li>Problem-solving ability and able to react to changing situations</li><li>Excellent verbal and written communication skills, problem solving ability, time management skills and interpersonal skills.</li><li>Positive attitude and able to work in a fast paced environment</li><li>Be results oriented</li><li>Be self-motivated</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$38K - $42K CAD<br><br><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "HoIPjoNfnN",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
     "id": "job_20260210172820_AFMS2LXY2AWK7NDF",
     "title": "Production Assembler - Server Chassis",
     "country_id": "Canada",
@@ -1269,22 +1285,6 @@
     "description": "<p>Working in production, you will be part of the manufacturing group that assembles our products.&#160;</p><h4><strong>Responsibilities:</strong></h4><ul><li>Printed circuit board, chassis and cable assembly</li><li>Read assembly drawings</li><li>Other duties as required</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>Experience with electronic components in an electronic manufacturing environment would be an asset</li><li>Hand soldering experience would be an asset</li><li>Strong attention to detail is required</li><li>High School Diploma</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$17.60 (minimum wage)<br><br><strong>About Us:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "q60lmf5cP9",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260210172739_H6026Y2Z0EKARG4J",
-    "title": "Internal Failure Analysis Technician",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "Testing (Electronic)",
-    "description": "<p><strong>Responsibilities:</strong></p><ul><li>Troubleshoot and repair a variety of complex electronic circuits to the component level</li><li>Provide failure analysis and/or root cause analysis of defects and/or field returns</li><li>Set up and operate specialized and standard test equipment to diagnose, test and analyze the performance of electrical and electronic components, assemblies and systems</li><li>Build &amp; test the latest film &amp; television equipment that incorporates the most advanced components available to the industry</li><li>Function as a member of the production team</li><li>Any other duties as required.</li></ul><p><strong>Qualifications:</strong></p><ul><li>2 year Electrical Technician or 3 year Electrical Technology Co-op program.</li><li>Experience in electronics testing and troubleshooting is required.</li><li>Problem-solving ability and able to react to changing situations</li><li>Excellent verbal and written communication skills, problem solving ability, time management skills and interpersonal skills.</li><li>Positive attitude and able to work in a fast paced environment</li><li>Be results oriented</li><li>Be self-motivated</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$38K - $42K CAD<br><br><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "HoIPjoNfnN",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -1397,22 +1397,6 @@
     "description": "We're looking for a passionate Embedded Software Engineer to join our development team, where you'll play a key role in designing, implementing, and maintaining embedded software for cutting-edge products. In this role, you&#8217;ll collaborate cross-functionally to bring new features to life, adapt existing systems for evolving needs, and ensure seamless hardware-software integration.<br><br><strong>Responsibilities:</strong><ul><li>Responsible for the design of embedded software to be used in the company&#8217;s products.</li><li>Create, support and debug software and firmware.</li><li>Adapt existing products for new requirements and uses.</li><li>Create and maintain documentation of the design, analysis and test results.</li><li>Provide architectural design, modular code design, code documentation, HW/FW integration, production implementation and support.</li><li>Responsible for adding new features or otherwise modify firmware/software based on management direction and customer feedback.</li><li>Perform other duties as assigned and adhere to company policies and procedures</li></ul><strong>Qualifications:</strong><ul><li>Must possess a degree in Electrical/Computer/Mechatronics Engineering or Computer Science</li><li>A minimum of one year of experience in the field</li><li>C++, C, Python programming and debugging skills</li><li>Experience in Qt development</li><li>Real-Time Operating Systems, Embedded Linux, FreeRTOS and Device Driver experience is essential</li><li>Object-oriented design with some programming techniques; data structures.</li><li>Knowledge of digital hardware (SoC, ARM, FPGA.)</li><li>Experienced with device control interfaces, such as I2C, SPI, USB, PCIe, Ethernet; able to perform board level troubleshooting.</li><li>Familiar with Data Communication Network and associated Layer 2 and 3 protocols.</li><li>Cloud and AI knowledge is a bonus</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$60K - $70K CAD<br><br><strong>About Us:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!<br>&#160;</p>",
     "type": "Full Time",
     "board_code": "UXAd3pHP7r",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260204143951_GAXJTKTT8ZQRMHSB",
-    "title": "Jr. Accounts Receivable Coordinator",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "<p>We are seeking a detail-oriented and proactive professional to join our Accounts Receivable (A/R) team. In this role, you will be responsible for maintaining the billing system, ensuring the accuracy and integrity of financial data, and resolving any discrepancies or customer inquiries in a timely manner.<br><br>Key responsibilities include monitoring and following up on overdue accounts, reviewing and releasing open sales orders, and supporting various accounting functions as needed. The ideal candidate will possess strong analytical skills, excellent communication abilities, and a commitment to maintaining accurate and up-to-date records in support of the company&#8217;s financial operations.<br><br><strong>Responsibilities:</strong></p><ul><li>Invoice Filing&#160;</li><li>Provide general administrative assistance to the A/R Team&#160;</li><li>Email follow up to customers for invoice payments&#160;</li><li>Prepare Shipment Release Approvals&#160;</li><li>Research Company Financials&#160;</li><li>Apply Payments in Internal Billing System</li><li>Prepare Pro-Forma and specialized invoices&#160;</li><li>Other duties as required</li></ul><p><strong>Qualifications:</strong></p><ul><li>Diploma in accounting/business administrative program</li><li>Previous experience in a similar position is an asset</li><li>Knowledge of Microsoft Excel and Word</li><li>Experience with AS400 would be an asset but not required</li><li>Excellent verbal and written communication skills, problem solving ability, time management skills and interpersonal skills</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "DKdeCx0qwv",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

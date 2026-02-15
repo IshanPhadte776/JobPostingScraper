@@ -422,6 +422,14 @@
     "source": "SST"
   },
   {
+    "bulletFields": [
+      "R41013"
+    ],
+    "id": "R41013",
+    "externalPath": "",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Private Markets",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Atlanta-GA/Senior-Associate--Private-Markets_R40806",
     "locationsText": "Atlanta, GA",
@@ -485,17 +493,6 @@
       "R41183"
     ],
     "id": "R41183",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate, Investor Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Senior-Associate--Fund-Administration_R40711",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R40711"
-    ],
-    "id": "R40711",
     "source": "SST"
   },
   {

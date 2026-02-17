@@ -422,6 +422,36 @@
     "source": "SST"
   },
   {
+    "bulletFields": [
+      "R41298"
+    ],
+    "id": "R41298",
+    "externalPath": "",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Sales Development Representative",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Sales-Development-Representative_R41024",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41024"
+    ],
+    "id": "R41024",
+    "source": "SST"
+  },
+  {
+    "title": "Client Relationship Manager \u2013 Retail Alternative Investments",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Client-Relationship-Manager---Retail-Alternative-Investments_R40664",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40664"
+    ],
+    "id": "R40664",
+    "source": "SST"
+  },
+  {
     "title": "Head of Compliance SS&C Administration Services Luxembourg",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Luxembourg-City-Luxembourg/Head-of-Compliance-SS-C-Administration-Services-Luxembourg_R41034",
     "locationsText": "Luxembourg City, Luxembourg",
@@ -466,37 +496,15 @@
     "source": "SST"
   },
   {
-    "title": "Associate Director, Fund Accounting - Private Equity",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Associate-Director--Fund-Accounting---Private-Equity_R41180-1",
-    "locationsText": "London - 1 Ropemaker Street",
+    "title": "Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2523788-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41180"
+      "2523788"
     ],
-    "id": "R41180",
-    "source": "SST"
-  },
-  {
-    "title": "Contracts Administrator",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Contracts-Administrator_R40926",
-    "locationsText": "Waltham MA - 10 CityPoint",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40926"
-    ],
-    "id": "R40926",
-    "source": "SST"
-  },
-  {
-    "title": "Enterprise Sales Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Cranford-NJ/Enterprise-Sales-Executive_R41154",
-    "locationsText": "14 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41154"
-    ],
-    "id": "R41154",
-    "source": "SST"
+    "id": "2523788",
+    "source": "CIBC"
   },
   {
     "title": "Infrastructure Management Consultant \u2013 ITAM Data & Governance",
@@ -708,17 +716,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Full Stack Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Full-Stack-Developer_2602414",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 11 Days Ago",
-    "bulletFields": [
-      "2602414"
-    ],
-    "id": "2602414",
-    "source": "CIBC"
-  },
-  {
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "2 Locations",
@@ -771,6 +768,50 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "ASIC Engineer Co-op (Summer 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Engineer-Co-op--Summer-2026-_R030167",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030167"
+    ],
+    "id": "R030167",
+    "source": "Ciena"
+  },
+  {
+    "title": "Solutions Engineer & Introduction Intern - Summer 2026",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Solutions-Engineer---Introduction-Intern---Summer-2026_R030130",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030130"
+    ],
+    "id": "R030130",
+    "source": "Ciena"
+  },
+  {
+    "title": "Solutions Engineer & Introduction Intern - Summer 2026",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Solutions-Engineer---Introduction-Intern---Summer-2026_R030131",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030131"
+    ],
+    "id": "R030131",
+    "source": "Ciena"
+  },
+  {
+    "title": "Solutions Engineering & Introduction Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Solutions-Engineering---Introduction-Engineer_R029959",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029959"
+    ],
+    "id": "R029959",
     "source": "Ciena"
   },
   {
@@ -892,50 +933,6 @@
       "R029416"
     ],
     "id": "R029416",
-    "source": "Ciena"
-  },
-  {
-    "title": "Associate Network Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Germany/Network-Engineer--Associate_R028464",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R028464"
-    ],
-    "id": "R028464",
-    "source": "Ciena"
-  },
-  {
-    "title": "QA Automation Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/QA-Automation-Engineer_R030117",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R030117"
-    ],
-    "id": "R030117",
-    "source": "Ciena"
-  },
-  {
-    "title": "Fullstack Developer- Java & Angular2+",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Fullstack-Developer--Java---Angular2-_R030121",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R030121"
-    ],
-    "id": "R030121",
-    "source": "Ciena"
-  },
-  {
-    "title": "Repairs Operations Failures Analysis (FA) Logistics Coordinator",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Repairs-Operations-Failures-Analysis--FA--Logistics-Coordinator_R029840",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R029840"
-    ],
-    "id": "R029840",
     "source": "Ciena"
   },
   {

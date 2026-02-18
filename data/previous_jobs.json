@@ -471,11 +471,25 @@
     "source": "SST"
   },
   {
+    "title": "Senior AI Platform Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-AI-Platform-Engineer_R41312-1",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "R41304"
+      "R41312"
     ],
-    "id": "R41304",
-    "externalPath": "",
+    "id": "R41312",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Sales Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Johannesburg-South-Africa/Sales-Executive--SS-C-Algorithmics--Riyadh--KSA-_R31380",
+    "locationsText": "Johannesburg, South Africa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R31380"
+    ],
+    "id": "R31380",
     "source": "SST"
   },
   {
@@ -542,17 +556,6 @@
       "R41204"
     ],
     "id": "R41204",
-    "source": "SST"
-  },
-  {
-    "title": "Project Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Stockholm-Sweden/Project-Manager_R40965",
-    "locationsText": "Stockholm, Sweden",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40965"
-    ],
-    "id": "R40965",
     "source": "SST"
   },
   {
@@ -831,6 +834,50 @@
     "source": "Ciena"
   },
   {
+    "title": "Embedded Software Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Embedded-Software-Engineer_R030114",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030114"
+    ],
+    "id": "R030114",
+    "source": "Ciena"
+  },
+  {
+    "title": "Analog Engineering Intern",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Analog-Engineering-Intern_R030194",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030194"
+    ],
+    "id": "R030194",
+    "source": "Ciena"
+  },
+  {
+    "title": "\u00a0Software Engineer - C and Networking",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/XMLNAME--Software-Engineer---C-and-Networking_R029690",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029690"
+    ],
+    "id": "R029690",
+    "source": "Ciena"
+  },
+  {
+    "title": "Navigator NCS Product Verification Automation Co-op",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Verification-Automation-Co-op_R030169",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030169"
+    ],
+    "id": "R030169",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Associate, GCC Services Business Operations",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Senior-Associate--GCC-Services-Business-Operations_R030139",
     "locationsText": "2 Locations",
@@ -949,50 +996,6 @@
       "R029890"
     ],
     "id": "R029890",
-    "source": "Ciena"
-  },
-  {
-    "title": "ASIC Engineer Co-op (Summer 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Engineer-Co-op--Summer-2026-_R030167",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030167"
-    ],
-    "id": "R030167",
-    "source": "Ciena"
-  },
-  {
-    "title": "Solutions Engineer & Introduction Intern - Summer 2026",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Solutions-Engineer---Introduction-Intern---Summer-2026_R030130",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030130"
-    ],
-    "id": "R030130",
-    "source": "Ciena"
-  },
-  {
-    "title": "Solutions Engineer & Introduction Intern - Summer 2026",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Solutions-Engineer---Introduction-Intern---Summer-2026_R030131",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030131"
-    ],
-    "id": "R030131",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Fullstack Developer- Java/Python & Reactjs",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Fullstack-Developer--Java-Python---Reactjs_R030115",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030115"
-    ],
-    "id": "R030115",
     "source": "Ciena"
   },
   {

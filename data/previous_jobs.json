@@ -221,7 +221,7 @@
   },
   {
     "id": "727",
-    "jobOpeningName": "Datapath Software Developer",
+    "jobOpeningName": "Software Developer - Datapath",
     "departmentId": "18550",
     "departmentLabel": "R&D",
     "employmentStatusLabel": "Full-Time",
@@ -241,7 +241,7 @@
   },
   {
     "id": "728",
-    "jobOpeningName": "Senior Datapath Software Developer",
+    "jobOpeningName": "Senior Software Developer - Datapath",
     "departmentId": "18550",
     "departmentLabel": "R&D",
     "employmentStatusLabel": "Full-Time",
@@ -258,6 +258,26 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/728"
+  },
+  {
+    "id": "729",
+    "jobOpeningName": "Senior Software Developer - AI ",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/729"
   },
   {
     "id": "114",
@@ -451,6 +471,47 @@
     "source": "SST"
   },
   {
+    "bulletFields": [
+      "R41304"
+    ],
+    "id": "R41304",
+    "externalPath": "",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Tax Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Tax-Accounting_R38286-1",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38286"
+    ],
+    "id": "R38286",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Graphic Designer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Graphic-Designer_R41310",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41310"
+    ],
+    "id": "R41310",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Private Markets",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Senior-Associate--Private-Markets_R41140",
+    "locationsText": "Union, NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41140"
+    ],
+    "id": "R41140",
+    "source": "SST"
+  },
+  {
     "title": "Sr. Software QA Engineer Hybrid (PA2025Q4JB001)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Software-QA-Engineer-Hybrid--PA2025Q4JB001-_R41421",
     "locationsText": "Kansas City, MO",
@@ -495,48 +556,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Software Engineer, Black Diamond",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Senior-Software-Engineer--Black-Diamond_R41131",
-    "locationsText": "2 Locations",
+    "title": "Back End Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Back-End-Developer_2604031-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41131"
+      "2604031"
     ],
-    "id": "R41131",
-    "source": "SST"
+    "id": "2604031",
+    "source": "CIBC"
   },
   {
-    "title": "Software Engineer, Black Diamond",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Software-Engineer--Black-Diamond_R41130",
-    "locationsText": "Jacksonville, FL",
+    "title": "Sr. Analyst, TechConnect",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--TechConnect_2602385",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41130"
+      "2602385"
     ],
-    "id": "R41130",
-    "source": "SST"
-  },
-  {
-    "title": "GenAI Data Engineer - Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/GenAI-Data-Engineer---Manager_R40717",
-    "locationsText": "Hyderabad, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40717"
-    ],
-    "id": "R40717",
-    "source": "SST"
-  },
-  {
-    "title": "Account Executive - Financial Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Account-Executive_R39796",
-    "locationsText": "San Francisco, CA",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39796"
-    ],
-    "id": "R39796",
-    "source": "SST"
+    "id": "2602385",
+    "source": "CIBC"
   },
   {
     "title": "Information Technology - IT Quality Assurance",
@@ -737,28 +776,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Backend Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Backend-Developer_2603824",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 9 Days Ago",
-    "bulletFields": [
-      "2603824"
-    ],
-    "id": "2603824",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Backend Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Backend-Developer_2603822",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 9 Days Ago",
-    "bulletFields": [
-      "2603822"
-    ],
-    "id": "2603822",
-    "source": "CIBC"
-  },
-  {
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "2 Locations",
@@ -811,6 +828,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Associate, GCC Services Business Operations",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Senior-Associate--GCC-Services-Business-Operations_R030139",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030139"
+    ],
+    "id": "R030139",
+    "source": "Ciena"
+  },
+  {
+    "title": "Lab Support Tech - Night Shift - Onsite in Ottawa",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Lab-Support-Tech---Night-Shift---Onsite-in-Ottawa_R030098-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030098"
+    ],
+    "id": "R030098",
     "source": "Ciena"
   },
   {
@@ -954,28 +993,6 @@
       "R030115"
     ],
     "id": "R030115",
-    "source": "Ciena"
-  },
-  {
-    "title": "Blue Planet Advanced Technical Support: BPUAA Support EMEA",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK/Blue-Planet-Advanced-Technical-Support--BPUAA-Support-EMEA_R029417",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029417"
-    ],
-    "id": "R029417",
-    "source": "Ciena"
-  },
-  {
-    "title": "SRE- Support Engineer_Oracle",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/SRE---Support-Engineer_R029067",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029067"
-    ],
-    "id": "R029067",
     "source": "Ciena"
   },
   {

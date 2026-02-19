@@ -140,26 +140,6 @@
     "url": "https://solace.bamboohr.com/career/careers/705"
   },
   {
-    "id": "721",
-    "jobOpeningName": " Sales Development Representative (SDR) - French Speaking ",
-    "departmentId": "18617",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "London",
-      "state": "London, City of"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/721"
-  },
-  {
     "id": "723",
     "jobOpeningName": "Senior Software Developer - API ",
     "departmentId": "18550",
@@ -343,7 +323,7 @@
     "title": "Desktop IT Engineer / Field Services Technician",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Tokyo-Japan/Desktop-IT-Engineer---Field-Services-Technician_R41272",
     "locationsText": "Tokyo, Japan",
-    "postedOn": "Posted 8 Days Ago",
+    "postedOn": "Posted 9 Days Ago",
     "bulletFields": [
       "R41272"
     ],
@@ -354,7 +334,7 @@
     "title": "Mail/Distribution Services Representative",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Mail-Distribution-Services-Representative_R25046",
     "locationsText": "Kansas City, MO",
-    "postedOn": "Posted 13 Days Ago",
+    "postedOn": "Posted 14 Days Ago",
     "bulletFields": [
       "R25046"
     ],
@@ -364,7 +344,7 @@
   {
     "title": "Client Support Representative",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Client-Support-Representative_R38906",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "bulletFields": [
       "R38906"
     ],
@@ -375,7 +355,7 @@
     "title": "Principal Product Manager SDE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Principle-Product-Manager-SDE_R36919",
     "locationsText": "Waltham, MA",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "bulletFields": [
       "R36919"
     ],
@@ -386,7 +366,7 @@
     "title": "QA Engineer - PA25Q4QALDSJH008",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/QA-Engineer---PA25Q4QALDSJH008_R40351",
     "locationsText": "Denver, CO",
-    "postedOn": "Posted 20 Days Ago",
+    "postedOn": "Posted 21 Days Ago",
     "bulletFields": [
       "R40351"
     ],
@@ -397,7 +377,7 @@
     "title": "Hiring Chartered Accountant Freshers - PUNE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Hiring-Chartered-Accountant-Freshers---PUNE_R35256",
     "locationsText": "Pune, India",
-    "postedOn": "Posted 24 Days Ago",
+    "postedOn": "Posted 25 Days Ago",
     "bulletFields": [
       "R35256"
     ],
@@ -408,7 +388,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Investor-Services---Manager--Associate-Manager_R35078",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 24 Days Ago",
+    "postedOn": "Posted 25 Days Ago",
     "bulletFields": [
       "R35078"
     ],
@@ -419,7 +399,7 @@
     "title": "Lead Software Engineer / Dot Net Full Stack Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India---Block-B/Lead-Software-Engineer---Dot-Net-Developer_R29663",
     "locationsText": "3 Locations",
-    "postedOn": "Posted 24 Days Ago",
+    "postedOn": "Posted 25 Days Ago",
     "bulletFields": [
       "R29663"
     ],
@@ -430,22 +410,11 @@
     "title": "Senior Quant Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Quant-Developer_R35179",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 24 Days Ago",
+    "postedOn": "Posted 25 Days Ago",
     "bulletFields": [
       "R35179"
     ],
     "id": "R35179",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Project Consultant (Microsoft Dynamics 365/ Power Platform)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Project-Consultant--Microsoft-Dynamics-365--Power-Platform-_R39658",
-    "locationsText": "Toronto, Canada",
-    "postedOn": "Posted 30 Days Ago",
-    "bulletFields": [
-      "R39658"
-    ],
-    "id": "R39658",
     "source": "SST"
   },
   {
@@ -471,21 +440,54 @@
     "source": "SST"
   },
   {
-    "title": "Senior AI Platform Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-AI-Platform-Engineer_R41312-1",
-    "locationsText": "2 Locations",
+    "title": "Manager - Private Markets",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Manager---Private-Markets_R41334-1",
+    "locationsText": "London - 1 Ropemaker Street",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41312"
+      "R41334"
     ],
-    "id": "R41312",
+    "id": "R41334",
+    "source": "SST"
+  },
+  {
+    "title": "Software Development Engineer In Test",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Software-Development-Engineer-In-Test_R38121",
+    "locationsText": "Hyderabad, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38121"
+    ],
+    "id": "R38121",
+    "source": "SST"
+  },
+  {
+    "title": "Client Liaison Lead Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Lichfield-UK/Client-Liaison-Lead-Specialist_R41381",
+    "locationsText": "Lichfield, UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41381"
+    ],
+    "id": "R41381",
+    "source": "SST"
+  },
+  {
+    "title": "PC2 - PA26DBOQ2OMI001 (Specialist Data Analyst)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/PC2---PA26DBOQ2OMI001--Specialist-Data-Analyst-_R41098",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41098"
+    ],
+    "id": "R41098",
     "source": "SST"
   },
   {
     "title": "Senior Sales Executive",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Johannesburg-South-Africa/Sales-Executive--SS-C-Algorithmics--Riyadh--KSA-_R31380",
     "locationsText": "Johannesburg, South Africa",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R31380"
     ],
@@ -493,10 +495,43 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate, Private Markets (Data Services)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Senior-Associate--Private-Markets--Data-Services-_R39788",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R39788"
+    ],
+    "id": "R39788",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Private Equity/Hedge Tax",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Private-Equity-Hedge-Tax_R38949",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R38949"
+    ],
+    "id": "R38949",
+    "source": "SST"
+  },
+  {
+    "title": "Senior AI Platform Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-AI-Platform-Engineer_R41312-1",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R41312"
+    ],
+    "id": "R41312",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Tax Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Tax-Accounting_R38286-1",
     "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R38286"
     ],
@@ -504,65 +539,54 @@
     "source": "SST"
   },
   {
-    "title": "Senior Graphic Designer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Graphic-Designer_R41310",
-    "locationsText": "5 Locations",
+    "title": "Sr. Consultant, Solution Design",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Solution-Design_2523533",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41310"
+      "2523533"
     ],
-    "id": "R41310",
-    "source": "SST"
+    "id": "2523533",
+    "source": "CIBC"
   },
   {
-    "title": "Senior Associate, Private Markets",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Senior-Associate--Private-Markets_R41140",
-    "locationsText": "Union, NJ",
-    "postedOn": "Posted Today",
+    "title": "Senior Backend Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Senior-Developer_2519108-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
-      "R41140"
+      "2519108"
     ],
-    "id": "R41140",
-    "source": "SST"
+    "id": "2519108",
+    "source": "CIBC"
   },
   {
-    "title": "Sr. Software QA Engineer Hybrid (PA2025Q4JB001)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Software-QA-Engineer-Hybrid--PA2025Q4JB001-_R41421",
-    "locationsText": "Kansas City, MO",
-    "postedOn": "Posted Today",
+    "title": "Consultant,  Change and Release Management (1 year contract/1 year secondment)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant---Change-and-Release-Management--1-year-contract-1-year-secondment-_2604025",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
-      "R41421"
+      "2604025"
     ],
-    "id": "R41421",
-    "source": "SST"
+    "id": "2604025",
+    "source": "CIBC"
   },
   {
-    "title": "Financial Operations Consulting & Support Analyst ( PA-DSR-Q2_2026-R001)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Financial-Operations-Consulting---Support-Analyst---PA-DSR-Q2-2026-R001-_R41364",
-    "locationsText": "Kansas City, MO",
-    "postedOn": "Posted Today",
+    "title": "Back End Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Back-End-Developer_2604147",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
-      "R41364"
+      "2604147"
     ],
-    "id": "R41364",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate_R41204",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41204"
-    ],
-    "id": "R41204",
-    "source": "SST"
+    "id": "2604147",
+    "source": "CIBC"
   },
   {
     "title": "Back End Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Back-End-Developer_2604031-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2604031"
     ],
@@ -570,21 +594,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Analyst, TechConnect",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--TechConnect_2602385",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "2602385"
-    ],
-    "id": "2602385",
-    "source": "CIBC"
-  },
-  {
     "title": "Information Technology - IT Quality Assurance",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Information-Technology---IT-Quality-Assurance_2602839",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2602839"
     ],
@@ -595,7 +608,7 @@
     "title": "Senior Cloud Solution Designer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Cloud-Solution-Designer_2603972",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2603972"
     ],
@@ -606,7 +619,7 @@
     "title": "Senior Manager, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Application-Development_2516209",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2516209"
     ],
@@ -617,7 +630,7 @@
     "title": "Sr Analyst, Production Application Support",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--Production-Application-Support_2602836",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2602836"
     ],
@@ -628,7 +641,7 @@
     "title": "Consultant, Business Systems Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2523788-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2523788"
     ],
@@ -639,7 +652,7 @@
     "title": "Infrastructure Management Consultant \u2013 ITAM Data & Governance",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Infrastructure-Management-Consultant---ITAM-Data---Governance_2603002",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2603002"
     ],
@@ -650,7 +663,7 @@
     "title": "Oracle OBIEE Application Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Oracle-OBIEE-Application-Developer_2600845",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2600845"
     ],
@@ -661,7 +674,7 @@
     "title": "Sr. Consultant, Back End Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer_2602746",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2602746"
     ],
@@ -672,7 +685,7 @@
     "title": "Sr. Manager, Back End Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Back-End-Developer_2603335",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2603335"
     ],
@@ -683,7 +696,7 @@
     "title": "Identity Engineer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Identity-Engineer_2603763",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2603763"
     ],
@@ -694,7 +707,7 @@
     "title": "Application Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2602625",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "2602625"
     ],
@@ -705,7 +718,7 @@
     "title": "Platform Engineer - MLOps",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Machine-Learning-Platform-Engineer_2518481",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "2518481"
     ],
@@ -716,7 +729,7 @@
     "title": "Consultant, Production Application Support (Bilingual- Spanish)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support--Bilingual--Spanish-_2527849",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
+    "postedOn": "Posted 9 Days Ago",
     "bulletFields": [
       "2527849"
     ],
@@ -727,7 +740,7 @@
     "title": "Sr. Business Systems Analyst",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Business-Systems-Analyst_2603162",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
+    "postedOn": "Posted 9 Days Ago",
     "bulletFields": [
       "2603162"
     ],
@@ -738,7 +751,7 @@
     "title": "Sr. BSA  (Portfolio management)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Functional-Lead---Portfolio-management-_2600108",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
+    "postedOn": "Posted 9 Days Ago",
     "bulletFields": [
       "2600108"
     ],
@@ -746,43 +759,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Manager, Application Development (GenAI)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2519794",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2519794"
-    ],
-    "id": "2519794",
-    "source": "CIBC"
-  },
-  {
-    "title": "Director, Solution Design",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Solution-Design_2602742",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2602742"
-    ],
-    "id": "2602742",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Application Development (Archer Development)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--Archer-_2528859",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 9 Days Ago",
-    "bulletFields": [
-      "2528859"
-    ],
-    "id": "2528859",
-    "source": "CIBC"
-  },
-  {
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "R029881"
     ],
@@ -793,7 +773,7 @@
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R029960"
     ],
@@ -804,7 +784,7 @@
     "title": "Chief Information Officer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Chief-Information-Officer_R029876",
     "locationsText": "Baltimore",
-    "postedOn": "Posted 23 Days Ago",
+    "postedOn": "Posted 24 Days Ago",
     "bulletFields": [
       "R029876"
     ],
@@ -815,7 +795,7 @@
     "title": "Vice President, Global Internal Audit",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Vice-President--Global-Internal-Audit_R029491",
     "locationsText": "Baltimore",
-    "postedOn": "Posted 30 Days Ago",
+    "postedOn": "Posted 30+ Days Ago",
     "bulletFields": [
       "R029491"
     ],
@@ -834,6 +814,39 @@
     "source": "Ciena"
   },
   {
+    "title": "Specialist, Global Technical Support",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Specialist--Global-Technical-Support_R029844",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029844"
+    ],
+    "id": "R029844",
+    "source": "Ciena"
+  },
+  {
+    "title": "Critical Incident, Change and Problem Lead",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Critical-Incident--Change-and-Problem-Lead_R030095",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R030095"
+    ],
+    "id": "R030095",
+    "source": "Ciena"
+  },
+  {
+    "title": "Ciena Government Solutions Sales Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Ciena-Government-Solutions-Sales-Engineer_R030175",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R030175"
+    ],
+    "id": "R030175",
+    "source": "Ciena"
+  },
+  {
     "title": "Embedded Software Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Embedded-Software-Engineer_R030114",
     "locationsText": "Gurugram",
@@ -848,7 +861,7 @@
     "title": "Analog Engineering Intern",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Analog-Engineering-Intern_R030194",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030194"
     ],
@@ -859,7 +872,7 @@
     "title": "\u00a0Software Engineer - C and Networking",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/XMLNAME--Software-Engineer---C-and-Networking_R029690",
     "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R029690"
     ],
@@ -867,21 +880,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Navigator NCS Product Verification Automation Co-op",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Navigator-NCS-Product-Verification-Automation-Co-op_R030169",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030169"
-    ],
-    "id": "R030169",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior Associate, GCC Services Business Operations",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Senior-Associate--GCC-Services-Business-Operations_R030139",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030139"
     ],
@@ -892,7 +894,7 @@
     "title": "Lab Support Tech - Night Shift - Onsite in Ottawa",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Lab-Support-Tech---Night-Shift---Onsite-in-Ottawa_R030098-1",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030098"
     ],
@@ -903,7 +905,7 @@
     "title": "Analog Design Intern",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Analog-Design-Intern_R030184",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030184"
     ],
@@ -911,21 +913,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Critical Incident, Change and Problem Lead",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Critical-Incident--Change-and-Problem-Lead_R030095",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030095"
-    ],
-    "id": "R030095",
-    "source": "Ciena"
-  },
-  {
     "title": "Director, Regional Operations",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pattaya/Director--Regional-Operations_R030180",
     "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030180"
     ],
@@ -936,7 +927,7 @@
     "title": "Specialist, Global Technical Support for Navigator Network Control Suite",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Manila/Specialist--Global-Technical-Support-for-Navigator-Network-Control-Suite_R029996",
     "locationsText": "Manila",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R029996"
     ],
@@ -947,7 +938,7 @@
     "title": "Consultant Partner Sales",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Tokyo/Consultant-Partner-Sales_R030189",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030189"
     ],
@@ -958,7 +949,7 @@
     "title": "UX Engineering Co-Op",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/UX-Engineering-Co-Op_R030160",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R030160"
     ],
@@ -969,7 +960,7 @@
     "title": "Software Delivery Architect \u2013 Assurance",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Software-Delivery-Architect---Assurance_R028733",
     "locationsText": "Remote-Canada",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R028733"
     ],
@@ -980,7 +971,7 @@
     "title": "Service Partner Management Consultant",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Service-Partner-Management-Consultant_R029331",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R029331"
     ],
@@ -988,21 +979,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Optical Products Cost Reduction Program Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Optical-Products-Cost-Reduction-Program-Manager_R029890",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029890"
-    ],
-    "id": "R029890",
-    "source": "Ciena"
-  },
-  {
     "title": "Sr Mechanical Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Sr-Mechanical-Engineer_R004043",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R004043"
     ],
@@ -2322,6 +2302,132 @@
     "source": "Evertz"
   },
   {
+    "id": 160629,
+    "type": "careers",
+    "title": "Senior Front End Engineer",
+    "link": "https://www.surveymonkey.com/careers/7619346-senior-front-end-engineer/",
+    "path": "/careers/7619346-senior-front-end-engineer/",
+    "date": "2026-02-18T16:00:14",
+    "date_modified": "2026-02-18T16:00:14",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Front End Engineer",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 471,
+        "slug": "heredia",
+        "name": "Heredia, Costa Rica",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/heredia/",
+        "path": "/careers/office/heredia/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 160625,
+    "type": "careers",
+    "title": "Senior Software Engineer I",
+    "link": "https://www.surveymonkey.com/careers/7584084-senior-software-engineer-i/",
+    "path": "/careers/7584084-senior-software-engineer-i/",
+    "date": "2026-02-18T16:00:11",
+    "date_modified": "2026-02-18T16:00:11",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer I",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 160627,
+    "type": "careers",
+    "title": "Senior Technical Program Manager II",
+    "link": "https://www.surveymonkey.com/careers/7584088-senior-technical-program-manager-ii/",
+    "path": "/careers/7584088-senior-technical-program-manager-ii/",
+    "date": "2026-02-18T16:00:11",
+    "date_modified": "2026-02-18T16:00:11",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Technical Program Manager II",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 393,
+        "slug": "ottawa",
+        "name": "Ottawa, Canada",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
+        "path": "/careers/office/ottawa/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
     "id": 160433,
     "type": "careers",
     "title": "Senior Software Engineer II",
@@ -2694,90 +2800,6 @@
         "description": "",
         "link": "https://www.surveymonkey.com/careers/office/global/",
         "path": "/careers/office/global/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 158080,
-    "type": "careers",
-    "title": "Senior Software Engineer II",
-    "link": "https://www.surveymonkey.com/careers/7404623-senior-software-engineer-ii/",
-    "path": "/careers/7404623-senior-software-engineer-ii/",
-    "date": "2026-01-15T02:00:06",
-    "date_modified": "2026-01-15T02:00:06",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer II",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 470,
-        "slug": "bengaluru",
-        "name": "Bengaluru, India",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
-        "path": "/careers/office/bengaluru/"
-      },
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 158060,
-    "type": "careers",
-    "title": "Senior Service Delivery Manager II &#8211; Jira &#038; Automation",
-    "link": "https://www.surveymonkey.com/careers/7515025-senior-service-delivery-manager-ii-jira-automation/",
-    "path": "/careers/7515025-senior-service-delivery-manager-ii-jira-automation/",
-    "date": "2026-01-14T14:00:07",
-    "date_modified": "2026-01-14T14:00:07",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Service Delivery Manager II &#8211; Jira &#038; Automation",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      },
-      {
-        "id": 394,
-        "slug": "portland",
-        "name": "Portland, OR",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/portland/",
-        "path": "/careers/office/portland/"
       }
     ],
     "job_location": "",

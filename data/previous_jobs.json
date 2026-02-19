@@ -460,6 +460,17 @@
     "source": "SST"
   },
   {
+    "title": "Manager; Hedge Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Manager--Hedge-Fund-Accounting_R41380",
+    "locationsText": "Mississauga, Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41380"
+    ],
+    "id": "R41380",
+    "source": "SST"
+  },
+  {
     "title": "Summer 2026 Intern",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Los-Angeles-CA/Summer-2026-Intern_R40998",
     "locationsText": "Los Angeles, CA",
@@ -548,15 +559,37 @@
     "source": "SST"
   },
   {
-    "title": "Client Liaison Lead Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Lichfield-UK/Client-Liaison-Lead-Specialist_R41381",
-    "locationsText": "Lichfield, UK",
+    "title": "Analyst, Funding & Liquidity Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Analyst--Funding---Liquidity-Management_2604525",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41381"
+      "2604525"
     ],
-    "id": "R41381",
-    "source": "SST"
+    "id": "2604525",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Application Development (Payments - Visa/Mastercard/Interac)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--Payments---Visa-Mastercard-Interac-_2603798-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2603798"
+    ],
+    "id": "2603798",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Consultant - Solution Designer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant---Solution-Designer_2524263-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2524263"
+    ],
+    "id": "2524263",
+    "source": "CIBC"
   },
   {
     "title": "Automation Consultant",
@@ -746,39 +779,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Application Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2602625",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2602625"
-    ],
-    "id": "2602625",
-    "source": "CIBC"
-  },
-  {
-    "title": "Platform Engineer - MLOps",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Machine-Learning-Platform-Engineer_2518481",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2518481"
-    ],
-    "id": "2518481",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Production Application Support (Bilingual- Spanish)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support--Bilingual--Spanish-_2527849",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 9 Days Ago",
-    "bulletFields": [
-      "2527849"
-    ],
-    "id": "2527849",
-    "source": "CIBC"
-  },
-  {
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "2 Locations",
@@ -831,6 +831,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Graphic Designer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Senior-Graphic-Designer_R029964",
+    "locationsText": "Remote-Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029964"
+    ],
+    "id": "R029964",
+    "source": "Ciena"
+  },
+  {
+    "title": "Photonics New Product Introduction Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-New-Product-Introduction-Engineer_R029585",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029585"
+    ],
+    "id": "R029585",
     "source": "Ciena"
   },
   {
@@ -974,28 +996,6 @@
       "R030184"
     ],
     "id": "R030184",
-    "source": "Ciena"
-  },
-  {
-    "title": "Director, Regional Operations",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pattaya/Director--Regional-Operations_R030180",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030180"
-    ],
-    "id": "R030180",
-    "source": "Ciena"
-  },
-  {
-    "title": "Specialist, Global Technical Support for Navigator Network Control Suite",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Manila/Specialist--Global-Technical-Support-for-Navigator-Network-Control-Suite_R029996",
-    "locationsText": "Manila",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029996"
-    ],
-    "id": "R029996",
     "source": "Ciena"
   },
   {
@@ -1301,7 +1301,7 @@
     "state": "ON",
     "zip": "L7L5Z9",
     "department": "Testing (Electronic)",
-    "description": "<p>As a member of the Test Department, you will be part of the manufacturing group that tests our products.<br>&#160;</p><p><strong>Responsibilities:</strong></p><ul><li>Build and test the latest film, television, and telecommunications equipment that incorporates the most advanced components available to the industry</li><li>Set up and operate specialized and standard test equipment to diagnose, test and analyze the performance of electrical and electronic components, assemblies and systems for performance, reliability and usability</li><li>Record and report test results</li><li>Provide training to team members on technical procedures and assemblies</li><li>Build, operate and update test jigs</li><li>Participating in delivering quality products on-time to our customers</li><li>Troubleshoot and repair to the component level</li><li>Follow documented procedures and processes related to testing and troubleshooting i.e Engineering Change Orders (ECO) and AS/400</li></ul><p><strong>Qualifications:</strong></p><ul><li>Electronics / Computer Engineering Diploma</li><li>Experience in electronics testing and troubleshooting is an asset</li><li>Familiar with troubleshooting techniques and the ability to read technical drawings and schematics</li><li>Strong manual dexterity and experience working with test measuring tools</li><li>Ability to diagnose and correct root causes of equipment and product/process related failures</li><li>Excellent verbal and written communication skills, problem solving ability, and time management skills</li><li>Enjoy working in a fast-paced environment</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$38K - $42K CAD<br><br><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "description": "<p>As a member of the Test Department, you will be part of the manufacturing group that tests our products.<br>&#160;</p><p><strong>Responsibilities:</strong></p><ul><li>Build and test the latest film, television, and telecommunications equipment that incorporates the most advanced components available to the industry</li><li>Set up and operate specialized and standard test equipment to diagnose, test and analyze the performance of electrical and electronic components, assemblies and systems for performance, reliability and usability</li><li>Record and report test results</li><li>Provide training to team members on technical procedures and assemblies</li><li>Build, operate and update test jigs</li><li>Participating in delivering quality products on-time to our customers</li><li>Troubleshoot and repair to the component level</li><li>Follow documented procedures and processes related to testing and troubleshooting i.e Engineering Change Orders (ECO) and AS/400</li></ul><p><strong>Qualifications:</strong></p><ul><li>Electronics / Computer Engineering Diploma</li><li>Experience in electronics testing and troubleshooting is an asset</li><li>Familiar with troubleshooting techniques and the ability to read technical drawings and schematics</li><li>Strong manual dexterity and experience working with test measuring tools</li><li>Ability to diagnose and correct root causes of equipment and product/process related failures</li><li>Excellent verbal and written communication skills, problem solving ability, and time management skills</li><li>Enjoy working in a fast-paced environment</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$42K - $44K CAD<br><br><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "v3cJ0Cm1wQ",
     "minimum_public_salary": null,
@@ -1381,7 +1381,7 @@
     "state": "ON",
     "zip": "L7L5Z9",
     "department": "Testing (Electronic)",
-    "description": "<p><strong>Responsibilities:</strong></p><ul><li>Troubleshoot and repair a variety of complex electronic circuits to the component level</li><li>Provide failure analysis and/or root cause analysis of defects and/or field returns</li><li>Set up and operate specialized and standard test equipment to diagnose, test and analyze the performance of electrical and electronic components, assemblies and systems</li><li>Build &amp; test the latest film &amp; television equipment that incorporates the most advanced components available to the industry</li><li>Function as a member of the production team</li><li>Any other duties as required.</li></ul><p><strong>Qualifications:</strong></p><ul><li>2 year Electrical Technician or 3 year Electrical Technology Co-op program.</li><li>Experience in electronics testing and troubleshooting is required.</li><li>Problem-solving ability and able to react to changing situations</li><li>Excellent verbal and written communication skills, problem solving ability, time management skills and interpersonal skills.</li><li>Positive attitude and able to work in a fast paced environment</li><li>Be results oriented</li><li>Be self-motivated</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$38K - $42K CAD<br><br><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "description": "<p><strong>Responsibilities:</strong></p><ul><li>Troubleshoot and repair a variety of complex electronic circuits to the component level</li><li>Provide failure analysis and/or root cause analysis of defects and/or field returns</li><li>Set up and operate specialized and standard test equipment to diagnose, test and analyze the performance of electrical and electronic components, assemblies and systems</li><li>Build &amp; test the latest film &amp; television equipment that incorporates the most advanced components available to the industry</li><li>Function as a member of the production team</li><li>Any other duties as required.</li></ul><p><strong>Qualifications:</strong></p><ul><li>2 year Electrical Technician or 3 year Electrical Technology Co-op program.</li><li>Experience in electronics testing and troubleshooting is required.</li><li>Problem-solving ability and able to react to changing situations</li><li>Excellent verbal and written communication skills, problem solving ability, time management skills and interpersonal skills.</li><li>Positive attitude and able to work in a fast paced environment</li><li>Be results oriented</li><li>Be self-motivated</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$44K - $46K CAD<br><br><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "HoIPjoNfnN",
     "minimum_public_salary": null,

@@ -471,6 +471,39 @@
     "source": "SST"
   },
   {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Senior-Software-Engineer_R40493",
+    "locationsText": "Mississauga, Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40493"
+    ],
+    "id": "R40493",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Product Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Senior-Product-Manager_R41194",
+    "locationsText": "Mississauga, Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41194"
+    ],
+    "id": "R41194",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Manager, Tax BrightLine Product Support/Business Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Associate-Manager--Tax-BrightLine-Product-Support-Business-Analyst_R41240",
+    "locationsText": "Boston MA - One Post Office Square",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41240"
+    ],
+    "id": "R41240",
+    "source": "SST"
+  },
+  {
     "title": "Python Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Sr-Python-Software-Engineer_R34914",
     "locationsText": "Mumbai, India",
@@ -523,39 +556,6 @@
       "R40731"
     ],
     "id": "R40731",
-    "source": "SST"
-  },
-  {
-    "title": "Engineer - Engineering Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Engineer---Engineering-Services_R41005-1",
-    "locationsText": "Boston MA - One Post Office Square",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41005"
-    ],
-    "id": "R41005",
-    "source": "SST"
-  },
-  {
-    "title": "Associate - Valuations Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Associate---Valuations-Analyst_R41408",
-    "locationsText": "London - 1 Ropemaker Street",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41408"
-    ],
-    "id": "R41408",
-    "source": "SST"
-  },
-  {
-    "title": "Solutions Consultant, Eclipse Client Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Solutions-Consultant--Eclipse-Client-Services_R41351",
-    "locationsText": "London, UK",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41351"
-    ],
-    "id": "R41351",
     "source": "SST"
   },
   {
@@ -834,6 +834,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Software Engineer (Security) - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Software-Engineer--Security----New-Grad_R030219",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030219"
+    ],
+    "id": "R030219",
+    "source": "Ciena"
+  },
+  {
     "title": "Customer Technical Advocate",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK-Zone-2/Customer-Technical-Advocate_R030165",
     "locationsText": "Remote-UK Zone 2",
@@ -919,14 +930,6 @@
       "R030093"
     ],
     "id": "R030093",
-    "source": "Ciena"
-  },
-  {
-    "bulletFields": [
-      "R030204"
-    ],
-    "id": "R030204",
-    "externalPath": "",
     "source": "Ciena"
   },
   {

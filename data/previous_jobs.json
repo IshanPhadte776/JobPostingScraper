@@ -471,7 +471,29 @@
     "source": "SST"
   },
   {
-    "title": "Principal Client Relationship Executive- PA-RM-Q1-2026-R002",
+    "title": "Lead Business Systems Analyst PA2026CMO-R001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Lead-Business-Systems-Analyst-PA2026CMO-R001_R41308",
+    "locationsText": "6 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41308"
+    ],
+    "id": "R41308",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Hedge Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Senior-Associate--Hedge-Fund-Accounting_R41030-1",
+    "locationsText": "Dallas, TX",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41030"
+    ],
+    "id": "R41030",
+    "source": "SST"
+  },
+  {
+    "title": "Principal Client Relationship Executive, Brokerage Solutions - PA-RM-Q1-2026-R002",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/Principal-Client-Relationship-Executive--PA-RM-Q1-2026-R002_R41468",
     "locationsText": "Remote - New York, US",
     "postedOn": "Posted Today",
@@ -537,26 +559,37 @@
     "source": "SST"
   },
   {
-    "title": "PA26DBNQ1ADD024 -  S1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/PA26DBNQ1ADD024----S1_R41258",
-    "locationsText": "Mumbai, India",
+    "title": "Consultant, Application Development and Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development-and-Support_2602930",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41258"
+      "2602930"
     ],
-    "id": "R41258",
-    "source": "SST"
+    "id": "2602930",
+    "source": "CIBC"
   },
   {
-    "title": "Principal Fund Accountant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Principal-Engagement-Specialist_R40371",
-    "locationsText": "3 Locations",
+    "title": "Consultant, Production Application Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2604382",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40371"
+      "2604382"
     ],
-    "id": "R40371",
-    "source": "SST"
+    "id": "2604382",
+    "source": "CIBC"
+  },
+  {
+    "title": "Director, Application Development, Business Banking Technology",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Application-Development--Business-Banking-Technology_2604162-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2604162"
+    ],
+    "id": "2604162",
+    "source": "CIBC"
   },
   {
     "title": "Software Development Engineer in Test (SDET)",
@@ -746,39 +779,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Backend Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Senior-Developer_2519108-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2519108"
-    ],
-    "id": "2519108",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant,  Change and Release Management (1 year contract/1 year secondment)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant---Change-and-Release-Management--1-year-contract-1-year-secondment-_2604025",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2604025"
-    ],
-    "id": "2604025",
-    "source": "CIBC"
-  },
-  {
-    "title": "Back End Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Back-End-Developer_2604147",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2604147"
-    ],
-    "id": "2604147",
-    "source": "CIBC"
-  },
-  {
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "2 Locations",
@@ -831,6 +831,39 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Associate Technical Support CPO",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Technical-Support-CPO_R030035",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030035"
+    ],
+    "id": "R030035",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Sales Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Sales-Engineer_R029421",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029421"
+    ],
+    "id": "R029421",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior FPGA Verification Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-FPGA-Verification-Engineer_R030233",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030233"
+    ],
+    "id": "R030233",
     "source": "Ciena"
   },
   {
@@ -963,39 +996,6 @@
       "R030165"
     ],
     "id": "R030165",
-    "source": "Ciena"
-  },
-  {
-    "title": "Paid Media Lead",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Paid-Media-Lead_R030171",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030171"
-    ],
-    "id": "R030171",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Engineer Intern (Security)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Software-Engineer-Intern--Security-_R030221",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030221"
-    ],
-    "id": "R030221",
-    "source": "Ciena"
-  },
-  {
-    "title": "Talent Acquisition Associate - Early In Career Programs",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Talent-Acquisition-Associate---Early-In-Career-Programs_R030225",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030225"
-    ],
-    "id": "R030225",
     "source": "Ciena"
   },
   {

@@ -462,6 +462,39 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City---Broadway-Square-Garage/Sr-Software-Engineer_R40559-1",
+    "locationsText": "Kansas City - Broadway Square Garage",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40559"
+    ],
+    "id": "R40559",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Associate--Investor-Services_R35948",
+    "locationsText": "Toronto, Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35948"
+    ],
+    "id": "R35948",
+    "source": "SST"
+  },
+  {
+    "title": "Director, Digital Investment Solutions/Pre-Sales PA25Q4DIDISJH058",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Director--Digital-Investment-Solutions-Pre-Sales-PA25Q4DIDISJH058_R40813",
+    "locationsText": "London, UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40813"
+    ],
+    "id": "R40813",
+    "source": "SST"
+  },
+  {
     "title": "PA2026Q1JB014 - QA Engineer (MindTree Replace Tushar with Perm)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/PA2026Q1JB014---QA-Engineer--MindTree-Replace-Tushar-with-Perm-_R41267",
     "locationsText": "Pune, India",
@@ -506,37 +539,26 @@
     "source": "SST"
   },
   {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate_R41202",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "title": "Senior Manager, Strategy & Partnerships \u2013 Cybersecurity, Third Party & Resilience",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Strategy---Partnerships---Cybersecurity--Third-Party---Resilience_2605034",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41202"
+      "2605034"
     ],
-    "id": "R41202",
-    "source": "SST"
+    "id": "2605034",
+    "source": "CIBC"
   },
   {
-    "title": "Junior Order Management Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Junior-Order-Management-Specialist_R41270-1",
-    "locationsText": "2 Locations",
+    "title": "Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2604866-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41270"
+      "2604866"
     ],
-    "id": "R41270",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Solutions Consultant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Karnataka/Senior-Solutions-Consultant_R40779",
-    "locationsText": "Remote - Karnataka",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40779"
-    ],
-    "id": "R40779",
-    "source": "SST"
+    "id": "2604866",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Business Systems Analyst, Enterprise Technology",
@@ -737,28 +759,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Business-Systems-Analysis_2604657",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2604657"
-    ],
-    "id": "2604657",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Privilege Access Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Privilege-Access-Management_2604208",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2604208"
-    ],
-    "id": "2604208",
-    "source": "CIBC"
-  },
-  {
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "2 Locations",
@@ -811,6 +811,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "DevOps/Delivery Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/DevOps-Delivery-Engineer_R030248",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030248"
+    ],
+    "id": "R030248",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior ASIC Synthesis and STA Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-ASIC-Synthesis-and-STA-Engineer_R030199",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030199"
+    ],
+    "id": "R030199",
     "source": "Ciena"
   },
   {
@@ -957,28 +979,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Embedded Software Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Senior-Embedded-Software-Engineer_R030224-1",
-    "locationsText": "New Providence - NJ",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030224"
-    ],
-    "id": "R030224",
-    "source": "Ciena"
-  },
-  {
-    "title": "\u00c9tudiant en technologie du g\u00e9nie physique - Student in Physical Engineering Technology",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/tudiant-en-technologie-du-gnie-physique---Student-in-Physical-Engineering-Technology_R030241",
-    "locationsText": "Quebec",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030241"
-    ],
-    "id": "R030241",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior Platform Architect",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Field/Principal-Cloud-DevOps-Engineer---Operations_R003792",
     "locationsText": "5 Locations",
@@ -1014,7 +1014,7 @@
     "state": "ON",
     "zip": "L7L 5Z9",
     "department": "Administration",
-    "description": "A customer facing role working with the SLA Customer Coordinators to provide administrative support for SLA (Service Level Agreements) customers. The employee collaborates with internal contacts, including production and logistics, to expedite and schedule repair shipments, runs reports to help with the day-to-day processes of the team to ensure all is running smoothly. They also follow up directly with customers on status for any outstanding RMAs or purchase orders, escalating to management and sales when necessary.<br><br><strong>Responsibilities:&#160;</strong><ul><li>Enter orders as needed in as400 associated with service requests&#160;</li><li>Occasionally create service loan EPCNs &amp; agreements in QuoteWeb</li><li>Provide status updates to customers regarding repairs</li><li>Request quotes from Sales Administration as required</li><li>Issue loan return RMAs to customers with service loans out</li><li>Communicate with Failure Analysis (FA) and evTOC Service teams as well as customers regarding basic status questions or issues</li><li>Process/invoice serial numbers in AS400 as required</li><li>Follow up on service loan returns with customers</li><li>Review existing and new SLA's with Customer Coordinator to ensure overall understanding</li><li>Pull reports and format information for End of Sale and End of Life product history</li><li>Pull and maintain reports for SLA Customer Coordinators</li><li>Administrative duties (filing, interdepartmental communication, etc.)</li><li>Additional tasks as required</li></ul><strong>Qualifications:</strong><ul><li>Post-Secondary Education in related field (Business, Administration) or related experience</li><li>Excellent verbal and written communication skills, critical thinking skills, problem-solving ability, time management skills and interpersonal skills</li><li>Ability to work in a fast-paced environment</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;</li><li>Some customer service experience is preferred</li></ul><p><strong>Skills:</strong></p><ul><li>Detail-oriented</li><li>Time management and multitasking</li><li>Ability to work in a fast-paced environment</li><li>Ability to adapt to new and changing processes</li><li>Ability to work independently and as a team</li><li>Strong verbal and written communication</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery. Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers. With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "description": "A customer facing role working with the SLA Customer Coordinators to provide administrative support for SLA (Service Level Agreements) customers. The employee collaborates with internal contacts, including production and logistics, to expedite and schedule repair shipments, runs reports to help with the day-to-day processes of the team to ensure all is running smoothly. They also follow up directly with customers on status for any outstanding RMAs or purchase orders, escalating to management and sales when necessary.<br><br><strong>Responsibilities:&#160;</strong><ul><li>Enter orders as needed in AS400 associated with service requests&#160;</li><li>Occasionally create service loan EPCNs &amp; agreements in QuoteWeb</li><li>Provide status updates to customers regarding repairs</li><li>Request quotes from Sales Administration as required</li><li>Issue loan return RMAs to customers with service loans out</li><li>Communicate with Failure Analysis (FA) and evTOC Service teams as well as customers regarding basic status questions or issues</li><li>Process/invoice serial numbers in AS400 as required</li><li>Follow up on service loan returns with customers</li><li>Review existing and new SLA's with Customer Coordinator to ensure overall understanding</li><li>Pull reports and format information for End of Sale and End of Life product history</li><li>Pull and maintain reports for SLA Customer Coordinators</li><li>Administrative duties (filing, interdepartmental communication, etc.)</li><li>Additional tasks as required</li></ul><strong>Qualifications:</strong><ul><li>Post-Secondary Education in related field (Business, Administration) or related experience</li><li>Excellent verbal and written communication skills, critical thinking skills, problem-solving ability, time management skills and interpersonal skills</li><li>Ability to work in a fast-paced environment</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;</li><li>Some customer service experience is preferred</li></ul><p><strong>Skills:</strong></p><ul><li>Detail-oriented</li><li>Time management and multitasking</li><li>Ability to work in a fast-paced environment</li><li>Ability to adapt to new and changing processes</li><li>Ability to work independently and as a team</li><li>Strong verbal and written communication</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery. Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers. With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "3n8iN7oMG2",
     "minimum_public_salary": null,

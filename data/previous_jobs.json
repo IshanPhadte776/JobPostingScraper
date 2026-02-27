@@ -482,6 +482,39 @@
     "source": "SST"
   },
   {
+    "title": "Senior Site Reliability Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Senior-Site-Reliability-Engineer_R41608",
+    "locationsText": "Remote - Florida, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41608"
+    ],
+    "id": "R41608",
+    "source": "SST"
+  },
+  {
+    "title": "Associate National Investment Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate-National-Investment-Consultant_R41303-1",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41303"
+    ],
+    "id": "R41303",
+    "source": "SST"
+  },
+  {
+    "title": "National Investment Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/National-Investment-Consultant_R41301",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41301"
+    ],
+    "id": "R41301",
+    "source": "SST"
+  },
+  {
     "title": "Sales Executive",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-Jersey-US/Sales-Executive_R41081",
     "locationsText": "Remote - New Jersey, US",
@@ -523,39 +556,6 @@
       "R35765"
     ],
     "id": "R35765",
-    "source": "SST"
-  },
-  {
-    "title": "Product Manager Specialist: CoreCommodity",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Colorado-US/Product-Manager-Specialist--CoreCommodity_R41676",
-    "locationsText": "Remote - Colorado, US",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41676"
-    ],
-    "id": "R41676",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Oracle Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Oracle-Developer_R31712",
-    "locationsText": "Hyderabad, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R31712"
-    ],
-    "id": "R31712",
-    "source": "SST"
-  },
-  {
-    "title": "Intern",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Intern_R41311",
-    "locationsText": "Union, NJ",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41311"
-    ],
-    "id": "R41311",
     "source": "SST"
   },
   {
@@ -834,6 +834,39 @@
     "source": "Ciena"
   },
   {
+    "title": "CO-OP/Intern: AI Software Developer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/CO-OP-Intern--AI-Software-Developer_R030079",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030079"
+    ],
+    "id": "R030079",
+    "source": "Ciena"
+  },
+  {
+    "title": "DevOps/Delivery Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/DevOps-Delivery-Engineer_R030248",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030248"
+    ],
+    "id": "R030248",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Leader, EMS Commercial Management",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Senior-Leader--EMS-Commercial-Management_R030252",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030252"
+    ],
+    "id": "R030252",
+    "source": "Ciena"
+  },
+  {
     "title": "Silicon Photonics Design Engineer \u2013 High-Speed Modulator Devices",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Silicon-Photonics-Design-Engineer---High-Speed-Modulator-Devices_R030220",
     "locationsText": "2 Locations",
@@ -864,17 +897,6 @@
       "R029837"
     ],
     "id": "R029837",
-    "source": "Ciena"
-  },
-  {
-    "title": "DevOps/Delivery Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/DevOps-Delivery-Engineer_R030248",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030248"
-    ],
-    "id": "R030248",
     "source": "Ciena"
   },
   {
@@ -974,28 +996,6 @@
       "R029602"
     ],
     "id": "R029602",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior ASIC Synthesis and STA Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-ASIC-Synthesis-and-STA-Engineer_R030199",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030199"
-    ],
-    "id": "R030199",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Data Analyst - People /HR Analytics",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Data-Analyst---People-Analytics_R029547",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029547"
-    ],
-    "id": "R029547",
     "source": "Ciena"
   },
   {

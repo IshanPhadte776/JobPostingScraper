@@ -502,6 +502,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Solutions Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Karnataka/Senior-Solutions-Consultant_R40779",
+    "locationsText": "Remote - Karnataka",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40779"
+    ],
+    "id": "R40779",
+    "source": "SST"
+  },
+  {
     "title": "Customer Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Custom-Engineer_R41714",
     "locationsText": "London - 1 Ropemaker Street",
@@ -535,17 +546,6 @@
     "source": "SST"
   },
   {
-    "title": "PA26DBOQ2DQC001- SC1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/PA26DBOQ2DQC001--SC1_R40623",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40623"
-    ],
-    "id": "R40623",
-    "source": "SST"
-  },
-  {
     "title": "Sr. Software Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Software-Developer_RAX0003",
     "locationsText": "5 Locations",
@@ -554,17 +554,6 @@
       "RAX0003"
     ],
     "id": "RAX0003",
-    "source": "SST"
-  },
-  {
-    "title": "Mid/Senior Level \u2013 Superannuation  PA26WIPIQ1007",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Airoli/Mid-Senior-Level---Superannuation--PA26WIPIQ1007_R38735",
-    "locationsText": "Remote - Airoli",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38735"
-    ],
-    "id": "R38735",
     "source": "SST"
   },
   {
@@ -577,6 +566,50 @@
     ],
     "id": "R40300",
     "source": "SST"
+  },
+  {
+    "title": "Associate Director",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate-Director_R41674",
+    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41674"
+    ],
+    "id": "R41674",
+    "source": "SST"
+  },
+  {
+    "title": "Consultant, Backend Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Lead-Java-Developer_2517514-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2517514"
+    ],
+    "id": "2517514",
+    "source": "CIBC"
+  },
+  {
+    "title": "Data Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Engineer_2604520",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2604520"
+    ],
+    "id": "2604520",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Consultant, Solution Design and Strategy",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Solution-Design-and-Strategy_2522430",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2522430"
+    ],
+    "id": "2522430",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Azure Application Development (C#/.Net)",
@@ -766,39 +799,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Production Application Support",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2600630",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "2600630"
-    ],
-    "id": "2600630",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Privilege Access Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Privilege-Access-Management_2604208",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "2604208"
-    ],
-    "id": "2604208",
-    "source": "CIBC"
-  },
-  {
-    "title": "Application Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Developer_2604624",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "2604624"
-    ],
-    "id": "2604624",
-    "source": "CIBC"
-  },
-  {
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "2 Locations",
@@ -851,6 +851,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Services Supplier Performance Management Intership",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Service-Partner-Management-Intership_R029892",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029892"
+    ],
+    "id": "R029892",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Sales Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Sales-Engineer_R029421",
+    "locationsText": "7 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029421"
+    ],
+    "id": "R029421",
     "source": "Ciena"
   },
   {
@@ -931,17 +953,6 @@
     "source": "Ciena"
   },
   {
-    "title": "CO-OP/Intern: AI Software Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/CO-OP-Intern--AI-Software-Developer_R030079",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030079"
-    ],
-    "id": "R030079",
-    "source": "Ciena"
-  },
-  {
     "title": "DevOps/Delivery Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/DevOps-Delivery-Engineer_R030248",
     "locationsText": "Ottawa",
@@ -1005,17 +1016,6 @@
       "R029067"
     ],
     "id": "R029067",
-    "source": "Ciena"
-  },
-  {
-    "title": "CISO & Executive Reporting and Metrics Analyst",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/CISO---Executive-Reporting-and-Metrics-Analyst_R029541",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R029541"
-    ],
-    "id": "R029541",
     "source": "Ciena"
   },
   {

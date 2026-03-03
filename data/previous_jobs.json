@@ -100,6 +100,26 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/289"
   },
   {
+    "id": "290",
+    "jobOpeningName": "Business Development Representative",
+    "departmentId": "18813",
+    "departmentLabel": "Sales & Success",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/290"
+  },
+  {
     "id": "699",
     "jobOpeningName": "Director of Sales - Germany",
     "departmentId": "18617",
@@ -491,6 +511,50 @@
     "source": "SST"
   },
   {
+    "title": "Business Systems Analyst PA-BAS_Q1_005",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Business-Systems-Analyst-PA-BAS-Q1-005_R40455-1",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40455"
+    ],
+    "id": "R40455",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Associate-Manager_R40819",
+    "locationsText": "London - 1 Ropemaker Street",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40819"
+    ],
+    "id": "R40819",
+    "source": "SST"
+  },
+  {
+    "title": "Lead Mainframe Security Admin",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Lead-Mainframe-Security-Admin_R40619-1",
+    "locationsText": "18 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40619"
+    ],
+    "id": "R40619",
+    "source": "SST"
+  },
+  {
+    "title": "Lead Mainframe Systems Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Lead-Mainframe-Systems-Engineer_R40618",
+    "locationsText": "18 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40618"
+    ],
+    "id": "R40618",
+    "source": "SST"
+  },
+  {
     "title": "Mid/Senior Level \u2013 Superannuation  PA26WIPIQ1007",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Airoli/Mid-Senior-Level---Superannuation--PA26WIPIQ1007_R38735",
     "locationsText": "Remote - Airoli",
@@ -532,50 +596,6 @@
       "R41096"
     ],
     "id": "R41096",
-    "source": "SST"
-  },
-  {
-    "title": "PA26WIPOQ1257 SC3",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/PA26WIPOQ1257-SC3_R39218",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39218"
-    ],
-    "id": "R39218",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Manager \u2013 Strategic Client Governance and Operational Oversight",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney---255-George-St/Senior-Manager---Strategic-Client-Governance-and-Operational-Oversight_R40628",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40628"
-    ],
-    "id": "R40628",
-    "source": "SST"
-  },
-  {
-    "title": "Manager, Investor Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/Manager--Investor-Services_R41671",
-    "locationsText": "Singapore",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41671"
-    ],
-    "id": "R41671",
-    "source": "SST"
-  },
-  {
-    "title": "Business Systems Analyst PA-BAS_Q1_005",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Business-Systems-Analyst-PA-BAS-Q1-005_R40455-1",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R40455"
-    ],
-    "id": "R40455",
     "source": "SST"
   },
   {
@@ -854,6 +874,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Sr Manager Customer Success",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Sr-Manager-Customer-Success_R030304",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030304"
+    ],
+    "id": "R030304",
+    "source": "Ciena"
+  },
+  {
     "title": "QA Engineer- Javascript & Playwright/Webdriver.IO/Cypress",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Bengaluru/QA-Automation-Engineer_R029853",
     "locationsText": "3 Locations",
@@ -1005,17 +1036,6 @@
       "R030291"
     ],
     "id": "R030291",
-    "source": "Ciena"
-  },
-  {
-    "title": "Supply Chain Planning Intern/Summer Student",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Supply-Chain-Planning-Intern-Summer-Student_R029837",
-    "locationsText": "Guadalajara",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029837"
-    ],
-    "id": "R029837",
     "source": "Ciena"
   },
   {

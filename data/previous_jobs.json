@@ -511,14 +511,36 @@
     "source": "SST"
   },
   {
-    "title": "Business Systems Analyst PA-BAS_Q1_005",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Business-Systems-Analyst-PA-BAS-Q1-005_R40455-1",
-    "locationsText": "2 Locations",
+    "title": "Senior Associate - Client Relations Specialist - Hybrid",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Senior-Associate---Client-Relations-Specialist---Hybrid_R41752",
+    "locationsText": "8 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40455"
+      "R41752"
     ],
-    "id": "R40455",
+    "id": "R41752",
+    "source": "SST"
+  },
+  {
+    "title": "Manager Hedge Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Manager-Hedge-Fund-Accounting_R40828",
+    "locationsText": "San Francisco, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40828"
+    ],
+    "id": "R40828",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Software-Engineer_R38412",
+    "locationsText": "Toronto, Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38412"
+    ],
+    "id": "R38412",
     "source": "SST"
   },
   {
@@ -577,26 +599,15 @@
     "source": "SST"
   },
   {
-    "title": "PA26DBOQ2DQC001- SC1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/PA26DBOQ2DQC001--SC1_R40623",
-    "locationsText": "Maharashtra, Navi Mumbai",
+    "title": "Sr. Solutions Designer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Solutions-Designer_2600683",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40623"
+      "2600683"
     ],
-    "id": "R40623",
-    "source": "SST"
-  },
-  {
-    "title": "PA26DBOQ2CAS001 - SC2",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/PA26DBOQ2CAS001---SC2_R41096",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41096"
-    ],
-    "id": "R41096",
-    "source": "SST"
+    "id": "2600683",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Application Development (Environment Management)",
@@ -808,17 +819,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Application Development (Archer Development)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--Archer-_2528859",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2528859"
-    ],
-    "id": "2528859",
-    "source": "CIBC"
-  },
-  {
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "2 Locations",
@@ -871,6 +871,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Photonics Technical Prime",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Technical-Prime_R030271",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030271"
+    ],
+    "id": "R030271",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Developer -  Professional Services Inventory",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Brazil/Software-Developer----Professional-Services-Inventory_R030280",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030280"
+    ],
+    "id": "R030280",
     "source": "Ciena"
   },
   {
@@ -1014,28 +1036,6 @@
       "R030248"
     ],
     "id": "R030248",
-    "source": "Ciena"
-  },
-  {
-    "title": "Silicon Photonics Design Engineer \u2013 High-Speed Modulator Devices",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Silicon-Photonics-Design-Engineer---High-Speed-Modulator-Devices_R030220",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030220"
-    ],
-    "id": "R030220",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Fiber Coupling Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Senior-Fiber-Coupling-Engineer_R030291",
-    "locationsText": "New Providence - NJ",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030291"
-    ],
-    "id": "R030291",
     "source": "Ciena"
   },
   {

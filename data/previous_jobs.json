@@ -2641,6 +2641,48 @@
     "source": "SurveyMonkey"
   },
   {
+    "id": 160326,
+    "type": "careers",
+    "title": "Staff Machine Learning Engineer",
+    "link": "https://www.surveymonkey.com/careers/7594483-staff-machine-learning-engineer/",
+    "path": "/careers/7594483-staff-machine-learning-engineer/",
+    "date": "2026-02-06T11:00:11",
+    "date_modified": "2026-02-06T11:00:11",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Staff Machine Learning Engineer",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 393,
+        "slug": "ottawa",
+        "name": "Ottawa, Canada",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
+        "path": "/careers/office/ottawa/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
     "id": 160324,
     "type": "careers",
     "title": "Staff Machine Learning Engineer",

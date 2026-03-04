@@ -380,6 +380,17 @@
     "url": "https://recollective.bamboohr.com/career/careers/101"
   },
   {
+    "title": "Fund Accountant (Hedge Funds)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Engagement-Specialist_R39849",
+    "locationsText": "6 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39849"
+    ],
+    "id": "R39849",
+    "source": "SST"
+  },
+  {
     "title": "Senior Performance Test Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne-Australia/Senior-Performance-Test-Engineer_R41648",
     "locationsText": "Melbourne, Australia",
@@ -500,6 +511,17 @@
     "source": "SST"
   },
   {
+    "title": "Implementation Manager \u2013 MM",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Implementation-Manager---MM_R39044",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39044"
+    ],
+    "id": "R39044",
+    "source": "SST"
+  },
+  {
     "title": "Principal Consultant",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Principal-Consultant_R39592",
     "locationsText": "Bangkok, Thailand",
@@ -574,28 +596,6 @@
       "R38130"
     ],
     "id": "R38130",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate, Fund Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Senior-Associate_R41484",
-    "locationsText": "Evansville, IN",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R41484"
-    ],
-    "id": "R41484",
-    "source": "SST"
-  },
-  {
-    "title": "Legal Counsel - Software and Technology",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Legal-Counsel---Software-and-Technology_R41607",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R41607"
-    ],
-    "id": "R41607",
     "source": "SST"
   },
   {
@@ -2635,6 +2635,48 @@
         "description": "",
         "link": "https://www.surveymonkey.com/careers/office/global/",
         "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 160326,
+    "type": "careers",
+    "title": "Staff Machine Learning Engineer",
+    "link": "https://www.surveymonkey.com/careers/7594483-staff-machine-learning-engineer/",
+    "path": "/careers/7594483-staff-machine-learning-engineer/",
+    "date": "2026-02-06T11:00:11",
+    "date_modified": "2026-02-06T11:00:11",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Staff Machine Learning Engineer",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 393,
+        "slug": "ottawa",
+        "name": "Ottawa, Canada",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
+        "path": "/careers/office/ottawa/"
       }
     ],
     "job_location": "",

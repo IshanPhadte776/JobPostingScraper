@@ -531,14 +531,55 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Private Markets Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Private-Markets-Fund-Accounting_R40492",
-    "locationsText": "New York, NY",
+    "title": "Trade Support Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Trade-Support-Analyst_R38297",
+    "locationsText": "London, UK",
     "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38297"
+    ],
+    "id": "R38297",
+    "source": "SST"
+  },
+  {
+    "title": "Blue Prism Professional Services Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Brazil/Blue-Prism-Professional-Services-Consultant--Jr_R41214",
+    "locationsText": "Remote - Brazil",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41214"
+    ],
+    "id": "R41214",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Private Markets Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-OH/Senior-Associate--Private-Markets-Accounting_R41557",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41557"
+    ],
+    "id": "R41557",
+    "source": "SST"
+  },
+  {
+    "title": "Blue Prism Professional Services Consultant,",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Brazil/Blue-Prism-Professional-Services-Consultant--Jr_R41215",
+    "locationsText": "Remote - Brazil",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41215"
+    ],
+    "id": "R41215",
+    "source": "SST"
+  },
+  {
     "bulletFields": [
       "R40492"
     ],
     "id": "R40492",
+    "externalPath": "",
     "source": "SST"
   },
   {
@@ -574,48 +615,26 @@
     "source": "SST"
   },
   {
-    "title": "Blue Prism Professional Services Consultant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sao-Paolo-Brazil/Blue-Prism-Professional-Services-Consultant_R39122",
-    "locationsText": "Sao Paolo, Brazil",
+    "title": "Full Stack Developer (.NET, C#, SQL, React, and Azure Databricks)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Developer--NET--C---SQL--React--and-Azure-Databricks-_2601241",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39122"
+      "2601241"
     ],
-    "id": "R39122",
-    "source": "SST"
+    "id": "2601241",
+    "source": "CIBC"
   },
   {
-    "title": "Senior Associate, Valuations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/Senior-Associate_R41517",
-    "locationsText": "Singapore",
+    "title": "Sr. Consultant, Application Development (Payments)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development--Payments-_2604236-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41517"
+      "2604236"
     ],
-    "id": "R41517",
-    "source": "SST"
-  },
-  {
-    "title": "Lead HR Business Partner",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Gurgaon-India/Lead-HR-Business-Partner_R41090",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41090"
-    ],
-    "id": "R41090",
-    "source": "SST"
-  },
-  {
-    "title": "Junior SOC Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote-Australia/Junior-SOC-Analyst_R40721",
-    "locationsText": "Remote, Australia",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40721"
-    ],
-    "id": "R40721",
-    "source": "SST"
+    "id": "2604236",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Full Stack Developer",
@@ -813,28 +832,6 @@
       "2604808"
     ],
     "id": "2604808",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Security Consultant, Cryptographic Service Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Security-Consultant--Cryptographic-Service-Management_2605774",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2605774"
-    ],
-    "id": "2605774",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Information Security",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2605545-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2605545"
-    ],
-    "id": "2605545",
     "source": "CIBC"
   },
   {

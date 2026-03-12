@@ -140,6 +140,26 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/291"
   },
   {
+    "id": "292",
+    "jobOpeningName": "IT Operations Lead",
+    "departmentId": "18811",
+    "departmentLabel": "Software Development - SmartMix",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/292"
+  },
+  {
     "id": "699",
     "jobOpeningName": "Director of Sales - Germany",
     "departmentId": "18617",
@@ -511,6 +531,39 @@
     "source": "SST"
   },
   {
+    "title": "Associate Cient Relations Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Client-Relationship-Manager---Retail-Alternative-Investments_R40664",
+    "locationsText": "Kansas City, MO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40664"
+    ],
+    "id": "R40664",
+    "source": "SST"
+  },
+  {
+    "title": "Engagement Manager IT Professional Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Engagement-Manager_R39650",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39650"
+    ],
+    "id": "R39650",
+    "source": "SST"
+  },
+  {
+    "title": "QA Engineer - PA25Q4OMLDSJH009",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/QA-Engineer---PA25Q4OMLDSJH009_R40353",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40353"
+    ],
+    "id": "R40353",
+    "source": "SST"
+  },
+  {
     "title": "Senior Director, Private Markets",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Director--Private-Markets_R41727",
     "locationsText": "2 Locations",
@@ -566,37 +619,26 @@
     "source": "SST"
   },
   {
-    "title": "Client Advocate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Advocate_R39656",
-    "locationsText": "Jacksonville, FL",
+    "title": "Power BI Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/BI-Engineer_2602275-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39656"
+      "2602275"
     ],
-    "id": "R39656",
-    "source": "SST"
+    "id": "2602275",
+    "source": "CIBC"
   },
   {
-    "title": "Specialist - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Specialist---Financial-Services-Operations_R40528",
-    "locationsText": "2 Locations",
+    "title": "Infrastructure Architect",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Infrastructure-Architect_2511976",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40528"
+      "2511976"
     ],
-    "id": "R40528",
-    "source": "SST"
-  },
-  {
-    "title": "Specialist - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India---Commerzone-Building-7/Specialist---Financial-Services-Operations_R40526",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40526"
-    ],
-    "id": "R40526",
-    "source": "SST"
+    "id": "2511976",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Solution Design and Strategy",
@@ -618,17 +660,6 @@
       "2605944"
     ],
     "id": "2605944",
-    "source": "CIBC"
-  },
-  {
-    "title": "BI Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/BI-Engineer_2602275-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "2602275"
-    ],
-    "id": "2602275",
     "source": "CIBC"
   },
   {
@@ -808,17 +839,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2605685",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2605685"
-    ],
-    "id": "2605685",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -995,17 +1015,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Field Service Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mumbai/Field-Service-Engineer_R029801",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029801"
-    ],
-    "id": "R029801",
-    "source": "Ciena"
-  },
-  {
     "title": "Specialist, Account Management",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Specialist--Account-Management_R030339",
     "locationsText": "4 Locations",
@@ -1036,6 +1045,17 @@
       "R030125"
     ],
     "id": "R030125",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior System/ Solution Test Engineer \u2013 Networking",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-System--Solution-Test-Engineer---Networking_R028589",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R028589"
+    ],
+    "id": "R028589",
     "source": "Ciena"
   },
   {
@@ -2155,22 +2175,6 @@
     "description": "<p>Working in production, you will be part of the manufacturing group that assembles our products.&#160;</p><h4><strong>Responsibilities:</strong></h4><ul><li>Printed circuit board, chassis and cable assembly</li><li>Read assembly drawings</li><li>Other duties as required</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>Experience with electronic components in an electronic manufacturing environment would be an asset</li><li>Hand soldering experience would be an asset</li><li>Strong attention to detail is required</li><li>High School Diploma</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$17.60 (minimum wage)<br><br><strong>About Us:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "q60lmf5cP9",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260210172739_H6026Y2Z0EKARG4J",
-    "title": "Internal Failure Analysis Technician",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "Testing (Electronic)",
-    "description": "<p><strong>Responsibilities:</strong></p><ul><li>Troubleshoot and repair a variety of complex electronic circuits to the component level</li><li>Provide failure analysis and/or root cause analysis of defects and/or field returns</li><li>Set up and operate specialized and standard test equipment to diagnose, test and analyze the performance of electrical and electronic components, assemblies and systems</li><li>Build &amp; test the latest film &amp; television equipment that incorporates the most advanced components available to the industry</li><li>Function as a member of the production team</li><li>Any other duties as required.</li></ul><p><strong>Qualifications:</strong></p><ul><li>2 year Electrical Technician or 3 year Electrical Technology Co-op program.</li><li>Experience in electronics testing and troubleshooting is required.</li><li>Problem-solving ability and able to react to changing situations</li><li>Excellent verbal and written communication skills, problem solving ability, time management skills and interpersonal skills.</li><li>Positive attitude and able to work in a fast paced environment</li><li>Be results oriented</li><li>Be self-motivated</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$44K - $46K CAD<br><br><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "HoIPjoNfnN",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

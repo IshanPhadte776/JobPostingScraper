@@ -511,6 +511,61 @@
     "source": "SST"
   },
   {
+    "title": "Senior Director, Private Markets",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Director--Private-Markets_R41727",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41727"
+    ],
+    "id": "R41727",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Middle Office Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Middle-Office-Operations_R40204",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40204"
+    ],
+    "id": "R40204",
+    "source": "SST"
+  },
+  {
+    "title": "Eclipse Client Success Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Eclipse-Client-Success-Manager_R41469",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41469"
+    ],
+    "id": "R41469",
+    "source": "SST"
+  },
+  {
+    "title": "Director, Financial Business Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Director--Financial-Business-Operations_R41579-1",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41579"
+    ],
+    "id": "R41579",
+    "source": "SST"
+  },
+  {
+    "title": "Data Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Data-Scientist_R32997-1",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R32997"
+    ],
+    "id": "R32997",
+    "source": "SST"
+  },
+  {
     "title": "Client Advocate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Advocate_R39656",
     "locationsText": "Jacksonville, FL",
@@ -544,59 +599,15 @@
     "source": "SST"
   },
   {
-    "title": "Trade Support Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Trade-Support-Analyst_R38297",
-    "locationsText": "London, UK",
+    "title": "Sr. Consultant, Solution Design and Strategy",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Solution-Design-and-Strategy_2522430",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38297"
+      "2522430"
     ],
-    "id": "R38297",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Beijing-China/Senior-Software-Engineer_R41670",
-    "locationsText": "Beijing, China",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41670"
-    ],
-    "id": "R41670",
-    "source": "SST"
-  },
-  {
-    "title": "IT Service Delivery Manager PA2026Q1JBTran029",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/IT-Service-Delivery-Manager-PA2026Q1JBTran029_R41164",
-    "locationsText": "London, UK",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41164"
-    ],
-    "id": "R41164",
-    "source": "SST"
-  },
-  {
-    "title": "Cloud Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Cloud-Engineer_R41407",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41407"
-    ],
-    "id": "R41407",
-    "source": "SST"
-  },
-  {
-    "title": "SC4-PA26DBOQ2ILP001",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/SC4-PA26DBOQ2ILP001_R41229",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41229"
-    ],
-    "id": "R41229",
-    "source": "SST"
+    "id": "2522430",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Business Systems Analysis",
@@ -808,17 +819,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Software Development Engineer in Test (SDET)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Development-Engineer-in-Test--SDET-_2605789",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2605789"
-    ],
-    "id": "2605789",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -871,6 +871,39 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Principal, Optical Networks Business Development",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Principal-Solutions-Architect_R029314",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029314"
+    ],
+    "id": "R029314",
+    "source": "Ciena"
+  },
+  {
+    "title": "UI Developer - React.js",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/UI-Developer---Reactjs_R030386-1",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030386"
+    ],
+    "id": "R030386",
+    "source": "Ciena"
+  },
+  {
+    "title": "Platform Automation- DevOps",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Platform-Automation--DevOps_R030362",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030362"
+    ],
+    "id": "R030362",
     "source": "Ciena"
   },
   {
@@ -962,17 +995,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Software Developer- Angular & Node.js",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Software-Developer--Angular---Nodejs_R030350",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030350"
-    ],
-    "id": "R030350",
-    "source": "Ciena"
-  },
-  {
     "title": "Field Service Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mumbai/Field-Service-Engineer_R029801",
     "locationsText": "2 Locations",
@@ -1014,28 +1036,6 @@
       "R030125"
     ],
     "id": "R030125",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior System/ Solution Test Engineer \u2013 Networking",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-System--Solution-Test-Engineer---Networking_R028589",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R028589"
-    ],
-    "id": "R028589",
-    "source": "Ciena"
-  },
-  {
-    "title": "Executive Assistant",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mumbai/Executive-Assistant_R030143",
-    "locationsText": "Mumbai",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030143"
-    ],
-    "id": "R030143",
     "source": "Ciena"
   },
   {

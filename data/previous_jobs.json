@@ -542,6 +542,39 @@
     "source": "SST"
   },
   {
+    "title": "Principal Client Relationship Executive, Brokerage Solutions - PA-RM-Q1-2026-R002",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/Principal-Client-Relationship-Executive--PA-RM-Q1-2026-R002_R41468",
+    "locationsText": "Remote - New York, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41468"
+    ],
+    "id": "R41468",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Alternative Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Senior-Associate_R39972",
+    "locationsText": "Evansville, IN",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39972"
+    ],
+    "id": "R39972",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate \u2013 ETF Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Senior-Associate_R40087",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40087"
+    ],
+    "id": "R40087",
+    "source": "SST"
+  },
+  {
     "title": "Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate_R40272",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
@@ -586,37 +619,26 @@
     "source": "SST"
   },
   {
-    "title": "Manager, Investor Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/Manager_R41165",
-    "locationsText": "Singapore",
+    "title": "Senior Director , Strategy and Cloud Enablement",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Director---Strategy-and-Cloud-Enablement_2606218",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41165"
+      "2606218"
     ],
-    "id": "R41165",
-    "source": "SST"
+    "id": "2606218",
+    "source": "CIBC"
   },
   {
-    "title": "Senior Software Engineer -- PA2025INDON195",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Basildon-UK/Senior-Software-Engineer_R36375",
-    "locationsText": "2 Locations",
+    "title": "Java Application Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Java-Application-Developer_2527012",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R36375"
+      "2527012"
     ],
-    "id": "R36375",
-    "source": "SST"
-  },
-  {
-    "title": "PA26DBNQ1ADD018 - SC1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/PA26DBNQ1ADD018---SC3_R41522",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41522"
-    ],
-    "id": "R41522",
-    "source": "SST"
+    "id": "2527012",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Solution Design and Strategy",
@@ -817,28 +839,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Back End Developer- Generative AI & Machine Learning Systems",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer--Generative-AI---Machine-Learning-Systems_2605060",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2605060"
-    ],
-    "id": "2605060",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, IT Quality Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/ON-81-Bay-Street-Virtual/Sr-Consultant--IT-Quality-Analysis_2604823-1",
-    "locationsText": "ON-81 Bay Street-Virtual",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2604823"
-    ],
-    "id": "2604823",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -935,17 +935,6 @@
       "R030394"
     ],
     "id": "R030394",
-    "source": "Ciena"
-  },
-  {
-    "title": "Field Service Project Management",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Field-Service-Project-Management_R030378",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030378"
-    ],
-    "id": "R030378",
     "source": "Ciena"
   },
   {
@@ -1059,6 +1048,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Platform Automation- DevOps",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Platform-Automation--DevOps_R030362",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted 4 Days Ago",
+    "bulletFields": [
+      "R030362"
+    ],
+    "id": "R030362",
+    "source": "Ciena"
+  },
+  {
     "title": "Staff Firmware Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Staff-Firmware-Engineer_R004052",
     "locationsText": "United States - Shakopee, MN (GHQ)",
@@ -1091,6 +1091,22 @@
     ],
     "id": "R003792",
     "source": "Entrust"
+  },
+  {
+    "id": "job_20260316190136_CTRM2NXAV5IGEM78",
+    "title": "Payroll & Benefits Specialist",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "Payroll",
+    "description": "<strong>Responsibilities:</strong><ul><li>Assist Payroll Manager and Payroll Supervisor with various tasks and projects</li><li>Provide back-up to various team members to cover for vacations and leaves</li><li>Coordinate with US payroll service to ensure processing of monthly payroll for USA (50+ employees)</li><li>Provide support for US employees: Onboarding, maintaining employee records, responding to inquiries, etc</li></ul><strong>Requirements:</strong><ul><li>5+ years of experience processing payroll for Ontario employees</li><li>Experience with US based payroll is an asset</li><li>Payroll Compliance Practitioner certification with the National Payroll Association</li><li>University or College education (preferably in a related field, Business or Human Resources)</li><li>Superior organizational skills and problem-solving abilities</li><li>Ability to handle fast-paced environment&#160;with many deadlines</li></ul><strong>What we Offer:</strong><ul><li>Employer funded benefit program</li><li>Competitive total compensation package</li><li>Work-life Balance</li><li>Employee Assistance plan, including an on-site Employee Support Counsellor</li><li>Employee Discount Platform</li><li>Career Progression</li><li>Casual work environment</li><li>Social Events and Sport Teams</li></ul><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is a new position<br><strong>Salary Range:</strong>&#160;$60K CAD - $65K CAD<br><br><strong>About Us:&#160;</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery. Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.<br>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.<br>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.<br><br>Thank you for considering a career with Evertz!<br>&#160;",
+    "type": "Full Time",
+    "board_code": "SxsmnZF6wI",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20260313122902_LOVONIAS61ZV5BPU",
@@ -1333,22 +1349,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260304212420_RVIF1MMMN4IIET9Z",
-    "title": "Payroll & Benefits Specialist",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Payroll",
-    "description": "<strong>Responsibilities:</strong><ul><li>Assist Payroll Manager and Payroll Supervisor with various tasks and projects</li><li>Provide back-up to various team members to cover for vacations and leaves</li><li>Coordinate with US payroll service to ensure processing of monthly payroll for USA (50+ employees)</li><li>Provide support for US employees: Onboarding, maintaining employee records, responding to inquiries, etc</li></ul><strong>Requirements:</strong><ul><li>5+ years of experience processing payroll for Ontario employees</li><li>Experience with US based payroll is an asset</li><li>Payroll Compliance Practitioner certification with the National Payroll Association</li><li>University or College education (preferably in a related field, Business or Human Resources)</li><li>Superior organizational skills and problem-solving abilities</li><li>Ability to handle fast-paced environment&#160;with many deadlines</li></ul><strong>What we Offer:</strong><ul><li>Employer funded benefit program</li><li>Competitive total compensation package</li><li>Work-life Balance</li><li>Employee Assistance plan, including an on-site Employee Support Counsellor</li><li>Employee Discount Platform</li><li>Career Progression</li><li>Casual work environment</li><li>Social Events and Sport Teams</li></ul><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is a new position<br><strong>Salary Range:</strong>&#160;$60K CAD - $65K CAD<br><br><strong>About Us:&#160;</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery. Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.<br>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.<br>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.<br><br>Thank you for considering a career with Evertz!<br>&#160;",
-    "type": "Full Time",
-    "board_code": "VOzDRsTajf",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20260302215258_C1BKNEBX8RSXFCNL",
     "title": "Jr. Contracts Administrator",
     "country_id": "Canada",
@@ -1429,22 +1429,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260223143045_HIKSCCEWOTMXE1UD",
-    "title": "Field Service Engineer - AV, USA",
-    "country_id": "United States",
-    "city": "Houston",
-    "state": "TX",
-    "zip": "",
-    "department": "Technical Support",
-    "description": "<p>Evertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "NDfXg56wfo",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20260223152558_F4IHHOOQ8VTFQAJP",
     "title": "Solutions Architect - Media/Broadcast Enterprise Systems",
     "country_id": "United States",
@@ -1455,6 +1439,22 @@
     "description": "<p>Reporting to the Director of File Based Solutions, you work between Evertz clients, account managers, R&amp;D engineers, project managers, and executive management to completely architect, design and document the requirements and implementation approach for Evertz end-to-end enterprise solutions for broadcast and media facilities.&#160; The successful candidate must be able to capture our client&#8217;s vision, business requirement as well as technical requirements and map those into Evertz hardware, software and professional services offerings.&#160; Candidate must be comfortable in both a client facing role as well as internally facing to R&amp;D and delivery service groups.<br><br><strong>Responsibilities:</strong></p><ul><li>Work collaboratively with the account manager to define and document the scope</li><li>Provide initial solutions to clients with Evertz equipment selection &amp; systems design, refine over the design process to provide final quotation and supporting documentation</li><li>Work with internal resources and the client to provide client demonstrations and/or documentation as proof of concept system, as required</li><li>Work collaboratively with internal, client and third party teams to understand current and future business and technical requirements</li><li>Take lead on proposal creation and refinement, take ownership and produce accurate documentation for bid set.</li><li>Identify and manage project risks, clearly state assumptions, and work with client and internal resources to mitigate risks in advance of deployment.</li><li>Ultimately create a clear and well thought out design package, gap analysis, functional specifications, and budget</li><li>Identifying new customers and building relationships while maintaining the existing customer base</li><li>Act as the technical authority throughout the design, pre-commissioning, onsite commissioning, training and sustaining engineering phases</li><li>Travel as required to client sites</li></ul><strong>Qualifications:</strong><ul><li>Experience in designing, documenting and sustaining full life cycle end-to-end enterprise-wide client facing projects.</li><li>Experience working with file-based broadcast, production, post-production, non-linear distribution, automated transcoding and quality control, business/traffic systems type deployments and workflows i.e. the complete broadcast and media food chain.</li><li>Electronics engineering (or similar) education</li><li>Problem-solving, and strong communication skills</li><li>Results oriented, self-motivated, and team player</li><li>Familiar with BXF and industry standard traffic solutions</li><li>Must have 3 or more years experience deploying file based work flow solutions</li><li>Experience with Broadcast IT with network infrastructure</li><li>Understanding in applications integration with business systems via the use of XML as the interchange format</li><li>Knowledge of current digital video compression standards and file types</li><li>Good written and verbal communications skills</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "JwrpAH1VX2",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20260223143025_FSLU2WSQIWSCCNFW",
+    "title": "Field Service Engineer - AV, USA",
+    "country_id": "United States",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "",
+    "department": "Technical Support",
+    "description": "<p>vertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "vvVIJGd86H",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -1573,6 +1573,22 @@
     "source": "Evertz"
   },
   {
+    "id": "job_20260223143045_HIKSCCEWOTMXE1UD",
+    "title": "Field Service Engineer - AV, USA",
+    "country_id": "United States",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "",
+    "department": "Technical Support",
+    "description": "<p>Evertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "NDfXg56wfo",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
     "id": "job_20260223143036_DNHVYJB0MNNHMWT7",
     "title": "Field Service Engineer - AV, USA",
     "country_id": "United States",
@@ -1599,22 +1615,6 @@
     "description": "<p>Evertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "nwepuTNXgE",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260223143025_FSLU2WSQIWSCCNFW",
-    "title": "Field Service Engineer - AV, USA",
-    "country_id": "United States",
-    "city": "Kansas City",
-    "state": "KS",
-    "zip": "",
-    "department": "Technical Support",
-    "description": "<p>vertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "vvVIJGd86H",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

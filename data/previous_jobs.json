@@ -542,6 +542,39 @@
     "source": "SST"
   },
   {
+    "title": "Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate_R40272",
+    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40272"
+    ],
+    "id": "R40272",
+    "source": "SST"
+  },
+  {
+    "title": "Regulatory Control Analyst -  PA-Tax-Q2-R-001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Regulatory-Control-Analyst----PA-Tax-Q2-R-001_R42036",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42036"
+    ],
+    "id": "R42036",
+    "source": "SST"
+  },
+  {
+    "title": "Lead Engineer (PA25Q4LELDSJH002)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Lead-Engineer--PA25Q4LELDSJH002-_R40548",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40548"
+    ],
+    "id": "R40548",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Private Markets Fund Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Senior-Associate--Private-Markets-Fund-Accounting_R41929-1",
     "locationsText": "Chicago, IL",
@@ -586,37 +619,15 @@
     "source": "SST"
   },
   {
-    "title": "Associate Director - Investor Services - Dublin",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland/Associate-Director---Investor-Services---Dublin_R41638",
-    "locationsText": "Dublin, Ireland",
+    "title": "Sr. Consultant, Solution Design and Strategy",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Solution-Design-and-Strategy_2522430",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41638"
+      "2522430"
     ],
-    "id": "R41638",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Financial-Services-Operations_R41613",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41613"
-    ],
-    "id": "R41613",
-    "source": "SST"
-  },
-  {
-    "title": "Team Lead - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Team-Lead---Financial-Services-Operations_R41639",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41639"
-    ],
-    "id": "R41639",
-    "source": "SST"
+    "id": "2522430",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Data Security",
@@ -828,17 +839,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Production Application Support (Solace Messaging & DSB)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support--Solace-Messaging---DSB-_2605573",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2605573"
-    ],
-    "id": "2605573",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -891,6 +891,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Product Security Detection Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Security-Detection-Engineer_R029804-1",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029804"
+    ],
+    "id": "R029804",
+    "source": "Ciena"
+  },
+  {
+    "title": "Analog Circuit Designer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Analog-Circuit-Designer---New-Grad_R030391",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030391"
+    ],
+    "id": "R030391",
     "source": "Ciena"
   },
   {
@@ -1034,28 +1056,6 @@
       "R029314"
     ],
     "id": "R029314",
-    "source": "Ciena"
-  },
-  {
-    "title": "Platform Automation- DevOps",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Platform-Automation--DevOps_R030362",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030362"
-    ],
-    "id": "R030362",
-    "source": "Ciena"
-  },
-  {
-    "title": "TA Sourcing Specialist - North America /US Market exposure",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Sourcing-Specialist---North-America--US_R030244",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030244"
-    ],
-    "id": "R030244",
     "source": "Ciena"
   },
   {

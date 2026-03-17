@@ -531,6 +531,39 @@
     "source": "SST"
   },
   {
+    "title": "Account Executive FSI",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---UK/Account-Executive-FSI_R41740",
+    "locationsText": "Remote - UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41740"
+    ],
+    "id": "R41740",
+    "source": "SST"
+  },
+  {
+    "title": "Java Full Stack Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Lichfield-UK/Java-Full-Stack-Developer_R41402",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41402"
+    ],
+    "id": "R41402",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Principal Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Associate-Principal-Consultant_R39483",
+    "locationsText": "London - 1 Ropemaker Street",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39483"
+    ],
+    "id": "R39483",
+    "source": "SST"
+  },
+  {
     "title": "Business Analyst",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Massachussets-US/Business-Analyst_R41317",
     "locationsText": "6 Locations",
@@ -575,47 +608,14 @@
     "source": "SST"
   },
   {
-    "title": "Sr. Retirement Plan Implementation Specialist - PA206_IMP_Q2_R001",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Sr-Retirement-Plan-Implementation-Specialist---PA2024081207_R41704",
-    "locationsText": "2 Locations",
+    "title": "Senior Associate, Loan Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Senior-Associate--Loan-Operations_R38558",
+    "locationsText": "4 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41704"
+      "R38558"
     ],
-    "id": "R41704",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Software-Engineer_R41997",
-    "locationsText": "Hyderabad, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41997"
-    ],
-    "id": "R41997",
-    "source": "SST"
-  },
-  {
-    "title": "Senior AI Platform Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-AI-Platform-Engineer_R41318",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41318"
-    ],
-    "id": "R41318",
-    "source": "SST"
-  },
-  {
-    "title": "Java Developer - PA26DIGMGQ1006",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Java-Developer---PA26DIGMGQ1006_R41654",
-    "locationsText": "Bucharest, Romania",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41654"
-    ],
-    "id": "R41654",
+    "id": "R38558",
     "source": "SST"
   },
   {
@@ -894,6 +894,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Field Service Project Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Deployment-Network-Engineer_R029327",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029327"
+    ],
+    "id": "R029327",
+    "source": "Ciena"
+  },
+  {
     "title": "Project/Program Engineer - New Grad",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Montreal/Project-Program-Engineer---New-Grad_R030322",
     "locationsText": "2 Locations",
@@ -946,14 +957,6 @@
       "R030327"
     ],
     "id": "R030327",
-    "source": "Ciena"
-  },
-  {
-    "bulletFields": [
-      "R030394"
-    ],
-    "id": "R030394",
-    "externalPath": "",
     "source": "Ciena"
   },
   {

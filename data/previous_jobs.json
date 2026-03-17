@@ -531,6 +531,50 @@
     "source": "SST"
   },
   {
+    "title": "Business Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Massachussets-US/Business-Analyst_R41317",
+    "locationsText": "6 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41317"
+    ],
+    "id": "R41317",
+    "source": "SST"
+  },
+  {
+    "title": "Salesforce Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Massachussets-US/Salesforce-Developer_R41445-1",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41445"
+    ],
+    "id": "R41445",
+    "source": "SST"
+  },
+  {
+    "title": "Observability Engineer (Splunk)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Observability-Engineer--Splunk-_R41526",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41526"
+    ],
+    "id": "R41526",
+    "source": "SST"
+  },
+  {
+    "title": "Salesforce QA Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Massachussets-US/Salesforce-QA-Engineer_R41316",
+    "locationsText": "6 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41316"
+    ],
+    "id": "R41316",
+    "source": "SST"
+  },
+  {
     "title": "Sr. Retirement Plan Implementation Specialist - PA206_IMP_Q2_R001",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Sr-Retirement-Plan-Implementation-Specialist---PA2024081207_R41704",
     "locationsText": "2 Locations",
@@ -572,50 +616,6 @@
       "R41654"
     ],
     "id": "R41654",
-    "source": "SST"
-  },
-  {
-    "title": "Specialist - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India---Commerzone-Building-7/Specialist---Financial-Services-Operations_R40526",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40526"
-    ],
-    "id": "R40526",
-    "source": "SST"
-  },
-  {
-    "title": "Sales Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Sales-Associate_R41707",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41707"
-    ],
-    "id": "R41707",
-    "source": "SST"
-  },
-  {
-    "title": "Lead Data Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Lead-Data-Engineer---PA2025HTQ3124_R35697",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R35697"
-    ],
-    "id": "R35697",
-    "source": "SST"
-  },
-  {
-    "title": "Principal Fund Accountant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Principal-Fund-Accountant_R40174",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40174"
-    ],
-    "id": "R40174",
     "source": "SST"
   },
   {
@@ -927,14 +927,6 @@
     "source": "Ciena"
   },
   {
-    "bulletFields": [
-      "R030381"
-    ],
-    "id": "R030381",
-    "externalPath": "",
-    "source": "Ciena"
-  },
-  {
     "title": "Product Security Detection Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Security-Detection-Engineer_R029804-1",
     "locationsText": "2 Locations",
@@ -957,14 +949,11 @@
     "source": "Ciena"
   },
   {
-    "title": "Ing\u00e9nieur optique - Intern",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Ingnieur-optique---Intern_R030394",
-    "locationsText": "Quebec",
-    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030394"
     ],
     "id": "R030394",
+    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -1053,6 +1042,17 @@
       "R029801"
     ],
     "id": "R029801",
+    "source": "Ciena"
+  },
+  {
+    "title": "Principal, Optical Networks Business Development",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Principal-Solutions-Architect_R029314",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted 5 Days Ago",
+    "bulletFields": [
+      "R029314"
+    ],
+    "id": "R029314",
     "source": "Ciena"
   },
   {

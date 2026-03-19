@@ -531,6 +531,39 @@
     "source": "SST"
   },
   {
+    "title": "Software & Data Engineer \u2013 Financial Technology - Launch Program",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Software---Data-Engineer---Financial-Technology---Launch-Program_R42203",
+    "locationsText": "Union, NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42203"
+    ],
+    "id": "R42203",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Private Equity/Hedge Tax",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Private-Equity-Hedge-Tax_R38949",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38949"
+    ],
+    "id": "R38949",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Director, Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Director--Operations_R41606",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41606"
+    ],
+    "id": "R41606",
+    "source": "SST"
+  },
+  {
     "title": "Senior Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Software-Engineer_R38681",
     "locationsText": "New York, NY",
@@ -586,37 +619,37 @@
     "source": "SST"
   },
   {
-    "title": "Associate, Loan Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Associate--Loan-Operations_R41558",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
+    "title": "Mainframe Application Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Mainframe-Application-Developer_2606500",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "R41558"
+      "2606500"
     ],
-    "id": "R41558",
-    "source": "SST"
+    "id": "2606500",
+    "source": "CIBC"
   },
   {
-    "title": "Associate, Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-OH/Associate--Fund-Accounting_R41920",
-    "locationsText": "Dublin, OH",
-    "postedOn": "Posted Yesterday",
+    "title": "Consultant, Full Stack Developer (Python or Java)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Developement_2522484",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "R41920"
+      "2522484"
     ],
-    "id": "R41920",
-    "source": "SST"
+    "id": "2522484",
+    "source": "CIBC"
   },
   {
-    "title": "Associate Manager, Alternatives Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-OH/Associate-Manager--Alternatives-Fund-Accounting_R41913",
-    "locationsText": "Dublin, OH",
-    "postedOn": "Posted Yesterday",
+    "title": "Consultant, ServiceNow Business Systems Analyst",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--ServiceNow-Business-Systems-Analyst_2605343",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "R41913"
+      "2605343"
     ],
-    "id": "R41913",
-    "source": "SST"
+    "id": "2605343",
+    "source": "CIBC"
   },
   {
     "title": "Director, Technology Currency Governance",
@@ -627,17 +660,6 @@
       "2529304"
     ],
     "id": "2529304",
-    "source": "CIBC"
-  },
-  {
-    "title": "Mainframe Application Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Mainframe-Application-Developer_2606500",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2606500"
-    ],
-    "id": "2606500",
     "source": "CIBC"
   },
   {
@@ -814,28 +836,6 @@
       "2605771"
     ],
     "id": "2605771",
-    "source": "CIBC"
-  },
-  {
-    "title": "Full Stack Developer (.NET, C#, SQL, React, and Azure Databricks)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Developer--NET--C---SQL--React--and-Azure-Databricks-_2601241",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2601241"
-    ],
-    "id": "2601241",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Application Development (Payments)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development--Payments-_2604236-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2604236"
-    ],
-    "id": "2604236",
     "source": "CIBC"
   },
   {

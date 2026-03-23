@@ -580,6 +580,17 @@
     "source": "SST"
   },
   {
+    "title": "Platform Engineering Co-op",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Platform-Engineering-Co-op_R40320",
+    "locationsText": "Waltham, MA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40320"
+    ],
+    "id": "R40320",
+    "source": "SST"
+  },
+  {
     "title": "Senior Database Reliability Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Senior-Database-Reliability-Engineer_R41668",
     "locationsText": "2 Locations",
@@ -657,26 +668,37 @@
     "source": "SST"
   },
   {
-    "title": "SC4 - PA26MKOQ2WEB001",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/SC4---PA26MKOQ2WEB001_R41742",
-    "locationsText": "Mumbai, India",
+    "title": "Lead Software Engineer - PA-Auto-OS-2026-Q2-R003",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Lead-Software-Engineer---PA-Auto-OS-2026-Q2-R003_R42008",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41742"
+      "R42008"
     ],
-    "id": "R41742",
+    "id": "R42008",
     "source": "SST"
   },
   {
-    "title": "S3 - PA26DBOQ1FCP002",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/S3---PA26DBOQ1FCP002_R39995",
-    "locationsText": "Mumbai, India",
+    "title": "Consultant, Infrastructure Risk Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Infrastructure-Risk-Management_2605726",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39995"
+      "2605726"
     ],
-    "id": "R39995",
-    "source": "SST"
+    "id": "2605726",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Azure Application Development (C#/.Net)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-development--Azure--C--Net-_2600871",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2600871"
+    ],
+    "id": "2600871",
+    "source": "CIBC"
   },
   {
     "title": "Senior Cloud Solution Designer",
@@ -877,28 +899,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Infrastructure Architect",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Infrastructure-Architect_2511976",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 11 Days Ago",
-    "bulletFields": [
-      "2511976"
-    ],
-    "id": "2511976",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2605944",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 11 Days Ago",
-    "bulletFields": [
-      "2605944"
-    ],
-    "id": "2605944",
-    "source": "CIBC"
-  },
-  {
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "12 Locations",
@@ -940,6 +940,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Director, Indirect Procurement",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Senior-Director--Indirect-Procurement_R030373",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030373"
+    ],
+    "id": "R030373",
+    "source": "Ciena"
+  },
+  {
+    "title": "Ing\u00e9nieur en Proc\u00e9d\u00e9s d'Assemblage Photonique / Photonics Assembly Process Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Process-Engineering-Technologist_R029315",
+    "locationsText": "Quebec",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029315"
+    ],
+    "id": "R029315",
     "source": "Ciena"
   },
   {
@@ -1064,17 +1086,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Associate Accountant Accounts Receivable",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Accountant-Accounts-Receiavble_R030155",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030155"
-    ],
-    "id": "R030155",
-    "source": "Ciena"
-  },
-  {
     "title": "Product Verification Engineer \u2013 New Graduate",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Verification-Engineer---New-Graduate_R030432",
     "locationsText": "Ottawa",
@@ -1105,17 +1116,6 @@
       "R030414"
     ],
     "id": "R030414",
-    "source": "Ciena"
-  },
-  {
-    "title": "Accountant",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Accountant_R030418",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030418"
-    ],
-    "id": "R030418",
     "source": "Ciena"
   },
   {

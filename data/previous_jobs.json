@@ -220,26 +220,6 @@
     "url": "https://solace.bamboohr.com/career/careers/724"
   },
   {
-    "id": "726",
-    "jobOpeningName": "Senior DevOps Engineer",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/726"
-  },
-  {
     "id": "727",
     "jobOpeningName": "Software Developer - Datapath",
     "departmentId": "18550",
@@ -611,6 +591,17 @@
     "source": "SST"
   },
   {
+    "title": "Associate Manager. Client Relations Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Client-Relations-Specialist_R25381",
+    "locationsText": "7 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R25381"
+    ],
+    "id": "R25381",
+    "source": "SST"
+  },
+  {
     "title": "CRM Support Specialist (Salesforce)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/CRM-Support-Specialist--Salesforce-_R42101",
     "locationsText": "Jacksonville, FL",
@@ -630,6 +621,17 @@
       "R39702"
     ],
     "id": "R39702",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, CLO Loan Operations \u2013 Loan Servicing",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Alternatives-Operations_R37727",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37727"
+    ],
+    "id": "R37727",
     "source": "SST"
   },
   {
@@ -674,28 +676,6 @@
       "R41976"
     ],
     "id": "R41976",
-    "source": "SST"
-  },
-  {
-    "title": "Quality Assurance Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Quality-Assurance-Analyst_R41979",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41979"
-    ],
-    "id": "R41979",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate_R40864",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40864"
-    ],
-    "id": "R40864",
     "source": "SST"
   },
   {
@@ -963,6 +943,28 @@
     "source": "Ciena"
   },
   {
+    "title": "New Grad: Research Scientist Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/New-Grad--Research-Scientist-Engineer_R030469",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030469"
+    ],
+    "id": "R030469",
+    "source": "Ciena"
+  },
+  {
+    "title": "Global Process Owner - Sales and Operations Planning",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Global-Process-Owner---Sales-and-Operations-Planning_R029895",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029895"
+    ],
+    "id": "R029895",
+    "source": "Ciena"
+  },
+  {
     "title": "Service Supply Chain Finance & Analytics Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK-Zone-2/Service-Supply-Chain-Finance---Analytics-Manager_R030326",
     "locationsText": "3 Locations",
@@ -1114,28 +1116,6 @@
       "R030395"
     ],
     "id": "R030395",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Director, Indirect Procurement",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Senior-Director--Indirect-Procurement_R030373",
-    "locationsText": "Baltimore",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030373"
-    ],
-    "id": "R030373",
-    "source": "Ciena"
-  },
-  {
-    "title": "Ing\u00e9nieur en Proc\u00e9d\u00e9s d'Assemblage Photonique / Photonics Assembly Process Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Process-Engineering-Technologist_R029315",
-    "locationsText": "Quebec",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029315"
-    ],
-    "id": "R029315",
     "source": "Ciena"
   },
   {

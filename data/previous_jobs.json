@@ -611,6 +611,39 @@
     "source": "SST"
   },
   {
+    "title": "CRM Support Specialist (Salesforce)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/CRM-Support-Specialist--Salesforce-_R42101",
+    "locationsText": "Jacksonville, FL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42101"
+    ],
+    "id": "R42101",
+    "source": "SST"
+  },
+  {
+    "title": "Client Services Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Basildon-UK/Client-Services-Manager_R39702-1",
+    "locationsText": "Basildon, UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39702"
+    ],
+    "id": "R39702",
+    "source": "SST"
+  },
+  {
+    "title": "Director, Private Markets Hybrids Accounting and Product Control",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Director--Private-Markets-Hybrids-Accounting-and-Product-Control_R42292",
+    "locationsText": "Union, NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42292"
+    ],
+    "id": "R42292",
+    "source": "SST"
+  },
+  {
     "title": "Java Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Java-Developer_R42016",
     "locationsText": "2 Locations",
@@ -666,37 +699,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Investor Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Senior-Associate--Investor-Services_R40447",
-    "locationsText": "2 Locations",
+    "title": "Azure Engineer,  SQL & Data Lakehouse",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Engineer---SQL---Data-Lakehouse_2605087",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40447"
+      "2605087"
     ],
-    "id": "R40447",
-    "source": "SST"
+    "id": "2605087",
+    "source": "CIBC"
   },
   {
-    "title": "Senior Microsoft 365 Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Microsoft-365-Engineer_R42023",
-    "locationsText": "2 Locations",
+    "title": "Java Application Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Java-Application-Developer_2527012",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42023"
+      "2527012"
     ],
-    "id": "R42023",
-    "source": "SST"
-  },
-  {
-    "title": "Operations Support Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Operations-Support-Analyst_R41593",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41593"
-    ],
-    "id": "R41593",
-    "source": "SST"
+    "id": "2527012",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Business Systems Analysis",
@@ -897,28 +919,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Director, Technology Currency Governance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Technology-Currency-Governance_2529304",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2529304"
-    ],
-    "id": "2529304",
-    "source": "CIBC"
-  },
-  {
-    "title": "Director, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Application-Development_2525590",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2525590"
-    ],
-    "id": "2525590",
-    "source": "CIBC"
-  },
-  {
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "12 Locations",
@@ -960,6 +960,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Service Supply Chain Finance & Analytics Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK-Zone-2/Service-Supply-Chain-Finance---Analytics-Manager_R030326",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030326"
+    ],
+    "id": "R030326",
     "source": "Ciena"
   },
   {
@@ -1114,17 +1125,6 @@
       "R030373"
     ],
     "id": "R030373",
-    "source": "Ciena"
-  },
-  {
-    "title": "Data Science/Analyst Intern (Summer 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/London/Data-Science-Analyst-Intern--Summer-2026-_R030463",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030463"
-    ],
-    "id": "R030463",
     "source": "Ciena"
   },
   {

@@ -420,6 +420,146 @@
     "url": "https://solace.bamboohr.com/career/careers/738"
   },
   {
+    "id": "740",
+    "jobOpeningName": "Sales Director ",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "United States",
+      "state": "Texas",
+      "province": null,
+      "city": "Austin"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/740"
+  },
+  {
+    "id": "741",
+    "jobOpeningName": "Sales Director ",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "New York ",
+      "state": "New York"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/741"
+  },
+  {
+    "id": "742",
+    "jobOpeningName": "Solutions Engineer - APAC ",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/742"
+  },
+  {
+    "id": "743",
+    "jobOpeningName": "Solutions Engineer - NA ",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/743"
+  },
+  {
+    "id": "745",
+    "jobOpeningName": "Solutions Engineer - EMEA",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Paris",
+      "state": "France"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/745"
+  },
+  {
+    "id": "746",
+    "jobOpeningName": "Sales Director - Germany",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "Germany",
+      "state": null,
+      "province": "Hesse",
+      "city": "Frankfurt"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/746"
+  },
+  {
+    "id": "747",
+    "jobOpeningName": "Sales Director - APAC",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/747"
+  },
+  {
     "id": "101",
     "jobOpeningName": "Operations Support Specialist",
     "departmentId": "18390",
@@ -580,6 +720,17 @@
     "source": "SST"
   },
   {
+    "title": "Intern - Technical",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Ontario-Toronto/Intern---Technical_R40419",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40419"
+    ],
+    "id": "R40419",
+    "source": "SST"
+  },
+  {
     "title": "Senior Director, Revenue Deal Strategy & Contract Operations",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Director--Revenue-Deal-Strategy---Contract-Operations_R42020",
     "locationsText": "Waltham MA - 10 CityPoint",
@@ -665,17 +816,6 @@
       "R41063"
     ],
     "id": "R41063",
-    "source": "SST"
-  },
-  {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate_R38504",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38504"
-    ],
-    "id": "R38504",
     "source": "SST"
   },
   {
@@ -902,7 +1042,7 @@
     "title": "Senior Business Operations Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Business-Operations-Analyst_R030392",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted Today",
     "bulletFields": [
       "R030392"
     ],
@@ -913,11 +1053,33 @@
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "12 Locations",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted Today",
     "bulletFields": [
       "R029881"
     ],
     "id": "R029881",
+    "source": "Ciena"
+  },
+  {
+    "title": "Product Line Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029960"
+    ],
+    "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Specialist - Account Management - Routing & Switching",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Consultant---Account-Management---Routing---Switching_R026764",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R026764"
+    ],
+    "id": "R026764",
     "source": "Ciena"
   },
   {
@@ -932,190 +1094,168 @@
     "source": "Ciena"
   },
   {
-    "title": "Product Line Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 30+ Days Ago",
-    "bulletFields": [
-      "R029960"
-    ],
-    "id": "R029960",
-    "source": "Ciena"
-  },
-  {
-    "title": "Specialist - Account Management - Routing & Switching",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Consultant---Account-Management---Routing---Switching_R026764",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 30+ Days Ago",
-    "bulletFields": [
-      "R026764"
-    ],
-    "id": "R026764",
-    "source": "Ciena"
-  },
-  {
-    "title": "Photonic Hardware Engineer (NEW GRAD)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonic-Hardware-Engineer--NEW-GRAD-_R029485",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029485"
-    ],
-    "id": "R029485",
-    "source": "Ciena"
-  },
-  {
-    "title": "Optical Networks Product Verification Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Networks-Product-Verification-Engineer---New-Grad_R029225",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029225"
-    ],
-    "id": "R029225",
-    "source": "Ciena"
-  },
-  {
-    "title": "WaveLogic Software Intern (Summer 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/WaveLogic-Software-Intern--Summer-2026-_R029765",
-    "locationsText": "Atlanta",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029765"
-    ],
-    "id": "R029765",
-    "source": "Ciena"
-  },
-  {
-    "title": "Wavelogic Firmware Developer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Wavelogic-Firmware-Developer---New-Grad_R029612",
-    "locationsText": "Atlanta",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029612"
-    ],
-    "id": "R029612",
-    "source": "Ciena"
-  },
-  {
-    "title": "RLS Integrated Test Engineer Co-op (8 to 16 Month)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/RLS-Integrated-Test-Engineer-Co-op--8-to-16-Month-_R030377",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030377"
-    ],
-    "id": "R030377",
-    "source": "Ciena"
-  },
-  {
-    "title": "Ing\u00e9nieur optique/Optical Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Ingnieur-optique-Optical-Engineer_R028389",
-    "locationsText": "Quebec",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R028389"
-    ],
-    "id": "R028389",
-    "source": "Ciena"
-  },
-  {
-    "title": "Principal SI/PI Design Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Principal-SI-PI-Design-Engineer_R029568",
-    "locationsText": "New Providence - NJ",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029568"
-    ],
-    "id": "R029568",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Digital Verification Engineer (ASIC - Client IP/Ethernet)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Senior-Digital-Verification-Engineer--ASIC---Client-IP-Ethernet-_R030076",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030076"
-    ],
-    "id": "R030076",
-    "source": "Ciena"
-  },
-  {
-    "title": "Repair Operations Program Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Repairs-Operations-Failures-Analysis--FA--Logistics-Coordinator_R029840",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029840"
-    ],
-    "id": "R029840",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Analog Hardware Designer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Hardware-Designer_R028532",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R028532"
-    ],
-    "id": "R028532",
-    "source": "Ciena"
-  },
-  {
     "title": "ASIC Digital Backend Physical Implementation Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Digital-Backend-Physical-Implementation-Engineer_R029822",
-    "locationsText": "Ottawa",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/ASIC-Digital-Backend-Physical-Implementation-Engineer_R030557",
+    "locationsText": "Atlanta",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R029822"
+      "R030557"
     ],
-    "id": "R029822",
+    "id": "R030557",
     "source": "Ciena"
   },
   {
-    "title": "Principal Thermal Mechanical Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Principal-Thermal-Mechanical-Engineer_R030075",
-    "locationsText": "New Providence - NJ",
+    "title": "Digital ASIC Prototyping Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Digital-ASIC-Prototyping-Engineer_R030554",
+    "locationsText": "Atlanta",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R030075"
+      "R030554"
     ],
-    "id": "R030075",
+    "id": "R030554",
     "source": "Ciena"
   },
   {
-    "title": "Chip Engineering Lead / Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Chip-Engineering-Lead---Manager_R030393",
-    "locationsText": "Ottawa",
+    "title": "Executive Administrative Assistant to Ciena\u2019s SVP, Global Customer Engagement",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Executive-Administrative-Assistant-to-Ciena-s-SVP--Global-Customer-Engagement_R030435-1",
+    "locationsText": "Atlanta",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R030393"
+      "R030435"
     ],
-    "id": "R030393",
+    "id": "R030435",
     "source": "Ciena"
   },
   {
-    "title": "Principal SerDes System/DSP Design Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-SerDes-System-DSP-Design-Engineer_R029550",
+    "title": "Specialist, Account Management",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Specialist--Account-Management_R030339",
     "locationsText": "4 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R029550"
+      "R030339"
     ],
-    "id": "R029550",
+    "id": "R030339",
     "source": "Ciena"
   },
   {
-    "title": "Silicon Photonics Design Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Silicon-Photonics-Design-Engineer---High-Speed-Modulator-Devices_R030220",
+    "title": "Technical Solutions Engineer \u2013 Data Center PON",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Technical-Solutions-Engineer---Data-Center-PON_R030460",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030460"
+    ],
+    "id": "R030460",
+    "source": "Ciena"
+  },
+  {
+    "title": "Principal, Optical Networks Business Development",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Principal-Solutions-Architect_R029314",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029314"
+    ],
+    "id": "R029314",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Sales Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-GA/Senior-Sales-Engineer_R029421",
+    "locationsText": "8 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029421"
+    ],
+    "id": "R029421",
+    "source": "Ciena"
+  },
+  {
+    "title": "Solution Architect, Sales Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-CO/Solution-Architect--Sales-Engineering_R029415",
+    "locationsText": "Remote-US-CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029415"
+    ],
+    "id": "R029415",
+    "source": "Ciena"
+  },
+  {
+    "title": "Optical Systems Product Line Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Optical-Systems-Product-Line-Manager_R029450",
     "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R030220"
+      "R029450"
     ],
-    "id": "R030220",
+    "id": "R029450",
+    "source": "Ciena"
+  },
+  {
+    "title": "Director, Value Realization",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Director--Value-Realization_R029685-1",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029685"
+    ],
+    "id": "R029685",
+    "source": "Ciena"
+  },
+  {
+    "title": "Global Process Owner - Sales and Operations Planning",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Global-Process-Owner---Sales-and-Operations-Planning_R029895",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029895"
+    ],
+    "id": "R029895",
+    "source": "Ciena"
+  },
+  {
+    "title": "Jr. Full Stack Software Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/Jr-Full-Stack-Software-Engineer_R030452",
+    "locationsText": "Buenos Aires",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030452"
+    ],
+    "id": "R030452",
+    "source": "Ciena"
+  },
+  {
+    "title": "Jr Software Developer -  Professional Services Inventory",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Brazil/Software-Developer----Professional-Services-Inventory_R030280",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030280"
+    ],
+    "id": "R030280",
+    "source": "Ciena"
+  },
+  {
+    "title": "Consultant, Solutions Architect",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Brazil/Consultant--Solutions-Architect_R030366",
+    "locationsText": "Remote-Brazil",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030366"
+    ],
+    "id": "R030366",
+    "source": "Ciena"
+  },
+  {
+    "title": "Associate, Global Technical Support",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Senior-Associate--Global-Technical-Support_R029958",
+    "locationsText": "Remote-Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029958"
+    ],
+    "id": "R029958",
     "source": "Ciena"
   },
   {

@@ -580,6 +580,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Director, Revenue Deal Strategy & Contract Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Director--Revenue-Deal-Strategy---Contract-Operations_R42020",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42020"
+    ],
+    "id": "R42020",
+    "source": "SST"
+  },
+  {
     "title": "Associate Valuations Control",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate-Valuations-Control_R41472",
     "locationsText": "Maharashtra, Navi Mumbai",
@@ -668,15 +679,37 @@
     "source": "SST"
   },
   {
-    "title": "Associate Manager, Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hong-Kong-JP/Associate-Manager--Fund-Accounting_R42092",
-    "locationsText": "Hong Kong (JP)",
+    "title": "Sr. Manager, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2605509",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42092"
+      "2605509"
     ],
-    "id": "R42092",
-    "source": "SST"
+    "id": "2605509",
+    "source": "CIBC"
+  },
+  {
+    "title": "Solution Designer \u2013 Generative AI Applications",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Solution-Designer---Generative-AI-Applications_2602276-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2602276"
+    ],
+    "id": "2602276",
+    "source": "CIBC"
+  },
+  {
+    "title": "Endpoint Engineer - Enterprise Endpoint Compute",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Endpoint-Engineer---Enterprise-Endpoint-Compute_2529233",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2529233"
+    ],
+    "id": "2529233",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Business Systems Analyst",
@@ -866,39 +899,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2600271",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2600271"
-    ],
-    "id": "2600271",
-    "source": "CIBC"
-  },
-  {
-    "title": "Azure Cloud Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Cloud-Engineer_2606740-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2606740"
-    ],
-    "id": "2606740",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Consultant, Telecommunications",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Telecommunications_2605994",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2605994"
-    ],
-    "id": "2605994",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Business Operations Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Business-Operations-Analyst_R030392",
     "locationsText": "Ottawa",
@@ -954,25 +954,80 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Associate- Sourcing",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Associate--Sourcing_R030532",
-    "locationsText": "Gurugram",
+    "title": "Photonics Technical Prime",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Technical-Prime_R030271",
+    "locationsText": "Ottawa",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R030532"
+      "R030271"
     ],
-    "id": "R030532",
+    "id": "R030271",
     "source": "Ciena"
   },
   {
-    "title": "Director, Digital and Process Transformation",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Digital-and-Process-Transformation_R030422-1",
-    "locationsText": "3 Locations",
+    "title": "Senior Optical Products Cost Reduction Program Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Optical-Products-Cost-Reduction-Program-Manager_R029890",
+    "locationsText": "Ottawa",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R030422"
+      "R029890"
     ],
-    "id": "R030422",
+    "id": "R029890",
+    "source": "Ciena"
+  },
+  {
+    "title": "Metro Field Tech",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-TX/Metro-Field-Tech_R029868",
+    "locationsText": "Remote-US-TX",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029868"
+    ],
+    "id": "R029868",
+    "source": "Ciena"
+  },
+  {
+    "title": "Blue Planet Advanced Technical Support BPI+BPO",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Blue-Planet-Advanced-Technical-Support-BPI-BPO_R030389",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030389"
+    ],
+    "id": "R030389",
+    "source": "Ciena"
+  },
+  {
+    "title": "Sales Leader, North America\u2019s Tier 1 Communication Service Providers",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Sales-Leader--North-America-s-Tier-1-Communication-Service-Providers_R029202",
+    "locationsText": "Remote-Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029202"
+    ],
+    "id": "R029202",
+    "source": "Ciena"
+  },
+  {
+    "title": "DevOps/Delivery Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/DevOps-Delivery-Engineer_R030248",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030248"
+    ],
+    "id": "R030248",
+    "source": "Ciena"
+  },
+  {
+    "title": "Global Field Quality Leader Americas",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Global-Field-Quality-Leader-Americas_R029627",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029627"
+    ],
+    "id": "R029627",
     "source": "Ciena"
   },
   {
@@ -984,6 +1039,17 @@
       "R029804"
     ],
     "id": "R029804",
+    "source": "Ciena"
+  },
+  {
+    "title": "Director, Digital and Process Transformation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Digital-and-Process-Transformation_R030422-1",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030422"
+    ],
+    "id": "R030422",
     "source": "Ciena"
   },
   {
@@ -1050,72 +1116,6 @@
       "R030363"
     ],
     "id": "R030363",
-    "source": "Ciena"
-  },
-  {
-    "title": "Investigation Specialist",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Investigation-Specialist_R030318",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030318"
-    ],
-    "id": "R030318",
-    "source": "Ciena"
-  },
-  {
-    "title": "Field Service Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Philippines/Field-Service-Engineer_R030458",
-    "locationsText": "Remote-Philippines",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030458"
-    ],
-    "id": "R030458",
-    "source": "Ciena"
-  },
-  {
-    "title": "Data Platform SRE",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Data-Platform-SRE_R030134",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030134"
-    ],
-    "id": "R030134",
-    "source": "Ciena"
-  },
-  {
-    "title": "Project Management Officer (PMO) - SPM Support",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Project-Management-Officer--PMO----SPM-Support_R030411",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030411"
-    ],
-    "id": "R030411",
-    "source": "Ciena"
-  },
-  {
-    "title": "Python Developer- Networking domain",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Bengaluru/Python-Developer--Networking-domain_R030509-1",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030509"
-    ],
-    "id": "R030509",
-    "source": "Ciena"
-  },
-  {
-    "title": "Technical Solutions Engineer \u2013 Data Center PON",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Technical-Solutions-Engineer---Data-Center-PON_R030460",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030460"
-    ],
-    "id": "R030460",
     "source": "Ciena"
   },
   {

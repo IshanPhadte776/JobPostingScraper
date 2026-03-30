@@ -731,6 +731,39 @@
     "source": "SST"
   },
   {
+    "title": "Financial Services Contact Center Team Lead",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Financial-Services-Contact-Center-Team-Lead_R40774",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40774"
+    ],
+    "id": "R40774",
+    "source": "SST"
+  },
+  {
+    "title": "Director, Sales and Relationship Management - PA25Q4SEJH044",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Luxembourg/Director--Sales-and-Relationship-Management---PA25Q4SEJH044_R42085",
+    "locationsText": "Remote  -Luxembourg",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42085"
+    ],
+    "id": "R42085",
+    "source": "SST"
+  },
+  {
+    "title": "Consultant, SS&C Genesis / Advent Investment Suite",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Consultant--SS-C-Genesis---Advent-Investment-Suite_R42235",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42235"
+    ],
+    "id": "R42235",
+    "source": "SST"
+  },
+  {
     "title": "Lead Program Manager Supply Chain Economics",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-Jersey-US/Lead-Program-Manager-Supply-Chain-Economics_R41900",
     "locationsText": "Remote - New Jersey, US",
@@ -783,39 +816,6 @@
       "R41460"
     ],
     "id": "R41460",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate, Private Markets",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Grand-Cayman-Cayman-Islands/Senior-Associate--Private-Markets_R42342",
-    "locationsText": "Grand Cayman, Cayman Islands",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42342"
-    ],
-    "id": "R42342",
-    "source": "SST"
-  },
-  {
-    "title": "Supervisor, Fund Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Supervisor--Fund-Services-Operations_R41642",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41642"
-    ],
-    "id": "R41642",
-    "source": "SST"
-  },
-  {
-    "title": "ETL Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/PA2026Q1JB010-Technical-Specialist_R40834",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40834"
-    ],
-    "id": "R40834",
     "source": "SST"
   },
   {
@@ -1215,17 +1215,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Product Security Lab Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Product-Security-Lab-Engineer_R029855",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029855"
-    ],
-    "id": "R029855",
-    "source": "Ciena"
-  },
-  {
     "title": "Embedded Software Engineer 3",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Embedded-Software-Engineer-3_R030560",
     "locationsText": "Atlanta",
@@ -1256,6 +1245,17 @@
       "R030557"
     ],
     "id": "R030557",
+    "source": "Ciena"
+  },
+  {
+    "title": "Digital ASIC Prototyping Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Digital-ASIC-Prototyping-Engineer_R030554",
+    "locationsText": "Atlanta",
+    "postedOn": "Posted 3 Days Ago",
+    "bulletFields": [
+      "R030554"
+    ],
+    "id": "R030554",
     "source": "Ciena"
   },
   {

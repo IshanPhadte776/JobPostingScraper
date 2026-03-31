@@ -731,6 +731,28 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Sales Executive, Asset Management & Financial Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Asset-Management-Technology-Sales-Executive---PA-CRITICAL-Q3-R1-_R35685",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R35685"
+    ],
+    "id": "R35685",
+    "source": "SST"
+  },
+  {
+    "title": "Consultant, SS&C Genesis / Advent Investment Suite",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Consultant--SS-C-Genesis---Advent-Investment-Suite_R42235",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42235"
+    ],
+    "id": "R42235",
+    "source": "SST"
+  },
+  {
     "title": "Technical Lead UI_PA25DIGPQ2026",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Technical-Lead-UI-PA25DIGPQ2026_R32799",
     "locationsText": "Mumbai, India",
@@ -797,26 +819,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior Application Engineer - Workflow",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne---800-Bourke-St/Senior-Application-Engineer---Workflow_R42220",
-    "locationsText": "Melbourne - 800 Bourke St",
+    "title": "Consultant, Production Application Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2600630",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42220"
+      "2600630"
     ],
-    "id": "R42220",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Software Engineer - Integration",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne-Australia/Senior-Software-Engineer---Integration_R42219",
-    "locationsText": "Melbourne, Australia",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42219"
-    ],
-    "id": "R42219",
-    "source": "SST"
+    "id": "2600630",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Production Application Support",
@@ -1028,17 +1039,6 @@
     "source": "CIBC"
   },
   {
-    "title": "BUSINESS SYSTEMS CONSULTANT",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/BUSINESS-SYSTEMS-CONSULTANT_2602993",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2602993"
-    ],
-    "id": "2602993",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Business Operations Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Business-Operations-Analyst_R030392",
     "locationsText": "Ottawa",
@@ -1091,6 +1091,17 @@
       "R030368"
     ],
     "id": "R030368",
+    "source": "Ciena"
+  },
+  {
+    "title": "Pluggable Optical Modem Test Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Pluggable-Optical-Modem-Test-Engineer---New-Grad_R030456",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030456"
+    ],
+    "id": "R030456",
     "source": "Ciena"
   },
   {
@@ -1245,17 +1256,6 @@
       "R030531"
     ],
     "id": "R030531",
-    "source": "Ciena"
-  },
-  {
-    "title": "Embedded Software Engineer 3",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Embedded-Software-Engineer-3_R030560",
-    "locationsText": "Atlanta",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030560"
-    ],
-    "id": "R030560",
     "source": "Ciena"
   },
   {

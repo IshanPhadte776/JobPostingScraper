@@ -752,6 +752,39 @@
     "source": "SST"
   },
   {
+    "title": "Senior Account Executive Alternative Investments",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-Account-Executive-Alternative-Investments_R42610",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42610"
+    ],
+    "id": "R42610",
+    "source": "SST"
+  },
+  {
+    "title": "Principal Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Principal-Software-Engineer_R42086-1",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42086"
+    ],
+    "id": "R42086",
+    "source": "SST"
+  },
+  {
+    "title": "Production Support Lead - PA-Auto-2026-Q2-R001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Connecticut-US/Production-Support-Lead---PA-Auto-2026-Q2-R001_R42024",
+    "locationsText": "Remote - Connecticut, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42024"
+    ],
+    "id": "R42024",
+    "source": "SST"
+  },
+  {
     "title": "Software Engineer P2 - Job Requisition: R42442 Software Engineer P2 - PA2026Q1JB051",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Ontario-Toronto/Software-Engineer-P2---Job-Requisition--R42442-Software-Engineer-P2---PA2026Q1JB051_R42444",
     "locationsText": "Ontario, Toronto",
@@ -807,37 +840,15 @@
     "source": "SST"
   },
   {
-    "title": "Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India---Commerzone-Building-7/Manager_R41494",
-    "locationsText": "Pune India - Commerzone Building 7",
+    "title": "Consultant, Information Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2607224",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41494"
+      "2607224"
     ],
-    "id": "R41494",
-    "source": "SST"
-  },
-  {
-    "title": "Junior Automation Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Karnataka/Junior-Automation-Developer_R38448",
-    "locationsText": "Remote - Karnataka",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38448"
-    ],
-    "id": "R38448",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Financial-Services-Operations_R41623",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41623"
-    ],
-    "id": "R41623",
-    "source": "SST"
+    "id": "2607224",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Information Security",
@@ -1046,17 +1057,6 @@
       "2602276"
     ],
     "id": "2602276",
-    "source": "CIBC"
-  },
-  {
-    "title": "Endpoint Engineer - Enterprise Endpoint Compute",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Endpoint-Engineer---Enterprise-Endpoint-Compute_2529233",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "2529233"
-    ],
-    "id": "2529233",
     "source": "CIBC"
   },
   {

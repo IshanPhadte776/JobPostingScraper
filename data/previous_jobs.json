@@ -620,6 +620,17 @@
     "url": "https://recollective.bamboohr.com/career/careers/102"
   },
   {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Senior-Software-Engineer_R27039",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R27039"
+    ],
+    "id": "R27039",
+    "source": "SST"
+  },
+  {
     "title": "Senior Assocaite",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Assocaite_R42230",
     "locationsText": "Maharashtra, Navi Mumbai",
@@ -752,6 +763,28 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Senior-Associate_R41934-1",
+    "locationsText": "Evansville, IN",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41934"
+    ],
+    "id": "R41934",
+    "source": "SST"
+  },
+  {
+    "title": "Associate National Investment Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate-National-Investment-Consultant_R41303-1",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41303"
+    ],
+    "id": "R41303",
+    "source": "SST"
+  },
+  {
     "title": "Data Analyst",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Data-Scientist_R32997-1",
     "locationsText": "5 Locations",
@@ -804,39 +837,6 @@
       "R42551"
     ],
     "id": "R42551",
-    "source": "SST"
-  },
-  {
-    "title": "Sales Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Sales-Associate_R42553-1",
-    "locationsText": "Chicago, IL",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42553"
-    ],
-    "id": "R42553",
-    "source": "SST"
-  },
-  {
-    "title": "Director of CX AI",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Director-of-CX-AI_R42425-1",
-    "locationsText": "5 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42425"
-    ],
-    "id": "R42425",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Sales Operations Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Financial-Analyst_R42602",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42602"
-    ],
-    "id": "R42602",
     "source": "SST"
   },
   {
@@ -1060,6 +1060,17 @@
     "source": "CIBC"
   },
   {
+    "title": "Senior Software Development Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030368"
+    ],
+    "id": "R030368",
+    "source": "Ciena"
+  },
+  {
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "12 Locations",
@@ -1115,14 +1126,25 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Software Development Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
+    "title": "Senior Digital Verification Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Digital-Verification-Engineer_R030630",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 11 Days Ago",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "R030368"
+      "R030630"
     ],
-    "id": "R030368",
+    "id": "R030630",
+    "source": "Ciena"
+  },
+  {
+    "title": "Digital ASIC Prototyping Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-ASIC-Prototyping-Engineer_R030629",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030629"
+    ],
+    "id": "R030629",
     "source": "Ciena"
   },
   {
@@ -1255,28 +1277,6 @@
       "R030088"
     ],
     "id": "R030088",
-    "source": "Ciena"
-  },
-  {
-    "title": "Cloud Platform & AI Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Cloud-Platform---AI-Engineer_R030459",
-    "locationsText": "Remote- India- Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030459"
-    ],
-    "id": "R030459",
-    "source": "Ciena"
-  },
-  {
-    "title": "Lead, Data Quality",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India-Gurgaon-TRIL-Tower-4/Lead--Data-Quality_R030008",
-    "locationsText": "India-Gurgaon-TRIL Tower 4",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030008"
-    ],
-    "id": "R030008",
     "source": "Ciena"
   },
   {
@@ -2536,48 +2536,6 @@
         "description": "",
         "link": "https://www.surveymonkey.com/careers/office/global/",
         "path": "/careers/office/global/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 161850,
-    "type": "careers",
-    "title": "Senior Technical Program Manager II",
-    "link": "https://www.surveymonkey.com/careers/7752579-senior-technical-program-manager-ii/",
-    "path": "/careers/7752579-senior-technical-program-manager-ii/",
-    "date": "2026-03-25T17:00:10",
-    "date_modified": "2026-03-25T17:00:10",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Technical Program Manager II",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      },
-      {
-        "id": 393,
-        "slug": "ottawa",
-        "name": "Ottawa, Canada",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
-        "path": "/careers/office/ottawa/"
       }
     ],
     "job_location": "",

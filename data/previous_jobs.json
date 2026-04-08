@@ -426,17 +426,17 @@
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
     "location": {
-      "city": "New York ",
-      "state": "New York"
+      "city": null,
+      "state": null
     },
     "atsLocation": {
-      "country": null,
-      "state": null,
+      "country": "United States",
+      "state": "Massachusetts",
       "province": null,
-      "city": null
+      "city": "Boston"
     },
     "isRemote": null,
-    "locationType": "2",
+    "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/741"
   },
   {
@@ -763,6 +763,17 @@
     "source": "SST"
   },
   {
+    "title": "Customer Support Analyst - PA-CC-Q2-2006- R002",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Customer-Support-Analyst---PA-CC-Q2-2006--R002_R42482",
+    "locationsText": "42 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42482"
+    ],
+    "id": "R42482",
+    "source": "SST"
+  },
+  {
     "title": "Sr. Data Analyst",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Sr-Data-Analyst_R42653-1",
     "locationsText": "10 Locations",
@@ -829,15 +840,15 @@
     "source": "SST"
   },
   {
-    "title": "PA2026Q1JB049 - Director - Pune",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/PA2026Q1JB049---Director---Pune_R42039",
-    "locationsText": "Pune, India",
+    "title": "Consultant, Back End Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Back-End-Developer_2601332",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42039"
+      "2601332"
     ],
-    "id": "R42039",
-    "source": "SST"
+    "id": "2601332",
+    "source": "CIBC"
   },
   {
     "title": "Mainframe Application Developer",
@@ -1049,17 +1060,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Quality Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Quality-Engineer_2607869",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2607869"
-    ],
-    "id": "2607869",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -1126,7 +1126,7 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Financial & Data Analyst (FinOps)",
+    "title": "Senior Financial & Data Analyst (FinOps) - Hanover, Maryland",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Senior-Financial---Data-Analyst--FinOps-_R030617-1",
     "locationsText": "Baltimore",
     "postedOn": "Posted Today",
@@ -1137,14 +1137,25 @@
     "source": "Ciena"
   },
   {
-    "title": "Associate Accountant Accounts Receivable",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Accountant-Accounts-Receiavble_R030155",
-    "locationsText": "Gurugram",
+    "title": "Business and Data Analyst Intern (Summer 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Business-and-Data-Analyst-Intern--Summer-2026-_R030594",
+    "locationsText": "Remote-US",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R030155"
+      "R030594"
     ],
-    "id": "R030155",
+    "id": "R030594",
+    "source": "Ciena"
+  },
+  {
+    "title": "Python Developer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada-British-Columbia/Python-Developer_R030521",
+    "locationsText": "Remote-Canada-British Columbia",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030521"
+    ],
+    "id": "R030521",
     "source": "Ciena"
   },
   {
@@ -1266,17 +1277,6 @@
       "R030603"
     ],
     "id": "R030603",
-    "source": "Ciena"
-  },
-  {
-    "title": "NPI Mechanical Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/NPI-Mechanical-Engineer_R030563",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030563"
-    ],
-    "id": "R030563",
     "source": "Ciena"
   },
   {

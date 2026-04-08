@@ -763,6 +763,39 @@
     "source": "SST"
   },
   {
+    "title": "Manager Sales Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Financial-Analyst_R42602",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42602"
+    ],
+    "id": "R42602",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Manager, Loan Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Associate-Manager--Loan-Operations_R38557",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38557"
+    ],
+    "id": "R38557",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Operations (LH-BPO)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY---437-Madison-Ave/Manager--Operations--LH-BPO-_R36304",
+    "locationsText": "New York NY - 437 Madison Ave",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R36304"
+    ],
+    "id": "R36304",
+    "source": "SST"
+  },
+  {
     "title": "PA2026Q1JB049 - Director - Pune",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/PA2026Q1JB049---Director---Pune_R42039",
     "locationsText": "Pune, India",
@@ -807,37 +840,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Financial-Services-Operations_R41627",
-    "locationsText": "Maharashtra, Navi Mumbai",
+    "title": "Consultant, Active Directory Entra ID Specialist",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Identity-Services-Support-Specialist_2605551",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41627"
+      "2605551"
     ],
-    "id": "R41627",
-    "source": "SST"
+    "id": "2605551",
+    "source": "CIBC"
   },
   {
-    "title": "Team Lead - Financial Service Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Team-Lead---Financial-Service-Operations_R42529",
-    "locationsText": "Maharashtra, Navi Mumbai",
+    "title": "Application Production Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Production-Support_2607159",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42529"
+      "2607159"
     ],
-    "id": "R42529",
-    "source": "SST"
-  },
-  {
-    "title": "Integration & Testing Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/PA2026PMOCTRLBAU1---Integration---Testing-Specialist_R41394-1",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41394"
-    ],
-    "id": "R41394",
-    "source": "SST"
+    "id": "2607159",
+    "source": "CIBC"
   },
   {
     "title": "Power Platform Consultant",
@@ -950,17 +972,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Appian Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Appian-Developer_2606717",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2606717"
-    ],
-    "id": "2606717",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr. Back End Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Back-End-Developer_2607445",
     "locationsText": "Toronto, ON",
@@ -1049,17 +1060,6 @@
     "source": "CIBC"
   },
   {
-    "title": "BI Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Engineer_2604520",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2604520"
-    ],
-    "id": "2604520",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -1123,6 +1123,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Financial & Data Analyst (FinOps)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Senior-Financial---Data-Analyst--FinOps-_R030617-1",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030617"
+    ],
+    "id": "R030617",
     "source": "Ciena"
   },
   {
@@ -1266,17 +1277,6 @@
       "R030616"
     ],
     "id": "R030616",
-    "source": "Ciena"
-  },
-  {
-    "title": "Director, Field and Channel Marketing",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Director--Field-and-Channel-Marketing_R030603",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030603"
-    ],
-    "id": "R030603",
     "source": "Ciena"
   },
   {

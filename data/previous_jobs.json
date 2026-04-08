@@ -763,6 +763,39 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Data Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Sr-Data-Analyst_R42653-1",
+    "locationsText": "10 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42653"
+    ],
+    "id": "R42653",
+    "source": "SST"
+  },
+  {
+    "title": "Software Quality Assurance Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Fort-Worth-TX/Software-Quality-Assurance-Analyst_R42041-1",
+    "locationsText": "Fort Worth, TX",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42041"
+    ],
+    "id": "R42041",
+    "source": "SST"
+  },
+  {
+    "title": "Data Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Data-Scientist_R32997-1",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R32997"
+    ],
+    "id": "R32997",
+    "source": "SST"
+  },
+  {
     "title": "Manager Sales Operations",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Financial-Analyst_R42602",
     "locationsText": "New York, NY",
@@ -807,37 +840,37 @@
     "source": "SST"
   },
   {
-    "title": "Intern - Sales Development Representative",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Intern---Sales-Development-Representative_R42618",
-    "locationsText": "New York, NY",
+    "title": "Mainframe Application Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Mainframe-Application-Developer_2608234",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42618"
+      "2608234"
     ],
-    "id": "R42618",
-    "source": "SST"
+    "id": "2608234",
+    "source": "CIBC"
   },
   {
-    "title": "Senior Fund Accountant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kuala-Lumpur-Malaysia/Senior-Fund-Accountant_R42347",
-    "locationsText": "Kuala Lumpur, Malaysia",
+    "title": "Appian Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Appian-Developer_2606717",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42347"
+      "2606717"
     ],
-    "id": "R42347",
-    "source": "SST"
+    "id": "2606717",
+    "source": "CIBC"
   },
   {
-    "title": "PA26NGOQ2AFS004 - Supervisor, Learning & Development",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/PA26NGOQ2AFS004---Supervisor--Learning---Development_R41068",
-    "locationsText": "Maharashtra, Navi Mumbai",
+    "title": "Senior Database Administrator, Mainframe",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Database-Administrator--Mainframe_2607966",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41068"
+      "2607966"
     ],
-    "id": "R41068",
-    "source": "SST"
+    "id": "2607966",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Active Directory Entra ID Specialist",
@@ -1027,39 +1060,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Test Coordinator ,Wealth CRM",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Test-Coordinator--Wealth-CRM_2607246",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2607246"
-    ],
-    "id": "2607246",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Consultant, Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Quality-Assurance_2607508",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2607508"
-    ],
-    "id": "2607508",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Manager, Mainframe Infrastructure Management Support and Services",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Mainframe-Infrastructure-Management-Support-and-Services_2607493",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2607493"
-    ],
-    "id": "2607493",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -1137,17 +1137,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Software Security Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Security-Engineer_R029384",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R029384"
-    ],
-    "id": "R029384",
-    "source": "Ciena"
-  },
-  {
     "title": "Associate Accountant Accounts Receivable",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Accountant-Accounts-Receiavble_R030155",
     "locationsText": "Gurugram",
@@ -1156,17 +1145,6 @@
       "R030155"
     ],
     "id": "R030155",
-    "source": "Ciena"
-  },
-  {
-    "title": "Process Improvement and Program Management Intern",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Process-Improvement-and-Program-Management-Intern_R030595",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030595"
-    ],
-    "id": "R030595",
     "source": "Ciena"
   },
   {
@@ -1277,6 +1255,28 @@
       "R030616"
     ],
     "id": "R030616",
+    "source": "Ciena"
+  },
+  {
+    "title": "Director, Field and Channel Marketing",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Director--Field-and-Channel-Marketing_R030603",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R030603"
+    ],
+    "id": "R030603",
+    "source": "Ciena"
+  },
+  {
+    "title": "NPI Mechanical Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/NPI-Mechanical-Engineer_R030563",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R030563"
+    ],
+    "id": "R030563",
     "source": "Ciena"
   },
   {

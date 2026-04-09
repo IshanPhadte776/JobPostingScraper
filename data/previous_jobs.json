@@ -763,14 +763,6 @@
     "source": "SST"
   },
   {
-    "bulletFields": [
-      "R41527"
-    ],
-    "id": "R41527",
-    "externalPath": "",
-    "source": "SST"
-  },
-  {
     "title": "Manager Sales Operations",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Financial-Analyst_R42602",
     "locationsText": "New York, NY",
@@ -790,17 +782,6 @@
       "R37959"
     ],
     "id": "R37959",
-    "source": "SST"
-  },
-  {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate_R42460",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42460"
-    ],
-    "id": "R42460",
     "source": "SST"
   },
   {
@@ -837,6 +818,50 @@
     "source": "SST"
   },
   {
+    "title": "Contracts Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Contracts-Specialist_R42494",
+    "locationsText": "Hyderabad, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42494"
+    ],
+    "id": "R42494",
+    "source": "SST"
+  },
+  {
+    "title": "Frontend Developer (Angular)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Machine-Learning-Engineer_R34225",
+    "locationsText": "Bucharest, Romania",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R34225"
+    ],
+    "id": "R34225",
+    "source": "SST"
+  },
+  {
+    "title": "Mainframe Application Developer (SAS)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Mainframe-Application-Developer_2608234",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2608234"
+    ],
+    "id": "2608234",
+    "source": "CIBC"
+  },
+  {
+    "title": "Director, Technology Currency Governance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Technology-Currency-Governance_2529304",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2529304"
+    ],
+    "id": "2529304",
+    "source": "CIBC"
+  },
+  {
     "title": "Sr. Director, Application Development & Quality Assurance",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director--Application-Development---Quality-Assurance_2608259-1",
     "locationsText": "Toronto, ON",
@@ -867,17 +892,6 @@
       "2601332"
     ],
     "id": "2601332",
-    "source": "CIBC"
-  },
-  {
-    "title": "Mainframe Application Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Mainframe-Application-Developer_2608234",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2608234"
-    ],
-    "id": "2608234",
     "source": "CIBC"
   },
   {
@@ -1046,17 +1060,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Consultant, Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Quality-Assurance_2607508",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2607508"
-    ],
-    "id": "2607508",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -1120,6 +1123,50 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Wavelogic Hardware Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Wavelogic-Hardware-Engineer---New-Grad_R028748",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028748"
+    ],
+    "id": "R028748",
+    "source": "Ciena"
+  },
+  {
+    "title": "Pluggable Optical Modem Test Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Pluggable-Optical-Modem-Test-Engineer_R030455",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030455"
+    ],
+    "id": "R030455",
+    "source": "Ciena"
+  },
+  {
+    "title": "Optical Components Test Engineering Lead",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Optical-Components-Test-Engineering-Lead_R030457",
+    "locationsText": "Quebec",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030457"
+    ],
+    "id": "R030457",
+    "source": "Ciena"
+  },
+  {
+    "title": "Blue Planet AI Product Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Blue-Planet-AI-Product-Manager_R030631",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030631"
+    ],
+    "id": "R030631",
     "source": "Ciena"
   },
   {
@@ -1230,50 +1277,6 @@
       "R030521"
     ],
     "id": "R030521",
-    "source": "Ciena"
-  },
-  {
-    "title": "Associate - Services Quoting",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/Associate---Services-Quoting_R030601",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030601"
-    ],
-    "id": "R030601",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Digital Verification Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Digital-Verification-Engineer_R030630",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030630"
-    ],
-    "id": "R030630",
-    "source": "Ciena"
-  },
-  {
-    "title": "Digital ASIC Prototyping Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-ASIC-Prototyping-Engineer_R030629",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030629"
-    ],
-    "id": "R030629",
-    "source": "Ciena"
-  },
-  {
-    "title": "DSP ASIC Verification Engineer - Optical Transmission Systems",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Germany--Braunschweig/DSP-ASIC-Verification-Engineer---Optical-Transmission-Systems_R030543",
-    "locationsText": "Germany- Braunschweig",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030543"
-    ],
-    "id": "R030543",
     "source": "Ciena"
   },
   {

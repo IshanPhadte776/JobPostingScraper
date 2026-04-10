@@ -754,14 +754,6 @@
     "source": "SST"
   },
   {
-    "bulletFields": [
-      "R42237"
-    ],
-    "id": "R42237",
-    "externalPath": "",
-    "source": "SST"
-  },
-  {
     "title": "GenAI Developer / Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Karnataka/GenAI-Developer---Engineer_R41015",
     "locationsText": "Remote - Karnataka",
@@ -815,6 +807,28 @@
     ],
     "id": "R42401",
     "source": "SST"
+  },
+  {
+    "title": "Software Engineer - PA26WIPTECOFFQ1052",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Pune/Software-Engineer---PA26WIPTECOFFQ1052_R39168",
+    "locationsText": "Remote - Pune",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39168"
+    ],
+    "id": "R39168",
+    "source": "SST"
+  },
+  {
+    "title": "Consultant, Infrastructure Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Infrastructure-Management_2608006-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2608006"
+    ],
+    "id": "2608006",
+    "source": "CIBC"
   },
   {
     "title": "Senior Test Coordinator ,Wealth CRM",
@@ -1023,17 +1037,6 @@
       "2607805"
     ],
     "id": "2607805",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Manager, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2605509",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "2605509"
-    ],
-    "id": "2605509",
     "source": "CIBC"
   },
   {
@@ -1257,6 +1260,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Software Developer II (Continuation)",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Staff-Firmware-Engineer_R004052",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R004052"
+    ],
+    "id": "R004052",
+    "source": "Entrust"
+  },
+  {
     "title": "Manufacturing Engineer II",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Manufacturing-Engineer-II_R004091",
     "locationsText": "United States - Shakopee, MN (GHQ)",
@@ -1265,17 +1279,6 @@
       "R004091"
     ],
     "id": "R004091",
-    "source": "Entrust"
-  },
-  {
-    "title": "Staff Firmware Engineer",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Staff-Firmware-Engineer_R004052",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 29 Days Ago",
-    "bulletFields": [
-      "R004052"
-    ],
-    "id": "R004052",
     "source": "Entrust"
   },
   {

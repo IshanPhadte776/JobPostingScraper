@@ -743,6 +743,17 @@
     "source": "SST"
   },
   {
+    "title": "Associate, Investor Services Representative I",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate_R40764",
+    "locationsText": "Denver, CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40764"
+    ],
+    "id": "R40764",
+    "source": "SST"
+  },
+  {
     "title": "Director of Business Support & Execution, Private Markets Americas",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Director-of-Business-Support---Execution--Private-Markets-Americas_R38541",
     "locationsText": "4 Locations",
@@ -806,17 +817,6 @@
       "R41629"
     ],
     "id": "R41629",
-    "source": "SST"
-  },
-  {
-    "title": "Snr Java Developer PA26DIGRQ2006",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Snr-Java-Developer-PA26DIGRQ2006_R42399",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42399"
-    ],
-    "id": "R42399",
     "source": "SST"
   },
   {
@@ -1106,6 +1106,39 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Product Applications Engineer - Interconnects",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Product-Applications-Engineer---Interconnects_R030679",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030679"
+    ],
+    "id": "R030679",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Firmware Designer/Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Firmware-Designer-Engineer_R030676",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030676"
+    ],
+    "id": "R030676",
+    "source": "Ciena"
+  },
+  {
+    "title": "Lab Support Tech - Night Shift - Onsite in Ottawa",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Lab-Support-Tech---Night-Shift---Onsite-in-Ottawa_R030388",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030388"
+    ],
+    "id": "R030388",
+    "source": "Ciena"
+  },
+  {
     "title": "Digital Verification Engineer - New Grad",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-Verification-Engineer---New-Grad_R030677",
     "locationsText": "Ottawa",
@@ -1125,17 +1158,6 @@
       "R030255"
     ],
     "id": "R030255",
-    "source": "Ciena"
-  },
-  {
-    "title": "Business Analyst \u2013 Network Design & Optimization",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Business-Analyst---Network-Design---Optimization_R030660",
-    "locationsText": "Remote-Mexico",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030660"
-    ],
-    "id": "R030660",
     "source": "Ciena"
   },
   {
@@ -1235,28 +1257,6 @@
       "R030426"
     ],
     "id": "R030426",
-    "source": "Ciena"
-  },
-  {
-    "title": "Import Global Trade Analyst",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Argentina--Buenos-Aires--7208-Libertado/Import-Global-Trade-Analyst_R030428-1",
-    "locationsText": "Argentina- Buenos Aires- 7208 Libertado",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030428"
-    ],
-    "id": "R030428",
-    "source": "Ciena"
-  },
-  {
-    "title": "Wavelogic Hardware Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Wavelogic-Hardware-Engineer---New-Grad_R028748",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R028748"
-    ],
-    "id": "R028748",
     "source": "Ciena"
   },
   {
@@ -2298,6 +2298,48 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 162379,
+    "type": "careers",
+    "title": "Senior Software Engineer II",
+    "link": "https://www.surveymonkey.com/careers/7775255-senior-software-engineer-ii/",
+    "path": "/careers/7775255-senior-software-engineer-ii/",
+    "date": "2026-04-13T14:00:34",
+    "date_modified": "2026-04-13T14:00:34",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer II",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 395,
+        "slug": "san-mateo",
+        "name": "San Mateo, CA",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/san-mateo/",
+        "path": "/careers/office/san-mateo/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 162188,

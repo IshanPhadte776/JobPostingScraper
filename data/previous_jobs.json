@@ -560,26 +560,6 @@
     "url": "https://solace.bamboohr.com/career/careers/749"
   },
   {
-    "id": "101",
-    "jobOpeningName": "Operations Support Specialist",
-    "departmentId": "18390",
-    "departmentLabel": "Shared Administration",
-    "employmentStatusLabel": "Regular, Full-time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": "Australia",
-      "state": "New South Wales",
-      "province": null,
-      "city": "Sydney"
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://recollective.bamboohr.com/career/careers/101"
-  },
-  {
     "id": "102",
     "jobOpeningName": "Senior Demand Marketing Manager",
     "departmentId": "18327",
@@ -598,6 +578,26 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://recollective.bamboohr.com/career/careers/102"
+  },
+  {
+    "id": "104",
+    "jobOpeningName": "Administrative Coordinator - Remote (Sydney)",
+    "departmentId": "18390",
+    "departmentLabel": "Shared Administration",
+    "employmentStatusLabel": "Regular, Full-time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "Australia",
+      "state": "New South Wales",
+      "province": null,
+      "city": "Sydney"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://recollective.bamboohr.com/career/careers/104"
   },
   {
     "title": "Infrastructure Production Engineer (PA25Q4IPFTSJH041)",
@@ -743,6 +743,39 @@
     "source": "SST"
   },
   {
+    "title": "Channel Partner Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Virginia-US/Director-Channel-Sales_R41236",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41236"
+    ],
+    "id": "R41236",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Alternative Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Senior-Associate_R39972",
+    "locationsText": "Evansville, IN",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39972"
+    ],
+    "id": "R39972",
+    "source": "SST"
+  },
+  {
+    "title": "Oracle Database Administrator/Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Skillman-NJ/Oracle-Database-Administrator-Engineer_R42471",
+    "locationsText": "Skillman, NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42471"
+    ],
+    "id": "R42471",
+    "source": "SST"
+  },
+  {
     "title": "Jr. Contract Lifecycle Operations Specialist",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Jr-Contract-Lifecycle-Operations-Specialist_R41072",
     "locationsText": "3 Locations",
@@ -787,37 +820,37 @@
     "source": "SST"
   },
   {
-    "title": "Retirement Plan Design Specialist - PA2026PlanDesign_Q2_R001",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Retirement-Plan-Design-Specialist---PA2026PlanDesign-Q2-R001_R42080",
-    "locationsText": "3 Locations",
+    "title": "SAS Application Consultant",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/SAS-Application-Consultant_2608466",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42080"
+      "2608466"
     ],
-    "id": "R42080",
-    "source": "SST"
+    "id": "2608466",
+    "source": "CIBC"
   },
   {
-    "title": "Director Channel Sales",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Virginia-US/Director-Channel-Sales_R41236",
-    "locationsText": "5 Locations",
+    "title": "Sr. Consultant, Application Development (.NET, C#, SQL)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development--NET--C---SQL-_2607827",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41236"
+      "2607827"
     ],
-    "id": "R41236",
-    "source": "SST"
+    "id": "2607827",
+    "source": "CIBC"
   },
   {
-    "title": "Product Manager - Black Diamond",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Product-Manager_R40256",
-    "locationsText": "2 Locations",
+    "title": "Consultant, Information Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2607919",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40256"
+      "2607919"
     ],
-    "id": "R40256",
-    "source": "SST"
+    "id": "2607919",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Full Stack Developer",
@@ -1007,39 +1040,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Power BI Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/BI-Engineer_2602275-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2602275"
-    ],
-    "id": "2602275",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Back End Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Back-End-Developer_2601332",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2601332"
-    ],
-    "id": "2601332",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Database Administrator, Mainframe",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Database-Administrator--Mainframe_2607966",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2607966"
-    ],
-    "id": "2607966",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -1106,6 +1106,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Firmware Designer/Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Embedded-Software-Engineer-3_R030560",
+    "locationsText": "Atlanta",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030560"
+    ],
+    "id": "R030560",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Analog Design Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Analog-Design-Engineer_R030674",
     "locationsText": "Ottawa",
@@ -1125,6 +1136,17 @@
       "R030547"
     ],
     "id": "R030547",
+    "source": "Ciena"
+  },
+  {
+    "title": "Ing\u00e9nieur optique - Nouveau Gradu\u00e9",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Ingnieur-optique---Nouveau-Gradu_R030188-1",
+    "locationsText": "Quebec",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030188"
+    ],
+    "id": "R030188",
     "source": "Ciena"
   },
   {
@@ -1158,17 +1180,6 @@
       "R029855"
     ],
     "id": "R029855",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Associate, Global Technical Support",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Associate--Global-Technical-Support_R030093",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030093"
-    ],
-    "id": "R030093",
     "source": "Ciena"
   },
   {
@@ -1246,17 +1257,6 @@
       "R030255"
     ],
     "id": "R030255",
-    "source": "Ciena"
-  },
-  {
-    "title": "Lead, Data Quality",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India-Gurgaon-TRIL-Tower-4/Lead--Data-Quality_R030008",
-    "locationsText": "India-Gurgaon-TRIL Tower 4",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030008"
-    ],
-    "id": "R030008",
     "source": "Ciena"
   },
   {

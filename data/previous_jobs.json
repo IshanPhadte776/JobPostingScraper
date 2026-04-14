@@ -743,6 +743,39 @@
     "source": "SST"
   },
   {
+    "title": "Intern",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Antonio-TX/Intern_R42531",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42531"
+    ],
+    "id": "R42531",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate_R40864",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40864"
+    ],
+    "id": "R40864",
+    "source": "SST"
+  },
+  {
+    "title": "Director of Engineering - Agentic AI platform",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Director-of-Engineering---Agentic-AI-platform_R42252",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42252"
+    ],
+    "id": "R42252",
+    "source": "SST"
+  },
+  {
     "title": "Senior Account Executive",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Account-Executive_R39703",
     "locationsText": "New York, NY",
@@ -787,37 +820,26 @@
     "source": "SST"
   },
   {
-    "title": "Data Operations Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Data-Operations-Analyst_R42025",
-    "locationsText": "Hyderabad, India",
+    "title": "Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2608515",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42025"
+      "2608515"
     ],
-    "id": "R42025",
-    "source": "SST"
+    "id": "2608515",
+    "source": "CIBC"
   },
   {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R31068",
-    "locationsText": "Maharashtra, Navi Mumbai",
+    "title": "Senior Cloud Solution Designer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Cloud-Solution-Designer_2603973",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R31068"
+      "2603973"
     ],
-    "id": "R31068",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate_R40700",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40700"
-    ],
-    "id": "R40700",
-    "source": "SST"
+    "id": "2603973",
+    "source": "CIBC"
   },
   {
     "title": "Senior Network Infrastructure Engineer(AVI/NSX)",
@@ -861,17 +883,6 @@
       "2526605"
     ],
     "id": "2526605",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Cloud Solution Designer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Cloud-Solution-Designer_2603972",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2603972"
-    ],
-    "id": "2603972",
     "source": "CIBC"
   },
   {
@@ -1029,17 +1040,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Application Production Support",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Production-Support_2607159",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2607159"
-    ],
-    "id": "2607159",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -1136,14 +1136,6 @@
       "R030093"
     ],
     "id": "R030093",
-    "source": "Ciena"
-  },
-  {
-    "bulletFields": [
-      "R030628"
-    ],
-    "id": "R030628",
-    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -1254,6 +1246,17 @@
       "R030639"
     ],
     "id": "R030639",
+    "source": "Ciena"
+  },
+  {
+    "title": "SVT/PV Engineer Routing/IP 2",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/SVT-PV-Engineer-Routing-IP-2_R030671",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted 4 Days Ago",
+    "bulletFields": [
+      "R030671"
+    ],
+    "id": "R030671",
     "source": "Ciena"
   },
   {

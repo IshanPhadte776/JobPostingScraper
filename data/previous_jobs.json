@@ -743,81 +743,92 @@
     "source": "SST"
   },
   {
-    "title": "Intern",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Antonio-TX/Intern_R42531",
+    "title": "Jr. Contract Lifecycle Operations Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Jr-Contract-Lifecycle-Operations-Specialist_R41072",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41072"
+    ],
+    "id": "R41072",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Manager, Alternative Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Halifax-Canada/Associate-Manager--Alternative-Operations_R42059",
+    "locationsText": "Halifax, Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42059"
+    ],
+    "id": "R42059",
+    "source": "SST"
+  },
+  {
+    "title": "Director, Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Halifax-Canada/Director--Fund-Accounting_R42746",
+    "locationsText": "Halifax, Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42746"
+    ],
+    "id": "R42746",
+    "source": "SST"
+  },
+  {
+    "title": "Technical Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Technical-Consultant_R42022",
     "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42531"
+      "R42022"
     ],
-    "id": "R42531",
+    "id": "R42022",
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Investor Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate_R40864",
-    "locationsText": "New York, NY",
+    "title": "Retirement Plan Design Specialist - PA2026PlanDesign_Q2_R001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Retirement-Plan-Design-Specialist---PA2026PlanDesign-Q2-R001_R42080",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40864"
+      "R42080"
     ],
-    "id": "R40864",
+    "id": "R42080",
     "source": "SST"
   },
   {
-    "title": "Director of Engineering - Agentic AI platform",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Director-of-Engineering---Agentic-AI-platform_R42252",
-    "locationsText": "Waltham MA - 10 CityPoint",
+    "title": "Director Channel Sales",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Virginia-US/Director-Channel-Sales_R41236",
+    "locationsText": "5 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42252"
+      "R41236"
     ],
-    "id": "R42252",
+    "id": "R41236",
     "source": "SST"
   },
   {
-    "title": "Senior Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Account-Executive_R39703",
-    "locationsText": "New York, NY",
+    "title": "Product Manager - Black Diamond",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Product-Manager_R40256",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39703"
+      "R40256"
     ],
-    "id": "R39703",
+    "id": "R40256",
     "source": "SST"
   },
   {
-    "title": "Account Executive Investment Banks",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Account-Executive-Investment-Banks_R38634",
-    "locationsText": "New York, NY",
+    "title": "Sr. Consultant, Full Stack Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Full-Stack-Developer_2607805-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38634"
+      "2607805"
     ],
-    "id": "R38634",
-    "source": "SST"
-  },
-  {
-    "title": "Engagement Manager IT Professional Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Engagement-Manager_R39650",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R39650"
-    ],
-    "id": "R39650",
-    "source": "SST"
-  },
-  {
-    "title": "Custom Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Custom-Engineer_R41714",
-    "locationsText": "London - 1 Ropemaker Street",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41714"
-    ],
-    "id": "R41714",
-    "source": "SST"
+    "id": "2607805",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Business Systems Analysis",
@@ -1029,17 +1040,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Active Directory Entra ID Specialist",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Identity-Services-Support-Specialist_2605551",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2605551"
-    ],
-    "id": "2605551",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -1103,6 +1103,39 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Analog Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Analog-Design-Engineer_R030674",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030674"
+    ],
+    "id": "R030674",
+    "source": "Ciena"
+  },
+  {
+    "title": "Solutions Engineering & Introduction Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Solutions-Engineering---Introduction_R030547",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030547"
+    ],
+    "id": "R030547",
+    "source": "Ciena"
+  },
+  {
+    "title": "Optical Systems Product Line Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Optical-Systems-Product-Line-Manager_R029450",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029450"
+    ],
+    "id": "R029450",
     "source": "Ciena"
   },
   {
@@ -1227,37 +1260,16 @@
     "source": "Ciena"
   },
   {
-    "title": "Executive Assistant",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Executive-Assistant_R030663",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Yesterday",
+    "title": "Senior Platform Architect, Infrastructure & Cloud Operations",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Field/Principal-Cloud-DevOps-Engineer---Operations_R003792",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "remoteType": "Hybrid or Remote Eligible",
     "bulletFields": [
-      "R030663"
+      "R003792"
     ],
-    "id": "R030663",
-    "source": "Ciena"
-  },
-  {
-    "title": "Blue Planet QA Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Blue-Planet-QA-Engineer_R030639",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030639"
-    ],
-    "id": "R030639",
-    "source": "Ciena"
-  },
-  {
-    "title": "SVT/PV Engineer Routing/IP 2",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/SVT-PV-Engineer-Routing-IP-2_R030671",
-    "locationsText": "Baltimore",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030671"
-    ],
-    "id": "R030671",
-    "source": "Ciena"
+    "id": "R003792",
+    "source": "Entrust"
   },
   {
     "title": "Firmware Engineer II (Continuation)",
@@ -1290,18 +1302,6 @@
       "R004073"
     ],
     "id": "R004073",
-    "source": "Entrust"
-  },
-  {
-    "title": "Senior Platform Architect",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Field/Principal-Cloud-DevOps-Engineer---Operations_R003792",
-    "locationsText": "5 Locations",
-    "postedOn": "Posted 30+ Days Ago",
-    "remoteType": "Hybrid or Remote Eligible",
-    "bulletFields": [
-      "R003792"
-    ],
-    "id": "R003792",
     "source": "Entrust"
   },
   {

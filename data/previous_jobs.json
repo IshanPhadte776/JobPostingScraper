@@ -540,6 +540,26 @@
     "url": "https://solace.bamboohr.com/career/careers/749"
   },
   {
+    "id": "750",
+    "jobOpeningName": "Intermediate / Senior UX Designer",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/750"
+  },
+  {
     "id": "102",
     "jobOpeningName": "Senior Demand Marketing Manager",
     "departmentId": "18327",
@@ -723,6 +743,28 @@
     "source": "SST"
   },
   {
+    "title": "Software Engineer Intern - Co-op",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Software-Engineer-Intern---Co-op_R42466",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42466"
+    ],
+    "id": "R42466",
+    "source": "SST"
+  },
+  {
+    "title": "Software Engineering Co-op",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Software-Engineering-Co-op_R42258",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42258"
+    ],
+    "id": "R42258",
+    "source": "SST"
+  },
+  {
     "title": "Principal Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Principal-Software-Engineer_R42086-1",
     "locationsText": "Waltham MA - 10 CityPoint",
@@ -778,33 +820,14 @@
     "source": "SST"
   },
   {
-    "title": "PA26SBOQ2HCS001 - SC3",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/PA26SBOQ2HCS001---SC3_R42424",
-    "locationsText": "Mumbai, India",
+    "title": "Sr. Application Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Application-Developer--Payments-Technology_2601888-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42424"
+      "2601888"
     ],
-    "id": "R42424",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Solutions Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Associate-Solutions-Analyst_R42302",
-    "locationsText": "Chicago, IL",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42302"
-    ],
-    "id": "R42302",
-    "source": "SST"
-  },
-  {
-    "bulletFields": [
-      "2526819"
-    ],
-    "id": "2526819",
-    "externalPath": "",
+    "id": "2601888",
     "source": "CIBC"
   },
   {
@@ -1083,6 +1106,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Quality Account Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Thailand/Quality-Account-Engineer_R030683",
+    "locationsText": "Remote-Thailand",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030683"
+    ],
+    "id": "R030683",
+    "source": "Ciena"
+  },
+  {
     "title": "Associate Accountant Accounts Receivable",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Accountant-Accounts-Receiavble_R030155",
     "locationsText": "Gurugram",
@@ -1223,17 +1257,6 @@
       "R030596"
     ],
     "id": "R030596",
-    "source": "Ciena"
-  },
-  {
-    "title": "Personalization and Optimization Specialist",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Personalization-and-Optimization-Specialist_R030653",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030653"
-    ],
-    "id": "R030653",
     "source": "Ciena"
   },
   {

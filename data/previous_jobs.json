@@ -754,6 +754,17 @@
     "source": "SST"
   },
   {
+    "title": "Implementation Consultant Advisor (PA-Auto-Q2-R-001)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Implementation-Consultant-Advisor--PA-Auto-Q2-R-001-_R42631-1",
+    "locationsText": "Kansas City, MO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42631"
+    ],
+    "id": "R42631",
+    "source": "SST"
+  },
+  {
     "title": "Senior .NET Software Engineer -PA25Q4SEJH032",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Senior-NET-Software-Engineer_R40412",
     "locationsText": "London, UK",
@@ -809,15 +820,48 @@
     "source": "SST"
   },
   {
-    "title": "Lead Business Analyst (PA25Q4BALDSJH011)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Business-Analyst--PA25Q4BALDSJH011-_R40445",
-    "locationsText": "3 Locations",
+    "title": "BI Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Engineer_2604520",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40445"
+      "2604520"
     ],
-    "id": "R40445",
-    "source": "SST"
+    "id": "2604520",
+    "source": "CIBC"
+  },
+  {
+    "title": "Application Support Consultant",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Support-Consultant_2604014",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2604014"
+    ],
+    "id": "2604014",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2600271",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2600271"
+    ],
+    "id": "2600271",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Production Application Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2608770",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2608770"
+    ],
+    "id": "2608770",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Full Stack Developer",
@@ -993,50 +1037,6 @@
       "2604384"
     ],
     "id": "2604384",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, QA",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--QA_2608125",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2608125"
-    ],
-    "id": "2608125",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2528839",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2528839"
-    ],
-    "id": "2528839",
-    "source": "CIBC"
-  },
-  {
-    "title": "Azure Data Platform Support Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Platform-Support-Engineer_2526605",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2526605"
-    ],
-    "id": "2526605",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Supplier Risk Management (Cyber)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Supplier-Risk-Management--Cyber-_2607939",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2607939"
-    ],
-    "id": "2607939",
     "source": "CIBC"
   },
   {

@@ -560,24 +560,24 @@
     "url": "https://solace.bamboohr.com/career/careers/750"
   },
   {
-    "id": "102",
-    "jobOpeningName": "Senior Demand Marketing Manager",
+    "id": "103",
+    "jobOpeningName": "Senior Growth Marketing Manager",
     "departmentId": "18327",
     "departmentLabel": "Marketing",
     "employmentStatusLabel": "Regular, Full-time",
     "location": {
-      "city": "Ottawa or Remote in Canada (Eastern Time Zone)",
-      "state": "Ontario"
+      "city": null,
+      "state": null
     },
     "atsLocation": {
-      "country": null,
-      "state": null,
+      "country": "Canada",
+      "state": "Ontario",
       "province": null,
-      "city": null
+      "city": "Ottawa or Remote in Canada (Eastern Time Zone)"
     },
     "isRemote": null,
-    "locationType": "2",
-    "url": "https://recollective.bamboohr.com/career/careers/102"
+    "locationType": "1",
+    "url": "https://recollective.bamboohr.com/career/careers/103"
   },
   {
     "id": "104",
@@ -603,7 +603,7 @@
     "title": "Production Support Lead - PA-Auto-2026-Q2-R001",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Connecticut-US/Production-Support-Lead---PA-Auto-2026-Q2-R001_R42024",
     "locationsText": "Remote - Connecticut, US",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R42024"
     ],
@@ -614,7 +614,7 @@
     "title": "Infrastructure Production Engineer (PA25Q4IPFTSJH041)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City---Winchester-Land/Infrastructure-Production-Engineer--PA25Q4IPFTSJH041-_R40396",
     "locationsText": "Kansas City - Winchester Land",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "R40396"
     ],
@@ -625,7 +625,7 @@
     "title": "Principal Product Manager SDE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Principle-Product-Manager-SDE_R36919",
     "locationsText": "Waltham, MA",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "R36919"
     ],
@@ -636,7 +636,7 @@
     "title": "Hiring Chartered Accountant Freshers - PUNE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Hiring-Chartered-Accountant-Freshers---PUNE_R35256",
     "locationsText": "Pune, India",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R35256"
     ],
@@ -647,7 +647,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Investor-Services---Manager--Associate-Manager_R35078",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R35078"
     ],
@@ -658,7 +658,7 @@
     "title": "Lead Software Engineer / Dot Net Full Stack Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India---Block-B/Lead-Software-Engineer---Dot-Net-Developer_R29663",
     "locationsText": "3 Locations",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R29663"
     ],
@@ -669,7 +669,7 @@
     "title": "Senior Quant Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Quant-Developer_R35179",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R35179"
     ],
@@ -677,18 +677,10 @@
     "source": "SST"
   },
   {
-    "bulletFields": [
-      "R27039"
-    ],
-    "id": "R27039",
-    "externalPath": "",
-    "source": "SST"
-  },
-  {
     "title": "Senior Assocaite",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Assocaite_R42230",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R42230"
     ],
@@ -699,7 +691,7 @@
     "title": "Cloud Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Cloud-Engineer_R40402",
     "locationsText": "Kansas City, MO",
-    "postedOn": "Posted 17 Days Ago",
+    "postedOn": "Posted 18 Days Ago",
     "bulletFields": [
       "R40402"
     ],
@@ -710,7 +702,7 @@
     "title": "Senior Performance Test Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne-Australia/Senior-Performance-Test-Engineer_R41648",
     "locationsText": "Melbourne, Australia",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "bulletFields": [
       "R41648"
     ],
@@ -721,7 +713,7 @@
     "title": "Fund Accountant (Hedge Funds)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Engagement-Specialist_R39849",
     "locationsText": "6 Locations",
-    "postedOn": "Posted 23 Days Ago",
+    "postedOn": "Posted 24 Days Ago",
     "bulletFields": [
       "R39849"
     ],
@@ -732,7 +724,7 @@
     "title": "Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Software-Engineer_R38205",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 26 Days Ago",
+    "postedOn": "Posted 27 Days Ago",
     "bulletFields": [
       "R38205"
     ],
@@ -751,87 +743,98 @@
     "source": "SST"
   },
   {
-    "title": "Implementation Consultant Advisor (PA-Auto-Q2-R-001)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Implementation-Consultant-Advisor--PA-Auto-Q2-R-001-_R42631-1",
-    "locationsText": "Kansas City, MO",
+    "title": "Senior Associate ; Hedge Fund Accounting (East Coast Region)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate---Hedge-Fund-Accounting_R37640",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42631"
+      "R37640"
     ],
-    "id": "R42631",
+    "id": "R37640",
     "source": "SST"
   },
   {
-    "title": "Senior .NET Software Engineer -PA25Q4SEJH032",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Senior-NET-Software-Engineer_R40412",
-    "locationsText": "London, UK",
+    "title": "Associate Manager - Hedge Fund Accounting; East Coast Region",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Manager---Hedge-Fund-Accounting--East-Coast-Region_R37643",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40412"
+      "R37643"
     ],
-    "id": "R40412",
+    "id": "R37643",
     "source": "SST"
   },
   {
-    "title": "Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/Manager_R42354-1",
-    "locationsText": "Singapore",
+    "title": "Associate Director; Private Equity Fund Accounting (East Coast Region)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Director--Private-Equity-Fund-Accounting--East-Coast-Region-_R37686-1",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42354"
+      "R37686"
     ],
-    "id": "R42354",
+    "id": "R37686",
     "source": "SST"
   },
   {
-    "title": "Sr. Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City---Broadway-Square-Garage/Sr-Software-Engineer_R40559-1",
-    "locationsText": "Kansas City - Broadway Square Garage",
+    "title": "Manager; Hedge Fund Accounting (East Coast Region)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Hedge-Fund-Accounting--East-Coast-Region-_R37684",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40559"
+      "R37684"
     ],
-    "id": "R40559",
+    "id": "R37684",
     "source": "SST"
   },
   {
-    "title": "Vice President, Global Money Market Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Associate-Director--Commercial-Excellence--PA25Q4SEJH063-_R41008",
-    "locationsText": "2 Locations",
+    "title": "Associate Director; Hedge Fund Accounting (East Coast Region)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Director--Hedge-Fund-Accounting--East-Coast-Region-_R37688",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41008"
+      "R37688"
     ],
-    "id": "R41008",
+    "id": "R37688",
     "source": "SST"
   },
   {
-    "title": "Client Services Analyst I",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-I_R42869",
-    "locationsText": "4 Locations",
+    "title": "Associate Manager - Private Equity Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Manager---Private-Equity-Accounting_R37682",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42869"
+      "R37682"
     ],
-    "id": "R42869",
+    "id": "R37682",
     "source": "SST"
   },
   {
-    "title": "Consultant, Infrastructure Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Infrastructure-Management_2608006-1",
+    "title": "Senior Associate - Private Equity Accounting; East Coast Region",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate---Private-Equity-Accounting--East-Coast-Region_R37641-1",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37641"
+    ],
+    "id": "R37641",
+    "source": "SST"
+  },
+  {
+    "title": "Director, Operational Intelligence",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Operational-Intelligence_2607885",
     "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "2608006"
+      "2607885"
     ],
-    "id": "2608006",
+    "id": "2607885",
     "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Technology Architecture",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Technology-Architecture_2608323",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2608323"
     ],
@@ -842,7 +845,7 @@
     "title": "Consultant, Business System Analysis/Solutioner",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-System-Analysis-Solutioner_2608223",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2608223"
     ],
@@ -853,7 +856,7 @@
     "title": "Application Development Consultant (Database: SQL Oracle)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Development-Consultant--Database--SQL-Oracle-_2608689",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2608689"
     ],
@@ -864,7 +867,7 @@
     "title": "BI Engineer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Engineer_2604520",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2604520"
     ],
@@ -872,21 +875,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Application Support Consultant",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Support-Consultant_2604014",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "2604014"
-    ],
-    "id": "2604014",
-    "source": "CIBC"
-  },
-  {
     "title": "Consultant, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2600271",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2600271"
     ],
@@ -897,7 +889,7 @@
     "title": "Consultant, Production Application Support",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2608770",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2608770"
     ],
@@ -908,7 +900,7 @@
     "title": "Sr. Consultant, Full Stack Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Full-Stack-Developer_2608365",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2608365"
     ],
@@ -919,7 +911,7 @@
     "title": "Sr. Consultant, Business Systems Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2608407",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2608407"
     ],
@@ -930,7 +922,7 @@
     "title": "Consultant, Production Application Support (CAAS - Openshift)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support--Solace-Messaging---DSB-_2605573",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2605573"
     ],
@@ -941,7 +933,7 @@
     "title": "Sr. Consultant, Back End Developer- Java/Golang",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer--Java-Golang_2608545",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2608545"
     ],
@@ -952,7 +944,7 @@
     "title": "Test Analyst",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Test-Analyst_2608412-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2608412"
     ],
@@ -963,7 +955,7 @@
     "title": "Sr. Database Administrator",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Database-Administrator---Oracle_2526893",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2526893"
     ],
@@ -974,7 +966,7 @@
     "title": "Consultant, Application Operations DBA",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Operations-DBA_2607592",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2607592"
     ],
@@ -985,7 +977,7 @@
     "title": "Infrastructure Architect",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Infrastructure-Architect_2511976",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2511976"
     ],
@@ -993,21 +985,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Application Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Application-Developer--Payments-Technology_2601888-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2601888"
-    ],
-    "id": "2601888",
-    "source": "CIBC"
-  },
-  {
     "title": "SAS Application Consultant",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/SAS-Application-Consultant_2608466",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2608466"
     ],
@@ -1018,7 +999,7 @@
     "title": "Sr. Consultant, Application Development (.NET, C#, SQL)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development--NET--C---SQL-_2607827",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2607827"
     ],
@@ -1029,7 +1010,7 @@
     "title": "Consultant, Information Security",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2607919",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2607919"
     ],
@@ -1037,10 +1018,32 @@
     "source": "CIBC"
   },
   {
+    "title": "Sr. Consultant, Full Stack Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Full-Stack-Developer_2607805-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 3 Days Ago",
+    "bulletFields": [
+      "2607805"
+    ],
+    "id": "2607805",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2608515",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 3 Days Ago",
+    "bulletFields": [
+      "2608515"
+    ],
+    "id": "2608515",
+    "source": "CIBC"
+  },
+  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 9 Days Ago",
+    "postedOn": "Posted 10 Days Ago",
     "bulletFields": [
       "R030368"
     ],
@@ -1051,7 +1054,7 @@
     "title": "Field Applications Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Field-Applications-Engineer_R029881",
     "locationsText": "12 Locations",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R029881"
     ],
@@ -1062,7 +1065,7 @@
     "title": "Ciena Interconnects Is Hiring: Senior Director, Product Line Management",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Director--Product-Line-Management--WaveLogic-Technologies_R029369",
     "locationsText": "5 Locations",
-    "postedOn": "Posted 15 Days Ago",
+    "postedOn": "Posted 16 Days Ago",
     "bulletFields": [
       "R029369"
     ],
@@ -1073,7 +1076,7 @@
     "title": "Senior Business Operations Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Business-Operations-Analyst_R030392",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 20 Days Ago",
+    "postedOn": "Posted 21 Days Ago",
     "bulletFields": [
       "R030392"
     ],
@@ -1084,7 +1087,7 @@
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 20 Days Ago",
+    "postedOn": "Posted 21 Days Ago",
     "bulletFields": [
       "R029960"
     ],
@@ -1095,7 +1098,7 @@
     "title": "Specialist - Account Management - Routing & Switching",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Consultant---Account-Management---Routing---Switching_R026764",
     "locationsText": "Gurugram",
-    "postedOn": "Posted 19 Days Ago",
+    "postedOn": "Posted 20 Days Ago",
     "bulletFields": [
       "R026764"
     ],
@@ -1103,10 +1106,54 @@
     "source": "Ciena"
   },
   {
+    "title": "Associate Accountant Accounts Receivable",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Accountant-Accounts-Receiavble_R030155",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030155"
+    ],
+    "id": "R030155",
+    "source": "Ciena"
+  },
+  {
+    "title": "Python/Golang Developer- Kubernetes",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Python-Golang-Developer--Kubernetes_R030590",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030590"
+    ],
+    "id": "R030590",
+    "source": "Ciena"
+  },
+  {
+    "title": "Investigation Specialist",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Investigation-Specialist_R030318",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030318"
+    ],
+    "id": "R030318",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior UX Designer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India--Pune--Panchshil-Tower-C/Senior-UX-Designer_R030613",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030613"
+    ],
+    "id": "R030613",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Analog Design Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Analog-Design-Engineer_R030674",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030674"
     ],
@@ -1117,7 +1164,7 @@
     "title": "Product Security Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Product-Security-Analyst_R030668",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030668"
     ],
@@ -1128,7 +1175,7 @@
     "title": "Senior NPI Product Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-NPI-Product-Engineer_R030409",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R030409"
     ],
@@ -1136,21 +1183,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Inventory Analyst Student",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Inventory-Analyst-Student_R030681",
-    "locationsText": "Remote-Canada",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030681"
-    ],
-    "id": "R030681",
-    "source": "Ciena"
-  },
-  {
     "title": "Quality Account Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Thailand/Quality-Account-Engineer_R030683",
     "locationsText": "Remote-Thailand",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R030683"
     ],
@@ -1161,7 +1197,7 @@
     "title": "Project Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Japan--Tokyo--Marunouchi/Project-Manager_R029802",
     "locationsText": "Japan- Tokyo- Marunouchi",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R029802"
     ],
@@ -1172,7 +1208,7 @@
     "title": "Executive Assistant",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Singapore/Executive-Assistant_R030143",
     "locationsText": "Singapore",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R030143"
     ],
@@ -1183,7 +1219,7 @@
     "title": "QA Automation Engineer - JavaScript",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/QA-Automation-Engineer---JavaScript_R030649",
     "locationsText": "3 Locations",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R030649"
     ],
@@ -1194,7 +1230,7 @@
     "title": "Senior Analog Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Analog-Engineer_R030689",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R030689"
     ],
@@ -1205,7 +1241,7 @@
     "title": "Senior Firmware Designer/Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Embedded-Software-Engineer-3_R030560",
     "locationsText": "Atlanta",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R030560"
     ],
@@ -1216,7 +1252,7 @@
     "title": "Solutions Engineering & Introduction Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Solutions-Engineering---Introduction_R030547",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R030547"
     ],
@@ -1224,43 +1260,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Ing\u00e9nieur optique - Nouveau Gradu\u00e9",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Ingnieur-optique---Nouveau-Gradu_R030188-1",
-    "locationsText": "Quebec",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030188"
-    ],
-    "id": "R030188",
-    "source": "Ciena"
-  },
-  {
-    "title": "Optical Systems Product Line Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Optical-Systems-Product-Line-Manager_R029450",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029450"
-    ],
-    "id": "R029450",
-    "source": "Ciena"
-  },
-  {
-    "title": "Photonics Technical Prime",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pattaya/Photonics-Technical-Prime_R030658",
-    "locationsText": "Pattaya",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030658"
-    ],
-    "id": "R030658",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior  Firmware Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior--Firmware-Engineer_R004130",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R004130"
     ],
@@ -1271,7 +1274,7 @@
     "title": "Senior Platform Architect, Infrastructure & Cloud Operations",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Field/Principal-Cloud-DevOps-Engineer---Operations_R003792",
     "locationsText": "5 Locations",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "remoteType": "Hybrid or Remote Eligible",
     "bulletFields": [
       "R003792"
@@ -1283,7 +1286,7 @@
     "title": "Firmware Engineer II (Continuation)",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Staff-Firmware-Engineer_R004052",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R004052"
     ],
@@ -1294,7 +1297,7 @@
     "title": "Manufacturing Engineer II",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Manufacturing-Engineer-II_R004091",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 28 Days Ago",
+    "postedOn": "Posted 29 Days Ago",
     "bulletFields": [
       "R004091"
     ],
@@ -1311,6 +1314,38 @@
     ],
     "id": "R004073",
     "source": "Entrust"
+  },
+  {
+    "id": "job_20260416203730_25VHYP4YU1NKZ48S",
+    "title": "Jr. Contracts Administrator",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "Administration, Canada",
+    "description": "<p>The Jr. Contract Administrator supports contract management processes by assisting with the review of agreements, coordinating meetings, and maintaining accurate and organized contract documentation. The role contributes to contract preparation and internal feedback, ensures records are properly maintained, and supports compliance with contractual obligations. Additional responsibilities include facilitating administrative tasks such as supplier registration, tracking insurance documentation, and supporting other contract-related activities to ensure efficient and compliant contract operations.</p><p><strong>Responsibilities:</strong></p><ul><li>Review/prepare and provide feedback for customer pricing agreements/master purchase agreements</li><li>Review/prepare and provide feedback for SOW, SLA Contracts, SAAS Agreements</li><li>Coordinate meetings to discuss escalation points with senior level staff</li><li>Provide detailed discussion notes for review meetings</li><li>Organize and facilitate rebate negotiation and tracking</li><li>Prepare NDA's for sales purposes</li><li>Prepare NDA's for price lists</li><li>Review Terms and Conditions for PO's and RFP's</li><li>Maintain physical and digital record copies, ie: hard copy file, EPCN's, agreements summaries</li><li>Provide EOL/EOS notifications, as outlined in customer agreements</li><li>Organize Certificates of Insurance</li><li>Complete Supplier Registration Forms</li></ul><p><strong>Requirements:</strong></p><ul><li>Post Secondary Degree/ Diploma in related field (business or administration)</li><li>Excellent computer and keyboarding skills: knowledge of Microsoft office (including Excel, Word and Outlook)</li><li>Excellent writing, editing and proofreading skills</li><li>Ability to handle a fast paced environment</li><li>Excellent verbal and written communication skills, problem-solving ability, time management skills and interpersonal skills</li></ul><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefit program</li><li>Competitive total compensation package</li><li>Work-life Balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career Progression</li><li>Casual work environment</li><li>Social Events and Sport Teams</li></ul><p><strong>Date Posted:</strong> March 30, 2026<br><strong>Location</strong>: Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K - $45K CAD<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "z3nVF39fJQ",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20260416193436_QZSM87441KEWWUI4",
+    "title": "Field Service Engineer",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L5Z9",
+    "department": "Technical Support",
+    "description": "<p>As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging mix that combines technical know-how and customer service skills both in-house and when traveling to our customer&#8217;s production studios and distribution facilities.<br><br>You will be challenged with configuring, commissioning, and systematically trouble shooting Ethernet/IP networks for the latest advancements in broadcast networks and video processing equipment.</p><p><strong>Responsibilities:</strong></p><ul><li>Engage in implementation, documentation and deployment on the build out of both small and large scale IP Networks supporting broadcast infrastructures</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess the customer&#8217;s application, troubleshoot and diagnose issues through research and/or re-creation to determine the root cause</li><li>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear and professional manner</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback to aid in design changes including customer &#8220;feature requests&#8221; to product managers</li><li>Support the development of product communications by generating or authoring customer guides and provide the technical writing group with information including Pinouts, FAQ, Application notes, Best Practices and customer product or system configuration and product integration with other manufacturer&#8217;s products</li><li>Install product(s) or systems at customer sites and delivering training to customers in-house or abroad</li><li>(RFC 2328), PIM, QOS, RIP, Sflow, SNMP, STP/RSTP/MST (IEEE 802.1d), VARP/VRRP, VLAN (IEEE 802.1q), VRF</li></ul><p><strong>Qualifications:</strong></p><ul><li>Unparalleled desire to help the customer and deliver service excellence</li><li>Education in Computer Networking or related recent practical experience</li><li>Electrical, Electronic, or Computer Electronic Technician or engineering education or related recent practical experience</li><li>A strong comfort level with Linux is highly desired</li><li>Some Network trouble shooting experience</li><li>Knowledge of IP Networking Protocols (IGMPv2/v3, RIP, BGP, OSPF, EIGRP)</li><li>Knowledge of Internet network technologies (DNS, Firewall, SSH, HTTP)</li><li>Must have a valid Ontario driver&#8217;s license</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario<br><strong>Hours:</strong>&#160;40 hours, Monday - Friday&#160;<br><strong>Vacancy:</strong>&#160;This is an existing position<br><strong>Salary Range:</strong>&#160;$40,000 to $45,000 per year base salary *<br><strong>Additional Compensation:</strong> Road bonus, per-diem, on-call pay, over-time</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</p>",
+    "type": "Full Time",
+    "board_code": "6Qp4b5LDTN",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20260414203517_NKCC5SJSK0CSUH7E",
@@ -1505,22 +1540,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260330195405_3TU1O67G11R5Z8EE",
-    "title": "Jr. Contracts Administrator",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration, Canada",
-    "description": "<p>The Jr. Contract Administrator supports contract management processes by assisting with the review of agreements, coordinating meetings, and maintaining accurate and organized contract documentation. The role contributes to contract preparation and internal feedback, ensures records are properly maintained, and supports compliance with contractual obligations. Additional responsibilities include facilitating administrative tasks such as supplier registration, tracking insurance documentation, and supporting other contract-related activities to ensure efficient and compliant contract operations.</p><p><strong>Responsibilities:</strong></p><ul><li>Review/prepare and provide feedback for customer pricing agreements/master purchase agreements</li><li>Review/prepare and provide feedback for SOW, SLA Contracts, SAAS Agreements</li><li>Coordinate meetings to discuss escalation points with senior level staff</li><li>Provide detailed discussion notes for review meetings</li><li>Organize and facilitate rebate negotiation and tracking</li><li>Prepare NDA's for sales purposes</li><li>Prepare NDA's for price lists</li><li>Review Terms and Conditions for PO's and RFP's</li><li>Maintain physical and digital record copies, ie: hard copy file, EPCN's, agreements summaries</li><li>Provide EOL/EOS notifications, as outlined in customer agreements</li><li>Organize Certificates of Insurance</li><li>Complete Supplier Registration Forms</li></ul><p><strong>Requirements:</strong></p><ul><li>Post Secondary Degree/ Diploma in related field (business or administration)</li><li>Excellent computer and keyboarding skills: knowledge of Microsoft office (including Excel, Word and Outlook)</li><li>Excellent writing, editing and proofreading skills</li><li>Ability to handle a fast paced environment</li><li>Excellent verbal and written communication skills, problem-solving ability, time management skills and interpersonal skills</li></ul><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefit program</li><li>Competitive total compensation package</li><li>Work-life Balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career Progression</li><li>Casual work environment</li><li>Social Events and Sport Teams</li></ul><p><strong>Date Posted:</strong> March 30, 2026<br><strong>Location</strong>: Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K - $45K CAD<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "5NDsOHU7Fx",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20260327135243_XKFCATVHOYIXXO4P",
     "title": "DSP Engineer (Markham)",
     "country_id": "Canada",
@@ -1616,22 +1635,6 @@
     "board_code": "UG62ClA9Is",
     "minimum_public_salary": "16.55",
     "maximum_public_salary": "18.00",
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260306203953_PL4RVW2GOC8JQNBX",
-    "title": "Customer Order Coordinator",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "<p>We are seeking a detail-oriented Order Processing Coordinator to accurately enter and manage orders based on customer purchase orders and internal requests for Production and R&amp;D. This role involves close collaboration with the Production team to monitor ship dates and address any delays.<br><br>The successful candidate will communicate order status clearly and promptly to internal departments, sales representatives, project managers, and customers, ensuring transparency and efficient coordination throughout the order fulfillment process.</p><p><strong>Responsibilities:</strong></p><ul><li>Create internal sales order within custom billing system&#160;</li><li>Organize delivery details such as, system customization notes, ship date, mode of transport, and payment terms</li><li>Provide customers and sales team with delivery updates such as, order revision requirements and transit rescheduling</li></ul><p><strong>Qualifications:&#160;</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational and time management skills</li><li>Excellent verbal and written communication skills, and problem-solving ability</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;&#160;</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Date Posted: </strong>March 6, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "iJH7hPVWIq",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
   },
@@ -2324,6 +2327,48 @@
     "source": "Evertz"
   },
   {
+    "id": 162586,
+    "type": "careers",
+    "title": "Engineering Manager-Infrastructure Team",
+    "link": "https://www.surveymonkey.com/careers/7811545-engineering-manager-infrastructure-team/",
+    "path": "/careers/7811545-engineering-manager-infrastructure-team/",
+    "date": "2026-04-17T09:00:10",
+    "date_modified": "2026-04-17T09:00:10",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Engineering Manager-Infrastructure Team",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 470,
+        "slug": "bengaluru",
+        "name": "Bengaluru, India",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
     "id": 162379,
     "type": "careers",
     "title": "Senior Software Engineer II",
@@ -2478,90 +2523,6 @@
         "description": "",
         "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
         "path": "/careers/office/bengaluru/"
-      },
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 161846,
-    "type": "careers",
-    "title": "Senior Software Engineer I",
-    "link": "https://www.surveymonkey.com/careers/7752396-senior-software-engineer-i/",
-    "path": "/careers/7752396-senior-software-engineer-i/",
-    "date": "2026-03-25T17:00:09",
-    "date_modified": "2026-03-25T17:00:09",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer I",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      },
-      {
-        "id": 393,
-        "slug": "ottawa",
-        "name": "Ottawa, Canada",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
-        "path": "/careers/office/ottawa/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 161848,
-    "type": "careers",
-    "title": "Senior Software Engineer I",
-    "link": "https://www.surveymonkey.com/careers/7752397-senior-software-engineer-i/",
-    "path": "/careers/7752397-senior-software-engineer-i/",
-    "date": "2026-03-25T17:00:09",
-    "date_modified": "2026-03-25T17:00:09",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer I",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 399,
-        "slug": "canada-remote",
-        "name": "Canada - Remote",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/canada-remote/",
-        "path": "/careers/office/canada-remote/"
       },
       {
         "id": 411,

@@ -560,6 +560,26 @@
     "url": "https://solace.bamboohr.com/career/careers/750"
   },
   {
+    "id": "42",
+    "jobOpeningName": "Director, GTM Operations",
+    "departmentId": "18228",
+    "departmentLabel": "Sales-Canadian",
+    "employmentStatusLabel": "Full time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://truecontext.bamboohr.com/career/careers/42"
+  },
+  {
     "id": "103",
     "jobOpeningName": "Senior Growth Marketing Manager",
     "departmentId": "18327",
@@ -743,6 +763,72 @@
     "source": "SST"
   },
   {
+    "title": "Cloud Data Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Cloud-Data-Engineer_R41682",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41682"
+    ],
+    "id": "R41682",
+    "source": "SST"
+  },
+  {
+    "title": "Operations Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Operations-Consultant---Managed-Operations_R40651",
+    "locationsText": "San Francisco, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40651"
+    ],
+    "id": "R40651",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Alternative Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Manager--Alternative-Investor-Services_R41183",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41183"
+    ],
+    "id": "R41183",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Account Executive Alternative Investments",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-Account-Executive-Alternative-Investments_R42610",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42610"
+    ],
+    "id": "R42610",
+    "source": "SST"
+  },
+  {
+    "title": "Software Development Engineer in Test(SDET)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Software-Development-Engineer-in-Test-SDET-_R42035",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42035"
+    ],
+    "id": "R42035",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Manager--Investor-Services_R42941-1",
+    "locationsText": "Evansville, IN",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42941"
+    ],
+    "id": "R42941",
+    "source": "SST"
+  },
+  {
     "title": "Sr. Director, Product Management (Commercial Loan Services)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Director--Product-Management--Commercial-Loan-Services-_R40123",
     "locationsText": "2 Locations",
@@ -754,70 +840,15 @@
     "source": "SST"
   },
   {
-    "title": "Tax Operations Processor",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Fort-Worth-TX/Tax-Operations-Processor_R42598-1",
-    "locationsText": "Fort Worth, TX",
+    "title": "Consultant, Full Stack Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Full-Stack-Developer_2608588",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42598"
+      "2608588"
     ],
-    "id": "R42598",
-    "source": "SST"
-  },
-  {
-    "title": "VP, North America Channel Sales",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Texas-US/VP--North-America-Channel-Sales_R41914",
-    "locationsText": "14 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41914"
-    ],
-    "id": "R41914",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Director, Learning and Development",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Learning-and-Development---Associate-Director_R41133",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41133"
-    ],
-    "id": "R41133",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Financial Operations Analyst (PA-DSR-Q2_2026-R002)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Senior-Financial-Operations-Analyst--PA-DSR-Q2-2026-R002-_R42308",
-    "locationsText": "Kansas City, MO",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42308"
-    ],
-    "id": "R42308",
-    "source": "SST"
-  },
-  {
-    "title": "Vice President, Global Money Market Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Associate-Director--Commercial-Excellence--PA25Q4SEJH063-_R41008",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41008"
-    ],
-    "id": "R41008",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Financial-Services-Operations_R41632",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41632"
-    ],
-    "id": "R41632",
-    "source": "SST"
+    "id": "2608588",
+    "source": "CIBC"
   },
   {
     "title": "Solution Architect",
@@ -1029,17 +1060,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Application Development (.NET, C#, SQL)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development--NET--C---SQL-_2607827",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2607827"
-    ],
-    "id": "2607827",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -1103,6 +1123,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "SVT/PV Engineer Routing/IP 2",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/SVT-PV-Engineer-Routing-IP-2_R030671",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030671"
+    ],
+    "id": "R030671",
+    "source": "Ciena"
+  },
+  {
+    "title": "Enterprise Integration Developer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Enterprise-Integration-Developer_R030670",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030670"
+    ],
+    "id": "R030670",
     "source": "Ciena"
   },
   {
@@ -1238,28 +1280,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Junior Product Life Cycle Program Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Junior-Product-Life-Cycle-Program-Manager_R030298",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030298"
-    ],
-    "id": "R030298",
-    "source": "Ciena"
-  },
-  {
-    "title": "Director, Field and Channel Marketing",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Director--Field-and-Channel-Marketing_R030603",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030603"
-    ],
-    "id": "R030603",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior  Firmware Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior--Firmware-Engineer_R004130",
     "locationsText": "United States - Shakopee, MN (GHQ)",
@@ -1314,6 +1334,22 @@
     ],
     "id": "R004073",
     "source": "Entrust"
+  },
+  {
+    "id": "job_20260420151018_XJ5RZ9YCPN7BA0JT",
+    "title": "Jr. Accounts Receivable Coordinator",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "Administration",
+    "description": "<p>We are seeking a detail-oriented and proactive professional to join our Accounts Receivable (A/R) team. In this role, you will be responsible for maintaining the billing system, ensuring the accuracy and integrity of financial data, and resolving any discrepancies or customer inquiries in a timely manner.</p><p>Key responsibilities include monitoring and following up on overdue accounts, reviewing and releasing open sales orders, and supporting various accounting functions as needed. The ideal candidate demonstrates strong analytical skills, excellent attention to detail, and effective communication abilities, with a commitment to maintaining accurate, up-to-date records in support of the company&#8217;s financial operations.</p><p><br><strong>Responsibilities:</strong></p><ul><li>Invoice Filing&#160;</li><li>Provide general administrative assistance to the A/R Team&#160;</li><li>Email follow up to customers for invoice payments&#160;</li><li>Prepare Shipment Release Approvals&#160;</li><li>Research Company Financials&#160;</li><li>Apply Payments in Internal Billing System</li><li>Prepare Pro-Forma and specialized invoices&#160;</li><li>Other duties as required</li></ul><p><strong>Qualifications:</strong></p><ul><li>Diploma in Accounting/Business Administrative program</li><li>Previous experience in a similar position is an asset</li><li>Knowledge of Microsoft Excel and Word</li><li>Experience with AS400 would be an asset but not required</li><li>Excellent verbal and written communication skills, problem solving ability, time management skills and interpersonal skills</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Date Posted:</strong> April 1, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "vKe8euNVOW",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20260416203730_25VHYP4YU1NKZ48S",
@@ -1502,22 +1538,6 @@
     "description": "<p>We are seeking a reliable, organized, and proactive Administrative Assistant to join our team. Administrators are vital to the success of our business model, playing a key role in both internal operations and client-facing excellence. In this position, you will work closely with various internal teams to generate new ideas and drive efficiencies that enhance our overall client experience.</p><p>This role requires strong communication skills, attention to detail, and the ability to multitask effectively in a fast-paced environment. The Administrative Assistant plays an essential role in supporting daily office operations and ensuring organizational processes run efficiently.</p><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Responsibilities:</strong></p><ul><li>Perform a variety of challenging administrative duties in the pre and post-sale environment</li><li>Process multiple priorities in a fast paced environment</li><li>Provide valuable support to our global sales team and their dynamic customers</li><li>Enter data accurately and efficiently into various admin platforms</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><strong>Date Posted:</strong> April 6, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "HfmrR56i2U",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260401135157_SUNJV06ATJN9RH3H",
-    "title": "Jr. Accounts Receivable Coordinator",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "<p>We are seeking a detail-oriented and proactive professional to join our Accounts Receivable (A/R) team. In this role, you will be responsible for maintaining the billing system, ensuring the accuracy and integrity of financial data, and resolving any discrepancies or customer inquiries in a timely manner.</p><p>Key responsibilities include monitoring and following up on overdue accounts, reviewing and releasing open sales orders, and supporting various accounting functions as needed. The ideal candidate demonstrates strong analytical skills, excellent attention to detail, and effective communication abilities, with a commitment to maintaining accurate, up-to-date records in support of the company&#8217;s financial operations.</p><p><br><strong>Responsibilities:</strong></p><ul><li>Invoice Filing&#160;</li><li>Provide general administrative assistance to the A/R Team&#160;</li><li>Email follow up to customers for invoice payments&#160;</li><li>Prepare Shipment Release Approvals&#160;</li><li>Research Company Financials&#160;</li><li>Apply Payments in Internal Billing System</li><li>Prepare Pro-Forma and specialized invoices&#160;</li><li>Other duties as required</li></ul><p><strong>Qualifications:</strong></p><ul><li>Diploma in Accounting/Business Administrative program</li><li>Previous experience in a similar position is an asset</li><li>Knowledge of Microsoft Excel and Word</li><li>Experience with AS400 would be an asset but not required</li><li>Excellent verbal and written communication skills, problem solving ability, time management skills and interpersonal skills</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Date Posted:</strong> April 1, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "GFVuIQtZXS",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

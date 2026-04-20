@@ -743,6 +743,17 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Director, Product Management (Commercial Loan Services)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Director--Product-Management--Commercial-Loan-Services-_R40123",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40123"
+    ],
+    "id": "R40123",
+    "source": "SST"
+  },
+  {
     "title": "Tax Operations Processor",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Fort-Worth-TX/Tax-Operations-Processor_R42598-1",
     "locationsText": "Fort Worth, TX",
@@ -809,15 +820,15 @@
     "source": "SST"
   },
   {
-    "title": "Associate Solutions Consultant, Eclipse Client Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Associate-Solutions-Consultant--Eclipse-Client-Services_R42202",
-    "locationsText": "3 Locations",
+    "title": "Solution Architect",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Consultant--Digital-Banking--Microservices--Java--Cloud-native-_2427628",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42202"
+      "2427628"
     ],
-    "id": "R42202",
-    "source": "SST"
+    "id": "2427628",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Production Application Support",
@@ -1029,17 +1040,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Information Security",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2607919",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2607919"
-    ],
-    "id": "2607919",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -1103,6 +1103,50 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Project/Program Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mexico--Zapopan--5850-Guadalajara/Project-Program-Engineer---New-Grad_R030322",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030322"
+    ],
+    "id": "R030322",
+    "source": "Ciena"
+  },
+  {
+    "title": "Application Support Engineer, Service Reliability Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Application-Support-Engineer--Service-Reliability-Engineering_R028786",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028786"
+    ],
+    "id": "R028786",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Optical System Designer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Optical-System-Designer_R030678",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030678"
+    ],
+    "id": "R030678",
+    "source": "Ciena"
+  },
+  {
+    "title": "Specialist, Account Management",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Specialist--Account-Management_R030339",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030339"
+    ],
+    "id": "R030339",
     "source": "Ciena"
   },
   {
@@ -1213,50 +1257,6 @@
       "R030603"
     ],
     "id": "R030603",
-    "source": "Ciena"
-  },
-  {
-    "title": "Investigation Specialist",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Investigation-Specialist_R030318",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030318"
-    ],
-    "id": "R030318",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior UX Designer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India--Pune--Panchshil-Tower-C/Senior-UX-Designer_R030613",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R030613"
-    ],
-    "id": "R030613",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Analog Design Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Analog-Design-Engineer_R030674",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030674"
-    ],
-    "id": "R030674",
-    "source": "Ciena"
-  },
-  {
-    "title": "Product Security Analyst",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Product-Security-Analyst_R030668",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030668"
-    ],
-    "id": "R030668",
     "source": "Ciena"
   },
   {

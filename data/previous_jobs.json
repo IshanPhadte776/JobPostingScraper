@@ -763,6 +763,61 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate, Middle Office Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Middle-Office-Operations_R41187",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41187"
+    ],
+    "id": "R41187",
+    "source": "SST"
+  },
+  {
+    "title": "Operations Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Operations-Consultant---Managed-Operations_R40651",
+    "locationsText": "San Francisco, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40651"
+    ],
+    "id": "R40651",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Operations Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Associate-Operations-Analyst_R42678",
+    "locationsText": "Jacksonville, FL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42678"
+    ],
+    "id": "R42678",
+    "source": "SST"
+  },
+  {
+    "title": "Client Services Analyst 1",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-1_R40950",
+    "locationsText": "Jacksonville, FL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40950"
+    ],
+    "id": "R40950",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellevue-WA/Senior-Associate_R38407",
+    "locationsText": "Bellevue, WA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38407"
+    ],
+    "id": "R38407",
+    "source": "SST"
+  },
+  {
     "title": "Senior Software Engineer, Black Diamond",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Senior-Software-Engineer--Black-Diamond_R41132",
     "locationsText": "2 Locations",
@@ -785,59 +840,26 @@
     "source": "SST"
   },
   {
-    "title": "Revenue Operations Digital Adoption Manager - Hybrid",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Revenue-Operations-Digital-Adoption-Manager---Hybrid_R39574",
-    "locationsText": "New York, NY",
+    "title": "Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2608515",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39574"
+      "2608515"
     ],
-    "id": "R39574",
-    "source": "SST"
+    "id": "2608515",
+    "source": "CIBC"
   },
   {
-    "title": "Delivery Engagement Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Delivery-Engagement-Manager_R40821",
-    "locationsText": "New York, NY",
+    "title": "Sr. Consultant, Information Security(Cryptography Operations)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Information-Security-Cryptography-Operations-_2608289",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40821"
+      "2608289"
     ],
-    "id": "R40821",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Director, Hedge Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Associate-Director--Hedge-Fund-Accounting_R42853",
-    "locationsText": "Windsor, CT",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42853"
-    ],
-    "id": "R42853",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Financial Operations Analyst (PA-DSR-Q2_2026-R002)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Senior-Financial-Operations-Analyst--PA-DSR-Q2-2026-R002-_R42308",
-    "locationsText": "Kansas City, MO",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42308"
-    ],
-    "id": "R42308",
-    "source": "SST"
-  },
-  {
-    "title": "Order Management Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Junior-Order-Management-Specialist_R41270-1",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41270"
-    ],
-    "id": "R41270",
-    "source": "SST"
+    "id": "2608289",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Application Developer",
@@ -1038,28 +1060,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Database Administrator",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Database-Administrator---Oracle_2526893",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2526893"
-    ],
-    "id": "2526893",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Application Operations DBA",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Operations-DBA_2607592",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2607592"
-    ],
-    "id": "2607592",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Software Development Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R030368-1",
     "locationsText": "Ottawa",
@@ -1112,6 +1112,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "NPI Product Engineer Intern",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Montreal/NPI-Product-Engineer-Intern_R030650",
+    "locationsText": "Montreal",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030650"
+    ],
+    "id": "R030650",
     "source": "Ciena"
   },
   {
@@ -1266,17 +1277,6 @@
       "R030339"
     ],
     "id": "R030339",
-    "source": "Ciena"
-  },
-  {
-    "title": "Silicon Photonics Design Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Silicon-Photonics-Design-Engineer---High-Speed-Modulator-Devices_R030220",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030220"
-    ],
-    "id": "R030220",
     "source": "Ciena"
   },
   {

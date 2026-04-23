@@ -640,6 +640,17 @@
     "url": "https://recollective.bamboohr.com/career/careers/104"
   },
   {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Senior-Software-Engineer_R27039",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R27039"
+    ],
+    "id": "R27039",
+    "source": "SST"
+  },
+  {
     "title": "Desktop IT Engineer / Field Services Technician",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Tokyo-Japan/Desktop-IT-Engineer---Field-Services-Technician_R41272",
     "locationsText": "Tokyo, Japan",
@@ -783,6 +794,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Software Engineer - Backend & Data Platform",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Senior-Software-Engineer---Backend---Data-Platform_R38350-1",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38350"
+    ],
+    "id": "R38350",
+    "source": "SST"
+  },
+  {
     "title": "Associate Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate-Manager_R37178",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
@@ -835,28 +857,6 @@
       "R39106"
     ],
     "id": "R39106",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Financial-Services-Operations_R42506",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42506"
-    ],
-    "id": "R42506",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Senior-Associate--Fund-Administration_R40711",
-    "locationsText": "4 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40711"
-    ],
-    "id": "R40711",
     "source": "SST"
   },
   {
@@ -1146,6 +1146,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Advisor, Portfolio Marketing, Interconnects",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Advisor--Portfolio-Marketing--Interconnects_R030673",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030673"
+    ],
+    "id": "R030673",
+    "source": "Ciena"
+  },
+  {
+    "title": "Product Engineer - onsite in New Jersey",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US-NJ-430-Mountain-Avenue/Process-Engineer_R029602",
+    "locationsText": "US-NJ-430 Mountain Avenue",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029602"
+    ],
+    "id": "R029602",
+    "source": "Ciena"
+  },
+  {
     "title": "Ing\u00e9nieur optique - Nouveau Gradu\u00e9",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Ingnieur-optique---Nouveau-Gradu_R030188-1",
     "locationsText": "Quebec",
@@ -1275,28 +1297,6 @@
       "R030543"
     ],
     "id": "R030543",
-    "source": "Ciena"
-  },
-  {
-    "title": "QA Engineer- Javascript & Playwright/Webdriver.IO/Cypress",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Bengaluru/QA-Automation-Engineer_R029853",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029853"
-    ],
-    "id": "R029853",
-    "source": "Ciena"
-  },
-  {
-    "title": "SVT/PV Engineer Routing/IP 2",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/SVT-PV-Engineer-Routing-IP-2_R030671",
-    "locationsText": "Baltimore",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030671"
-    ],
-    "id": "R030671",
     "source": "Ciena"
   },
   {

@@ -805,58 +805,57 @@
     "source": "SST"
   },
   {
-    "title": "Sr. Data Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Sr-Data-Analyst_R42653-1",
-    "locationsText": "9 Locations",
+    "title": "Sales Director Fintech",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sales-Director_R38816",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42653"
+      "R38816"
     ],
-    "id": "R42653",
+    "id": "R38816",
     "source": "SST"
   },
   {
-    "title": "Fund Accounting Consultant | Managed Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Fund-Accounting-Consultant---Managed-Operations_R42858",
+    "title": "Digital Sales Rep",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mexico-City-Mexico/Digital-Sales-Rep_R41723",
+    "locationsText": "Mexico City, Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41723"
+    ],
+    "id": "R41723",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Sales Development Representative",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Sales-Development-Representative_R41701",
     "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42858"
+      "R41701"
     ],
-    "id": "R42858",
+    "id": "R41701",
     "source": "SST"
   },
   {
-    "title": "Senior Account Executive Alternative Investments",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-Account-Executive-Alternative-Investments_R42610",
-    "locationsText": "2 Locations",
+    "title": "Associate Sales Development Representative",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Sales-Development-Representative_R41702",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42610"
+      "R41702"
     ],
-    "id": "R42610",
-    "source": "SST"
-  },
-  {
-    "title": "Sales Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Sales-Associate_R40264",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40264"
-    ],
-    "id": "R40264",
+    "id": "R41702",
     "source": "SST"
   },
   {
     "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mexico-City-Mexico/Account-Executive_R38818",
-    "locationsText": "Mexico City, Mexico",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sao-Paolo-Brazil/Account-Executive_R38788-1",
+    "locationsText": "Sao Paolo, Brazil",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38818"
+      "R38788"
     ],
-    "id": "R38818",
+    "id": "R38788",
     "source": "SST"
   },
   {
@@ -1146,6 +1145,17 @@
     "source": "Ciena"
   },
   {
+    "title": "UK Markets Senior System Engineer (Pre-Sales)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/London/UK-Markets-Senior-System-Engineer--Pre-Sales-_R030567",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030567"
+    ],
+    "id": "R030567",
+    "source": "Ciena"
+  },
+  {
     "title": "QA Engineer - Javascript /Typescript",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Blue-Planet-QA-Engineer_R030639",
     "locationsText": "Gurugram",
@@ -1289,17 +1299,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Supply Chain Process Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Supply-Chain-Process-Manager_R030684",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030684"
-    ],
-    "id": "R030684",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior  Firmware Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior--Firmware-Engineer_R004130",
     "locationsText": "United States - Shakopee, MN (GHQ)",
@@ -1334,14 +1333,11 @@
     "source": "Entrust"
   },
   {
-    "title": "Manufacturing Engineer II",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Manufacturing-Engineer-II_R004091",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 30+ Days Ago",
     "bulletFields": [
       "R004091"
     ],
     "id": "R004091",
+    "externalPath": "",
     "source": "Entrust"
   },
   {

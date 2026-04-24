@@ -805,6 +805,39 @@
     "source": "SST"
   },
   {
+    "title": "Senior Business Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Senior-Business-Analyst_R38362",
+    "locationsText": "London, UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38362"
+    ],
+    "id": "R38362",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Customer Success",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Customer-Success_R41058",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41058"
+    ],
+    "id": "R41058",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Director of Benefits",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Associate-Director-of-Benefits_R42567",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42567"
+    ],
+    "id": "R42567",
+    "source": "SST"
+  },
+  {
     "title": "Sales Director Fintech",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sales-Director_R38816",
     "postedOn": "Posted Today",
@@ -826,37 +859,15 @@
     "source": "SST"
   },
   {
-    "title": "Associate Sales Development Representative",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Sales-Development-Representative_R41701",
-    "locationsText": "New York, NY",
+    "title": "Consultant- IT Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--IT-Quality-Assurance_2609328",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41701"
+      "2609328"
     ],
-    "id": "R41701",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Sales Development Representative",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Sales-Development-Representative_R41702",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41702"
-    ],
-    "id": "R41702",
-    "source": "SST"
-  },
-  {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sao-Paolo-Brazil/Account-Executive_R38788-1",
-    "locationsText": "Sao Paolo, Brazil",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38788"
-    ],
-    "id": "R38788",
-    "source": "SST"
+    "id": "2609328",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Application Developer",
@@ -1065,17 +1076,6 @@
       "2608689"
     ],
     "id": "2608689",
-    "source": "CIBC"
-  },
-  {
-    "title": "BI Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Engineer_2604520",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2604520"
-    ],
-    "id": "2604520",
     "source": "CIBC"
   },
   {
@@ -1330,14 +1330,6 @@
       "R004052"
     ],
     "id": "R004052",
-    "source": "Entrust"
-  },
-  {
-    "bulletFields": [
-      "R004091"
-    ],
-    "id": "R004091",
-    "externalPath": "",
     "source": "Entrust"
   },
   {

@@ -120,6 +120,26 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/292"
   },
   {
+    "id": "298",
+    "jobOpeningName": "Customer Success and Solutions Engineer (CSSE)",
+    "departmentId": "18813",
+    "departmentLabel": "Sales & Success",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/298"
+  },
+  {
     "id": "705",
     "jobOpeningName": "Technical Support Engineer",
     "departmentId": "18562",
@@ -860,6 +880,17 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2528839",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2528839"
+    ],
+    "id": "2528839",
+    "source": "CIBC"
+  },
+  {
     "title": "Consultant, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2609412-1",
     "locationsText": "Toronto, ON",
@@ -1066,17 +1097,6 @@
       "2608976"
     ],
     "id": "2608976",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Information Security(Cryptography Operations)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Information-Security-Cryptography-Operations-_2608289",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2608289"
-    ],
-    "id": "2608289",
     "source": "CIBC"
   },
   {
@@ -2370,6 +2390,90 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 163478,
+    "type": "careers",
+    "title": "Senior Director, AI Engineering",
+    "link": "https://www.surveymonkey.com/careers/7858583-senior-director-ai-engineering/",
+    "path": "/careers/7858583-senior-director-ai-engineering/",
+    "date": "2026-04-27T14:00:14",
+    "date_modified": "2026-04-27T14:00:14",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Director, AI Engineering",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 399,
+        "slug": "canada-remote",
+        "name": "Canada - Remote",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/canada-remote/",
+        "path": "/careers/office/canada-remote/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
+  },
+  {
+    "id": 163476,
+    "type": "careers",
+    "title": "Senior Director, AI Engineering",
+    "link": "https://www.surveymonkey.com/careers/7831993-senior-director-ai-engineering/",
+    "path": "/careers/7831993-senior-director-ai-engineering/",
+    "date": "2026-04-27T14:00:13",
+    "date_modified": "2026-04-27T14:00:13",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Director, AI Engineering",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 393,
+        "slug": "ottawa",
+        "name": "Ottawa, Canada",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
+        "path": "/careers/office/ottawa/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 163370,

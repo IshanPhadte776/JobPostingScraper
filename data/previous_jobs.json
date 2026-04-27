@@ -794,6 +794,28 @@
     "source": "SST"
   },
   {
+    "title": "Sales Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Sales-Associate_R40264",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40264"
+    ],
+    "id": "R40264",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Software Development Engineer in Test (SDET)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-Software-Development-Engineer-in-Test--SDET-_R42652",
+    "locationsText": "San Francisco, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42652"
+    ],
+    "id": "R42652",
+    "source": "SST"
+  },
+  {
     "title": "Director, Hedge Fund Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Director--Hedge-Fund-Accounting_R37395",
     "locationsText": "2 Locations",
@@ -838,26 +860,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India---Commerzone-Building-7/Senior-Associate_R42825",
-    "locationsText": "Pune India - Commerzone Building 7",
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2609412-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42825"
+      "2609412"
     ],
-    "id": "R42825",
-    "source": "SST"
-  },
-  {
-    "title": "Principal Fund Accountant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Principal-Fund-Accountant_R40175",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40175"
-    ],
-    "id": "R40175",
-    "source": "SST"
+    "id": "2609412",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Supplier Risk Management",
@@ -1069,17 +1080,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, IT QA",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--IT-QA_2609106-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2609106"
-    ],
-    "id": "2609106",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior/Lead- AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Lead--AI-Application-Developer_R030703",
     "locationsText": "Gurugram",
@@ -1212,14 +1212,6 @@
     "source": "Ciena"
   },
   {
-    "bulletFields": [
-      "R030723"
-    ],
-    "id": "R030723",
-    "externalPath": "",
-    "source": "Ciena"
-  },
-  {
     "title": "Enterprise Integration Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Enterprise-Integration-Developer_R030725",
     "locationsText": "Baltimore",
@@ -1297,6 +1289,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Product Engineer - onsite in New Jersey",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US-NJ-430-Mountain-Avenue/Process-Engineer_R029602",
+    "locationsText": "US-NJ-430 Mountain Avenue",
+    "postedOn": "Posted 4 Days Ago",
+    "bulletFields": [
+      "R029602"
+    ],
+    "id": "R029602",
+    "source": "Ciena"
+  },
+  {
     "title": "Staff Firmware Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Staff-Firmware-Engineer_R004147",
     "locationsText": "United States - Shakopee, MN (GHQ)",
@@ -1340,6 +1343,22 @@
     ],
     "id": "R004052",
     "source": "Entrust"
+  },
+  {
+    "id": "job_20260427124709_8YX0N70B9DGZUOGA",
+    "title": "SLA Returns Administrator",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "Administration",
+    "description": "The SLA Returns Administrator is a customer-facing role that provides administrative and operational support for SLA (Service Level Agreement) customers in partnership with SLA Customer Coordinators. This role works closely with internal teams, including Production and Logistics, to coordinate, expedite, and schedule repair shipments while ensuring SLA commitments are met. Key duties include running and analyzing reports to support daily team operations, tracking outstanding RMAs and purchase orders, and communicating timely status updates directly to customers. Issues or delays are proactively identified and escalated to management and Sales as needed to support resolution and maintain a high level of customer satisfaction.<br><br><strong>Responsibilities:&#160;</strong><ul><li>Enter orders as needed in AS400 associated with service requests&#160;</li><li>Occasionally create service loan EPCNs &amp; agreements in QuoteWeb</li><li>Provide status updates to customers regarding repairs</li><li>Request quotes from Sales Administration as required</li><li>Issue loan return RMAs to customers with service loans out</li><li>Communicate with Failure Analysis (FA) and evTOC Service teams as well as customers regarding basic status questions or issues</li><li>Process/invoice serial numbers in AS400 as required</li><li>Follow up on service loan returns with customers</li><li>Review existing and new SLA's with Customer Coordinator to ensure overall understanding</li><li>Pull reports and format information for End of Sale and End of Life product history</li><li>Pull and maintain reports for SLA Customer Coordinators</li><li>Administrative duties (filing, interdepartmental communication, etc.)</li><li>Additional tasks as required</li></ul><strong>Qualifications:</strong><ul><li>Post-Secondary Education in related field (Business, Administration) or related experience</li><li>Excellent verbal and written communication skills, critical thinking skills, problem-solving ability, time management skills and interpersonal skills</li><li>Ability to work in a fast-paced environment</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;</li><li>Some customer service experience is preferred</li></ul><p><strong>Skills:</strong></p><ul><li>Detail-oriented</li><li>Time management and multitasking</li><li>Ability to work in a fast-paced environment</li><li>Ability to adapt to new and changing processes</li><li>Ability to work independently and as a team</li><li>Strong verbal and written communication</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Date Posted:</strong> April 27, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "ptj2jPINX4",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20260421132720_NEAS26ABP7XHLBWB",
@@ -1512,22 +1531,6 @@
     "description": "<p>Evertz is looking for a self-motivated Technical Product Specialist with superb technical skills and sharp business acumen to join our Product Management team within R&amp;D. &#160;The ideal candidate understands that clarity and attention to detail are&#160;paramount when designing and building a solution for our customers. &#160;In this position, you will be reporting to the Sr. Product Manager and working with a dynamic team of engineers focused on IP video/audio transport, processing, and conversion products. Customers and applications are heavily focused on&#160;core broadcast, professional A/V and live sports/news applications. In this group, success means solving&#160;technical problems for our customers and driving the adoption of our industry&#160;leading solutions.<br><br><strong>RESPONSIBILITIES:</strong></p><ul><li>Interfacing with customers to help design solutions tailored to meet their applications, use-cases and workflows</li><li>Assisting the team with defining new product architecture, features, and functions</li><li>Working with multiple teams and departments across the company to validate solutions and resolve technical problems</li><li>Competitive benchmarking from a technical and a commercial perspective</li><li>Promoting our solutions through industry trade show participation and targeted customer engineer meetings</li><li>Assisting with testing and validating new products prior to launch</li><li>Assisting with detailed product documentation and application notes</li></ul><p><br><strong>QUALIFICATIONS:</strong></p><ul><li>Deeply familiar with industry standard transport technologies (ST2110, ST2022, RIST, SRT)</li><li>Understanding of core compression technologies (H264, HEVC, JPEG-XS, JPEG-2K)</li><li>Working knowledge of Linux environments, networking and IP protocols</li><li>Prior broadcast video experience</li><li>Education in Electronics/Electrical/Computers/Broadcasting or related technology field</li><li>Eligibility for travel to US and International client sites.</li><li>Ability to work in a fast-paced environment, perform agile iterative development of industry-leading products and technology.</li><li>Able to learn quickly, work independently and have strong interpersonal and problem-solving skills.</li></ul><p><br><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><br><strong>Location:</strong>&#160;Burlington, Ontario<br><strong>Hours:&#160;</strong>Monday - Friday, 40 hours<br><strong>Vacancy:&#160;</strong>This is a newly created position<br><strong>Salary Range</strong>: $65,000 - $95,000 CAD</p><p><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.<br>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.<br>Join a team where your work shapes the future of broadcast and new media industries.<br>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br>&#160;</p>",
     "type": "Full Time",
     "board_code": "fGvoB0fBDm",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260413201859_3LURG76G4ST9GYCU",
-    "title": "SLA Returns Administrator",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "The SLA Returns Administrator is a customer-facing role that provides administrative and operational support for SLA (Service Level Agreement) customers in partnership with SLA Customer Coordinators. This role works closely with internal teams, including Production and Logistics, to coordinate, expedite, and schedule repair shipments while ensuring SLA commitments are met. Key duties include running and analyzing reports to support daily team operations, tracking outstanding RMAs and purchase orders, and communicating timely status updates directly to customers. Issues or delays are proactively identified and escalated to management and Sales as needed to support resolution and maintain a high level of customer satisfaction.<br><br><strong>Responsibilities:&#160;</strong><ul><li>Enter orders as needed in AS400 associated with service requests&#160;</li><li>Occasionally create service loan EPCNs &amp; agreements in QuoteWeb</li><li>Provide status updates to customers regarding repairs</li><li>Request quotes from Sales Administration as required</li><li>Issue loan return RMAs to customers with service loans out</li><li>Communicate with Failure Analysis (FA) and evTOC Service teams as well as customers regarding basic status questions or issues</li><li>Process/invoice serial numbers in AS400 as required</li><li>Follow up on service loan returns with customers</li><li>Review existing and new SLA's with Customer Coordinator to ensure overall understanding</li><li>Pull reports and format information for End of Sale and End of Life product history</li><li>Pull and maintain reports for SLA Customer Coordinators</li><li>Administrative duties (filing, interdepartmental communication, etc.)</li><li>Additional tasks as required</li></ul><strong>Qualifications:</strong><ul><li>Post-Secondary Education in related field (Business, Administration) or related experience</li><li>Excellent verbal and written communication skills, critical thinking skills, problem-solving ability, time management skills and interpersonal skills</li><li>Ability to work in a fast-paced environment</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;</li><li>Some customer service experience is preferred</li></ul><p><strong>Skills:</strong></p><ul><li>Detail-oriented</li><li>Time management and multitasking</li><li>Ability to work in a fast-paced environment</li><li>Ability to adapt to new and changing processes</li><li>Ability to work independently and as a team</li><li>Strong verbal and written communication</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Date Posted:</strong> April 1, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "o5aVkutmBS",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

@@ -60,26 +60,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/287"
   },
   {
-    "id": "290",
-    "jobOpeningName": "Business Development Representative",
-    "departmentId": "18813",
-    "departmentLabel": "Sales & Success",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/290"
-  },
-  {
     "id": "291",
     "jobOpeningName": "Events Specialist",
     "departmentId": "18439",
@@ -660,6 +640,17 @@
     "url": "https://recollective.bamboohr.com/career/careers/104"
   },
   {
+    "title": "Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Software-Engineer_R34004",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R34004"
+    ],
+    "id": "R34004",
+    "source": "SST"
+  },
+  {
     "title": "Fund Accountant (Hedge Funds)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Engagement-Specialist_R39849",
     "locationsText": "6 Locations",
@@ -803,6 +794,17 @@
     "source": "SST"
   },
   {
+    "title": "Product Owner",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Product-Owner_R43081",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43081"
+    ],
+    "id": "R43081",
+    "source": "SST"
+  },
+  {
     "title": "Software Development Engineer in Test(SDET)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Software-Development-Engineer-in-Test-SDET-_R42035",
     "locationsText": "2 Locations",
@@ -855,28 +857,6 @@
       "R42984"
     ],
     "id": "R42984",
-    "source": "SST"
-  },
-  {
-    "title": "Senior AI Platform Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-AI-Platform-Engineer_R42177",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42177"
-    ],
-    "id": "R42177",
-    "source": "SST"
-  },
-  {
-    "title": "Technical Writing & Research Analyst Intern",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Technical-Writing---Research-Analyst-Intern_R42648",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42648"
-    ],
-    "id": "R42648",
     "source": "SST"
   },
   {
@@ -1166,6 +1146,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Product / Process Engineer \u2013 Electro-optical Systems",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Product-Engineer_R030638",
+    "locationsText": "Guadalajara",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030638"
+    ],
+    "id": "R030638",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Director, Indirect Procurement",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Senior-Director--Indirect-Procurement_R030373",
     "locationsText": "Baltimore",
@@ -1273,17 +1264,6 @@
       "R030708"
     ],
     "id": "R030708",
-    "source": "Ciena"
-  },
-  {
-    "title": "Automation Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Automation-Engineer_R030316",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030316"
-    ],
-    "id": "R030316",
     "source": "Ciena"
   },
   {

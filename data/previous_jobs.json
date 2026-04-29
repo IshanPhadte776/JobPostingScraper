@@ -772,17 +772,6 @@
     "source": "SST"
   },
   {
-    "title": "Senior Assocaite",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Assocaite_R42230",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 27 Days Ago",
-    "bulletFields": [
-      "R42230"
-    ],
-    "id": "R42230",
-    "source": "SST"
-  },
-  {
     "title": "Cloud Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Cloud-Engineer_R40402",
     "locationsText": "Kansas City, MO",
@@ -791,6 +780,39 @@
       "R40402"
     ],
     "id": "R40402",
+    "source": "SST"
+  },
+  {
+    "title": "Software QA Engineer - PA26DIGRQ2006",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Software-QA-Engineer---PA26DIGRQ2006_R42401",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42401"
+    ],
+    "id": "R42401",
+    "source": "SST"
+  },
+  {
+    "title": "PA2025Q3JB139 - Java Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/PA2025Q3JB139---Java-Developer_R37411",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37411"
+    ],
+    "id": "R37411",
+    "source": "SST"
+  },
+  {
+    "title": "Senor Associate, Commercial  Loan Servicing",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Senor-Associate--Commercial--Loan-Servicing_R40085",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40085"
+    ],
+    "id": "R40085",
     "source": "SST"
   },
   {
@@ -838,26 +860,15 @@
     "source": "SST"
   },
   {
-    "title": "Data Analytics Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Financial-Analyst_R42602",
-    "locationsText": "New York, NY",
+    "title": "Java Application Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Java-Application-Developer_2527012",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42602"
+      "2527012"
     ],
-    "id": "R42602",
-    "source": "SST"
-  },
-  {
-    "title": "Vice President, Digital Marketing",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Vice-President--Digital-Marketing_R42899-1",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42899"
-    ],
-    "id": "R42899",
-    "source": "SST"
+    "id": "2527012",
+    "source": "CIBC"
   },
   {
     "title": "Infrastructure Product Owner (Linux)",
@@ -1069,17 +1080,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Production Application Support",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2608715",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 12 Days Ago",
-    "bulletFields": [
-      "2608715"
-    ],
-    "id": "2608715",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior/Lead- AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Lead--AI-Application-Developer_R030703",
     "locationsText": "Gurugram",
@@ -1143,6 +1143,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Lab Support Installation Technician - onsite Ottawa",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Lab-Support-Installation-Technician---onsite-Ottawa_R030743",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030743"
+    ],
+    "id": "R030743",
+    "source": "Ciena"
+  },
+  {
+    "title": "Customer Success Advocate: Tech Touch Centralization",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Brazil/Customer-Success-Advocate--Tech-Touch-Centralization_R030762-1",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030762"
+    ],
+    "id": "R030762",
     "source": "Ciena"
   },
   {
@@ -1267,36 +1289,14 @@
     "source": "Ciena"
   },
   {
-    "title": "Specialist, Digital Forensics and Investigations",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Specialist--Digital-Forensics-and-Investigations_R030704",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
+    "title": "Digital Senior SerDes Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-Senior-SerDes-Design-Engineer_R030719",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
-      "R030704"
+      "R030719"
     ],
-    "id": "R030704",
-    "source": "Ciena"
-  },
-  {
-    "title": "Support Engineer_Oracle EBS (FInance /SCM modules)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/SRE---Support-Engineer_R029067",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029067"
-    ],
-    "id": "R029067",
-    "source": "Ciena"
-  },
-  {
-    "title": "Cloud Platform & AI Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/Cloud-Platform---AI-Engineer_R030459",
-    "locationsText": "Remote- India- Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030459"
-    ],
-    "id": "R030459",
+    "id": "R030719",
     "source": "Ciena"
   },
   {

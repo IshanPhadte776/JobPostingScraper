@@ -823,81 +823,92 @@
     "source": "SST"
   },
   {
-    "title": "Manager; Hedge Fund Accounting (East Coast Region)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Hedge-Fund-Accounting--East-Coast-Region-_R37684",
+    "title": "Senior Associate - Client Relations Specialist - Hybrid",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Senior-Associate---Client-Relations-Specialist---Hybrid_R41752",
+    "locationsText": "8 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41752"
+    ],
+    "id": "R41752",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate ; Hedge Fund Accounting (East Coast Region)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate---Hedge-Fund-Accounting_R37640",
     "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37684"
+      "R37640"
     ],
-    "id": "R37684",
+    "id": "R37640",
     "source": "SST"
   },
   {
-    "title": "Director - Private Markets Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Director---Private-Markets-Accounting_R42948",
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate_R42993",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42993"
+    ],
+    "id": "R42993",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate - Private Equity Accounting; East Coast Region",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate---Private-Equity-Accounting--East-Coast-Region_R37641-1",
     "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42948"
+      "R37641"
     ],
-    "id": "R42948",
+    "id": "R37641",
     "source": "SST"
   },
   {
-    "title": "Associate Director; Private Equity Fund Accounting (East Coast Region)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Director--Private-Equity-Fund-Accounting--East-Coast-Region-_R37686-1",
+    "title": "Software & Data Engineer \u2013 Financial Technology - Launch Program",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Software---Data-Engineer---Financial-Technology---Launch-Program_R42203",
+    "locationsText": "Union, NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42203"
+    ],
+    "id": "R42203",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Manager - Hedge Fund Accounting; East Coast Region",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Manager---Hedge-Fund-Accounting--East-Coast-Region_R37643",
     "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37686"
+      "R37643"
     ],
-    "id": "R37686",
+    "id": "R37643",
     "source": "SST"
   },
   {
-    "title": "Associate Director; Hedge Fund Accounting (East Coast Region)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Director--Hedge-Fund-Accounting--East-Coast-Region-_R37688",
+    "title": "Manager - Private Equity Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager---Private-Equity-Fund-Accounting_R37685",
     "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37688"
+      "R37685"
     ],
-    "id": "R37688",
+    "id": "R37685",
     "source": "SST"
   },
   {
-    "title": "Senior Investment Performance Consultant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Connecticut-US/Senior-Investment-Performance-Consultant_R42960",
-    "locationsText": "Remote - Connecticut, US",
+    "title": "Senior Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Business-Systems-Analysis_2604657",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42960"
+      "2604657"
     ],
-    "id": "R42960",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Director, Field Sales",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Associate-Director--Field-Sales_R42067",
-    "locationsText": "Toronto, Canada",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42067"
-    ],
-    "id": "R42067",
-    "source": "SST"
-  },
-  {
-    "title": "Immigration Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Immigration-Specialist_R42100",
-    "locationsText": "Windsor, CT",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R42100"
-    ],
-    "id": "R42100",
-    "source": "SST"
+    "id": "2604657",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Infrastructure Management",
@@ -1109,17 +1120,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Infrastructure Product Owner (Linux)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Infrastructure-Product-Owner--Linux-_2608742",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2608742"
-    ],
-    "id": "2608742",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior/Lead- AI Application Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Lead--AI-Application-Developer_R030703",
     "locationsText": "Gurugram",
@@ -1186,6 +1186,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Product Line Manager \u2013 Intelligent IP/Optical Controller",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager---Network-Management-Applications_R030700",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030700"
+    ],
+    "id": "R030700",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Analog Layout Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Senior-Analog-Layout-Engineer_R030793",
+    "locationsText": "Remote-Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030793"
+    ],
+    "id": "R030793",
+    "source": "Ciena"
+  },
+  {
     "title": "Global Tax Accountant",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-MD/Global-Tax-Accountant_R030707",
     "locationsText": "Remote-US-MD",
@@ -1227,17 +1249,6 @@
       "R030523"
     ],
     "id": "R030523",
-    "source": "Ciena"
-  },
-  {
-    "title": "Product Line Manager \u2013 Network Management Applications",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager---Network-Management-Applications_R030700",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030700"
-    ],
-    "id": "R030700",
     "source": "Ciena"
   },
   {
@@ -1326,17 +1337,6 @@
       "R030580"
     ],
     "id": "R030580",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Full Stack Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Full-Stack-Developer_R030697",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030697"
-    ],
-    "id": "R030697",
     "source": "Ciena"
   },
   {

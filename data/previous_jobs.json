@@ -900,6 +900,28 @@
     "source": "SST"
   },
   {
+    "title": "Application Development Consultant (Database: SQL Oracle)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Development-Consultant--Database--SQL-Oracle-_2608689",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2608689"
+    ],
+    "id": "2608689",
+    "source": "CIBC"
+  },
+  {
+    "title": "Jr. Business Systems Analyst",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Business-Systems-Analyst_2522281",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2522281"
+    ],
+    "id": "2522281",
+    "source": "CIBC"
+  },
+  {
     "title": "Senior Analyst, Automation & Analytics",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Analyst--Automation---Analytics_2609178",
     "locationsText": "Toronto, ON",
@@ -1021,17 +1043,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Analyst, Operational Threat Intelligence",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Analyst--Operational-Threat-Intelligence_2603776",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2603776"
-    ],
-    "id": "2603776",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Consultant, Business Systems Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Business-Systems-Analysis_2604657",
     "locationsText": "Toronto, ON",
@@ -1109,15 +1120,15 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Infrastructure Engineer - Patching",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Infrastructure-Engineer---Patching_2609224",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
+    "title": "Product Line Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "2609224"
+      "R029960"
     ],
-    "id": "2609224",
-    "source": "CIBC"
+    "id": "R029960",
+    "source": "Ciena"
   },
   {
     "title": "Senior/Lead- AI Application Developer",
@@ -1175,14 +1186,14 @@
     "source": "Ciena"
   },
   {
-    "title": "Solution Architect, Sales Engineering",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-CO/Solution-Architect--Sales-Engineering_R029415",
-    "locationsText": "Remote-US-CO",
+    "title": "Optical Systems Product Line Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Optical-Systems-Product-Line-Manager_R029450",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R029415"
+      "R029450"
     ],
-    "id": "R029415",
+    "id": "R029450",
     "source": "Ciena"
   },
   {
@@ -1194,6 +1205,28 @@
       "R030820"
     ],
     "id": "R030820",
+    "source": "Ciena"
+  },
+  {
+    "title": "Technical Sales Engineer focused on Tier 1 Service Provider Customer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Technical-Sales-Engineer-focused-on-Tier-1-Service-Provider-Customer_R030569",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030569"
+    ],
+    "id": "R030569",
+    "source": "Ciena"
+  },
+  {
+    "title": "Solution Architect, Sales Engineering",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-CO/Solution-Architect--Sales-Engineering_R029415",
+    "locationsText": "Remote-US-CO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029415"
+    ],
+    "id": "R029415",
     "source": "Ciena"
   },
   {
@@ -1304,39 +1337,6 @@
       "R030816"
     ],
     "id": "R030816",
-    "source": "Ciena"
-  },
-  {
-    "title": "Repair Operations Program Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Belfast--87-Park-House/Repairs-Operations-Failures-Analysis--FA--Logistics-Coordinator_R029840",
-    "locationsText": "UK- Belfast- 87 Park House",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029840"
-    ],
-    "id": "R029840",
-    "source": "Ciena"
-  },
-  {
-    "title": "Kinaxis Analyst",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Kinaxis-Analyst_R030835-1",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030835"
-    ],
-    "id": "R030835",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Python Developer (Python & AI Systems)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Python-Developer--Python---AI-Systems-_R030804",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030804"
-    ],
-    "id": "R030804",
     "source": "Ciena"
   },
   {

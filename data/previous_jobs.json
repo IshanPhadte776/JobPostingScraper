@@ -845,58 +845,58 @@
     "source": "SST"
   },
   {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Software-Engineer_R42060-1",
+    "title": "Business Analyst - PA26AUTRQ3001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Business-Analyst---PA26AUTRQ3001_R43107",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43107"
+    ],
+    "id": "R43107",
+    "source": "SST"
+  },
+  {
+    "title": "Lead - Employee Relations Partner",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Lead---Employee-Relations-Partner_R40955",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40955"
+    ],
+    "id": "R40955",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Full Stack Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Full-Stack-Software-Engineer_R42062",
     "locationsText": "Waltham MA - 10 CityPoint",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42060"
+      "R42062"
     ],
-    "id": "R42060",
+    "id": "R42062",
     "source": "SST"
   },
   {
-    "title": "Senior Observability Engineer/Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Senior-Observability-Engineer-Developer_R41268",
-    "locationsText": "Waltham, MA",
+    "title": "Senior Sales Rep",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Sales-Rep_R42334",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41268"
+      "R42334"
     ],
-    "id": "R41268",
+    "id": "R42334",
     "source": "SST"
   },
   {
-    "title": "Associate, Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Halifax-Canada/Associate--Operations_R43253",
-    "locationsText": "Halifax, Canada",
+    "title": "Sales Executive OMS",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Sales-Representative_R42335",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43253"
+      "R42335"
     ],
-    "id": "R43253",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate - Client Relations Specialist - Hybrid",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Senior-Associate---Client-Relations-Specialist---Hybrid_R41752",
-    "locationsText": "8 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41752"
-    ],
-    "id": "R41752",
-    "source": "SST"
-  },
-  {
-    "title": "Global IT Service Desk Technician",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Global-IT-Service-Desk-Technician_R42175",
-    "locationsText": "Denver, CO",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42175"
-    ],
-    "id": "R42175",
+    "id": "R42335",
     "source": "SST"
   },
   {
@@ -1197,6 +1197,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Associate, Services Quoting",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate--Services-Quoting_R030770",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030770"
+    ],
+    "id": "R030770",
+    "source": "Ciena"
+  },
+  {
     "title": "Field Service Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Field-Service-Engineer_R030836",
     "locationsText": "Gurugram",
@@ -1326,17 +1337,6 @@
       "R030814"
     ],
     "id": "R030814",
-    "source": "Ciena"
-  },
-  {
-    "title": "Digital Verification Engineer Expert",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-York/Digital-Verification-Engineer-Expert_R030747",
-    "locationsText": "New York",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030747"
-    ],
-    "id": "R030747",
     "source": "Ciena"
   },
   {

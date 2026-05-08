@@ -845,6 +845,50 @@
     "source": "SST"
   },
   {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Software-Engineer_R42060-1",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42060"
+    ],
+    "id": "R42060",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Observability Engineer/Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Senior-Observability-Engineer-Developer_R41268",
+    "locationsText": "Waltham, MA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41268"
+    ],
+    "id": "R41268",
+    "source": "SST"
+  },
+  {
+    "title": "Associate, Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Halifax-Canada/Associate--Operations_R43253",
+    "locationsText": "Halifax, Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43253"
+    ],
+    "id": "R43253",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate - Client Relations Specialist - Hybrid",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Senior-Associate---Client-Relations-Specialist---Hybrid_R41752",
+    "locationsText": "8 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41752"
+    ],
+    "id": "R41752",
+    "source": "SST"
+  },
+  {
     "title": "Global IT Service Desk Technician",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Global-IT-Service-Desk-Technician_R42175",
     "locationsText": "Denver, CO",
@@ -856,48 +900,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate Valuation Control",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate-Valuation-Control_R41473",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "title": "Python Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Python-Developer_2609989-2",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41473"
+      "2609989"
     ],
-    "id": "R41473",
-    "source": "SST"
+    "id": "2609989",
+    "source": "CIBC"
   },
   {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate_R41439",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "title": "Consultant, Active Directory Entra ID Specialist",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Identity-Services-Support-Specialist_2605551",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41439"
+      "2605551"
     ],
-    "id": "R41439",
-    "source": "SST"
-  },
-  {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/ASSOCIATE-MANAGER_R41384",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41384"
-    ],
-    "id": "R41384",
-    "source": "SST"
-  },
-  {
-    "title": "Lead Java Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Lead-Java-Developer_R42011",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42011"
-    ],
-    "id": "R42011",
-    "source": "SST"
+    "id": "2605551",
+    "source": "CIBC"
   },
   {
     "title": "Director, Application Development",
@@ -1098,28 +1120,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Director, Infrastructure Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Infrastructure-Management_2609498",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2609498"
-    ],
-    "id": "2609498",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Infrastructure Engineer - Patching",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Infrastructure-Engineer---Patching_2609224",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2609224"
-    ],
-    "id": "2609224",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1183,6 +1183,17 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Senior-Software-Engineer_R030779",
+    "locationsText": "Atlanta",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030779"
+    ],
+    "id": "R030779",
     "source": "Ciena"
   },
   {
@@ -1326,17 +1337,6 @@
       "R030747"
     ],
     "id": "R030747",
-    "source": "Ciena"
-  },
-  {
-    "title": "Optical DSP Engineer (New Grad - Masters, PhD, Post Doc)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Optical-DSP-Engineer--New-Grad---Masters--PhD--Post-Doc-_R030753-1",
-    "locationsText": "Atlanta",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030753"
-    ],
-    "id": "R030753",
     "source": "Ciena"
   },
   {

@@ -713,14 +713,11 @@
     "source": "SST"
   },
   {
-    "title": "Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Software-Engineer_R34004",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 13 Days Ago",
     "bulletFields": [
       "R34004"
     ],
     "id": "R34004",
+    "externalPath": "",
     "source": "SST"
   },
   {
@@ -757,14 +754,11 @@
     "source": "SST"
   },
   {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Senior-Software-Engineer_R27039",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 18 Days Ago",
     "bulletFields": [
       "R27039"
     ],
     "id": "R27039",
+    "externalPath": "",
     "source": "SST"
   },
   {
@@ -845,6 +839,17 @@
     "source": "SST"
   },
   {
+    "title": "Lead Business Analyst (PA25Q4BALDSJH011)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Business-Analyst--PA25Q4BALDSJH011-_R40445",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40445"
+    ],
+    "id": "R40445",
+    "source": "SST"
+  },
+  {
     "title": "Mail/Distribution Services Representative (Night Shift/Weekends)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Mail-Distribution-Services-Representative--Night-Shift-Weekends-_R43429",
     "locationsText": "Kansas City, MO",
@@ -886,17 +891,6 @@
       "R39650"
     ],
     "id": "R39650",
-    "source": "SST"
-  },
-  {
-    "title": "TA Senior Associate, Hong Kong",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hong-Kong-Hong-Kong/TA-Senior-Associate--Hong-Kong_R43145",
-    "locationsText": "Hong Kong, Hong Kong",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43145"
-    ],
-    "id": "R43145",
     "source": "SST"
   },
   {
@@ -1175,6 +1169,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Photonics Program Management Co-op - Summer 2026",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Program-Management-Co-op---Summer-2026_R030857",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030857"
+    ],
+    "id": "R030857",
+    "source": "Ciena"
+  },
+  {
     "title": "Lab Support Installation Technician - onsite Ottawa",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Lab-Support-Installation-Technician---onsite-Ottawa_R030743",
     "locationsText": "Ottawa",
@@ -1326,17 +1331,6 @@
       "R029450"
     ],
     "id": "R029450",
-    "source": "Ciena"
-  },
-  {
-    "title": "Product Line Manager - Routing & Switching Innovation",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/RSD-Innovation-Product-Line-Manager_R030820",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030820"
-    ],
-    "id": "R030820",
     "source": "Ciena"
   },
   {

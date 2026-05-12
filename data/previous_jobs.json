@@ -823,6 +823,17 @@
     "source": "SST"
   },
   {
+    "title": "Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Account-Executive_R43214",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43214"
+    ],
+    "id": "R43214",
+    "source": "SST"
+  },
+  {
     "title": "Hiring Hedge Fund Accounting Professionals!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Hiring-Hedge-Fund-Accounting-Professionals-_R43447",
     "locationsText": "2 Locations",
@@ -886,17 +897,6 @@
       "R43103"
     ],
     "id": "R43103",
-    "source": "SST"
-  },
-  {
-    "title": "Manager, Investor Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Manager--Investor-Services_R42941-1",
-    "locationsText": "4 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42941"
-    ],
-    "id": "R42941",
     "source": "SST"
   },
   {
@@ -1175,6 +1175,39 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior ASIC Verification Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-ASIC-Verification-Engineer_R030817-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030817"
+    ],
+    "id": "R030817",
+    "source": "Ciena"
+  },
+  {
+    "title": "6500 Automated Test Team Intern",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/XMLNAME-6500-Automated-Test-Team-Intern_R030854",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030854"
+    ],
+    "id": "R030854",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Engineer (Security) - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Software-Engineer--Security----New-Grad_R030880",
+    "locationsText": "Atlanta",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030880"
+    ],
+    "id": "R030880",
+    "source": "Ciena"
+  },
+  {
     "title": "Hardware (PCBA) Design and Verification Intern (Fall 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Fall-2026-_R030823",
     "locationsText": "Canada- Ottawa- 383 Terry Fox- Bldg C",
@@ -1304,39 +1337,6 @@
       "R030836"
     ],
     "id": "R030836",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Analyst, IT Applications",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Philippines/SharePoint--Office-365--and-Power-Platform-Administrator_R030264",
-    "locationsText": "Remote-Philippines",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030264"
-    ],
-    "id": "R030264",
-    "source": "Ciena"
-  },
-  {
-    "title": "Full Stack Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Full-Stack-Developer_R030088",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030088"
-    ],
-    "id": "R030088",
-    "source": "Ciena"
-  },
-  {
-    "title": "PON Software Engineer - On site - Mansfield, MA",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US--MA--Mansfield--200-Chauncy-St/PON-Software-Engineer---On-site---Mansfield--MA_R030212",
-    "locationsText": "US- MA- Mansfield- 200 Chauncy St",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R030212"
-    ],
-    "id": "R030212",
     "source": "Ciena"
   },
   {

@@ -823,6 +823,39 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Systems Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Sr-Systems-Engineer_R42961",
+    "locationsText": "Remote - Missouri, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42961"
+    ],
+    "id": "R42961",
+    "source": "SST"
+  },
+  {
+    "title": "Chief Operating Officer  \u2013 SS&C Health",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---North-Carolina-US/Chief-Operating-Officer----SS-C-Health_R43440",
+    "locationsText": "Remote - North Carolina, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43440"
+    ],
+    "id": "R43440",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Site Reliability Engineer (Data & Automation Focus)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---UK/Senior-Site-Reliability-Engineer--Data---Automation-Focus-_R42454",
+    "locationsText": "Remote - UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42454"
+    ],
+    "id": "R42454",
+    "source": "SST"
+  },
+  {
     "title": "Senior Site Reliability Engineer (SRE) \u2013 Operations",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Senior-Site-Reliability-Engineer--SRE----Operations_R42950",
     "locationsText": "4 Locations",
@@ -867,37 +900,15 @@
     "source": "SST"
   },
   {
-    "title": "Vice President of Product",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Vice-President-of-Product_R42767",
-    "locationsText": "Remote - Florida, US",
+    "title": "Consultant, Application Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Support_2610539-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42767"
+      "2610539"
     ],
-    "id": "R42767",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Financial-Services-Operations_R42514",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42514"
-    ],
-    "id": "R42514",
-    "source": "SST"
-  },
-  {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Account-Executive_R43240",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43240"
-    ],
-    "id": "R43240",
-    "source": "SST"
+    "id": "2610539",
+    "source": "CIBC"
   },
   {
     "title": "Azure Data Platform Support Engineer",
@@ -1109,17 +1120,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Cloud Solution Designer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Cloud-Solution-Designer_2603973",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 13 Days Ago",
-    "bulletFields": [
-      "2603973"
-    ],
-    "id": "2603973",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1175,6 +1175,50 @@
     "source": "Ciena"
   },
   {
+    "title": "Sr. Program Manager, Global Trade",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Sr-Program-Manager--Global-Trade_R030873",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030873"
+    ],
+    "id": "R030873",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Digital Verification Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Digital-Verification-Engineer_R030630",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030630"
+    ],
+    "id": "R030630",
+    "source": "Ciena"
+  },
+  {
+    "title": "Digital Verification Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Digital-Verification-Engineer_R029443",
+    "locationsText": "US- NY- Pittsford- 1250 Pittsford Victor Road (Rochester)",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029443"
+    ],
+    "id": "R029443",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Developer, ASIC",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Developer--ASIC_R030864",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030864"
+    ],
+    "id": "R030864",
+    "source": "Ciena"
+  },
+  {
     "title": "Hardware Design Engineer Intern (Fall 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Hardware-Design-Engineer-Intern--Fall-2026-_R030874",
     "locationsText": "Atlanta",
@@ -1216,17 +1260,6 @@
       "R030362"
     ],
     "id": "R030362",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior ASIC Verification Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-ASIC-Verification-Engineer_R030817-1",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030817"
-    ],
-    "id": "R030817",
     "source": "Ciena"
   },
   {
@@ -1304,39 +1337,6 @@
       "R030808"
     ],
     "id": "R030808",
-    "source": "Ciena"
-  },
-  {
-    "title": "Lab Support Installation Technician - onsite Ottawa",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Lab-Support-Installation-Technician---onsite-Ottawa_R030743",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030743"
-    ],
-    "id": "R030743",
-    "source": "Ciena"
-  },
-  {
-    "title": "Technician V, Lab Management",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Technician-V--Lab-Management_R030805",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030805"
-    ],
-    "id": "R030805",
-    "source": "Ciena"
-  },
-  {
-    "title": "Pluggable Material Lead",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Pluggable-Material-Lead_R030750",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030750"
-    ],
-    "id": "R030750",
     "source": "Ciena"
   },
   {

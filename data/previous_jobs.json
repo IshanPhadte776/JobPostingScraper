@@ -40,26 +40,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/196"
   },
   {
-    "id": "291",
-    "jobOpeningName": "Events Specialist",
-    "departmentId": "18439",
-    "departmentLabel": "Marketing",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/291"
-  },
-  {
     "id": "292",
     "jobOpeningName": "IT Operations Lead",
     "departmentId": "18811",
@@ -238,46 +218,6 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/732"
-  },
-  {
-    "id": "733",
-    "jobOpeningName": "Sales Director - Future Opportunity",
-    "departmentId": "18617",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/733"
-  },
-  {
-    "id": "734",
-    "jobOpeningName": "Solution Engineer - Future Opportunity",
-    "departmentId": "18676",
-    "departmentLabel": "Sales Engineers",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/734"
   },
   {
     "id": "736",
@@ -834,6 +774,39 @@
     "source": "SST"
   },
   {
+    "title": "Tech Lead (UI or Java)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Tech-Lead--UI-or-Java-_R42776",
+    "locationsText": "Bucharest, Romania",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42776"
+    ],
+    "id": "R42776",
+    "source": "SST"
+  },
+  {
+    "title": "Director, Financial Planning & Analysis",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Director--Financial-Planning---Analysis_R43286",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43286"
+    ],
+    "id": "R43286",
+    "source": "SST"
+  },
+  {
+    "title": "Senior .NET Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Senior-NET-Developer_R42777",
+    "locationsText": "Bucharest, Romania",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42777"
+    ],
+    "id": "R42777",
+    "source": "SST"
+  },
+  {
     "title": "Associate Operations Analyst",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Associate-Operations-Analyst_R42678",
     "locationsText": "Jacksonville, FL",
@@ -864,39 +837,6 @@
       "R41217"
     ],
     "id": "R41217",
-    "source": "SST"
-  },
-  {
-    "title": "Data Analytics and Business Intelligence Consultant (Blue Prism Chorus)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Data-Analytics-and-Business-Intelligence-Consultant--Blue-Prism-Chorus-_R42439",
-    "locationsText": "Kansas City, MO",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R42439"
-    ],
-    "id": "R42439",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Solutions Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Associate-Solutions-Analyst_R42942-1",
-    "locationsText": "Chicago, IL",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R42942"
-    ],
-    "id": "R42942",
-    "source": "SST"
-  },
-  {
-    "title": "Sr. Systems Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Sr-Systems-Engineer_R42961",
-    "locationsText": "Remote - Missouri, US",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R42961"
-    ],
-    "id": "R42961",
     "source": "SST"
   },
   {

@@ -785,14 +785,6 @@
     "source": "SST"
   },
   {
-    "bulletFields": [
-      "R43588"
-    ],
-    "id": "R43588",
-    "externalPath": "",
-    "source": "SST"
-  },
-  {
     "title": "QA Analyst",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/QA-Analyst_R42976",
     "locationsText": "Boston MA - One Post Office Square",
@@ -834,6 +826,17 @@
       "R42682"
     ],
     "id": "R42682",
+    "source": "SST"
+  },
+  {
+    "title": "Financial Services Operations Specialist - PA-WFP-Q2-2006-OFF-R001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Financial-Services-Operations-Specialist---PA-WFP-Q2-2006-OFF-R001_R42719",
+    "locationsText": "Hyderabad, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42719"
+    ],
+    "id": "R42719",
     "source": "SST"
   },
   {

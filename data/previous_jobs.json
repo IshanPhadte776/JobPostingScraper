@@ -818,17 +818,6 @@
     "source": "SST"
   },
   {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Associate_R42682",
-    "locationsText": "Hyderabad, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42682"
-    ],
-    "id": "R42682",
-    "source": "SST"
-  },
-  {
     "title": "Financial Services Operations Specialist - PA-WFP-Q2-2006-OFF-R001",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Financial-Services-Operations-Specialist---PA-WFP-Q2-2006-OFF-R001_R42719",
     "locationsText": "Hyderabad, India",
@@ -837,6 +826,17 @@
       "R42719"
     ],
     "id": "R42719",
+    "source": "SST"
+  },
+  {
+    "title": "Client Success Manager - Fintech",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney---255-George-St/Client-Success-Manager_R42377",
+    "locationsText": "Sydney - 255 George St",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42377"
+    ],
+    "id": "R42377",
     "source": "SST"
   },
   {

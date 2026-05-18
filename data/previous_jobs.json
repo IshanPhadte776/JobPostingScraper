@@ -754,6 +754,17 @@
     "source": "SST"
   },
   {
+    "title": "Account Executive, Digital Sales",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Account-Executive--Digital-Sales_R43436",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43436"
+    ],
+    "id": "R43436",
+    "source": "SST"
+  },
+  {
     "title": "Summer Intern Systems Development",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Summer-Intern-Systems-Development_R43013-1",
     "locationsText": "London - 1 Ropemaker Street",
@@ -806,17 +817,6 @@
       "R43163"
     ],
     "id": "R43163",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Progress developer (application support)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Business-Analyst_R41976",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R41976"
-    ],
-    "id": "R41976",
     "source": "SST"
   },
   {
@@ -1040,6 +1040,17 @@
     "source": "CIBC"
   },
   {
+    "title": "Global Fulfillment Leader",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Belfast/Global-Fulfillment-Leader_R030818-1",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030818"
+    ],
+    "id": "R030818",
+    "source": "Ciena"
+  },
+  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1081,6 +1092,28 @@
       "R026764"
     ],
     "id": "R026764",
+    "source": "Ciena"
+  },
+  {
+    "title": "Services Project Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Belfast--87-Park-House/Services-Project-Manager_R030875",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030875"
+    ],
+    "id": "R030875",
+    "source": "Ciena"
+  },
+  {
+    "title": "Supply Chain Leader",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pattaya/Supply-Chain-Leader_R030867",
+    "locationsText": "Pattaya",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030867"
+    ],
+    "id": "R030867",
     "source": "Ciena"
   },
   {
@@ -1224,39 +1257,6 @@
       "R030842"
     ],
     "id": "R030842",
-    "source": "Ciena"
-  },
-  {
-    "title": "Hardware Design Co-Op (Sept 2026 - 4 months)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Design-Co-Op--Sept-2026---4-months-_R030886",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030886"
-    ],
-    "id": "R030886",
-    "source": "Ciena"
-  },
-  {
-    "title": "Optical System Architect",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Optical-System-Architect_R030379",
-    "locationsText": "New Providence - NJ",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030379"
-    ],
-    "id": "R030379",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior DSP Software Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Senior-DSP-Software-Engineer_R030731",
-    "locationsText": "New Providence - NJ",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030731"
-    ],
-    "id": "R030731",
     "source": "Ciena"
   },
   {

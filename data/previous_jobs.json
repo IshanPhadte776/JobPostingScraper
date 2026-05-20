@@ -60,6 +60,46 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/292"
   },
   {
+    "id": "299",
+    "jobOpeningName": "Customer Success and Solutions Specialist, Hardware Operations ",
+    "departmentId": "18813",
+    "departmentLabel": "Sales & Success",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/299"
+  },
+  {
+    "id": "300",
+    "jobOpeningName": "Customer Success and Solutions Specialist, Software ",
+    "departmentId": "18813",
+    "departmentLabel": "Sales & Success",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/300"
+  },
+  {
     "id": "705",
     "jobOpeningName": "Technical Support Engineer",
     "departmentId": "18562",
@@ -714,6 +754,17 @@
     "source": "SST"
   },
   {
+    "title": "Manager, Valuation Control",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Valuation-Control_R43519",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43519"
+    ],
+    "id": "R43519",
+    "source": "SST"
+  },
+  {
     "title": "Senior Sales Executive,  Asset Management Technology Solutions",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Sales-Executive---Asset-Management-Technology-Solutions_R43478",
     "locationsText": "3 Locations",
@@ -766,17 +817,6 @@
       "R41698"
     ],
     "id": "R41698",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate_R42835",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42835"
-    ],
-    "id": "R42835",
     "source": "SST"
   },
   {

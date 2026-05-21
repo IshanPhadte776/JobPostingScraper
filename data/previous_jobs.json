@@ -60,6 +60,46 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/292"
   },
   {
+    "id": "299",
+    "jobOpeningName": "Customer Success and Solutions Specialist, Hardware Operations ",
+    "departmentId": "18813",
+    "departmentLabel": "Sales & Success",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/299"
+  },
+  {
+    "id": "300",
+    "jobOpeningName": "Customer Success and Solutions Specialist, Software ",
+    "departmentId": "18813",
+    "departmentLabel": "Sales & Success",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/300"
+  },
+  {
     "id": "705",
     "jobOpeningName": "Technical Support Engineer",
     "departmentId": "18562",
@@ -714,17 +754,6 @@
     "source": "SST"
   },
   {
-    "title": "VP Sales (PA-Sales-Q2_R001)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/VP-Sales--PA-Sales-Q2-R001-_R43700",
-    "locationsText": "Denver, CO",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43700"
-    ],
-    "id": "R43700",
-    "source": "SST"
-  },
-  {
     "title": "Senior Analyst - Enterprise\u00a0Data and Business Solutions",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Senior-Analyst---Enterprise-Data-and-Business-Solutions_R43600",
     "locationsText": "Jacksonville, FL",
@@ -777,6 +806,17 @@
       "R43471"
     ],
     "id": "R43471",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Director, Platform Products",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA/Senior-Director--Platform-Products_R43472",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43472"
+    ],
+    "id": "R43472",
     "source": "SST"
   },
   {
@@ -1044,6 +1084,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Service Delivery Manager - Africa",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-South-Africa/Service-Delivery-Manager---Africa_R030845",
+    "locationsText": "Remote-South Africa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030845"
+    ],
+    "id": "R030845",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Manager, Early in Careers",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Manager--Early-in-Careers_R030993",
     "locationsText": "Ottawa",
@@ -1206,17 +1257,6 @@
       "R030906"
     ],
     "id": "R030906",
-    "source": "Ciena"
-  },
-  {
-    "title": "Resourcing and Enablement Intern",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Resourcing-and-Enablement-Intern_R030908",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030908"
-    ],
-    "id": "R030908",
     "source": "Ciena"
   },
   {

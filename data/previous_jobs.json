@@ -774,6 +774,39 @@
     "source": "SST"
   },
   {
+    "title": "Full Stack Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---California-US/Full-Stack-Engineer_R38027",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38027"
+    ],
+    "id": "R38027",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Fund Accounting (Windsor, CT)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Manager--Fund-Accounting--Windsor--CT-_R43010",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43010"
+    ],
+    "id": "R43010",
+    "source": "SST"
+  },
+  {
+    "title": "Sr. Cyber Security Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Sr-Cyber-Security-Analyst_R42923",
+    "locationsText": "7 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42923"
+    ],
+    "id": "R42923",
+    "source": "SST"
+  },
+  {
     "title": "Client Success Relationship Manager, Director",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Client-Success-Relationship-Manager--Director_R43235-1",
     "locationsText": "New York, NY",
@@ -807,37 +840,15 @@
     "source": "SST"
   },
   {
-    "title": "Sales Manager - Credit and Loans",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Sales-Manager---Credit-and-Loans_R43619",
-    "locationsText": "London - 1 Ropemaker Street",
+    "title": "Business Systems Consultant",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Business-Systems-Consultant_2606906",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43619"
+      "2606906"
     ],
-    "id": "R43619",
-    "source": "SST"
-  },
-  {
-    "title": "Specialist - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Specialist---Financial-Services-Operations_R40530",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40530"
-    ],
-    "id": "R40530",
-    "source": "SST"
-  },
-  {
-    "title": "SC1 - PA26SWOFFQ3050",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/WeWork-Bengaluru/SC1---PA26SWOFFQ3050_R43536",
-    "locationsText": "WeWork Bengaluru",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43536"
-    ],
-    "id": "R43536",
-    "source": "SST"
+    "id": "2606906",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Back End Developer- Java/Golang",
@@ -1046,17 +1057,6 @@
       "2608156"
     ],
     "id": "2608156",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Database Administrator, Mainframe",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Database-Administrator--Mainframe_2607966",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2607966"
-    ],
-    "id": "2607966",
     "source": "CIBC"
   },
   {

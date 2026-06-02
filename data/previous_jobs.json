@@ -745,6 +745,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Director - Professional Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Senior-Director---Professional-Services_R42637",
+    "locationsText": "Remote - Missouri, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42637"
+    ],
+    "id": "R42637",
+    "source": "SST"
+  },
+  {
     "title": "Associate Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Manager_R41666",
     "locationsText": "New York, NY",
@@ -786,17 +797,6 @@
       "R42265"
     ],
     "id": "R42265",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Software Engineer, C++",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Ontario-Toronto/Senior-Software-Engineer--C--_R43917",
-    "locationsText": "Ontario, Toronto",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43917"
-    ],
-    "id": "R43917",
     "source": "SST"
   },
   {
@@ -1009,14 +1009,11 @@
     "source": "CIBC"
   },
   {
-    "title": "Data Management Analyst",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Management-Analyst_2609535-2",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2609535"
     ],
     "id": "2609535",
+    "externalPath": "",
     "source": "CIBC"
   },
   {

@@ -800,6 +800,28 @@
     "source": "SST"
   },
   {
+    "title": "Software Development Engineer in Test (SDET)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Development-Engineer-in-Test--SDET-_2605789",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2605789"
+    ],
+    "id": "2605789",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Consultant, Information Security - Open Banking",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Information-Security---Open-Banking_2611482-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2611482"
+    ],
+    "id": "2611482",
+    "source": "CIBC"
+  },
+  {
     "title": "Senior Manager, Technical Quality Engineering & AI Adoption",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Technical-Quality-Engineering---AI-Adoption_2611743",
     "locationsText": "Toronto, ON",
@@ -998,28 +1020,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Director, Data Engineering",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Enterprise-Data-Platforms_2610909",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2610909"
-    ],
-    "id": "2610909",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Director, Enterprise Data Engineering",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/XMLNAME---Senior-Director--Data-Platforms---Engineering_2610910",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2610910"
-    ],
-    "id": "2610910",
-    "source": "CIBC"
-  },
-  {
     "title": "Global Fulfillment Leader",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Belfast/Global-Fulfillment-Leader_R030818-1",
     "locationsText": "2 Locations",
@@ -1061,6 +1061,28 @@
       "R029369"
     ],
     "id": "R029369",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Analog RF Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Analog-RF-Design-Engineer_R030914",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030914"
+    ],
+    "id": "R030914",
+    "source": "Ciena"
+  },
+  {
+    "title": "Repairs Operations Program Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mexico--Zapopan---Jardines/Repairs-Operations-Product---Process-Engineering_R029839",
+    "locationsText": "Mexico- Zapopan - Jardines",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029839"
+    ],
+    "id": "R029839",
     "source": "Ciena"
   },
   {
@@ -1215,28 +1237,6 @@
       "R030686"
     ],
     "id": "R030686",
-    "source": "Ciena"
-  },
-  {
-    "title": "Test Engineer _Opkey/Oracle EBS",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Test-Engineer--Opkey-Oracle-EBS_R030937",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030937"
-    ],
-    "id": "R030937",
-    "source": "Ciena"
-  },
-  {
-    "title": "Project Manager - Cyber Security",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Project-Manager---Cyber-Security_R030814",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030814"
-    ],
-    "id": "R030814",
     "source": "Ciena"
   },
   {
@@ -2340,6 +2340,48 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 166015,
+    "type": "careers",
+    "title": "Senior Software Engineer I",
+    "link": "https://www.surveymonkey.com/careers/7894882-senior-software-engineer-i/",
+    "path": "/careers/7894882-senior-software-engineer-i/",
+    "date": "2026-06-02T14:02:28",
+    "date_modified": "2026-06-02T14:02:28",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer I",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 393,
+        "slug": "ottawa",
+        "name": "Ottawa, Canada",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
+        "path": "/careers/office/ottawa/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 164958,

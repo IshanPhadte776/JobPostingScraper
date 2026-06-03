@@ -540,6 +540,26 @@
     "url": "https://solace.bamboohr.com/career/careers/756"
   },
   {
+    "id": "757",
+    "jobOpeningName": "Office Coordinator",
+    "departmentId": "18839",
+    "departmentLabel": "Human Resources",
+    "employmentStatusLabel": "Temporary Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "0",
+    "url": "https://solace.bamboohr.com/career/careers/757"
+  },
+  {
     "id": "43",
     "jobOpeningName": "Performance Marketing Specialist",
     "departmentId": "18238",
@@ -765,6 +785,17 @@
     "source": "SST"
   },
   {
+    "title": "Software Engineering Co-op",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Software-Engineering-Co-op_R43009",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43009"
+    ],
+    "id": "R43009",
+    "source": "SST"
+  },
+  {
     "title": "Senior Consultant (Technical), Geneva",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Senior-Consultant--Technical---Geneva_R43795",
     "locationsText": "3 Locations",
@@ -809,15 +840,26 @@
     "source": "SST"
   },
   {
-    "title": "Data Protection Officer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Melbourne-Australia/Data-Protection-Officer_R44142",
-    "locationsText": "2 Locations",
+    "title": "Endpoint Engineer - Enterprise Endpoint Compute",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Endpoint-Engineer---Enterprise-Endpoint-Compute_2606428",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44142"
+      "2606428"
     ],
-    "id": "R44142",
-    "source": "SST"
+    "id": "2606428",
+    "source": "CIBC"
+  },
+  {
+    "title": "Director, Developer Experience",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Developer-Experience_2611989",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2611989"
+    ],
+    "id": "2611989",
+    "source": "CIBC"
   },
   {
     "title": "Senior Endpoint Analyst - Enterprise Endpoint Compute",
@@ -1018,28 +1060,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Analyst, Information Security",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--Information-Security_2611053-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2611053"
-    ],
-    "id": "2611053",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Back End Developer- Java/Golang",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer--Java-Golang_2608545",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2608545"
-    ],
-    "id": "2608545",
-    "source": "CIBC"
-  },
-  {
     "title": "Global Fulfillment Leader",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Belfast/Global-Fulfillment-Leader_R030818-1",
     "locationsText": "2 Locations",
@@ -1081,6 +1101,28 @@
       "R029369"
     ],
     "id": "R029369",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Leader, Sales Compensation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Sales-Compensation-Senior-Manager_R030586-1",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030586"
+    ],
+    "id": "R030586",
+    "source": "Ciena"
+  },
+  {
+    "title": "Embedded Software Engineer \u2013 Intern",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer---Intern_R031146",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031146"
+    ],
+    "id": "R031146",
     "source": "Ciena"
   },
   {
@@ -1235,28 +1277,6 @@
       "R030914"
     ],
     "id": "R030914",
-    "source": "Ciena"
-  },
-  {
-    "title": "Repairs Operations Program Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mexico--Zapopan---Jardines/Repairs-Operations-Product---Process-Engineering_R029839",
-    "locationsText": "Mexico- Zapopan - Jardines",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R029839"
-    ],
-    "id": "R029839",
-    "source": "Ciena"
-  },
-  {
-    "title": "System Integration Specialist Intern",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/System-Integration-Specialist-Intern_R031100",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R031100"
-    ],
-    "id": "R031100",
     "source": "Ciena"
   },
   {

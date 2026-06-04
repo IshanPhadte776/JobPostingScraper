@@ -560,6 +560,26 @@
     "url": "https://solace.bamboohr.com/career/careers/757"
   },
   {
+    "id": "758",
+    "jobOpeningName": "Assistant Controller",
+    "departmentId": "18750",
+    "departmentLabel": "Finance",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/758"
+  },
+  {
     "id": "43",
     "jobOpeningName": "Performance Marketing Specialist",
     "departmentId": "18238",
@@ -785,6 +805,39 @@
     "source": "SST"
   },
   {
+    "title": "Enterprise Marketing Data Analyst \u2013 Cross-Functional Insights & Visualization",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Enterprise-Marketing-Data-Analyst---Cross-Functional-Insights---Visualization_R42875",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42875"
+    ],
+    "id": "R42875",
+    "source": "SST"
+  },
+  {
+    "title": "Java Developer - PA26DIGRQ2010",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Java-Developer---PA26DIGRQ2010_R42781",
+    "locationsText": "Bucharest, Romania",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42781"
+    ],
+    "id": "R42781",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Manager, Alternatives Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Associate-Manager--Alternatives-Fund-Accounting_R43245",
+    "locationsText": "Dallas, TX",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43245"
+    ],
+    "id": "R43245",
+    "source": "SST"
+  },
+  {
     "title": "Manager, Investor Services  - PA2026Q2GCC036-",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Nevada-US/Manager--Investor-Services----PA2026Q2GCC036-_R44093",
     "locationsText": "32 Locations",
@@ -807,40 +860,7 @@
     "source": "SST"
   },
   {
-    "title": "Sr. Network Operations Reliability Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---North-Carolina-US/Sr-Network-Operations-Reliability-Engineer_R43083",
-    "locationsText": "Remote - North Carolina, US",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43083"
-    ],
-    "id": "R43083",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Manager, Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Associate-Manager--Operations_R43780",
-    "locationsText": "Union, NJ",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43780"
-    ],
-    "id": "R43780",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate, Fund Reporting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Associate--Fund-Reporting_R43887-1",
-    "locationsText": "5 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43887"
-    ],
-    "id": "R43887",
-    "source": "SST"
-  },
-  {
-    "title": "Director, CCaaS Technical Delivery",
+    "title": "Director, Contact Centre Technical Delivery",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--CCaaS-Technical-Delivery_2611905",
     "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
@@ -972,17 +992,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Full Stack Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Full-Stack-Developer_2611839",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2611839"
-    ],
-    "id": "2611839",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr. Mobile Engineer, Simplii Technology",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Mobile-Engineer--Simplii-Technology_2611714-1",
     "locationsText": "Toronto, ON",
@@ -1060,6 +1069,17 @@
     "source": "CIBC"
   },
   {
+    "title": "Consultant, Production Application Support-2",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support-2_2611219",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 7 Days Ago",
+    "bulletFields": [
+      "2611219"
+    ],
+    "id": "2611219",
+    "source": "CIBC"
+  },
+  {
     "title": "Global Fulfillment Leader",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Belfast/Global-Fulfillment-Leader_R030818-1",
     "locationsText": "2 Locations",
@@ -1104,6 +1124,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Leader, Sales Compensation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Sales-Compensation-Senior-Manager_R030586-1",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030586"
+    ],
+    "id": "R030586",
+    "source": "Ciena"
+  },
+  {
+    "title": "Analyst, Revenue Accounting",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US--MD--Hanover--7035-Baltimore/Analyst--Revenue-Accounting_R029542",
+    "locationsText": "US- MD- Hanover- 7035 (Baltimore)",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R029542"
+    ],
+    "id": "R029542",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Release Engineer - Linux Distribution",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Release-Engineer---Linux-Distribution_R031052",
     "locationsText": "Ottawa",
@@ -1115,14 +1157,6 @@
     "source": "Ciena"
   },
   {
-    "bulletFields": [
-      "R030306"
-    ],
-    "id": "R030306",
-    "externalPath": "",
-    "source": "Ciena"
-  },
-  {
     "title": "Software Platform Designer Intern",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Platform-Designer-Intern_R031142",
     "locationsText": "Ottawa",
@@ -1131,17 +1165,6 @@
       "R031142"
     ],
     "id": "R031142",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Leader, Sales Compensation",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Sales-Compensation-Senior-Manager_R030586-1",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030586"
-    ],
-    "id": "R030586",
     "source": "Ciena"
   },
   {

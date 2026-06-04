@@ -1104,6 +1104,25 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Release Engineer - Linux Distribution",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Release-Engineer---Linux-Distribution_R031052",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031052"
+    ],
+    "id": "R031052",
+    "source": "Ciena"
+  },
+  {
+    "bulletFields": [
+      "R030306"
+    ],
+    "id": "R030306",
+    "externalPath": "",
+    "source": "Ciena"
+  },
+  {
     "title": "Software Platform Designer Intern",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Platform-Designer-Intern_R031142",
     "locationsText": "Ottawa",
@@ -1255,28 +1274,6 @@
       "R030914"
     ],
     "id": "R030914",
-    "source": "Ciena"
-  },
-  {
-    "title": "Repairs Operations Program Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mexico--Zapopan---Jardines/Repairs-Operations-Product---Process-Engineering_R029839",
-    "locationsText": "Mexico- Zapopan - Jardines",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R029839"
-    ],
-    "id": "R029839",
-    "source": "Ciena"
-  },
-  {
-    "title": "System Integration Specialist Intern",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/System-Integration-Specialist-Intern_R031100",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R031100"
-    ],
-    "id": "R031100",
     "source": "Ciena"
   },
   {
@@ -2431,6 +2428,48 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 166574,
+    "type": "careers",
+    "title": "Senior Software Engineer II",
+    "link": "https://www.surveymonkey.com/careers/7775258-senior-software-engineer-ii/",
+    "path": "/careers/7775258-senior-software-engineer-ii/",
+    "date": "2026-06-04T13:00:58",
+    "date_modified": "2026-06-04T13:00:58",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Software Engineer II",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 401,
+        "slug": "italy-remote",
+        "name": "Italy - Remote",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/italy-remote/",
+        "path": "/careers/office/italy-remote/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 166015,

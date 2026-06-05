@@ -805,6 +805,17 @@
     "source": "SST"
   },
   {
+    "title": "Associate Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Associate-Manager_R43694-1",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43694"
+    ],
+    "id": "R43694",
+    "source": "SST"
+  },
+  {
     "title": "Senior Analyst, Sales Intelligence",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/Senior-Analyst--Sales-Intelligence_R42938-1",
     "locationsText": "2 Locations",
@@ -846,17 +857,6 @@
       "R43556"
     ],
     "id": "R43556",
-    "source": "SST"
-  },
-  {
-    "title": "PA2026Q2BLU01-25: Sr. Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/PA2026Q2BLU01-25--Sr-Software-Engineer_R43498",
-    "locationsText": "Hyderabad, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43498"
-    ],
-    "id": "R43498",
     "source": "SST"
   },
   {
@@ -937,10 +937,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Director, Developer Experience",
+    "title": "Director, Developer Experience, Simplii Technology",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Developer-Experience_2611989",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted Today",
     "bulletFields": [
       "2611989"
     ],

@@ -794,6 +794,17 @@
     "source": "SST"
   },
   {
+    "title": "PA2026Q2JB010 IzWS Application Scheduler",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Georgia-US/PA2026Q2JB010-IzWS-Application-Scheduler_R44048",
+    "locationsText": "Remote - Georgia, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44048"
+    ],
+    "id": "R44048",
+    "source": "SST"
+  },
+  {
     "title": "Director of Product Management",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Director-of-Product-Management_R43963",
     "locationsText": "4 Locations",
@@ -849,15 +860,26 @@
     "source": "SST"
   },
   {
-    "title": "Investor Services Representative - Entry Level",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Kansas-US/Investor-Services-Representative---Entry-Level_R44245",
-    "locationsText": "5 Locations",
+    "title": "Senior Network Infrastructure Engineer(AVI/NSX)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Network-Infrastructure-Engineer_2604384",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44245"
+      "2604384"
     ],
-    "id": "R44245",
-    "source": "SST"
+    "id": "2604384",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant- IT Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--IT-Quality-Assurance_2609581",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2609581"
+    ],
+    "id": "2609581",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Mobile Engineer, Simplii Technology",
@@ -1058,28 +1080,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Manager, Technical Quality Engineering & AI Adoption",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Technical-Quality-Engineering---AI-Adoption_2611743",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2611743"
-    ],
-    "id": "2611743",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Operations Service Governance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Operations-Service-Governance_2611107",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2611107"
-    ],
-    "id": "2611107",
-    "source": "CIBC"
-  },
-  {
     "title": "Global Fulfillment Leader",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Belfast/Global-Fulfillment-Leader_R030818-1",
     "locationsText": "2 Locations",
@@ -1143,17 +1143,6 @@
       "R031189"
     ],
     "id": "R031189",
-    "source": "Ciena"
-  },
-  {
-    "title": "Data Scientist \u2013 AI Agents & Advanced Analytics",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Data-Scientist---AI-Agents---Advanced-Analytics_R030551",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030551"
-    ],
-    "id": "R030551",
     "source": "Ciena"
   },
   {
@@ -1297,6 +1286,17 @@
       "R030586"
     ],
     "id": "R030586",
+    "source": "Ciena"
+  },
+  {
+    "title": "Analyst, Revenue Accounting",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US--MD--Hanover--7035-Baltimore/Analyst--Revenue-Accounting_R029542",
+    "locationsText": "US- MD- Hanover- 7035 (Baltimore)",
+    "postedOn": "Posted 5 Days Ago",
+    "bulletFields": [
+      "R029542"
+    ],
+    "id": "R029542",
     "source": "Ciena"
   },
   {

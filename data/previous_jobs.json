@@ -714,6 +714,17 @@
     "source": "SST"
   },
   {
+    "title": "Associate Manager. Client Relations Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-Client-Relations-Specialist_R25381",
+    "locationsText": "7 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R25381"
+    ],
+    "id": "R25381",
+    "source": "SST"
+  },
+  {
     "title": "Associate Client Relations Specialist",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Associate-Client-Relations-Specialist_R37707",
     "locationsText": "4 Locations",
@@ -769,15 +780,48 @@
     "source": "SST"
   },
   {
-    "title": "PA2026Q2BLU01-25 Senior Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/PA2026Q2BLU01-25-Senior-Software-Engineer_R43494",
-    "locationsText": "Hyderabad, India",
+    "title": "Collaboration Technical Specialist-2",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Collaboration-Technical-Specialist-2_2611686",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43494"
+      "2611686"
     ],
-    "id": "R43494",
-    "source": "SST"
+    "id": "2611686",
+    "source": "CIBC"
+  },
+  {
+    "title": "Cyber Incident Manager",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Cyber-Incident-Manager_2612068",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2612068"
+    ],
+    "id": "2612068",
+    "source": "CIBC"
+  },
+  {
+    "title": "Collaboration Technical Specialist-1",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Collaboration-Technical-Specialist-1_2611684",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2611684"
+    ],
+    "id": "2611684",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Business System Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-System-Analysis_2611965",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2611965"
+    ],
+    "id": "2611965",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Infrastructure Management",
@@ -956,48 +1000,15 @@
     "source": "CIBC"
   },
   {
-    "title": "Endpoint Engineer - Enterprise Endpoint Compute",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Endpoint-Engineer---Enterprise-Endpoint-Compute_2606428",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
+    "title": "R&D AI Platform Engineer / Administrator",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/R-D-AI-Platform-Engineer---Administrator_R030749",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "2606428"
+      "R030749"
     ],
-    "id": "2606428",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Endpoint Analyst - Enterprise Endpoint Compute",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Endpoint-Analyst---Enterprise-Endpoint-Compute_2606427",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2606427"
-    ],
-    "id": "2606427",
-    "source": "CIBC"
-  },
-  {
-    "title": "Web Application Security Consultant, Information Security",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Web-Application-Security-Consultant--Information-Security_2611530",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2611530"
-    ],
-    "id": "2611530",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Consultant, Privileged Access Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Privileged-Access-Management_2611643",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2611643"
-    ],
-    "id": "2611643",
-    "source": "CIBC"
+    "id": "R030749",
+    "source": "Ciena"
   },
   {
     "title": "Global Fulfillment Leader",
@@ -1019,6 +1030,17 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Software Development Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Software-Development-Manager_R031150",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031150"
+    ],
+    "id": "R031150",
     "source": "Ciena"
   },
   {
@@ -1195,28 +1217,6 @@
       "R030702"
     ],
     "id": "R030702",
-    "source": "Ciena"
-  },
-  {
-    "title": "Digital Verification Engineer Prime (FEC)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-Verification-Engineer-Prime--FEC-_R030841-1",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R030841"
-    ],
-    "id": "R030841",
-    "source": "Ciena"
-  },
-  {
-    "title": "Services Operations Program Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Belfast--87-Park-House/Repairs-Operations-Failures-Analysis--FA--Logistics-Coordinator_R029840",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R029840"
-    ],
-    "id": "R029840",
     "source": "Ciena"
   },
   {

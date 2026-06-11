@@ -200,26 +200,6 @@
     "url": "https://solace.bamboohr.com/career/careers/736"
   },
   {
-    "id": "740",
-    "jobOpeningName": "Sales Director ",
-    "departmentId": "18617",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": "United States",
-      "state": "Washington",
-      "province": null,
-      "city": "Seattle"
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/740"
-  },
-  {
     "id": "741",
     "jobOpeningName": "Sales Director ",
     "departmentId": "18617",
@@ -714,6 +694,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate, Alternatives Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-OH/Associate-Manager--Alternatives-Fund-Accounting_R41913",
+    "locationsText": "Dublin, OH",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41913"
+    ],
+    "id": "R41913",
+    "source": "SST"
+  },
+  {
     "title": "Senior Progress developer (application support)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Business-Analyst_R41976",
     "locationsText": "2 Locations",
@@ -769,15 +760,15 @@
     "source": "SST"
   },
   {
-    "title": "VP, AML Compliance",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Luxembourg-City---49-Avenue-John-F-Kennedy/Director-of-AML-Compliance-PA26RCLRQ3001_R43161",
-    "locationsText": "Luxembourg City - 49 Avenue John F. Kennedy",
+    "title": "Mainframe Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Developer_2527900",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43161"
+      "2527900"
     ],
-    "id": "R43161",
-    "source": "SST"
+    "id": "2527900",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Full Stack Developer",
@@ -989,17 +980,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Azure Engineer,  SQL & Data Lakehouse",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Engineer---SQL---Data-Lakehouse_2610604",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2610604"
-    ],
-    "id": "2610604",
-    "source": "CIBC"
-  },
-  {
     "title": "R&D AI Platform Engineer / Administrator",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/R-D-AI-Platform-Engineer---Administrator_R030749",
     "locationsText": "Ottawa",
@@ -1033,6 +1013,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Lab Support Technician",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Lab-Support-Technician_R031040",
+    "locationsText": "Petaluma",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031040"
+    ],
+    "id": "R031040",
+    "source": "Ciena"
+  },
+  {
     "title": "Mechanical Engineering Intern (12month - September 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Mechanical-Engineering-Intern--12month---September-2026-_R031198",
     "locationsText": "Ottawa",
@@ -1041,14 +1032,6 @@
       "R031198"
     ],
     "id": "R031198",
-    "source": "Ciena"
-  },
-  {
-    "bulletFields": [
-      "R029507"
-    ],
-    "id": "R029507",
-    "externalPath": "",
     "source": "Ciena"
   },
   {

@@ -100,26 +100,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/300"
   },
   {
-    "id": "724",
-    "jobOpeningName": "Technical Support Engineer",
-    "departmentId": "18562",
-    "departmentLabel": "Support",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Bangalore",
-      "state": "Karnataka"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/724"
-  },
-  {
     "id": "729",
     "jobOpeningName": "Senior Software Developer - AI ",
     "departmentId": "18550",
@@ -694,6 +674,50 @@
     "source": "SST"
   },
   {
+    "title": "Sales Executive Insurance Investment Software",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/Sales-Executive-Insurance-Investment-Accounting_R38196",
+    "locationsText": "11 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R38196"
+    ],
+    "id": "R38196",
+    "source": "SST"
+  },
+  {
+    "title": "Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Account-Executive_R44120",
+    "locationsText": "Chicago, IL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44120"
+    ],
+    "id": "R44120",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Solutions Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Associate-Solutions-Analyst_R42756",
+    "locationsText": "Chicago, IL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42756"
+    ],
+    "id": "R42756",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Mexico/Inside-Sales-Representative_R33534",
+    "locationsText": "Remote - Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R33534"
+    ],
+    "id": "R33534",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Alternatives Fund Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-OH/Associate-Manager--Alternatives-Fund-Accounting_R41913",
     "locationsText": "Dublin, OH",
@@ -713,50 +737,6 @@
       "R41976"
     ],
     "id": "R41976",
-    "source": "SST"
-  },
-  {
-    "title": "Customer Success Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Customer-Success-Manager_R43932-1",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43932"
-    ],
-    "id": "R43932",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Senior-Software-Engineer_R40587",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R40587"
-    ],
-    "id": "R40587",
-    "source": "SST"
-  },
-  {
-    "title": "Sales Director Insurance Investment Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/Sales-Executive_R35427",
-    "locationsText": "11 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R35427"
-    ],
-    "id": "R35427",
-    "source": "SST"
-  },
-  {
-    "title": "Sales Executive Insurance Investment Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/Sales-Executive-Insurance-Investment-Accounting_R38196",
-    "locationsText": "11 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38196"
-    ],
-    "id": "R38196",
     "source": "SST"
   },
   {
@@ -1013,6 +993,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior PCB Layout Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Senior-PCB-Layout-Engineer_R031203",
+    "locationsText": "New Providence - NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031203"
+    ],
+    "id": "R031203",
+    "source": "Ciena"
+  },
+  {
     "title": "Mechanical Engineering Intern (12month - September 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Mechanical-Engineering-Intern--12month---September-2026-_R031198",
     "locationsText": "Ottawa",
@@ -1186,17 +1177,6 @@
       "R030841"
     ],
     "id": "R030841",
-    "source": "Ciena"
-  },
-  {
-    "title": "Services Operations Program Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Belfast--87-Park-House/Repairs-Operations-Failures-Analysis--FA--Logistics-Coordinator_R029840",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R029840"
-    ],
-    "id": "R029840",
     "source": "Ciena"
   },
   {

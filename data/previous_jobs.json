@@ -740,6 +740,17 @@
     "source": "SST"
   },
   {
+    "title": "Consultant, Application Development (SAP)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--SAP-_2610276-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2610276"
+    ],
+    "id": "2610276",
+    "source": "CIBC"
+  },
+  {
     "title": "Infrastructure Architect",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Infrastructure-Architect_2511976",
     "locationsText": "Toronto, ON",
@@ -949,17 +960,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Software Development Engineer in Test (SDET)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Development-Engineer-in-Test--SDET-_2605789",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2605789"
-    ],
-    "id": "2605789",
-    "source": "CIBC"
-  },
-  {
     "title": "R&D AI Platform Engineer / Administrator",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/R-D-AI-Platform-Engineer---Administrator_R030749",
     "locationsText": "Ottawa",
@@ -990,6 +990,17 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Digital Senior Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-Senior-Design-Engineer_R030693",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030693"
+    ],
+    "id": "R030693",
     "source": "Ciena"
   },
   {
@@ -1169,17 +1180,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Analog Design Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Analog-Design-Engineer_R030674",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R030674"
-    ],
-    "id": "R030674",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior Electrical Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Electrical-Engineer_R004212",
     "locationsText": "United States - Shakopee, MN (GHQ)",
@@ -1245,6 +1245,40 @@
     ],
     "id": "R004052",
     "source": "Entrust"
+  },
+  {
+    "id": "job_20260616183701_SN0R8QG4SMSJR5MP",
+    "title": "FPGA Design Engineer",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "R&D",
+    "description": "<p>The FPGA Design Engineer at Evertz contributes to the development of advanced broadcast equipment used in real-time video and audio production, processing, and transport for Live sports production, News broadcasting, and Large-scale media workflows. &#160;This includes FPGA-based implementations for SDI, IP video, compression pipelines, timing-sensitive switching, and signal processing within high-performance platforms such as modular frames, blades, and networked systems.<br>Engineers in this role work closely with system architects, software teams, and hardware designers to deliver reliable, low-latency solutions used in live production, playout, and contribution workflows.<br><br><strong>Responsibilities&#160;</strong></p><ul><li>Design and implement FPGA logic for real-time video and audio processing pipelines (SDI, UHD/HD, IP-based media).</li><li>Develop FPGA-based modules supporting SMPTE standards, synchronization, timing-sensitive switching, and media transportation.</li><li>Participate in system architecture design for broadcast products.</li><li>Perform simulation, synthesis, place &amp; route, and timing closure for high-throughput, low-latency designs.</li><li>Validate FPGA functionality in lab environments using broadcast test signals and measurement equipment.</li><li>Debug complex system issues involving video artifacts, timing misalignment, or data integrity problems.</li><li>Collaborate with embedded software and control-plane teams (APIs, management interfaces, orchestration systems).</li><li>Maintain design documentation, including video pipeline diagrams, interface specifications, and test results.</li><li>Support product bring-up, manufacturing validation, and customer-facing issue resolution when needed.</li><li>Integrate IP cores for video interfaces and transport streams.</li><li>Drive timing closure for complex multi-clock domain designs.</li><li>Debug system-level issues spanning FPGA, hardware, and software layers.</li><li>Optimize designs for latency, resource utilization, and determinism.</li></ul><p><strong>Requirements</strong></p><ul><li>Bachelor&#8217;s degree in electrical engineering, Computer Engineering, or related field</li><li>1&#8211;5 years of industry experience in FPGA design and development</li><li>Experienced in HDL design and debugging for complex systems</li><li>Solid hands-on experience with FPGA code design</li><li>Experience with simulation and advanced verification techniques</li><li>Hands-on debugging experience in lab environments</li><li>Strong understanding of digital logic design and synchronous systems</li><li>Experience with HDL development (VHDL preferred, Verilog, SystemVerilog)</li><li>Familiarity with FPGA development tools (e.g., Xilinx Vivado, Intel Quartus)</li><li>Understanding of simulation and verification methodologies</li><li>Ability to analyze and debug hardware/software/system-level issues</li><li>Strong problem-solving skills and attention to detail</li><li>Effective communication skills and ability to work in cross-functional teams</li></ul><p><strong>Nice to Have&#160;</strong></p><ul><li>Experience with broadcast video standards</li><li>Understanding of video timing and synchronization</li><li>Exposure to real-time video/audio processing pipelines</li><li>Experience with high-speed FPGA interfaces such as Ethernet, PCIe, DDR:</li><li>Familiarity with packet-based media transport</li><li>Experience in system-level integration of FPGA and control systems</li><li>Scripting and automation using Python, Tcl, or similar for build, test, or validation flows</li><li>Experience with lab instrumentation, such as Oscilloscopes, waveform monitors, video analyzers, pattern generators</li><li>Knowledge of version control and collaborative development workflows, such as Git and code reviews.</li><li>Exposure to modular broadcast platforms (e.g., routing, processing blades, chassis-based systems)</li><li>Experience working in fast-paced product development environments (Agile or similar)</li></ul><p><br><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario<br><strong>Hours:&#160;</strong>Monday to Friday, 40 hours per week<br><strong>Vacancy:</strong>&#160;This is a newly created position&#160;<br><strong>Salary Range:&#160;</strong>$70,000 to $100,000 per year, based on relevant experience</p><p><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><strong>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</strong></p>",
+    "type": "Full Time",
+    "board_code": "z9upTg32z9",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20260616182704_ACL7CQQGCNEKVWBK",
+    "title": "Junior FPGA Design Engineer",
+    "country_id": "Canada",
+    "city": "Markham",
+    "state": "ON",
+    "zip": "L3R 1B3",
+    "department": "R&D",
+    "description": "<p><strong>Scope:</strong><br>Evertz is looking for a Junior FPGA Design Engineer to be part of Markham FPGA Design team responsible for developing video/audio processing, routing and transportation products.&#160;<br><br><strong>Responsibilities:</strong></p><ul><li>Develop FPGA/MPSoC-based products</li><li>Develop CPLD designs</li><li>Design IP cores</li><li>Contribute to subsystem specifications</li><li>Collaborate closely with other hardware and software engineers to test and debug the design</li><li>Use FPGA design tools to fit design, close timing, and improve fitting quality</li></ul><p><strong>Requirements:</strong></p><ul><li>Education: Bachelor's degree in engineering or applied science</li><li>Experience with FPGA and CPLD designs in VHDL or Verilog (VHDL preferred)</li><li>Experience with Vivado and/or Quartus tools</li><li>Experience with C or C++</li><li>Excellent revision control habits using Git or Subversion</li><li>Experience with Linux and Makefile-based workflows</li><li>Experience with the bash shell</li></ul><p><strong>Bonus Requirements:</strong></p><ul><li>An understanding of Static Timing Analysis and Timing Closure techniques</li><li>Experience with Python, Tcl, and other scripting languages</li><li>Experience writing test benches and simulating digital designs</li><li>Experience with in-system debugging of FPGAs</li><li>Knowledge of clock domain crossing techniques</li><li>Knowledge of PCIe, Ethernet, AXI4, SPI, I2C, and other protocols</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><p><strong>Location:</strong>&#160;Markham, Ontario&#160;<br><strong>Hours:</strong>&#160;Monday to Friday, 40 hours per week<br><strong>Vacancy: </strong>This is a newly created position<br><strong>Salary Range:&#160;</strong>$60,000 to $85,000 per year, based on experience</p><p><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p>",
+    "type": "Full Time",
+    "board_code": "mkQfvWwa9H",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": "0.00",
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20260616132111_T8U2N3A0SCWNAKG0",
@@ -1502,23 +1536,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260602134930_QJ5D2C81WMOFLTJU",
-    "title": "Failure Analysis Technician - Customer Returns",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "Testing (Electronic)",
-    "description": "<p>Evertz Microsystems is currently seeking a meticulous and dedicated Failure Analysis Technician to join our team in Burlington, Ontario. As a Failure Analysis Technician, you will be responsible for investigating and analyzing failures in industry leading broadcast technologies. Your primary objectives will be to identify root causes of failures which will assist in product reliability and enhance customer satisfaction. Collaboration with various teams will be crucial to ensure the effective resolution of customer return issues.<br><br><strong>Responsibilities:</strong></p><ul><li>Conduct detailed failure analysis on Broadcast electronic products.</li><li>Execute test plans and procedures to replicate and diagnose customer return issues</li><li>Repair and refurbish products to ensure they meet quality standards before being returned to customers</li><li>Collaborate with design teams to provide insights for design improvements.</li><li>Prepare comprehensive failure analysis reports and communicate findings to internal stakeholders and customers as required</li><li>Assist quality assurance and production teams in implementing corrective actions to prevent recurrence of customer return issues</li></ul><strong>Qualifications:</strong><ul><li>Diploma or certification in Electronics Engineering Technology or related field</li><li>Minimum of 2 years of experience in failure analysis of electronic products would be an asset</li><li>Solid understanding of electronic components and circuits</li><li>Proficiency in using diagnostic tools and equipment</li><li>Strong problem-solving skills and attention to detail</li><li>Effective communication and teamwork abilities to collaborate with cross-functional teams</li></ul><p>Join Evertz Microsystems as a Failure Analysis Technician and contribute to enhancing product reliability and customer satisfaction through effective failure analysis and product repair. Apply now to bring your technical expertise to our team and play a vital role in the continuous improvement of our products.<br><br><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$45K - $50K CAD<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "OcnWsRllYZ",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20260602135000_P8HZDMSPTJNK8NLH",
     "title": "Production Engineer",
     "country_id": "Canada",
@@ -1529,6 +1546,23 @@
     "description": "<p>Production Engineers are responsible for validating industry leading broadcast and AV solutions at a modular and system level. &#160;Candidates should be ready to be challenged in an ever-changing industry.</p><p>Be on the forefront of the latest cutting edge technologies in traditional broadcast, broadcast SDN and ProAV tech spaces.&#160; Take pride knowing you have a pivotal role in advancing these technical fields and ensuring the Customer&#8217;s expectations for quality are always exceeded.</p><p><strong>Responsibilities:</strong></p><ul><li>Validate hardware, firmware and software releases from the development teams</li><li>Interface with development and test teams to understand testing requirements</li><li>Create, modify and execute both manual and automated test plans</li><li>Track deficiencies using JIRA</li><li>Work alongside the development teams to resolve hardware and software deficiencies</li><li>Create and update test procedures and conformance forms</li><li>Train Manufacturing and Test staff for new product releases</li><li>Part Validations as requested by the Purchasing Department (NEW, EOL and 2nd Source)</li><li>Provide technical support to the Service Department</li></ul><p><strong>Qualifications:</strong></p><ul><li>Degree or Diploma in Software, Electrical, Electronic or Computer Engineering</li><li>1-3 years of experience in Software Quality Assurance or a Software/Hardware Testing role</li><li>Strong written and verbal communication skills</li><li>Problem-solving ability and able to react to changing situations</li><li>Ability to multi-task in a fast-paced environment</li><li>Familiarity with modern software testing technologies</li><li>Networking certification with experience is an asset</li><li>Python certification with experience is an asset</li><li>Ability to read electrical schematics</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$45K - $50K CAD<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "m7o7gPGUrs",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20260602134930_QJ5D2C81WMOFLTJU",
+    "title": "Failure Analysis Technician - Customer Returns",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L5Z9",
+    "department": "Testing (Electronic)",
+    "description": "<p>Evertz Microsystems is currently seeking a meticulous and dedicated Failure Analysis Technician to join our team in Burlington, Ontario. As a Failure Analysis Technician, you will be responsible for investigating and analyzing failures in industry leading broadcast technologies. Your primary objectives will be to identify root causes of failures which will assist in product reliability and enhance customer satisfaction. Collaboration with various teams will be crucial to ensure the effective resolution of customer return issues.<br><br><strong>Responsibilities:</strong></p><ul><li>Conduct detailed failure analysis on Broadcast electronic products.</li><li>Execute test plans and procedures to replicate and diagnose customer return issues</li><li>Repair and refurbish products to ensure they meet quality standards before being returned to customers</li><li>Collaborate with design teams to provide insights for design improvements.</li><li>Prepare comprehensive failure analysis reports and communicate findings to internal stakeholders and customers as required</li><li>Assist quality assurance and production teams in implementing corrective actions to prevent recurrence of customer return issues</li></ul><strong>Qualifications:</strong><ul><li>Diploma or certification in Electronics Engineering Technology or related field</li><li>Minimum of 2 years of experience in failure analysis of electronic products would be an asset</li><li>Solid understanding of electronic components and circuits</li><li>Proficiency in using diagnostic tools and equipment</li><li>Strong problem-solving skills and attention to detail</li><li>Effective communication and teamwork abilities to collaborate with cross-functional teams</li></ul><p>Join Evertz Microsystems as a Failure Analysis Technician and contribute to enhancing product reliability and customer satisfaction through effective failure analysis and product repair. Apply now to bring your technical expertise to our team and play a vital role in the continuous improvement of our products.<br><br><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$45K - $50K CAD<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "OcnWsRllYZ",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -1638,23 +1672,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260511155047_EP1HQJGNOBTATHRU",
-    "title": "Broadcast Engineer, Burbank, California",
-    "country_id": "United States",
-    "city": "Burbank",
-    "state": "CA",
-    "zip": "91504",
-    "department": "Technical Support",
-    "description": "<p>We are seeking a skilled and motivated engineer to join our growing team. In this role, you will report to the Senior Manager of the Technical Operations Centre and play a key part in supporting and maintaining complex, cutting-edge broadcast video systems.</p><p>As a Broadcast Engineer, your primary responsibility will be to provide expert-level support for a range of advanced technologies, including software-defined video networking, video compression and content processing systems, orchestration platforms, and network management and monitoring tools.</p><p>This position offers a unique opportunity to work at the forefront of broadcast technology, collaborating with engineering teams and customers to ensure optimal system performance and rapid issue resolution.</p><p><strong>Responsibilities:</strong></p><ul><li>Act as an expert level technical advisor or specialist on complex broadcast initiatives.</li><li>Perform system monitoring, verifying the integrity and availability of all broadcast hardware, server resources, systems and key processes, reviewing system and application logs.</li><li>Ensure events are managed until resolution while adhering to Incident and SLA guidelines.</li><li>Act as single point of contact for multiple support cases simultaneously.</li><li>Provide feedback on solution requirements, design specifications &amp; operational guidelines.</li><li>Represent the department and coordinate with peer departments and Evertz broadcast customer to ensure effective delivery of project deliverables.</li><li>Establish necessary testing requirements to evaluate the proposed designs and to validate the technology platform or systems.</li><li>Document any departmental and technical procedures.</li></ul><p><strong>Qualifications:</strong></p><ul><li>Strong critical thinking skills.</li><li>Technical Diploma/Degree or equivalent broadcast experience (preferred).</li><li>Advanced knowledge of installations, upgrades and troubleshooting in Unix/Linux and Windows environments</li><li>Ability to work in a fast-paced, dynamic environment with many changing priorities.</li><li>Detail oriented with strong analytical and problem-solving skills.</li><li>Strong written and verbal communication skills.</li><li>Self-motivated with the ability to take initiative in identifying and resolving problems independently.</li><li>Strong attention to detail and accuracy.</li><li>Willing to relocate to California; in order to provide long-term, on-site technical support to our customer.</li><li>Preference for candidates with working knowledge of one or more of the Evertz platforms.</li></ul><p><strong>What we Offer:</strong></p><ul><li>Competitive total compensation package, including benefits</li><li>Employer contribution to 401K</li><li>Relocation Assistance</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p><strong>Salary Range: </strong>Based on related experience and skill set.<br><br><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.<br>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.<br>Join a team where your work shapes the future of broadcast and new media industries.<br>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "eipSvNKDEt",
-    "workflow_id": "workflow_20260506171631_83TFOQ5OLOTYAVZL",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20260511155609_H2RWEX1MKDVMVNX2",
     "title": "evTOC Applications Engineer",
     "country_id": "Canada",
@@ -1666,6 +1683,23 @@
     "type": "Full Time",
     "board_code": "bHG6oKZGuj",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20260511155047_EP1HQJGNOBTATHRU",
+    "title": "Broadcast Engineer, Burbank, California",
+    "country_id": "United States",
+    "city": "Burbank",
+    "state": "CA",
+    "zip": "91504",
+    "department": "Technical Support",
+    "description": "<p>We are seeking a skilled and motivated engineer to join our growing team. In this role, you will report to the Senior Manager of the Technical Operations Centre and play a key part in supporting and maintaining complex, cutting-edge broadcast video systems.</p><p>As a Broadcast Engineer, your primary responsibility will be to provide expert-level support for a range of advanced technologies, including software-defined video networking, video compression and content processing systems, orchestration platforms, and network management and monitoring tools.</p><p>This position offers a unique opportunity to work at the forefront of broadcast technology, collaborating with engineering teams and customers to ensure optimal system performance and rapid issue resolution.</p><p><strong>Responsibilities:</strong></p><ul><li>Act as an expert level technical advisor or specialist on complex broadcast initiatives.</li><li>Perform system monitoring, verifying the integrity and availability of all broadcast hardware, server resources, systems and key processes, reviewing system and application logs.</li><li>Ensure events are managed until resolution while adhering to Incident and SLA guidelines.</li><li>Act as single point of contact for multiple support cases simultaneously.</li><li>Provide feedback on solution requirements, design specifications &amp; operational guidelines.</li><li>Represent the department and coordinate with peer departments and Evertz broadcast customer to ensure effective delivery of project deliverables.</li><li>Establish necessary testing requirements to evaluate the proposed designs and to validate the technology platform or systems.</li><li>Document any departmental and technical procedures.</li></ul><p><strong>Qualifications:</strong></p><ul><li>Strong critical thinking skills.</li><li>Technical Diploma/Degree or equivalent broadcast experience (preferred).</li><li>Advanced knowledge of installations, upgrades and troubleshooting in Unix/Linux and Windows environments</li><li>Ability to work in a fast-paced, dynamic environment with many changing priorities.</li><li>Detail oriented with strong analytical and problem-solving skills.</li><li>Strong written and verbal communication skills.</li><li>Self-motivated with the ability to take initiative in identifying and resolving problems independently.</li><li>Strong attention to detail and accuracy.</li><li>Willing to relocate to California; in order to provide long-term, on-site technical support to our customer.</li><li>Preference for candidates with working knowledge of one or more of the Evertz platforms.</li></ul><p><strong>What we Offer:</strong></p><ul><li>Competitive total compensation package, including benefits</li><li>Employer contribution to 401K</li><li>Relocation Assistance</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p><strong>Salary Range: </strong>Based on related experience and skill set.<br><br><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.<br>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.<br>Join a team where your work shapes the future of broadcast and new media industries.<br>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "eipSvNKDEt",
+    "workflow_id": "workflow_20260506171631_83TFOQ5OLOTYAVZL",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -1753,23 +1787,6 @@
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260415125651_2GLJG4NAEFLDB4PU",
-    "title": "FPGA Design Engineer",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "R&D",
-    "description": "<p>The FPGA Design Engineer at Evertz contributes to the development of advanced broadcast equipment used in real-time video and audio production, processing, and transport for Live sports production, News broadcasting, and Large-scale media workflows. &#160;This includes FPGA-based implementations for SDI, IP video, compression pipelines, timing-sensitive switching, and signal processing within high-performance platforms such as modular frames, blades, and networked systems.<br>Engineers in this role work closely with system architects, software teams, and hardware designers to deliver reliable, low-latency solutions used in live production, playout, and contribution workflows.<br><br><strong>Responsibilities&#160;</strong></p><ul><li>Design and implement FPGA logic for real-time video and audio processing pipelines (SDI, UHD/HD, IP-based media).</li><li>Develop FPGA-based modules supporting SMPTE standards, synchronization, timing-sensitive switching, and media transportation.</li><li>Participate in system architecture design for broadcast products.</li><li>Perform simulation, synthesis, place &amp; route, and timing closure for high-throughput, low-latency designs.</li><li>Validate FPGA functionality in lab environments using broadcast test signals and measurement equipment.</li><li>Debug complex system issues involving video artifacts, timing misalignment, or data integrity problems.</li><li>Collaborate with embedded software and control-plane teams (APIs, management interfaces, orchestration systems).</li><li>Maintain design documentation, including video pipeline diagrams, interface specifications, and test results.</li><li>Support product bring-up, manufacturing validation, and customer-facing issue resolution when needed.</li><li>Integrate IP cores for video interfaces and transport streams.</li><li>Drive timing closure for complex multi-clock domain designs.</li><li>Debug system-level issues spanning FPGA, hardware, and software layers.</li><li>Optimize designs for latency, resource utilization, and determinism.</li></ul><p><strong>Requirements</strong></p><ul><li>Bachelor&#8217;s degree in electrical engineering, Computer Engineering, or related field</li><li>1&#8211;5 years of industry experience in FPGA design and development</li><li>Experienced in HDL design and debugging for complex systems</li><li>Solid hands-on experience with FPGA code design</li><li>Experience with simulation and advanced verification techniques</li><li>Hands-on debugging experience in lab environments</li><li>Strong understanding of digital logic design and synchronous systems</li><li>Experience with HDL development (VHDL preferred, Verilog, SystemVerilog)</li><li>Familiarity with FPGA development tools (e.g., Xilinx Vivado, Intel Quartus)</li><li>Understanding of simulation and verification methodologies</li><li>Ability to analyze and debug hardware/software/system-level issues</li><li>Strong problem-solving skills and attention to detail</li><li>Effective communication skills and ability to work in cross-functional teams</li></ul><p><strong>Nice to Have&#160;</strong></p><ul><li>Experience with broadcast video standards</li><li>Understanding of video timing and synchronization</li><li>Exposure to real-time video/audio processing pipelines</li><li>Experience with high-speed FPGA interfaces such as Ethernet, PCIe, DDR:</li><li>Familiarity with packet-based media transport</li><li>Experience in system-level integration of FPGA and control systems</li><li>Scripting and automation using Python, Tcl, or similar for build, test, or validation flows</li><li>Experience with lab instrumentation, such as Oscilloscopes, waveform monitors, video analyzers, pattern generators</li><li>Knowledge of version control and collaborative development workflows, such as Git and code reviews.</li><li>Exposure to modular broadcast platforms (e.g., routing, processing blades, chassis-based systems)</li><li>Experience working in fast-paced product development environments (Agile or similar)</li></ul><p><br><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario<br><strong>Hours:&#160;</strong>Monday to Friday, 40 hours per week<br><strong>Vacancy:</strong>&#160;This is a newly created position&#160;<br><strong>Salary Range:&#160;</strong>$70,000 to $100,000 per year, based on relevant experience</p><p><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><strong>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</strong></p>",
-    "type": "Full Time",
-    "board_code": "XfIql2bqSS",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": "70000.00",
-    "maximum_public_salary": "100000.00",
     "flags": [],
     "source": "Evertz"
   },
@@ -1862,16 +1879,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260223143036_DNHVYJB0MNNHMWT7",
+    "id": "job_20260223143045_HIKSCCEWOTMXE1UD",
     "title": "Field Service Engineer - AV, USA",
     "country_id": "United States",
-    "city": "Omaha",
-    "state": "NE",
+    "city": "Houston",
+    "state": "TX",
     "zip": "",
     "department": "Technical Support",
     "description": "<p>Evertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
-    "board_code": "0uj13l1Prv",
+    "board_code": "NDfXg56wfo",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -2049,16 +2066,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260223143045_HIKSCCEWOTMXE1UD",
+    "id": "job_20260223143036_DNHVYJB0MNNHMWT7",
     "title": "Field Service Engineer - AV, USA",
     "country_id": "United States",
-    "city": "Houston",
-    "state": "TX",
+    "city": "Omaha",
+    "state": "NE",
     "zip": "",
     "department": "Technical Support",
     "description": "<p>Evertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
-    "board_code": "NDfXg56wfo",
+    "board_code": "0uj13l1Prv",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,

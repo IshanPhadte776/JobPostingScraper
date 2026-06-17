@@ -674,6 +674,17 @@
     "source": "SST"
   },
   {
+    "title": "Manager, Fund Accounting (Windsor, CT)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Manager--Fund-Accounting--Windsor--CT-_R43010",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43010"
+    ],
+    "id": "R43010",
+    "source": "SST"
+  },
+  {
     "title": "Associate, Middle Office Operations",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate--Middle-Office-Operations_R42718",
     "locationsText": "New York, NY",
@@ -729,15 +740,26 @@
     "source": "SST"
   },
   {
-    "title": "Data Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Data-Analyst_R41217",
-    "locationsText": "Bangkok, Thailand",
+    "title": "Application Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Consultant--Application-Development_2612444",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41217"
+      "2612444"
     ],
-    "id": "R41217",
-    "source": "SST"
+    "id": "2612444",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2612724",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2612724"
+    ],
+    "id": "2612724",
+    "source": "CIBC"
   },
   {
     "title": "Test Coordinator",
@@ -748,6 +770,17 @@
       "2612419"
     ],
     "id": "2612419",
+    "source": "CIBC"
+  },
+  {
+    "title": "Software Development Engineer in Test (SDET)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Development-Engineer-in-Test--SDET-_2605789",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2605789"
+    ],
+    "id": "2605789",
     "source": "CIBC"
   },
   {
@@ -924,39 +957,6 @@
       "2608588"
     ],
     "id": "2608588",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Consultant, Data & AI DevOps",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Data---AI-DevOps_2612147",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2612147"
-    ],
-    "id": "2612147",
-    "source": "CIBC"
-  },
-  {
-    "title": "Director - IT Asset Management Monitoring & Controls",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director---IT-Asset-Management-Monitoring---Controls_2612370",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2612370"
-    ],
-    "id": "2612370",
-    "source": "CIBC"
-  },
-  {
-    "title": "Collaboration Technical Specialist-2",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Collaboration-Technical-Specialist-2_2611686",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2611686"
-    ],
-    "id": "2611686",
     "source": "CIBC"
   },
   {

@@ -480,6 +480,26 @@
     "url": "https://solace.bamboohr.com/career/careers/760"
   },
   {
+    "id": "761",
+    "jobOpeningName": "Senior DevOps Engineer",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/761"
+  },
+  {
     "id": "44",
     "jobOpeningName": "Sales Engineer",
     "departmentId": "18830",
@@ -523,7 +543,7 @@
     "title": "Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R44275",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R44275"
     ],
@@ -534,7 +554,7 @@
     "title": "VP, Product Management",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Principle-Product-Manager-SDE_R36919",
     "locationsText": "Waltham MA - 10 CityPoint",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R36919"
     ],
@@ -545,7 +565,7 @@
     "title": "Fund Accountant (Hedge Funds)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Engagement-Specialist_R39849",
     "locationsText": "6 Locations",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "R39849"
     ],
@@ -556,7 +576,7 @@
     "title": "Infrastructure Production Engineer (PA26Q2IEJH78)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK---20-Birchin-Lane/Infrastructure-Production-Engineer--PA26Q2IEJH78-_R42902",
     "locationsText": "London UK - 20 Birchin Lane",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R42902"
     ],
@@ -567,7 +587,7 @@
     "title": "Mail/Distribution Services Representative",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Mail-Distribution-Services-Representative_R25046",
     "locationsText": "Kansas City, MO",
-    "postedOn": "Posted 11 Days Ago",
+    "postedOn": "Posted 12 Days Ago",
     "bulletFields": [
       "R25046"
     ],
@@ -578,7 +598,7 @@
     "title": "Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Software-Engineer_R38205",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "bulletFields": [
       "R38205"
     ],
@@ -589,7 +609,7 @@
     "title": "Senior Associate & Associate Manager- DDQ - Due Diligence Support",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate---Associate-Manager--DDQ---Due-Diligence-Support_R43020",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 17 Days Ago",
+    "postedOn": "Posted 18 Days Ago",
     "bulletFields": [
       "R43020"
     ],
@@ -600,7 +620,7 @@
     "title": "Cloud Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Cloud-Engineer_R40402",
     "locationsText": "Kansas City, MO",
-    "postedOn": "Posted 20 Days Ago",
+    "postedOn": "Posted 21 Days Ago",
     "bulletFields": [
       "R40402"
     ],
@@ -611,7 +631,7 @@
     "title": "Exciting Opportunities in Transfer Agency (Night Shift)!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Exciting-Opportunities-in-Transfer-Agency--Night-Shift--_R44012",
     "locationsText": "Mumbai, India",
-    "postedOn": "Posted 20 Days Ago",
+    "postedOn": "Posted 21 Days Ago",
     "bulletFields": [
       "R44012"
     ],
@@ -622,7 +642,7 @@
     "title": "Desktop IT Engineer / Field Services Technician",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Tokyo-Japan/Desktop-IT-Engineer---Field-Services-Technician_R41272",
     "locationsText": "Tokyo, Japan",
-    "postedOn": "Posted 24 Days Ago",
+    "postedOn": "Posted 25 Days Ago",
     "bulletFields": [
       "R41272"
     ],
@@ -633,7 +653,7 @@
     "title": "Senior Software Engineer (BluePrism)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Connecticut-US/Production-Support-Lead---PA-Auto-2026-Q2-R001_R42024",
     "locationsText": "Remote - Connecticut, US",
-    "postedOn": "Posted 26 Days Ago",
+    "postedOn": "Posted 27 Days Ago",
     "bulletFields": [
       "R42024"
     ],
@@ -674,76 +694,98 @@
     "source": "SST"
   },
   {
-    "title": "Manager, Fund Accounting (Windsor, CT)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Manager--Fund-Accounting--Windsor--CT-_R43010",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43010"
-    ],
-    "id": "R43010",
-    "source": "SST"
-  },
-  {
-    "title": "Associate, Middle Office Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate--Middle-Office-Operations_R42718",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42718"
-    ],
-    "id": "R42718",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Director, Mutual Fund Tax",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Associate-Director--Mutual-Fund-Tax_R44232",
-    "locationsText": "Boston MA - One Post Office Square",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44232"
-    ],
-    "id": "R44232",
-    "source": "SST"
-  },
-  {
-    "title": "Marketing Operations Specialist/Senior Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Marketing-Operations-Specialist-Senior-Specialist_R44144-1",
-    "locationsText": "32 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44144"
-    ],
-    "id": "R44144",
-    "source": "SST"
-  },
-  {
-    "title": "Customer Engagement Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Customer-Engagement-Manager_R37390",
+    "title": "Senior Database Reliability Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Senior-Database-Reliability-Engineer_R41668",
     "locationsText": "London, UK",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37390"
+      "R41668"
     ],
-    "id": "R37390",
+    "id": "R41668",
     "source": "SST"
   },
   {
-    "title": "Data Migration Lead",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Data-Analyst_R41350",
-    "locationsText": "Bangkok, Thailand",
+    "title": "EOI - Senior Fund Accountant \u2013 Hedge Funds",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sydney---255-George-St/EOI---Senior-Fund-Accountant---Hedge-Funds_R44566",
+    "locationsText": "Sydney - 255 George St",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41350"
+      "R44566"
     ],
-    "id": "R41350",
+    "id": "R44566",
     "source": "SST"
+  },
+  {
+    "title": "SC1 - PA26SWOFFQ3050",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/WeWork-Bengaluru/SC1---PA26SWOFFQ3050_R43549",
+    "locationsText": "WeWork Bengaluru",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43549"
+    ],
+    "id": "R43549",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate-Manager_R40334",
+    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40334"
+    ],
+    "id": "R40334",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Senior-Associate_R37867",
+    "locationsText": "Pune, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R37867"
+    ],
+    "id": "R37867",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Associate-Manager_R44187",
+    "locationsText": "London - 1 Ropemaker Street",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44187"
+    ],
+    "id": "R44187",
+    "source": "SST"
+  },
+  {
+    "title": "Sr. Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2611812",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2611812"
+    ],
+    "id": "2611812",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2600271",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2600271"
+    ],
+    "id": "2600271",
+    "source": "CIBC"
   },
   {
     "title": "Application Consultant, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Consultant--Application-Development_2612444",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2612444"
     ],
@@ -754,7 +796,7 @@
     "title": "Consultant, Business Systems Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2612724",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2612724"
     ],
@@ -765,7 +807,7 @@
     "title": "Test Coordinator",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Test-Coordinator_2612419",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2612419"
     ],
@@ -773,21 +815,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Software Development Engineer in Test (SDET)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Development-Engineer-in-Test--SDET-_2605789",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "2605789"
-    ],
-    "id": "2605789",
-    "source": "CIBC"
-  },
-  {
     "title": "Consultant, Information Security",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2612904",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2612904"
     ],
@@ -798,7 +829,7 @@
     "title": "Senior Security Service Manager",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Security-Service-Manager_2612201",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2612201"
     ],
@@ -809,7 +840,7 @@
     "title": "Consultant, Application Development- Backend, Workflow & MicroServices",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--Backend--Workflow---MicroServices_2607890",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2607890"
     ],
@@ -820,7 +851,7 @@
     "title": "Consultant, Application Development (SAP)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--SAP-_2610276-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2610276"
     ],
@@ -831,7 +862,7 @@
     "title": "Infrastructure Architect",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Infrastructure-Architect_2511976",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2511976"
     ],
@@ -842,7 +873,7 @@
     "title": "Sr. Analyst, Information Security",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--Information-Security_2612283",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2612283"
     ],
@@ -853,7 +884,7 @@
     "title": "Sr. Mobile Consultant, Simplii Technology",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Mobile-Consultant--Simplii-Technology_2608156-2",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2608156"
     ],
@@ -864,7 +895,7 @@
     "title": "Sr. Consultant, Supplier Risk Management",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Supplier-Risk-Management_2612257",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2612257"
     ],
@@ -875,7 +906,7 @@
     "title": "Consultant, Business System Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-System-Analysis_2612202",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2612202"
     ],
@@ -886,7 +917,7 @@
     "title": "Sr. Consultant, Back End Developer- Java/Microservices/System Design",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer_2602746",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2602746"
     ],
@@ -897,7 +928,7 @@
     "title": "Sr. Consultant, Back End Developer- Java/Springboot/System Design",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer_2606951",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2606951"
     ],
@@ -908,7 +939,7 @@
     "title": "Senior Consultant, Business Systems Analysis \u2013 Synthetic & Risk",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Business-Systems-Analysis_2608115",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2608115"
     ],
@@ -919,7 +950,7 @@
     "title": "DevOps Consultant, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/DevOps-Consultant--Application-Development_2612401",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2612401"
     ],
@@ -930,7 +961,7 @@
     "title": "Consultant, Production Application Support",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2612141",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2612141"
     ],
@@ -938,21 +969,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr Manager, IT Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--IT-Quality-Assurance_2612554",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2612554"
-    ],
-    "id": "2612554",
-    "source": "CIBC"
-  },
-  {
     "title": "Consultant, Full Stack Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Full-Stack-Developer_2608588",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "2608588"
     ],
@@ -963,7 +983,7 @@
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R029960"
     ],
@@ -974,7 +994,7 @@
     "title": "R&D AI Platform Engineer / Administrator",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/R-D-AI-Platform-Engineer---Administrator_R030749",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "R030749"
     ],
@@ -982,10 +1002,43 @@
     "source": "Ciena"
   },
   {
+    "title": "Global Commodity Manager \u2013 Indium Phosphide (InP) Foundry & Supply Chain Management",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Global-Commodity-Manager---Indium-Phosphide--InP--Foundry---Supply-Chain-Management_R030179",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030179"
+    ],
+    "id": "R030179",
+    "source": "Ciena"
+  },
+  {
+    "title": "Product Engineer \u2013 Optical Systems",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mexico--Zapopan---Jardines/Product-Engineer---Optical-Systems_R031177",
+    "locationsText": "Mexico- Zapopan - Jardines",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031177"
+    ],
+    "id": "R031177",
+    "source": "Ciena"
+  },
+  {
+    "title": "Coherent Plug NPI Program Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Coherent-Plug-NPI-Program-Manager_R031210",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031210"
+    ],
+    "id": "R031210",
+    "source": "Ciena"
+  },
+  {
     "title": "Corporate Legal Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Buenos-Aires/Corporate-Legal-Analyst_R031216",
     "locationsText": "Buenos Aires",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R031216"
     ],
@@ -993,21 +1046,10 @@
     "source": "Ciena"
   },
   {
-    "title": "QA Engineer - Layer 2/3",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote--India--Gurugram/QA-Engineer---Layer-2-3_R030672",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R030672"
-    ],
-    "id": "R030672",
-    "source": "Ciena"
-  },
-  {
     "title": "Photonics Technical Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Technical-Manager_R031078",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R031078"
     ],
@@ -1018,7 +1060,7 @@
     "title": "Fall 2026 Optical Modem Hardware Intern (8-12 months)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R031214"
     ],
@@ -1029,7 +1071,7 @@
     "title": "Senior DSP Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-DSP-Engineer_R031192-1",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R031192"
     ],
@@ -1040,7 +1082,7 @@
     "title": "Digital Senior Design Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-Senior-Design-Engineer_R030693",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R030693"
     ],
@@ -1051,7 +1093,7 @@
     "title": "Waveserver Software Developer Co-op (Fall 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Waveserver-Software-Developer-Co-op--Fall-2026-_R031080",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R031080"
     ],
@@ -1062,7 +1104,7 @@
     "title": "ASIC Mix-Signal Production Test Development Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Mix-Signal-Production-Test-Development-Engineer_R031183",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R031183"
     ],
@@ -1073,7 +1115,7 @@
     "title": "Senior Optical Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Senior-Optical-Engineer_R031202",
     "locationsText": "New Providence - NJ",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R031202"
     ],
@@ -1084,7 +1126,7 @@
     "title": "THW Client Co-op",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-York/THW-Client-Co-op_R030231",
     "locationsText": "New York",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R030231"
     ],
@@ -1095,7 +1137,7 @@
     "title": "Associate Project Manager, Customer Success",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Australia/Associate-Project-Manager--Customer-Success_R031021",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R031021"
     ],
@@ -1106,7 +1148,7 @@
     "title": "Software Engineer 8 month Co-op - Fall/Winter 2026",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Engineer-8-month-Co-op---Fall-Winter-2026_R031200",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "R031200"
     ],
@@ -1117,7 +1159,7 @@
     "title": "Software Engineer and Tools Developer Intern (Fall 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "R028752"
     ],
@@ -1128,7 +1170,7 @@
     "title": "Lab Infrastructure Project Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Lab-Infrastructure-Project-Manager_R031201",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "R031201"
     ],
@@ -1139,7 +1181,7 @@
     "title": "Senior Firmware Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Senior-Embedded-Software-Engineer_R030224-1",
     "locationsText": "New Providence - NJ",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "R030224"
     ],
@@ -1150,7 +1192,7 @@
     "title": "Product / Process Engineer \u2013 Electro-optical Systems",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Mexico--Zapopan---Jardines/Product-Engineer_R030638",
     "locationsText": "Mexico- Zapopan - Jardines",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "R030638"
     ],
@@ -1158,32 +1200,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior PCB Layout Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Senior-PCB-Layout-Engineer_R031203",
-    "locationsText": "New Providence - NJ",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R031203"
-    ],
-    "id": "R031203",
-    "source": "Ciena"
-  },
-  {
-    "title": "Mechanical Engineering Intern (12month - September 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Mechanical-Engineering-Intern--12month---September-2026-_R031198",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R031198"
-    ],
-    "id": "R031198",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior Electrical Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Electrical-Engineer_R004212",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R004212"
     ],
@@ -1194,7 +1214,7 @@
     "title": "Cloud Technical Program Manager",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Cloud-Technical-Program-Manager_R004215",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "R004215"
     ],
@@ -1205,7 +1225,7 @@
     "title": "Staff Firmware Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Staff-Firmware-Engineer_R004147",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "R004147"
     ],
@@ -1216,7 +1236,7 @@
     "title": "Software Engineer II",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R004195"
     ],
@@ -1245,6 +1265,40 @@
     ],
     "id": "R004052",
     "source": "Entrust"
+  },
+  {
+    "id": "job_20260617201451_Q22NYKESC92IAGP6",
+    "title": "Security Software Developer",
+    "country_id": "Canada",
+    "city": "Markham",
+    "state": "ON",
+    "zip": "L3R 1B3",
+    "department": "R&D",
+    "description": "<p>We&#8217;re looking for a <strong>Security Software Developer </strong>to join the networking device development team behind Evertz IP switch fabric products, including the EXE and NATX, and Evertz SDI router products, including the NEXX and ENX platforms. In this role, you&#8217;ll be responsible for ensuring our products meet the security requirements of the NDcPP (Network Device collaborative Protection Profile) under the Common Criteria certification framework. You&#8217;ll work across the codebase to implement security features, stay ahead of vulnerabilities, and support the CI/CD infrastructure that keeps the team moving.</p><h2>Responsibilities:</h2><ul><li>Review and interpret security requirements for NDcPP (Common Criteria) certifications, which occur periodically every few years, and translate them into actionable development tasks.</li><li>Implement and update product software to satisfy evolving security certification requirements &#8212; including cryptography, certificate management, authentication, audit logging, and access control &#8212; through a mix of C/C++ and Python/Bash development, package patching, and configuration changes as needed.</li><li>Harden the embedded Linux environment, including managing firewall rules (iptables), disabling insecure services and defaults, configuring secure boot, and enforcing least-privilege port policies.</li><li>Secure and configure network management protocols such as SSH, SNMPv3, syslog over TLS, NTP authentication, and HTTPS in line with certification requirements.</li><li>Periodically upgrade the embedded Linux OS and its associated packages to maintain security compliance and long-term supportability.</li><li>Regularly monitor CVE reports and security advisories, and address identified vulnerabilities by backporting upstream patches, updating dependent packages, or applying fixes to existing product revisions.</li><li>Contribute to formal security certification documentation, including CC Security Guides, Security Targets, and related evaluation deliverables.</li><li>Develop and maintain utility scripts in Python and Bash to support security workflows, testing, and automation.</li><li>Contribute to the maintenance of the team&#8217;s Jenkins CI infrastructure as needed, including updating Jenkins packages and plugins, maintaining build scripts (Python/Bash), and occasional triage of build failures. This responsibility is shared across the team based on workload and availability.</li></ul><h2>Qualifications:</h2><ul><li>Diploma or degree in Computer Science, Computer Engineering, Cybersecurity, or a related field.</li><li>1&#8211;2 years of experience with C/C++ development.</li><li>1&#8211;2 years of experience with Python and Bash scripting.</li><li>Ability to read and interpret security standards, protection profiles, or compliance documentation.</li><li>Familiarity with common security concepts such as TLS/SSL, x.509 certificates, authentication mechanisms, and cryptographic protocols.</li><li>Basic understanding of Linux security management, including firewall configuration, service hardening, and user/permission management.</li><li>Familiarity with securing network management protocols (SSH, SNMP, syslog, NTP, HTTPS).</li><li>Experience tracking CVEs or security advisories and applying upstream patches or fixes.</li><li>Experience with Jenkins or similar CI/CD tools.</li><li>Strong analytical skills and attention to detail when working with security-sensitive code.</li><li>A willingness to learn new technologies and take ownership of improving existing designs, processes, and tools for the betterment of the product and the team.</li></ul><h2>Nice to Have:</h2><ul><li>Prior experience with Common Criteria, NDcPP, or FIPS certification processes, including contributing to evaluation documentation.</li><li>Familiarity with embedded Linux build systems (e.g., Buildroot, Yocto) and package management in embedded environments.</li><li>Experience with secure coding practices in C/C++ (memory safety, input validation, privilege management).</li><li>Awareness of Post-Quantum Cryptography (PQC) concepts and emerging standards.</li><li>Familiarity with version control systems (Git, Subversion).</li><li>CompTIA Security+, CompTIA Linux+, or similar industry certifications.</li></ul><p><font color=\"#1f3864\"><font face=\"Arial, Helvetica, sans-serif\"><span><b>What we offer</b></span></font></font></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><p><strong>Location:</strong>&#160;Markham, Ontario&#160;<br><strong>Hours:</strong>&#160;Monday to Friday, 40 hours per week<br><strong>Vacancy: </strong>This is a newly created position<br><strong>Salary Range:&#160;</strong>$60,000 to $85,000 per year, based on experience<br><br><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.<br>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.<br>Join a team where your work shapes the future of broadcast and new media industries.<br>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em><br><br>&#160;</p>",
+    "type": "Full Time",
+    "board_code": "V6oIEfXOpt",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20260617201014_T1RGVJYHUOFZVGRZ",
+    "title": "Lab Engineer",
+    "country_id": "Canada",
+    "city": "Markham",
+    "state": "ON",
+    "zip": "L3R 1B3",
+    "department": "R&D",
+    "description": "<p><span><span><span><span>We&#8217;re looking for a hands-on <strong>Lab Engineer</strong> to join the networking device development team responsible for Evertz IP switch fabric products, including the EXE and NATX, and Evertz SDI router products, including the NEXX and ENX platforms. In this role, you&#8217;ll keep our development lab running smoothly &#8212; managing device wiring, maintaining hardware inventory, and supporting the CI/CD infrastructure that the engineering team relies on daily. This is a fully on-site position (5 days per week) given the hands-on nature of the work.</span></span></span></span></p><h2><span><strong><span><span>Responsibilities:</span></span></strong></span></h2><ul><li>Maintain and organize network, audio, video, and fiber optic cabling across lab and small-scale data center environments.</li><li>Rewire and reconfigure devices based on engineering requests, test plans, and project demands.</li><li>Install, replace, and decommission lab devices including switches, servers, and AV networking equipment.</li><li>Handle and troubleshoot optical transceivers (SFP/SFP+ and QSFP/QSFP-DD), including installation, swapping, and verifying link status.</li><li>Maintain an accurate inventory database of all data center devices, cabling, and port assignments.</li><li>Develop and maintain support utility scripts in Python and Bash to streamline lab operations and support remote access to lab devices.</li><li>Contribute to the maintenance of the team&#8217;s Jenkins CI infrastructure as needed, including updating Jenkins packages and plugins, maintaining build scripts (Python/Bash), and occasional triage of build failures. This responsibility is shared across the team based on workload and availability.</li></ul><div><h2><strong><span><span><span>Qualifications:</span></span></span></strong></h2><ul><li>Diploma or degree in Computer Science, Information Technology, Networking, Electrical/Computer Engineering, or a related field.</li><li>1&#8211;2 years of experience with Python and Bash scripting.</li><li>Basic understanding of networking concepts (Ethernet, IP addressing, VLANs, cable types) and the ability to work with structured cabling, including copper and fiber optic.</li><li>Familiarity with audio/video cabling, connectors, and optical transceivers (SFP/QSFP) used in broadcast or AV environments is an asset.</li><li>Experience with Jenkins or similar CI/CD tools.</li><li>Comfortable working in a hands-on lab setting, including racking/unracking equipment, managing cables, and troubleshooting physical connectivity.</li><li>Strong organizational skills and attention to detail for maintaining accurate inventory and documentation.</li><li>Ability to work independently and prioritize tasks based on engineering team needs.</li><li>A willingness to learn new technologies and take ownership of improving existing designs, processes, and tools for the betterment of the product and the team.</li></ul></div><h2><strong><span><span><span>Nice to Have:</span></span></span></strong></h2><ul><li>Exposure to broadcast networking, SDI, and SMPTE ST 2110 environments.</li><li>Basic awareness of PTP (Precision Time Protocol) and its role in broadcast timing and synchronization.</li><li>Experience with network device configuration or management tools.</li><li>Familiarity with version control systems (Git, Subversion).</li><li>CompTIA Network+, CompTIA Linux+, or similar industry certifications.</li></ul><div><p><font color=\"#1f3864\" face=\"Arial, sans-serif\"><span><b>What we offer:</b></span></font></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><p><strong>Location:</strong>&#160;Markham, Ontario&#160;<br><strong>Hours:</strong>&#160;Monday to Friday, 40 hours per week<br><strong>Vacancy: </strong>This is a newly created position<br><strong>Salary Range:&#160;</strong>$50,000 to $75,000 per year, based on experience</p><p><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p><br>&#160;</div><p><br>&#160;</p>",
+    "type": "Full Time",
+    "board_code": "bORnXAf5Da",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20260617185000_Y1ZCWH5HNOZT0IXH",
@@ -1332,23 +1386,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260615211912_7QOGBUSFEZLOE6GO",
-    "title": "Senior Data Science Engineer, India",
-    "country_id": "India",
-    "city": "Bangalore",
-    "state": "Karnataka",
-    "zip": "560045",
-    "department": "India Office",
-    "description": "We are seeking a visionary and execution-focused <strong>Senior Data Science Enginee</strong>r to spearhead the design, development, and scaling of our next-generation intelligent systems. This role is built for a technical heavyweight who sits at the intersection of <strong>Advanced Generative AI (RAG &amp; Multi-Agent Systems), High-Performance Data Architectures, and Enterprise Cloud Engineering.</strong><br>You will own the optimization of our transactional and search layers (ELK &amp; PostgreSQL), build resilient orchestration pipelines, and deploy secure, hybrid-cloud solutions across <strong>AWS, Azure, and GCP.</strong><br><br><strong>What You'll Do</strong><br><br><strong>High-Performance Data &amp; Search Architecture</strong><br>&#8226; <strong>Enterprise Log &amp; Search Analytics</strong>: Architect, configure, and maintain the <strong>ELK Stack (Elasticsearch, Logstash, Kibana)</strong> to ingest, parse, index, and visualize massive multi-source data streams, enabling real-time observability and sub-second semantic/lexical search.<br>&#8226; <strong>PostgreSQL Optimization</strong>: Act as the subject matter expert for the relational database layer. Write complex queries, stored procedures, functions, and triggers. Diagnose bottlenecks, execute query optimization, index tuning, and oversee database backup, recovery, and archiving strategies.<br><br><strong>AI Engineering &amp; Agentic Systems</strong><br>&#8226; <strong>Autonomous Agents &amp; Tool Integration</strong>: Design, productize, and mature task-oriented AI agents and multi-agent orchestrations that execute complex, deterministic workflows rather than simple conversational chat completions.<br>&#8226; <strong>Production RAG Architectures</strong>: Build and optimize end-to-end Retrieval-Augmented Generation (RAG) pipelines using advanced chunking, metadata tagging, hybrid search, and reranking strategies over massive structured and unstructured datasets.<br>&#8226; <strong>Model Evaluation &amp; Frameworks</strong>: Deploy and monitor Large Language Models (LLMs) and Large Multimodal Models (LMMs) for text, image, audio, and video analytics. Productize solutions using enterprise-grade frameworks (e.g., LangChain, Langgraph, Semantic Kernel, or custom orchestration runtimes).<br><br><strong>Cloud-Native Deployment &amp; Infrastructure</strong><br>&#8226; <strong>Multi-Cloud Excellence</strong>: Design and deploy highly available, secure, and compliant AI workloads across <strong>AWS, Azure, and GCP.</strong><br>&#8226; <strong>MLOps &amp; Containerization</strong>: Enforce strict containerization using Docker and automate pipeline orchestration. Collaborate with DevOps to implement secure, automated CI/CD infrastructures and infrastructure-as-code (IaC).<br><br><strong>Leadership &amp; Iterative Delivery</strong><br>&#8226; <strong>Technical Ownership</strong>: Take end-to-end ownership of major features and core architecture components, driving technical decisions from concept to production.<br>&#8226; <strong>Agile Mentorship</strong>: Embrace an iterative, fast-paced development culture. Mentor junior engineers, conduct robust code reviews, and advocate for engineering best practices.<br><br><strong>What We're Looking For</strong><br><br><strong>Technical Core</strong><br>&#8226; <strong>Python Mastery:</strong> 6+ years of professional experience in modern Python development with a strict emphasis on writing clean, maintainable, production-ready code.<br>&#8226; <strong>Data Layer Expertise</strong>: 4+ years of deep hands-on experience with <strong>Elasticsearch/ELK Stack </strong>(cluster management, pipeline routing, and indexing) and <strong>PostgreSQL</strong> (advanced query optimization, performance tuning, structural design).<br>&#8226; <strong>Generative AI &amp; NLP</strong>: 3+ years of experience putting deep learning, NLP, or LLM-based solutions into enterprise production. Solid understanding of embedding spaces, vector databases, and agentic tool-calling patterns.<br>&#8226; <strong>Cloud &amp; DevOps</strong>: Demonstrated proficiency in provisioning and managing resources within <strong>AWS, Azure, and GCP</strong>. Solid experience with Docker and production-grade orchestration tools.<br><br><strong>Professional &amp; Cognitive</strong><br>&#8226; <strong>Problem Solving</strong>: Exceptional analytical and critical-thinking skills; ability to debug highly distributed systems and complex data pipelines.<br>&#8226; <strong>Communication</strong>: Strong communication skills with the ability to articulate architectural decisions to internal stakeholders and translate complex customer requirements into engineering milestones.<br>&#8226;<strong> Education</strong>: Bachelor&#8217;s or Master&#8217;s degree in Computer Science, Data Science, Engineering, or a highly quantitative field.<br><br><strong>Preferred &amp; Future-Forward Skills</strong><br>&#8226; Experience building or deploying high-performance <strong>Computer Vision </strong>pipelines (object detection, multi-object tracking, or multimodal video analytics).<br>&#8226; Familiarity with distributed computing environments such as <strong>Apache Spark</strong>.<br>&#8226; Exposure to cloud-native machine learning development suites (such as Azure AI Foundry, AWS SageMaker, or Google Vertex AI) with an emphasis on governance and enterprise security models.<br>&#8226; Passion for tracking the frontier of AI, specifically moving from standard LLM prompts to fully autonomous, self-correcting agent architectures.<br><br>Office Timing: 1pm to 9pm IST<br>Office Location: Manyata Tech Park, Bangalore, India<br>Work Model: Office/Hybrid<br><br><strong>About Evertz Microsystems (TSX: ET)</strong><br><br>Evertz India is the subsidiary of Evertz Microsystems (TSX:ET) a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.<br>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact. Join a team where your work shapes the future of broadcast and new media industries.<br><br><strong>The Perks</strong><br>&#8226; Flexible working opportunities<br>&#8226; In-house knowledge and product training<br>&#8226; Exposure to global broadcast and media platforms<br>&#8226; Performance-related bonuses<br>&#8226; Insurance and medical plans<br>&#8226; Employee-friendly leave policy<br><br><strong>Your Growth</strong><br>At Evertz, your career is a path to growth and achievement, not just a job. We encourage you to seize opportunities, push boundaries, and pursue your goals.<br>We offer a hybrid/remote model that balances flexibility and collaboration, driving innovation through diversity, adaptability, and strong connections. You&#8217;ll join an inclusive, dynamic team that values creativity and fresh ideas.<br>Culture is central at Evertz we welcome diverse, passionate talent ready to shape the future.<br><br><strong>Join us on this journey. Apply now!</strong><br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em><br><br>&#160;",
-    "type": "Full Time",
-    "board_code": "tpnZ5ww78H",
-    "workflow_id": "workflow_20240524193113_X3KEZLWOFGUPOZRT",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20260615193548_V3BUTMMH26IOUCOT",
     "title": "Administrative Assistant (Entry Level)",
     "country_id": "Canada",
@@ -1377,6 +1414,23 @@
     "type": "Full Time",
     "board_code": "u8Wis7aZFU",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20260615211912_7QOGBUSFEZLOE6GO",
+    "title": "Senior Data Science Engineer, India",
+    "country_id": "India",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "zip": "560045",
+    "department": "India Office",
+    "description": "We are seeking a visionary and execution-focused <strong>Senior Data Science Enginee</strong>r to spearhead the design, development, and scaling of our next-generation intelligent systems. This role is built for a technical heavyweight who sits at the intersection of <strong>Advanced Generative AI (RAG &amp; Multi-Agent Systems), High-Performance Data Architectures, and Enterprise Cloud Engineering.</strong><br>You will own the optimization of our transactional and search layers (ELK &amp; PostgreSQL), build resilient orchestration pipelines, and deploy secure, hybrid-cloud solutions across <strong>AWS, Azure, and GCP.</strong><br><br><strong>What You'll Do</strong><br><br><strong>High-Performance Data &amp; Search Architecture</strong><br>&#8226; <strong>Enterprise Log &amp; Search Analytics</strong>: Architect, configure, and maintain the <strong>ELK Stack (Elasticsearch, Logstash, Kibana)</strong> to ingest, parse, index, and visualize massive multi-source data streams, enabling real-time observability and sub-second semantic/lexical search.<br>&#8226; <strong>PostgreSQL Optimization</strong>: Act as the subject matter expert for the relational database layer. Write complex queries, stored procedures, functions, and triggers. Diagnose bottlenecks, execute query optimization, index tuning, and oversee database backup, recovery, and archiving strategies.<br><br><strong>AI Engineering &amp; Agentic Systems</strong><br>&#8226; <strong>Autonomous Agents &amp; Tool Integration</strong>: Design, productize, and mature task-oriented AI agents and multi-agent orchestrations that execute complex, deterministic workflows rather than simple conversational chat completions.<br>&#8226; <strong>Production RAG Architectures</strong>: Build and optimize end-to-end Retrieval-Augmented Generation (RAG) pipelines using advanced chunking, metadata tagging, hybrid search, and reranking strategies over massive structured and unstructured datasets.<br>&#8226; <strong>Model Evaluation &amp; Frameworks</strong>: Deploy and monitor Large Language Models (LLMs) and Large Multimodal Models (LMMs) for text, image, audio, and video analytics. Productize solutions using enterprise-grade frameworks (e.g., LangChain, Langgraph, Semantic Kernel, or custom orchestration runtimes).<br><br><strong>Cloud-Native Deployment &amp; Infrastructure</strong><br>&#8226; <strong>Multi-Cloud Excellence</strong>: Design and deploy highly available, secure, and compliant AI workloads across <strong>AWS, Azure, and GCP.</strong><br>&#8226; <strong>MLOps &amp; Containerization</strong>: Enforce strict containerization using Docker and automate pipeline orchestration. Collaborate with DevOps to implement secure, automated CI/CD infrastructures and infrastructure-as-code (IaC).<br><br><strong>Leadership &amp; Iterative Delivery</strong><br>&#8226; <strong>Technical Ownership</strong>: Take end-to-end ownership of major features and core architecture components, driving technical decisions from concept to production.<br>&#8226; <strong>Agile Mentorship</strong>: Embrace an iterative, fast-paced development culture. Mentor junior engineers, conduct robust code reviews, and advocate for engineering best practices.<br><br><strong>What We're Looking For</strong><br><br><strong>Technical Core</strong><br>&#8226; <strong>Python Mastery:</strong> 6+ years of professional experience in modern Python development with a strict emphasis on writing clean, maintainable, production-ready code.<br>&#8226; <strong>Data Layer Expertise</strong>: 4+ years of deep hands-on experience with <strong>Elasticsearch/ELK Stack </strong>(cluster management, pipeline routing, and indexing) and <strong>PostgreSQL</strong> (advanced query optimization, performance tuning, structural design).<br>&#8226; <strong>Generative AI &amp; NLP</strong>: 3+ years of experience putting deep learning, NLP, or LLM-based solutions into enterprise production. Solid understanding of embedding spaces, vector databases, and agentic tool-calling patterns.<br>&#8226; <strong>Cloud &amp; DevOps</strong>: Demonstrated proficiency in provisioning and managing resources within <strong>AWS, Azure, and GCP</strong>. Solid experience with Docker and production-grade orchestration tools.<br><br><strong>Professional &amp; Cognitive</strong><br>&#8226; <strong>Problem Solving</strong>: Exceptional analytical and critical-thinking skills; ability to debug highly distributed systems and complex data pipelines.<br>&#8226; <strong>Communication</strong>: Strong communication skills with the ability to articulate architectural decisions to internal stakeholders and translate complex customer requirements into engineering milestones.<br>&#8226;<strong> Education</strong>: Bachelor&#8217;s or Master&#8217;s degree in Computer Science, Data Science, Engineering, or a highly quantitative field.<br><br><strong>Preferred &amp; Future-Forward Skills</strong><br>&#8226; Experience building or deploying high-performance <strong>Computer Vision </strong>pipelines (object detection, multi-object tracking, or multimodal video analytics).<br>&#8226; Familiarity with distributed computing environments such as <strong>Apache Spark</strong>.<br>&#8226; Exposure to cloud-native machine learning development suites (such as Azure AI Foundry, AWS SageMaker, or Google Vertex AI) with an emphasis on governance and enterprise security models.<br>&#8226; Passion for tracking the frontier of AI, specifically moving from standard LLM prompts to fully autonomous, self-correcting agent architectures.<br><br>Office Timing: 1pm to 9pm IST<br>Office Location: Manyata Tech Park, Bangalore, India<br>Work Model: Office/Hybrid<br><br><strong>About Evertz Microsystems (TSX: ET)</strong><br><br>Evertz India is the subsidiary of Evertz Microsystems (TSX:ET) a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.<br>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact. Join a team where your work shapes the future of broadcast and new media industries.<br><br><strong>The Perks</strong><br>&#8226; Flexible working opportunities<br>&#8226; In-house knowledge and product training<br>&#8226; Exposure to global broadcast and media platforms<br>&#8226; Performance-related bonuses<br>&#8226; Insurance and medical plans<br>&#8226; Employee-friendly leave policy<br><br><strong>Your Growth</strong><br>At Evertz, your career is a path to growth and achievement, not just a job. We encourage you to seize opportunities, push boundaries, and pursue your goals.<br>We offer a hybrid/remote model that balances flexibility and collaboration, driving innovation through diversity, adaptability, and strong connections. You&#8217;ll join an inclusive, dynamic team that values creativity and fresh ideas.<br>Culture is central at Evertz we welcome diverse, passionate talent ready to shape the future.<br><br><strong>Join us on this journey. Apply now!</strong><br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em><br><br>&#160;",
+    "type": "Full Time",
+    "board_code": "tpnZ5ww78H",
+    "workflow_id": "workflow_20240524193113_X3KEZLWOFGUPOZRT",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -1502,23 +1556,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260604190057_DNQBHQGQO1CLMTZV",
-    "title": "Senior Software Engineer - Backend",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "R&D",
-    "description": "<p>We are seeking a highly motivated <strong>Senior Software Engineer</strong> to join our growing engineering team. This role offers an exciting opportunity to design and build scalable, production grade backend systems that power mission-critical applications within the broadcast and media technology domain.</p><p>As a Senior Software Engineer, you will combine strong <strong>software engineering fundamentals with modern AI-assisted development practices</strong>. You will work on the evertz.io microservices and backend platform, building systems designed to handle concurrency, timing, and data consistency at scale.<br><br><strong>Key Qualification Requirements:</strong></p><ul><li><strong>5+ years of software engineering experience in a strongly typed language; Java preferred </strong>(Python, Rust, Go, C++, or C# also considered)</li><li><strong>Strong experience with Java, Spring Boot, and scalable backend development</strong></li><li><strong>Proficient in using AI coding tools</strong> (e.g., Claude, GitHub Copilot) and validating AI-generated code for correctness, security, and maintainability</li><li>Expertise in <strong>AWS, cloud-native applications, and microservices architecture</strong></li><li>Hands-on experience with Lambda, API Gateway, DynamoDB, SQS, and serverless technologies</li><li>Familiarity with <strong>prompt engineering</strong> and MCP servers</li><li>Strong knowledge of concurrency, data structures, design patterns, and OOP</li><li>Experience building distributed systems, real-time processing platforms, or other large-scale backend services</li><li>Proven skills in production debugging, monitoring, and incident investigation</li><li>Comfortable contributing to large, complex codebases</li></ul><p><strong>Additional Skills That Will Be Useful</strong></p><ul><li>Java ecosystem: Java frameworks, Gradle, JUnit, Mockito</li><li>Familiarity with CI/CD tools and workflows such as Jenkins, Git, and CodePipeline</li><li>Prior experience in broadcast, media, or real-time systems</li></ul><p><strong>What You'll Do:</strong></p><ul><li>Design and develop backend microservices for the evertz.io SaaS platform</li><li>Design and deliver new features on the Mediator enterprise product &#8212; working across a large, mature Java codebase with full ownership from scoping to production</li><li>Investigate and resolve complex production issues in Mediator &#8212; tracing distributed failures,&#160;analysing&#160;logs, profiling performance bottlenecks, and leading post-incident investigations</li><li>Participate in architecture and technical design discussions with product owners, engineering leads, and stakeholders</li><li>Take features from requirement scoping through to production launch</li><li>Write high-quality, well-tested, maintainable code</li><li>Use AI-assisted development (Claude, Copilot) as a daily practice including structured prompting, iterative refinement, and AI-assisted debugging</li><li>Review, validate, and harden AI-generated code through testing, peer review, edge-case analysis, and verification of correctness, scalability, and thread safety</li><li>Collaborate with QA on automated log analysis and testing workflows</li></ul><p><strong>Who We're Looking For</strong></p><ul><li><strong>Passionate about solving complex backend engineering challenges</strong></li><li>Strong analytical, debugging, and problem-solving skills</li><li><strong>Curious about modern software engineering practices, including AI-assisted development</strong></li><li>Effective communicator who can collaborate across engineering, product, and QA teams</li><li>Self-motivated with a strong sense of ownership and accountability</li><li>Comfortable working in fast-paced, collaborative, and highly technical environments</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario<br><strong>Hours:&#160;</strong>Monday to Friday, 40 hours per week<br><strong>Vacancy:</strong>&#160;This is an existing position<br><strong>Salary Range:</strong>&#160; $70,000 to $100,000+ per year, based on relevant experience</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p>",
-    "type": "Full Time",
-    "board_code": "S3IO5DrQSS",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20260604193047_DWYEZLKKJNFTD1LR",
     "title": "Senior Software Engineer \u2013 Java Backend , AI",
     "country_id": "India",
@@ -1530,6 +1567,23 @@
     "type": "Full Time",
     "board_code": "IjzMStCmZ1",
     "workflow_id": "workflow_20240524193113_X3KEZLWOFGUPOZRT",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20260604190057_DNQBHQGQO1CLMTZV",
+    "title": "Senior Software Engineer - Backend",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "R&D",
+    "description": "<p>We are seeking a highly motivated <strong>Senior Software Engineer</strong> to join our growing engineering team. This role offers an exciting opportunity to design and build scalable, production grade backend systems that power mission-critical applications within the broadcast and media technology domain.</p><p>As a Senior Software Engineer, you will combine strong <strong>software engineering fundamentals with modern AI-assisted development practices</strong>. You will work on the evertz.io microservices and backend platform, building systems designed to handle concurrency, timing, and data consistency at scale.<br><br><strong>Key Qualification Requirements:</strong></p><ul><li><strong>5+ years of software engineering experience in a strongly typed language; Java preferred </strong>(Python, Rust, Go, C++, or C# also considered)</li><li><strong>Strong experience with Java, Spring Boot, and scalable backend development</strong></li><li><strong>Proficient in using AI coding tools</strong> (e.g., Claude, GitHub Copilot) and validating AI-generated code for correctness, security, and maintainability</li><li>Expertise in <strong>AWS, cloud-native applications, and microservices architecture</strong></li><li>Hands-on experience with Lambda, API Gateway, DynamoDB, SQS, and serverless technologies</li><li>Familiarity with <strong>prompt engineering</strong> and MCP servers</li><li>Strong knowledge of concurrency, data structures, design patterns, and OOP</li><li>Experience building distributed systems, real-time processing platforms, or other large-scale backend services</li><li>Proven skills in production debugging, monitoring, and incident investigation</li><li>Comfortable contributing to large, complex codebases</li></ul><p><strong>Additional Skills That Will Be Useful</strong></p><ul><li>Java ecosystem: Java frameworks, Gradle, JUnit, Mockito</li><li>Familiarity with CI/CD tools and workflows such as Jenkins, Git, and CodePipeline</li><li>Prior experience in broadcast, media, or real-time systems</li></ul><p><strong>What You'll Do:</strong></p><ul><li>Design and develop backend microservices for the evertz.io SaaS platform</li><li>Design and deliver new features on the Mediator enterprise product &#8212; working across a large, mature Java codebase with full ownership from scoping to production</li><li>Investigate and resolve complex production issues in Mediator &#8212; tracing distributed failures,&#160;analysing&#160;logs, profiling performance bottlenecks, and leading post-incident investigations</li><li>Participate in architecture and technical design discussions with product owners, engineering leads, and stakeholders</li><li>Take features from requirement scoping through to production launch</li><li>Write high-quality, well-tested, maintainable code</li><li>Use AI-assisted development (Claude, Copilot) as a daily practice including structured prompting, iterative refinement, and AI-assisted debugging</li><li>Review, validate, and harden AI-generated code through testing, peer review, edge-case analysis, and verification of correctness, scalability, and thread safety</li><li>Collaborate with QA on automated log analysis and testing workflows</li></ul><p><strong>Who We're Looking For</strong></p><ul><li><strong>Passionate about solving complex backend engineering challenges</strong></li><li>Strong analytical, debugging, and problem-solving skills</li><li><strong>Curious about modern software engineering practices, including AI-assisted development</strong></li><li>Effective communicator who can collaborate across engineering, product, and QA teams</li><li>Self-motivated with a strong sense of ownership and accountability</li><li>Comfortable working in fast-paced, collaborative, and highly technical environments</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario<br><strong>Hours:&#160;</strong>Monday to Friday, 40 hours per week<br><strong>Vacancy:</strong>&#160;This is an existing position<br><strong>Salary Range:</strong>&#160; $70,000 to $100,000+ per year, based on relevant experience</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p>",
+    "type": "Full Time",
+    "board_code": "S3IO5DrQSS",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

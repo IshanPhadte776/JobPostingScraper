@@ -500,6 +500,26 @@
     "url": "https://solace.bamboohr.com/career/careers/761"
   },
   {
+    "id": "764",
+    "jobOpeningName": "Sales Director ",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "United States",
+      "state": "Illinois",
+      "province": null,
+      "city": "Chicago"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/764"
+  },
+  {
     "id": "768",
     "jobOpeningName": "Senior Cloud Site Reliability Engineer",
     "departmentId": "18562",
@@ -714,6 +734,28 @@
     "source": "SST"
   },
   {
+    "title": "Software Development/Product Intern",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Software-Development-Product-Intern_R44523",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44523"
+    ],
+    "id": "R44523",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Manager, Hedge Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Manager--Hedge-Fund-Accounting_R42105",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42105"
+    ],
+    "id": "R42105",
+    "source": "SST"
+  },
+  {
     "title": "Associate Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Manager_R44402",
     "locationsText": "New York, NY",
@@ -758,26 +800,26 @@
     "source": "SST"
   },
   {
-    "title": "Associate Director - AML Client Onboarding",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Associate-Director---AML-Client-Onboarding_R44109-1",
-    "locationsText": "Mississauga, Canada",
+    "title": "Senior DevOps Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-DevOps-Consultant--Application-Development_2612446-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44109"
+      "2612446"
     ],
-    "id": "R44109",
-    "source": "SST"
+    "id": "2612446",
+    "source": "CIBC"
   },
   {
-    "title": "Account Executive, Advisory",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Account-Executive--Advisory_R44528",
-    "locationsText": "New York, NY",
+    "title": "Consultant, Data Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Data-Developer_2613099",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44528"
+      "2613099"
     ],
-    "id": "R44528",
-    "source": "SST"
+    "id": "2613099",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Database Management",
@@ -978,28 +1020,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2612724",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2612724"
-    ],
-    "id": "2612724",
-    "source": "CIBC"
-  },
-  {
-    "title": "Test Coordinator",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Test-Coordinator_2612419",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2612419"
-    ],
-    "id": "2612419",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1022,6 +1042,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Embedded Software Engineer Intern (12-16 months - September 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031219"
+    ],
+    "id": "R031219",
+    "source": "Ciena"
+  },
+  {
+    "title": "Product Integrity - Compliance Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Integrity---Compliance-Engineer_R031237",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031237"
+    ],
+    "id": "R031237",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Optical Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Optical-Engineer_R031245",
     "locationsText": "Ottawa",
@@ -1033,6 +1075,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Ing\u00e9nieur optique/Optical Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Ingnieur-optique-Optical-Engineer_R028389",
+    "locationsText": "Quebec",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R028389"
+    ],
+    "id": "R028389",
+    "source": "Ciena"
+  },
+  {
     "title": "Embedded Software Engineer Intern (4 months - September 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232",
     "locationsText": "Ottawa",
@@ -1041,17 +1094,6 @@
       "R031232"
     ],
     "id": "R031232",
-    "source": "Ciena"
-  },
-  {
-    "title": "Embedded Software Engineer Intern (4 months - September 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031219"
-    ],
-    "id": "R031219",
     "source": "Ciena"
   },
   {
@@ -1195,28 +1237,6 @@
       "R030819"
     ],
     "id": "R030819",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Associates, Payroll",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Associates--Payroll_R031189",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R031189"
-    ],
-    "id": "R031189",
-    "source": "Ciena"
-  },
-  {
-    "title": "Accountant",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Accountant_R031173",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R031173"
-    ],
-    "id": "R031173",
     "source": "Ciena"
   },
   {
@@ -1498,7 +1518,7 @@
     "state": "ON",
     "zip": "L7N3A3",
     "department": "Administration",
-    "description": "<p>The Product Coordinator supports the end-to-end product lifecycle by ensuring the accurate administration, coordination, and communication of product-related activities across the organization. This role acts as a central point of contact between Product Management and cross-functional teams, helping to maintain data integrity, streamline processes, and ensure timely execution of product initiatives.<br><br><strong>Responsibilities:</strong></p><ul><li>Provide administrative support to the product life cycle process</li><li>Prepare and distribute End-of-Life and End-Of-Sale product notifications&#160;</li><li>Liase between Product Managers and various departments to coordinate questions, provide status updates, and ensure timely processing and turnaround of product notices&#160;</li><li>Update and maintenance product information and pricing in database&#160;</li><li>Submit New product Templates (NPTs) to senior/executive management for approval&#160;</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><strong>Date Posted:</strong>&#160;June 15, 2026<br><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of&#160;<strong>Canada's 50 Best Managed Companies</strong>&#160;&#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "description": "<p><span>We are seeking a Product Coordinator that will serve as the central coordination point for our Product Management team, supporting the end-to-end product lifecycle from initiation through to execution. The successful candidate will manage information flow with precision, maintain data integrity, and ensure product initiatives stay on track. This role is best suited to someone who understands that operational excellence is what keeps a product team performing at its best.</span><br><br><strong>Responsibilities:</strong></p><ul><li>Provide administrative support to the product life cycle process</li><li>Prepare and distribute End-of-Life and End-Of-Sale product notifications&#160;</li><li>Liase between Product Managers and various departments to coordinate questions, provide status updates, and ensure timely processing and turnaround of product notices&#160;</li><li>Update and maintenance product information and pricing in database&#160;</li><li>Submit New product Templates (NPTs) to senior/executive management for approval&#160;</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><strong>Date Posted:</strong>&#160;June 15, 2026<br><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of&#160;<strong>Canada's 50 Best Managed Companies</strong>&#160;&#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "u8Wis7aZFU",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",

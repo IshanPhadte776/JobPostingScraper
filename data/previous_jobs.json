@@ -694,6 +694,39 @@
     "source": "SST"
   },
   {
+    "title": "Associate Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Manager_R44402",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44402"
+    ],
+    "id": "R44402",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Investor Services - Hybrid",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Senior-Associate--Investor-Services---Hybrid_R43217-1",
+    "locationsText": "5 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43217"
+    ],
+    "id": "R43217",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Private Equity/FOF Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Manager--Private-Equity-FOF-Fund-Accounting_R43029-1",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43029"
+    ],
+    "id": "R43029",
+    "source": "SST"
+  },
+  {
     "title": "Senior Azure Cloud Engineer to cover APAC time zone from 11pm to 8am",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Romania/Senior-Azure-Cloud-Engineer-to-cover-APAC-time-zone-from-11pm-to-8am_R44654",
     "locationsText": "2 Locations",
@@ -727,44 +760,14 @@
     "source": "SST"
   },
   {
-    "title": "Account Executive, Advisory",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Account-Executive--Advisory_R44528",
-    "locationsText": "New York, NY",
+    "title": "Sr. Consultant, Database Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Database-Management_2611412",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44528"
+      "2611412"
     ],
-    "id": "R44528",
-    "source": "SST"
-  },
-  {
-    "title": "Program Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Program-Manager_R44471",
-    "locationsText": "5 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44471"
-    ],
-    "id": "R44471",
-    "source": "SST"
-  },
-  {
-    "title": "Senior DevOps Engineer/ SRE",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Senior-DevOps-Engineer--SRE_R44223",
-    "locationsText": "Bangkok, Thailand",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44223"
-    ],
-    "id": "R44223",
-    "source": "SST"
-  },
-  {
-    "bulletFields": [
-      "2612202"
-    ],
-    "id": "2612202",
-    "externalPath": "",
+    "id": "2611412",
     "source": "CIBC"
   },
   {
@@ -776,6 +779,17 @@
       "2613112"
     ],
     "id": "2613112",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Application Development- Java/Springboot",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--Java-Springboot_2613188",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2613188"
+    ],
+    "id": "2613188",
     "source": "CIBC"
   },
   {
@@ -809,14 +823,6 @@
       "2612904"
     ],
     "id": "2612904",
-    "source": "CIBC"
-  },
-  {
-    "bulletFields": [
-      "2611126"
-    ],
-    "id": "2611126",
-    "externalPath": "",
     "source": "CIBC"
   },
   {
@@ -993,6 +999,17 @@
       "R030749"
     ],
     "id": "R030749",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Developer, ASIC",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Developer--ASIC_R030864",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030864"
+    ],
+    "id": "R030864",
     "source": "Ciena"
   },
   {
@@ -1180,17 +1197,6 @@
       "R030719"
     ],
     "id": "R030719",
-    "source": "Ciena"
-  },
-  {
-    "title": "Technical Solutions Engineer \u2013 Data Center PON",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-CA/Technical-Solutions-Engineer---Data-Center-PON_R030460",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R030460"
-    ],
-    "id": "R030460",
     "source": "Ciena"
   },
   {

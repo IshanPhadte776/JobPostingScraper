@@ -500,6 +500,26 @@
     "url": "https://solace.bamboohr.com/career/careers/761"
   },
   {
+    "id": "768",
+    "jobOpeningName": "Senior Cloud Site Reliability Engineer",
+    "departmentId": "18562",
+    "departmentLabel": "Support",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "India",
+      "state": null,
+      "province": "IN",
+      "city": "Banglaore"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/768"
+  },
+  {
     "id": "44",
     "jobOpeningName": "Sales Engineer",
     "departmentId": "18830",
@@ -749,14 +769,14 @@
     "source": "SST"
   },
   {
-    "title": "Java Developer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Java-Developer_R42019",
-    "locationsText": "2 Locations",
+    "title": "Account Executive, Advisory",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Account-Executive--Advisory_R44528",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42019"
+      "R44528"
     ],
-    "id": "R42019",
+    "id": "R44528",
     "source": "SST"
   },
   {
@@ -1002,6 +1022,39 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Optical Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Optical-Engineer_R031245",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031245"
+    ],
+    "id": "R031245",
+    "source": "Ciena"
+  },
+  {
+    "title": "Embedded Software Engineer Intern (4 months - September 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031232"
+    ],
+    "id": "R031232",
+    "source": "Ciena"
+  },
+  {
+    "title": "Embedded Software Engineer Intern (4 months - September 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031219"
+    ],
+    "id": "R031219",
+    "source": "Ciena"
+  },
+  {
     "title": "Software Developer, ASIC",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Developer--ASIC_R030864",
     "locationsText": "Ottawa",
@@ -1164,39 +1217,6 @@
       "R031173"
     ],
     "id": "R031173",
-    "source": "Ciena"
-  },
-  {
-    "title": "FP&A Analyst \u2013 Financial Planning & Analysis (AI & Automation Focus)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/FP-A-Analyst---Financial-Planning---Analysis--AI---Automation-Focus-_R031226-1",
-    "locationsText": "Baltimore",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R031226"
-    ],
-    "id": "R031226",
-    "source": "Ciena"
-  },
-  {
-    "title": "FP&A Analyst \u2013 Financial Planning & Analysis (AI & Automation Focus)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/FP-A-Analyst---Financial-Planning---Analysis--AI---Automation-Focus-_R031168",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R031168"
-    ],
-    "id": "R031168",
-    "source": "Ciena"
-  },
-  {
-    "title": "Digital Senior SerDes Design Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-Senior-SerDes-Design-Engineer_R030719",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R030719"
-    ],
-    "id": "R030719",
     "source": "Ciena"
   },
   {

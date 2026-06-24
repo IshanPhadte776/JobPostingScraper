@@ -847,17 +847,6 @@
     "source": "SST"
   },
   {
-    "title": "PA26OPSRQ046 - SC1",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/PA26OPSRQ046---SC1_R44525",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44525"
-    ],
-    "id": "R44525",
-    "source": "SST"
-  },
-  {
     "title": "Data Operations Supervisor  - PA-DS-Q2-2006-P001",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City---Broadway-Square-Garage/Data-Operations-Supervisor----PA-DS-Q2-2006-P001_R43279",
     "locationsText": "2 Locations",
@@ -878,6 +867,39 @@
     ],
     "id": "R43773",
     "source": "SST"
+  },
+  {
+    "title": "Head of AI Enablement - US GIDS and RS PA2026Q3JB001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Ontario-Toronto/Head-of-AI-Enablement---US-GIDS-and-RS-PA2026Q3JB001_R44660-1",
+    "locationsText": "Ontario, Toronto",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44660"
+    ],
+    "id": "R44660",
+    "source": "SST"
+  },
+  {
+    "title": "Senior PeopleSoft Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2613134",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2613134"
+    ],
+    "id": "2613134",
+    "source": "CIBC"
+  },
+  {
+    "title": "Junior PeopleSoft Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Junior-PeopleSoft-Developer_2613136",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2613136"
+    ],
+    "id": "2613136",
+    "source": "CIBC"
   },
   {
     "title": "Director, Application Development",
@@ -965,17 +987,6 @@
       "2611412"
     ],
     "id": "2611412",
-    "source": "CIBC"
-  },
-  {
-    "title": "z/OS Systems Analyst",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/z-OS-Systems-Analyst_2613112",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2613112"
-    ],
-    "id": "2613112",
     "source": "CIBC"
   },
   {
@@ -1089,17 +1100,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Business Analyst, Operations - Simplii Financial",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Business-Analyst--Operations---Simplii-Financial_2613013",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2613013"
-    ],
-    "id": "2613013",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1119,6 +1119,28 @@
       "R030749"
     ],
     "id": "R030749",
+    "source": "Ciena"
+  },
+  {
+    "title": "Leader, Business Intelligence & Data Informatics",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Leader--Business-Intelligence---Data-Informatics_R031209",
+    "locationsText": "Remote-Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031209"
+    ],
+    "id": "R031209",
+    "source": "Ciena"
+  },
+  {
+    "title": "Personalization and Optimization Specialist",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Personalization-and-Optimization-Specialist_R030653",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030653"
+    ],
+    "id": "R030653",
     "source": "Ciena"
   },
   {
@@ -1295,28 +1317,6 @@
       "R031211"
     ],
     "id": "R031211",
-    "source": "Ciena"
-  },
-  {
-    "title": "Braunschweig New Grad and Intern Applications",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Germany--Braunschweig/Braunschweig---Bonding-2026-Applications_R031174",
-    "locationsText": "Germany- Braunschweig",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R031174"
-    ],
-    "id": "R031174",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Director, Global Tax Planning / Strategy",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Senior-Director--Global-Tax-Planning---Strategy_R031147",
-    "locationsText": "Baltimore",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R031147"
-    ],
-    "id": "R031147",
     "source": "Ciena"
   },
   {

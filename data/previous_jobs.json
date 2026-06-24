@@ -814,6 +814,28 @@
     "source": "SST"
   },
   {
+    "title": "Mail/Distribution Services Representative (Night Shift/Weekends)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Mail-Distribution-Services-Representative--Night-Shift-Weekends-_R43429",
+    "locationsText": "Kansas City, MO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43429"
+    ],
+    "id": "R43429",
+    "source": "SST"
+  },
+  {
+    "title": "Mailroom Operations Associate Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Associate-Manager--Mail-Distribution-Services_R42638",
+    "locationsText": "Kansas City, MO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42638"
+    ],
+    "id": "R42638",
+    "source": "SST"
+  },
+  {
     "title": "Generative AI Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Poland/Generative-AI-Developer_R44674",
     "locationsText": "2 Locations",
@@ -858,26 +880,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Account-Executive_R43773",
-    "locationsText": "New York, NY",
+    "title": "Full Stack Software Developer (SQL, Oracle Apex)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Software-Developer--SQL--Oracle-Apex-_2612943",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43773"
+      "2612943"
     ],
-    "id": "R43773",
-    "source": "SST"
+    "id": "2612943",
+    "source": "CIBC"
   },
   {
-    "title": "Head of AI Enablement - US GIDS and RS PA2026Q3JB001",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Ontario-Toronto/Head-of-AI-Enablement---US-GIDS-and-RS-PA2026Q3JB001_R44660-1",
-    "locationsText": "Ontario, Toronto",
+    "title": "Consultant, Application Developer (Informatica)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Developer--Informatica-_2610720",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44660"
+      "2610720"
     ],
-    "id": "R44660",
-    "source": "SST"
+    "id": "2610720",
+    "source": "CIBC"
   },
   {
     "title": "Senior PeopleSoft Developer",
@@ -1078,28 +1100,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Back End Developer- Java/Golang",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer--Java-Golang_2608545",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2608545"
-    ],
-    "id": "2608545",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Business Systems Analysis-Power BI",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2608853",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2608853"
-    ],
-    "id": "2608853",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1119,17 +1119,6 @@
       "R030749"
     ],
     "id": "R030749",
-    "source": "Ciena"
-  },
-  {
-    "title": "Leader, Business Intelligence & Data Informatics",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Leader--Business-Intelligence---Data-Informatics_R031209",
-    "locationsText": "Remote-Canada",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031209"
-    ],
-    "id": "R031209",
     "source": "Ciena"
   },
   {
@@ -1317,6 +1306,17 @@
       "R031211"
     ],
     "id": "R031211",
+    "source": "Ciena"
+  },
+  {
+    "title": "Braunschweig New Grad and Intern Applications",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Germany--Braunschweig/Braunschweig---Bonding-2026-Applications_R031174",
+    "locationsText": "Germany- Braunschweig",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R031174"
+    ],
+    "id": "R031174",
     "source": "Ciena"
   },
   {

@@ -400,26 +400,6 @@
     "url": "https://solace.bamboohr.com/career/careers/756"
   },
   {
-    "id": "757",
-    "jobOpeningName": "Office Coordinator",
-    "departmentId": "18839",
-    "departmentLabel": "Human Resources",
-    "employmentStatusLabel": "Temporary Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "0",
-    "url": "https://solace.bamboohr.com/career/careers/757"
-  },
-  {
     "id": "758",
     "jobOpeningName": "Assistant Controller",
     "departmentId": "18750",
@@ -863,17 +843,6 @@
     "source": "SST"
   },
   {
-    "title": "Senior Software Engineer (BluePrism)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Connecticut-US/Production-Support-Lead---PA-Auto-2026-Q2-R001_R42024",
-    "locationsText": "Remote - Connecticut, US",
-    "postedOn": "Posted 30+ Days Ago",
-    "bulletFields": [
-      "R42024"
-    ],
-    "id": "R42024",
-    "source": "SST"
-  },
-  {
     "title": "Associate Director, Client Relationship Management",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate-Director--Client-Relationship-Management_R43837",
     "locationsText": "5 Locations",
@@ -938,6 +907,28 @@
     ],
     "id": "R44697",
     "source": "SST"
+  },
+  {
+    "title": "Analyst / Senior Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Analyst---Senior-Analyst_R44422",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44422"
+    ],
+    "id": "R44422",
+    "source": "SST"
+  },
+  {
+    "title": "Software Development Engineer in Test (SDET)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Development-Engineer-in-Test--SDET-_2610467-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2610467"
+    ],
+    "id": "2610467",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Mobile Engineer, Simplii Technology",
@@ -1014,14 +1005,6 @@
       "2613136"
     ],
     "id": "2613136",
-    "source": "CIBC"
-  },
-  {
-    "bulletFields": [
-      "2613387"
-    ],
-    "id": "2613387",
-    "externalPath": "",
     "source": "CIBC"
   },
   {
@@ -1179,6 +1162,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Optical Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Senior-Optical-Engineer_R031202",
+    "locationsText": "New Providence - NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031202"
+    ],
+    "id": "R031202",
+    "source": "Ciena"
+  },
+  {
     "title": "Photonics Technical Prime",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Technical-Prime_R030271",
     "locationsText": "Ottawa",
@@ -1220,17 +1214,6 @@
       "R030653"
     ],
     "id": "R030653",
-    "source": "Ciena"
-  },
-  {
-    "title": "Automation Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Automation-Engineer_R030316",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R030316"
-    ],
-    "id": "R030316",
     "source": "Ciena"
   },
   {

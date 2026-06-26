@@ -680,6 +680,26 @@
     "url": "https://solace.bamboohr.com/career/careers/771"
   },
   {
+    "id": "772",
+    "jobOpeningName": "Junior HR Generalist",
+    "departmentId": "18839",
+    "departmentLabel": "Human Resources",
+    "employmentStatusLabel": "Temporary Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/772"
+  },
+  {
     "id": "104",
     "jobOpeningName": "Administrative Coordinator - Remote (Sydney)",
     "departmentId": "18390",
@@ -703,7 +723,7 @@
     "title": "Hiring Chartered Accountant Freshers - PUNE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Hiring-Chartered-Accountant-Freshers---PUNE_R35256",
     "locationsText": "Pune, India",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R35256"
     ],
@@ -714,7 +734,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Investor-Services---Manager--Associate-Manager_R35078",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R35078"
     ],
@@ -725,7 +745,7 @@
     "title": "Senior Quant Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Quant-Developer_R35179",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R35179"
     ],
@@ -736,7 +756,7 @@
     "title": "Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R44275",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 9 Days Ago",
+    "postedOn": "Posted 10 Days Ago",
     "bulletFields": [
       "R44275"
     ],
@@ -747,7 +767,7 @@
     "title": "VP, Product Management",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Principle-Product-Manager-SDE_R36919",
     "locationsText": "Waltham MA - 10 CityPoint",
-    "postedOn": "Posted 12 Days Ago",
+    "postedOn": "Posted 13 Days Ago",
     "bulletFields": [
       "R36919"
     ],
@@ -758,7 +778,7 @@
     "title": "Fund Accountant (Hedge Funds)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Engagement-Specialist_R39849",
     "locationsText": "6 Locations",
-    "postedOn": "Posted 13 Days Ago",
+    "postedOn": "Posted 14 Days Ago",
     "bulletFields": [
       "R39849"
     ],
@@ -769,7 +789,7 @@
     "title": "Infrastructure Production Engineer (PA26Q2IEJH78)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK---20-Birchin-Lane/Infrastructure-Production-Engineer--PA26Q2IEJH78-_R42902",
     "locationsText": "London UK - 20 Birchin Lane",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "bulletFields": [
       "R42902"
     ],
@@ -780,7 +800,7 @@
     "title": "Mail/Distribution Services Representative",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Mail-Distribution-Services-Representative_R25046",
     "locationsText": "Kansas City, MO",
-    "postedOn": "Posted 19 Days Ago",
+    "postedOn": "Posted 20 Days Ago",
     "bulletFields": [
       "R25046"
     ],
@@ -791,7 +811,7 @@
     "title": "Software Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Software-Engineer_R38205",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 26 Days Ago",
+    "postedOn": "Posted 27 Days Ago",
     "bulletFields": [
       "R38205"
     ],
@@ -802,7 +822,7 @@
     "title": "Senior Associate & Associate Manager- DDQ - Due Diligence Support",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate---Associate-Manager--DDQ---Due-Diligence-Support_R43020",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 25 Days Ago",
+    "postedOn": "Posted 26 Days Ago",
     "bulletFields": [
       "R43020"
     ],
@@ -813,7 +833,7 @@
     "title": "Cloud Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Cloud-Engineer_R40402",
     "locationsText": "Kansas City, MO",
-    "postedOn": "Posted 28 Days Ago",
+    "postedOn": "Posted 29 Days Ago",
     "bulletFields": [
       "R40402"
     ],
@@ -824,7 +844,7 @@
     "title": "Exciting Opportunities in Transfer Agency (Night Shift)!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Exciting-Opportunities-in-Transfer-Agency--Night-Shift--_R44012",
     "locationsText": "Mumbai, India",
-    "postedOn": "Posted 28 Days Ago",
+    "postedOn": "Posted 29 Days Ago",
     "bulletFields": [
       "R44012"
     ],
@@ -843,87 +863,87 @@
     "source": "SST"
   },
   {
-    "title": "Manager, Hedge Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA---221-Main-Street/Manager--Hedge-Fund-Accounting_R44461",
-    "locationsText": "3 Locations",
+    "title": "Retirement Plan Account Manager - PA-RPAM-Q3_R001",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/Retirement-Plan-Account-Manager---PA-RPAM-Q3-R001_R44155",
+    "locationsText": "14 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44461"
+      "R44155"
     ],
-    "id": "R44461",
+    "id": "R44155",
     "source": "SST"
   },
   {
-    "title": "Investor Services Representative - Entry Level",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Kansas-US/Investor-Services-Representative---Entry-Level_R44245",
-    "locationsText": "5 Locations",
+    "title": "Manager - Hedge Fund Accountant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland/Manager---Hedge-Fund-Accountant_R44644",
+    "locationsText": "Dublin, Ireland",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44245"
+      "R44644"
     ],
-    "id": "R44245",
+    "id": "R44644",
     "source": "SST"
   },
   {
-    "title": "Consultant, SS&C Genesis / Advent Investment Suite",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Consultant--SS-C-Genesis---Advent-Investment-Suite_R42235",
+    "title": "Regulatory Compliance Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Regulatory-Compliance-Analyst_R42779-1",
     "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42235"
+      "R42779"
     ],
-    "id": "R42235",
+    "id": "R42779",
     "source": "SST"
   },
   {
-    "title": "Associate Director, Client Relationship Management",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate-Director--Client-Relationship-Management_R43837",
-    "locationsText": "5 Locations",
+    "title": "Dealing Supervisor",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bangkok-Thailand/Dealing-Supervisor_R44445",
+    "locationsText": "Bangkok, Thailand",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43837"
+      "R44445"
     ],
-    "id": "R43837",
+    "id": "R44445",
     "source": "SST"
   },
   {
-    "title": "Associate Solutions Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Associate-Solutions-Analyst_R43479",
-    "locationsText": "Chicago, IL",
+    "title": "Manager -Salesforce Admin",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Manager--Salesforce-Admin_R44730",
+    "locationsText": "Mumbai, India",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43479"
+      "R44730"
     ],
-    "id": "R43479",
+    "id": "R44730",
     "source": "SST"
   },
   {
-    "title": "Associate Solutions Consultant, Eclipse Client Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Associate-Solutions-Consultant--Eclipse-Client-Services_R44178",
-    "locationsText": "3 Locations",
+    "title": "Senior Fund Administrator (PA26ASADMRQ3001)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellville-South-Africa/Senior-Fund-Administrator--PA26ASADMRQ3001-_R43623",
+    "locationsText": "Bellville, South Africa",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44178"
+      "R43623"
     ],
-    "id": "R44178",
+    "id": "R43623",
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Alternative Investor Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Associate-Manager--Alternative-Investor-Services_R43976",
-    "locationsText": "3 Locations",
+    "title": "NOC Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/NOC-Engineer_R43985",
+    "locationsText": "Hyderabad, India",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43976"
+      "R43985"
     ],
-    "id": "R43976",
+    "id": "R43985",
     "source": "SST"
   },
   {
     "title": "Mainframe Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Mainframe-Developer_2613272",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2613272"
     ],
@@ -934,7 +954,7 @@
     "title": "Software Development Engineer in Test (SDET)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Development-Engineer-in-Test--SDET-_2610467-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2610467"
     ],
@@ -945,7 +965,7 @@
     "title": "Sr. Mobile Engineer, Simplii Technology",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Mobile-Engineer--Simplii-Technology_2611714-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2611714"
     ],
@@ -956,7 +976,7 @@
     "title": "Consultant, Information Security Risk",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security-Risk_2612351",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2612351"
     ],
@@ -967,7 +987,7 @@
     "title": "Senior Security Consultant, Cryptographic Service Management",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Security-Consultant--Cryptographic-Service-Management_2609236",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2609236"
     ],
@@ -978,7 +998,7 @@
     "title": "Full Stack Software Developer (SQL, Oracle Apex)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Software-Developer--SQL--Oracle-Apex-_2612943",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2612943"
     ],
@@ -989,7 +1009,7 @@
     "title": "Consultant, Application Developer (Informatica)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Developer--Informatica-_2610720",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2610720"
     ],
@@ -1000,7 +1020,7 @@
     "title": "Senior PeopleSoft Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2613134",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2613134"
     ],
@@ -1011,7 +1031,7 @@
     "title": "Junior PeopleSoft Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Junior-PeopleSoft-Developer_2613136",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2613136"
     ],
@@ -1022,7 +1042,7 @@
     "title": "Java Developer (Java/J2EE/Angular 7+/SpringBoot)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Java-Developer--Java-J2EE-Angular-7--SpringBoot-_2605714",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2605714"
     ],
@@ -1033,7 +1053,7 @@
     "title": "Sr. Consultant, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2611077",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2611077"
     ],
@@ -1044,7 +1064,7 @@
     "title": "Consultant, Back End Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Back-End-Developer_2613433",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2613433"
     ],
@@ -1052,21 +1072,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Active Directory Entra ID Specialist",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Identity-Services-Support-Specialist_2605551",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2605551"
-    ],
-    "id": "2605551",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior DevOps Consultant, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-DevOps-Consultant--Application-Development_2612446-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2612446"
     ],
@@ -1077,7 +1086,7 @@
     "title": "Consultant, Data Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Data-Developer_2613099",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2613099"
     ],
@@ -1088,7 +1097,7 @@
     "title": "Sr. Consultant, Database Management",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Database-Management_2611412",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2611412"
     ],
@@ -1099,7 +1108,7 @@
     "title": "Consultant, Application Development- Java/Springboot",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--Java-Springboot_2613188",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2613188"
     ],
@@ -1110,7 +1119,7 @@
     "title": "Consultant, Data Visualization & Insights",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Data-Visualization---Insights_2612847",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2612847"
     ],
@@ -1121,7 +1130,7 @@
     "title": "Sr. Consultant, Full Stack Developer - Golang/OpenShift",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Full-Stack-Developer---Golang-OpenShift_2612785",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2612785"
     ],
@@ -1132,7 +1141,7 @@
     "title": "Consultant, Information Security",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2612904",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2612904"
     ],
@@ -1140,10 +1149,21 @@
     "source": "CIBC"
   },
   {
+    "title": "Senior Consultant, Data Engineering & AI Analytic Enablement",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Data-Engineering_2528344",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 4 Days Ago",
+    "bulletFields": [
+      "2528344"
+    ],
+    "id": "2528344",
+    "source": "CIBC"
+  },
+  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 8 Days Ago",
+    "postedOn": "Posted 9 Days Ago",
     "bulletFields": [
       "R029960"
     ],
@@ -1154,7 +1174,7 @@
     "title": "R&D AI Platform Engineer / Administrator",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/R-D-AI-Platform-Engineer---Administrator_R030749",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 15 Days Ago",
+    "postedOn": "Posted 16 Days Ago",
     "bulletFields": [
       "R030749"
     ],
@@ -1162,10 +1182,54 @@
     "source": "Ciena"
   },
   {
+    "title": "DSP ASIC Verification Engineer - Optical Transmission Systems",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Germany--Braunschweig/DSP-ASIC-Verification-Engineer---Optical-Transmission-Systems_R030543",
+    "locationsText": "Germany- Braunschweig",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030543"
+    ],
+    "id": "R030543",
+    "source": "Ciena"
+  },
+  {
+    "title": "PSIRT & Vulnerability Management Analyst",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/PSIRT---Vulnerability-Management-Analyst_R031184",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031184"
+    ],
+    "id": "R031184",
+    "source": "Ciena"
+  },
+  {
+    "title": "Fullstack Developer- Java & Angular2+",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Fullstack-Developer--Java---Angular2-_R030746",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030746"
+    ],
+    "id": "R030746",
+    "source": "Ciena"
+  },
+  {
+    "title": "Optical DSP Intern (Masters/PhD)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Optical-DSP-Intern--Masters-PhD-_R031265",
+    "locationsText": "Atlanta",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031265"
+    ],
+    "id": "R031265",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Optical Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Senior-Optical-Engineer_R031202",
     "locationsText": "New Providence - NJ",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R031202"
     ],
@@ -1176,7 +1240,7 @@
     "title": "Photonics Technical Prime",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Technical-Prime_R030271",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030271"
     ],
@@ -1187,7 +1251,7 @@
     "title": "Project Management Officer (PMO)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Project-Management-Officer--PMO-_R030413",
     "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030413"
     ],
@@ -1198,7 +1262,7 @@
     "title": "Associate Field Service Engineering",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Field-Service-Engineering-New-Grad_R030177",
     "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R030177"
     ],
@@ -1209,7 +1273,7 @@
     "title": "Personalization and Optimization Specialist",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Personalization-and-Optimization-Specialist_R030653",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R030653"
     ],
@@ -1220,7 +1284,7 @@
     "title": "Optical Components Test Engineer - Ottawa or Quebec City",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Components-Test-Engineer_R030610",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R030610"
     ],
@@ -1231,7 +1295,7 @@
     "title": "Embedded Software Engineer Intern (12-16 months - September 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R031219"
     ],
@@ -1242,7 +1306,7 @@
     "title": "Senior Optical Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Optical-Engineer_R031245",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R031245"
     ],
@@ -1253,7 +1317,7 @@
     "title": "Ing\u00e9nieur optique/Optical Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Ingnieur-optique-Optical-Engineer_R028389",
     "locationsText": "Quebec",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R028389"
     ],
@@ -1264,7 +1328,7 @@
     "title": "Embedded Software Engineer Intern (4 months - September 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R031232"
     ],
@@ -1275,7 +1339,7 @@
     "title": "Software Developer, ASIC",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Developer--ASIC_R030864",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R030864"
     ],
@@ -1286,7 +1350,7 @@
     "title": "Global Production Capacity Planning Lead",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Global-Production-Capacity-Planning-Lead_R031188",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R031188"
     ],
@@ -1297,7 +1361,7 @@
     "title": "Senior Manager Software Development",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Manager-Software-Development_R031220",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R031220"
     ],
@@ -1308,7 +1372,7 @@
     "title": "Photonics Software Engineer Intern (12 Months, Fall 2026)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Software-Engineer-Intern--12-Months--Fall-2026-_R031138",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R031138"
     ],
@@ -1316,54 +1380,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Software Platform Designer Intern",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Platform-Designer-Intern_R031142",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R031142"
-    ],
-    "id": "R031142",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Engineering Co\u2011op September 2026 (8-12 months)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Engineering-Co-op-September-2026--8-12-months-_R031221",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R031221"
-    ],
-    "id": "R031221",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior DSP ASIC Architect - Optical Communication",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Germany--Braunschweig/Senior-DSP-ASIC-Architect---Optical-Communication_R031225",
-    "locationsText": "Germany- Braunschweig",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R031225"
-    ],
-    "id": "R031225",
-    "source": "Ciena"
-  },
-  {
-    "title": "Associate Accounts Receivable",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Accounts-Receivable_R031158",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R031158"
-    ],
-    "id": "R031158",
-    "source": "Ciena"
-  },
-  {
     "title": "Fullstack Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/France---Paris/Fullstack-Engineer_R004243",
     "locationsText": "2 Locations",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "remoteType": "Hybrid Eligible",
     "bulletFields": [
       "R004243"
@@ -1375,7 +1395,7 @@
     "title": "Senior / Staff Embedded Firmware Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Staff-Firmware-Engineer_R004147",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "R004147"
     ],
@@ -1386,7 +1406,7 @@
     "title": "Senior Electrical Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Electrical-Engineer_R004212",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R004212"
     ],
@@ -1397,7 +1417,7 @@
     "title": "Cloud Technical Program Manager",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Cloud-Technical-Program-Manager_R004215",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R004215"
     ],
@@ -1408,7 +1428,7 @@
     "title": "Software Engineer II",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 24 Days Ago",
+    "postedOn": "Posted 25 Days Ago",
     "bulletFields": [
       "R004195"
     ],
@@ -1779,23 +1799,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260605145250_RQBYLTWZFTJOJUYY",
-    "title": "Customer Order Coordinator",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "<p>We are seeking a detail-oriented Order Processing Coordinator to accurately enter and manage orders based on customer purchase orders and internal requests for Production and R&amp;D. This role involves close collaboration with the Production team to monitor ship dates and address any delays.<br><br>The successful candidate will communicate order status clearly and promptly to internal departments, sales representatives, project managers, and customers, ensuring transparency and efficient coordination throughout the order fulfillment process.</p><p><strong>Responsibilities:</strong></p><ul><li>Create internal sales order within custom billing system&#160;</li><li>Organize delivery details such as, system customization notes, ship date, mode of transport, and payment terms</li><li>Provide customers and sales team with delivery updates such as, order revision requirements and transit rescheduling</li></ul><p><strong>Qualifications:&#160;</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational and time management skills</li><li>Excellent verbal and written communication skills, and problem-solving ability</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;&#160;</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Date Posted: </strong>June 5, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "bPTdklwFEh",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20260604193047_DWYEZLKKJNFTD1LR",
     "title": "Senior Software Engineer \u2013 Java Backend , AI",
     "country_id": "India",
@@ -2153,23 +2156,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260223143053_LQ4RJOKMIFSAGYW8",
-    "title": "Field Service Engineer - AV, USA",
-    "country_id": "United States",
-    "city": "Boise",
-    "state": "ID",
-    "zip": "",
-    "department": "Technical Support",
-    "description": "<p>Evertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "PrU51JaoKt",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20260223143045_HIKSCCEWOTMXE1UD",
     "title": "Field Service Engineer - AV, USA",
     "country_id": "United States",
@@ -2180,6 +2166,23 @@
     "description": "<p>Evertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "NDfXg56wfo",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20260223143053_LQ4RJOKMIFSAGYW8",
+    "title": "Field Service Engineer - AV, USA",
+    "country_id": "United States",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "",
+    "department": "Technical Support",
+    "description": "<p>Evertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "PrU51JaoKt",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -2374,16 +2377,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260223144930_TPA5DPZVLNWJEIZF",
-    "title": "Tax Accountant",
-    "country_id": "Canada",
-    "city": "Burlington, ON",
-    "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "Accounting",
-    "description": "<p>We are seeking a detail-oriented and proactive tax professional to support the Company&#8217;s Canadian and U.S. tax compliance and reporting requirements. This role plays a critical part in the preparation and filing of corporate tax returns, SR&amp;ED claims, and government remittances, while ensuring ongoing compliance with regulatory systems and deadlines. Working closely with the accounting team, external advisors, and the executive team, the successful candidate will contribute to accurate financial reporting, support tax audits, research evolving tax regulations, and assist with day-to-day accounting operations and special projects.<br><br><strong>Responsibilities:</strong></p><ul><li>Complete the preparation of the Company&#8217;s Canadian corporate tax returns, including leading the preparation and review of annual SR&amp;ED filings.</li><li>Preparation of calculations and working paper schedules in supporting the tax returns.</li><li>Assist in the filing of the Company&#8217;s US corporate tax returns.</li><li>Ensure Canadian and US government remittances, including sales taxes, corporate taxes are submitted on time.</li><li>Maintain access and compliance with financial portals and systems for Canadian and US tax filings and regulatory submissions.</li><li>Serve as the point of contact for all tax compliance audits.</li><li>Assist accounting team in preparation of financial statement tax provisions and disclosures.</li><li>Research new tax trends and regulations.</li><li>Liaison with external accounting firm(s) and working closely in all areas with the executive team.</li><li>Assistance in day-to-day operations within the accounting department</li><li>Other related duties, including special projects, as assigned by management</li></ul><p><strong>Qualifications:</strong></p><ul><li>Designated accountant, preferably a qualified CPA</li><li>Strong knowledge of CRA regulations and compliance</li><li>Demonstrated ability to manage projects with multiple priorities and timelines</li><li>Ability to work independently and within a team</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $90K CAD - $140K CAD, based on experience</p><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "id": "job_20260223143100_R6IBC8GFQNDGJZII",
+    "title": "Field Service Engineer - AV, USA",
+    "country_id": "United States",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "department": "Technical Support",
+    "description": "<p>Evertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
-    "board_code": "vxgaRRwhO4",
+    "board_code": "fzu6Qi3s1d",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -2578,16 +2581,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260223143100_R6IBC8GFQNDGJZII",
-    "title": "Field Service Engineer - AV, USA",
-    "country_id": "United States",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "",
-    "department": "Technical Support",
-    "description": "<p>Evertz, a growing high-technology company with over 2,000 employees today, is a worldwide leader in the design and manufacture of broadcast, film production and post production equipment for the film, television broadcast and Professional Audio &amp; Video industry.<br><br>We are currently looking for recent graduates to join our AV Service team. As the first and often the most frequent point of contact for our clients, you will have the greatest opportunity to influence the client's perception of Evertz. This position is a challenging yet rewarding mix that combines technical know-how and customer service skills. You will be part of a high-energy team dealing with exciting customers and cutting-edge products both in-house and while on-site at our customers&#8217; production studios and distribution facilities.<br><br>Position requires travel within the US. US home location is flexible with opportunity to work from home when not on field assignments</p><h4><strong>Responsibilities:</strong></h4><ul><li>Travel within the US for customer deployments and general service</li><li>Install product(s) or systems at customer sites and deliver product training to customers</li><li>Respond and provide technical direction to customers regarding operational issues, firmware upgrades and general maintenance</li><li>Assess customer&#8217;s product application, troubleshoot and diagnose issues through research and/or re-creation to determine a root cause</li><li>Systematic &amp; detail-oriented troubleshooting, data collection and reporting of issues</li><li>Maintain a communication link between customer service and other departments by partnering to resolve customer issues and communicating customer feedback</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>College or University education in Electrical, Electronic, or Computer disciplines</li><li>Passion for technology and learning new software and hardware products</li><li>Hands-on experience with IP Networking, server hardware and Linux OS</li><li>Unparalleled desire to help customers and deliver service excellence</li><li>Problem-solving ability while reacting to changing situations, &amp; championing issues to resolution</li><li>Ability to multi-task in a fast-paced environment</li><li>Strong verbal and written communication skills</li><li>Must be eligible for travel within US and Canada</li><li>US Citizenship is essential</li></ul><p><strong>Location</strong>: Remote work possibility for any US State</p><p><strong>What We Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li></ul><p>Evertz USA Inc. (Evertz) is proud to be an Equal Employment Opportunity and Affirmative Action employer. We celebrate, support, and value diversity!</p><p>Evertz does not discriminate in employment or recruiting efforts on the basis of race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.</p><p>All employment decisions are decided based on qualifications, merit, and business needs.</p><p>If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "id": "job_20260223144930_TPA5DPZVLNWJEIZF",
+    "title": "Tax Accountant",
+    "country_id": "Canada",
+    "city": "Burlington, ON",
+    "state": "ON",
+    "zip": "L7L5Z9",
+    "department": "Accounting",
+    "description": "<p>We are seeking a detail-oriented and proactive tax professional to support the Company&#8217;s Canadian and U.S. tax compliance and reporting requirements. This role plays a critical part in the preparation and filing of corporate tax returns, SR&amp;ED claims, and government remittances, while ensuring ongoing compliance with regulatory systems and deadlines. Working closely with the accounting team, external advisors, and the executive team, the successful candidate will contribute to accurate financial reporting, support tax audits, research evolving tax regulations, and assist with day-to-day accounting operations and special projects.<br><br><strong>Responsibilities:</strong></p><ul><li>Complete the preparation of the Company&#8217;s Canadian corporate tax returns, including leading the preparation and review of annual SR&amp;ED filings.</li><li>Preparation of calculations and working paper schedules in supporting the tax returns.</li><li>Assist in the filing of the Company&#8217;s US corporate tax returns.</li><li>Ensure Canadian and US government remittances, including sales taxes, corporate taxes are submitted on time.</li><li>Maintain access and compliance with financial portals and systems for Canadian and US tax filings and regulatory submissions.</li><li>Serve as the point of contact for all tax compliance audits.</li><li>Assist accounting team in preparation of financial statement tax provisions and disclosures.</li><li>Research new tax trends and regulations.</li><li>Liaison with external accounting firm(s) and working closely in all areas with the executive team.</li><li>Assistance in day-to-day operations within the accounting department</li><li>Other related duties, including special projects, as assigned by management</li></ul><p><strong>Qualifications:</strong></p><ul><li>Designated accountant, preferably a qualified CPA</li><li>Strong knowledge of CRA regulations and compliance</li><li>Demonstrated ability to manage projects with multiple priorities and timelines</li><li>Ability to work independently and within a team</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $90K CAD - $140K CAD, based on experience</p><p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
-    "board_code": "fzu6Qi3s1d",
+    "board_code": "vxgaRRwhO4",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -2674,23 +2677,6 @@
     "type": "Contracted",
     "board_code": "JjT4S4ynCG",
     "workflow_id": "workflow_20250724151321_IRQ5EKVMQ7ERBWCG",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20250128132928_KFEHAQMAJUBFUWAI",
-    "title": "Software Developer, Video and Graphics",
-    "country_id": "Poland",
-    "city": "Warsaw",
-    "state": "",
-    "zip": "",
-    "department": "",
-    "description": "<div><div class=\"scriptor-paragraph\"><strong><em>Please submit your documents <u>in English</u> when applying for this position.</em></strong><br><br><span>Our software engineers develop next generation technologies that enable the creation of media entertainment that you enjoy at home or on the go. Our software plays a significant role in producing and delivering your favourite sports, shows and movies. Anything you watch on TV or stream online, there's a good chance Evertz software is behind the scenes making it happen.</span></div><div class=\"scriptor-paragraph\"><span>When you join our team, you will immediately begin developing software that ships. &#8239;While doing so, you will apply your academic and professional backgrounds to interesting and challenging problems. Your software will be used by skilled media professionals in critical media operations around the world. This is your opportunity to be part of an exciting industry that is undergoing rapid technological advancement.&#160; </span><br>&#160;</div><div class=\"scriptor-paragraph\"><span>Your work will mainly involve developing solutions for tailored customer applications, use-cases, and systems. </span></div><div class=\"scriptor-paragraph\"></div><div class=\"scriptor-paragraph\"><span>Your responsibilities:</span><span> </span></div><ul><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f960\"><span>Researching, designing and implementing software employing standard development practices. </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f960\"><span>Identifying areas for improvement in existing programs and subsequently implementing these improvements. </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f960\"><span>Writing and implementing efficient code in a manner easily understood by peers. </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f960\"><span>Developing and implementing unit, functional and regression test procedures pertaining to designed system. </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f960\"><span>Working in an independent and group setting, mentoring and cooperating with others as needed. </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f960\"><span>Deploying software tools and processes. </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f960\"><span>Maintaining and upgrading existing systems. </span></li></ul><div class=\"scriptor-paragraph\"></div><div class=\"scriptor-paragraph\"><span>Skills and Experience you will bring:</span><span> </span></div><ul><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f961\"><span>At least 3 years of professional experience with C/</span><span>C++</span><span>&#8239; </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f961\"><span>Concurrent programming in Linux environments&#8239; </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f961\"><span>Git (Git-based workflows, CI, Confluence, JIRA)&#8239; </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f961\"><span>Scripting (sh, Bash, Python),&#160; </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f961\"><span>Make, GCC </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f961\"><span>Networking (sockets, TCP/UDP/RTP, multicast/unicast) </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f961\"><span>Multithreading </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f961\"><span>Shared memory </span></li></ul><div class=\"scriptor-paragraph\"></div><div class=\"scriptor-paragraph\"><span>Recommended Skills:</span><span> </span></div><ul><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f962\"><span>Image properties (fourcc, colour space, HDR/SDR) </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f962\"><span>Video codecs (H.264, H.265, JPEG2000, JPEG-XS, DnXHD, ProRes) </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f962\"><span>Media containers (MPEG-TS, mov, mxf) </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f962\"><span>Broadcast production (SDI, SMPTE ST2110, timecode, NLE) </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f962\"><span>Time systems and time distribution (UTC/TAI, IEEE1588, SMPTE ST2059, leap seconds) </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f962\"><span>Network streaming (SRT, RIST) </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f962\"><span>Processing acceleration (SIMD/SSE/AVX, CUDA, OpenCL) </span></li></ul><div class=\"scriptor-paragraph\"></div><div class=\"scriptor-paragraph\"><span>Optional Skills:</span><span> </span></div><ul><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f963\"><span>Linux kernel knowledge (drivers, networking, filesystems, memory management, tracing) </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f963\"><span>FFmpeg </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f963\"><span>Matrox DSX SDK </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f963\"><span>NewTek NDI SDK </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f963\"><span>Linux packaging/distribution (dpkg-deb, debootstrap, pbuilder, rootfs </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f963\"><span>Template Programming (STL, Boost)&#8239; </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f963\"><span>Breakpad for crashdump analysis&#8239; </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f963\"><span>Javascript&#8239; </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f963\"><span>Cloud infrastructure and deployment (AWS)&#8239; </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f963\"><span>CI/CD (Jenkins, JIRA, Stash)&#8239; </span></li></ul><div class=\"scriptor-paragraph\"></div><div class=\"scriptor-paragraph\"><span>Recruitment process is simple:</span><span> </span></div><ol class=\"scriptor-listCounterlist!list-782b9280-7841-43e1-9a41-ff32a6be5f964 scriptor-listCounterResetlist!list-782b9280-7841-43e1-9a41-ff32a6be5f964\"><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f964\"><span>Screening with recruiter&#8239;(45 min) </span></li><li class=\"scriptor-listItemlist!list-782b9280-7841-43e1-9a41-ff32a6be5f964\"><span>Technical interview with 2 Senior Developers and optionally HM (up to 2.5 hr) </span></li></ol><div class=\"scriptor-paragraph\"></div><div class=\"scriptor-paragraph\"><span>About the position / about the project</span><span> </span></div><div class=\"scriptor-paragraph\"></div><div class=\"scriptor-paragraph\"><span>The OvertureRT team architects, develops and manages high-performance real-time video and graphics pipelines working in C and C++. You will use all of the tools and techniques in your arsenal, from low-level SSE extensions, to using CUDA on our GPUs, to optimized DMA transfers to develop engines and pipelines for processing pixels and frames. You will be working with encoders and decoders for many codecs (H.264, HEVC, VP8, VP9, AV1, and others) and muxes/demuxes for many container formats (MXF, TS, GXF, MOV) in a Linux environment. You will work in an agile environment with our international teams. Your work will be seen by millions. </span></div><div class=\"scriptor-paragraph\"><span>We work in agile, low-bureaucracy, cross-functional teams spread across the world. It&#8217;s a highly creative work environment where the team is built on trust and is relaxed, open and welcoming to all. </span></div><div class=\"scriptor-paragraph\"><span>Evertz has engineering offices in Canada, England, Scotland, India, and </span><span>now it's time for Poland!</span></div></div><p></p>",
-    "type": "Contracted",
-    "board_code": "1lUH1KXUz7",
-    "workflow_id": "workflow_20221024215758_YOJP1W7C6CVR8I03",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

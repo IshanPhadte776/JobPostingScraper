@@ -1171,6 +1171,14 @@
     "source": "Ciena"
   },
   {
+    "bulletFields": [
+      "R031104"
+    ],
+    "id": "R031104",
+    "externalPath": "",
+    "source": "Ciena"
+  },
+  {
     "title": "Experienced Photonic Card Software Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031262",
     "locationsText": "Ottawa",
@@ -1366,17 +1374,6 @@
       "R030610"
     ],
     "id": "R030610",
-    "source": "Ciena"
-  },
-  {
-    "title": "Embedded Software Engineer Intern (12-16 months - September 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R031219"
-    ],
-    "id": "R031219",
     "source": "Ciena"
   },
   {

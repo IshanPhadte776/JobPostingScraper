@@ -852,6 +852,28 @@
     "source": "SST"
   },
   {
+    "title": "Client Engagement Liaison (LH-BPO)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Principal-MBO-Operations-Analyst_R42194",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42194"
+    ],
+    "id": "R42194",
+    "source": "SST"
+  },
+  {
+    "title": "Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Manager_R44463",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44463"
+    ],
+    "id": "R44463",
+    "source": "SST"
+  },
+  {
     "title": "Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R44719",
     "locationsText": "Maharashtra, Navi Mumbai",
@@ -916,39 +938,6 @@
     ],
     "id": "R43531",
     "source": "SST"
-  },
-  {
-    "title": "Principal Alternatives Fund Accountant",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Principal-Alternatives-Fund-Accountant_R42854",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42854"
-    ],
-    "id": "R42854",
-    "source": "SST"
-  },
-  {
-    "title": "SC2 - PA26SBOQ3MON003",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/SC4---PA26SBOQ3MON003_R43672",
-    "locationsText": "Mumbai, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43672"
-    ],
-    "id": "R43672",
-    "source": "SST"
-  },
-  {
-    "title": "Sr. Consultant, Generative AI",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Generative-AI_2613776",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "2613776"
-    ],
-    "id": "2613776",
-    "source": "CIBC"
   },
   {
     "title": "Senior Business Systems Analyst (SEI, BOXI)",
@@ -1157,6 +1146,17 @@
       "2613433"
     ],
     "id": "2613433",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior DevOps Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-DevOps-Consultant--Application-Development_2612446-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 7 Days Ago",
+    "bulletFields": [
+      "2612446"
+    ],
+    "id": "2612446",
     "source": "CIBC"
   },
   {
@@ -2023,7 +2023,7 @@
     "id": "job_20260504132121_0UQ27TKGPOKPXFPT",
     "title": "Administrative Assistant, Finance Department",
     "country_id": "Canada",
-    "city": "Burlington, ON",
+    "city": "Burlington",
     "state": "ON",
     "zip": "L7L5Z9",
     "department": "Administration",

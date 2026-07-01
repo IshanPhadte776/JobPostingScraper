@@ -721,6 +721,17 @@
   },
   {
     "title": "Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R44279",
+    "locationsText": "Maharashtra, Navi Mumbai",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44279"
+    ],
+    "id": "R44279",
+    "source": "SST"
+  },
+  {
+    "title": "Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R44275",
     "locationsText": "Maharashtra, Navi Mumbai",
     "postedOn": "Posted Today",
@@ -863,6 +874,39 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate, Hedge Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Senior-Associate--Hedge-Fund-Accounting_R42655",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42655"
+    ],
+    "id": "R42655",
+    "source": "SST"
+  },
+  {
+    "title": "Principal Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mexico-City-Mexico/Account-Executive_R43275-1",
+    "locationsText": "Mexico City, Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43275"
+    ],
+    "id": "R43275",
+    "source": "SST"
+  },
+  {
+    "title": "Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mexico-City-Mexico/Digital-Sales-Rep_R41723",
+    "locationsText": "Mexico City, Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41723"
+    ],
+    "id": "R41723",
+    "source": "SST"
+  },
+  {
     "title": "Account Executive",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Account-Executive_R43214",
     "locationsText": "New York, NY",
@@ -893,50 +937,6 @@
       "R42855"
     ],
     "id": "R42855",
-    "source": "SST"
-  },
-  {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate_R42204",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R42204"
-    ],
-    "id": "R42204",
-    "source": "SST"
-  },
-  {
-    "title": "AI-Led Product Researcher & Designer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/AI-Led-Product-Researcher---Designer_R44891",
-    "locationsText": "London - 1 Ropemaker Street",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44891"
-    ],
-    "id": "R44891",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate-Director_R38814",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R38814"
-    ],
-    "id": "R38814",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Gurgaon-India/Associate-Manager_R43805",
-    "locationsText": "Gurgaon, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43805"
-    ],
-    "id": "R43805",
     "source": "SST"
   },
   {

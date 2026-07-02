@@ -874,6 +874,28 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate, Private Equity/FoF Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Senior-Associate--Private-Equity-FoF-Accounting_R44510",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44510"
+    ],
+    "id": "R44510",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Private Markets",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Antonio-TX/Manager--Private-Markets_R43164",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43164"
+    ],
+    "id": "R43164",
+    "source": "SST"
+  },
+  {
     "title": "Senior Data Reliability Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---UK/Senior-Site-Reliability-Engineer--Data---Automation-Focus-_R42454",
     "locationsText": "Remote - UK",
@@ -918,26 +940,15 @@
     "source": "SST"
   },
   {
-    "title": "Manager - Private Equity Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager---Private-Equity-Fund-Accounting_R37685",
-    "locationsText": "3 Locations",
+    "title": "Software Engineer II - Android",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Engineer-II---Android_2613338",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37685"
+      "2613338"
     ],
-    "id": "R37685",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Project Manager, Service Delivery",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Senior-Project-Manager--Service-Delivery_R43490",
-    "locationsText": "Toronto, Canada",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43490"
-    ],
-    "id": "R43490",
-    "source": "SST"
+    "id": "2613338",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Full Stack Developer",
@@ -1146,17 +1157,6 @@
       "2611412"
     ],
     "id": "2611412",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Full Stack Developer - Golang/OpenShift",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Full-Stack-Developer---Golang-OpenShift_2612785",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 9 Days Ago",
-    "bulletFields": [
-      "2612785"
-    ],
-    "id": "2612785",
     "source": "CIBC"
   },
   {

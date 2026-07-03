@@ -660,26 +660,6 @@
     "url": "https://solace.bamboohr.com/career/careers/771"
   },
   {
-    "id": "772",
-    "jobOpeningName": "Junior HR Generalist",
-    "departmentId": "18839",
-    "departmentLabel": "Human Resources",
-    "employmentStatusLabel": "Temporary Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/772"
-  },
-  {
     "id": "773",
     "jobOpeningName": "Sales Development Representative",
     "departmentId": "19494",
@@ -940,6 +920,17 @@
     "source": "SST"
   },
   {
+    "title": "Consultant, Information Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Information-Security_2612904",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2612904"
+    ],
+    "id": "2612904",
+    "source": "CIBC"
+  },
+  {
     "title": "Sr. Security Service Manager, Application Security",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Security-Service-Manager--Application-Security_2613280",
     "locationsText": "Toronto, ON",
@@ -1146,17 +1137,6 @@
       "2609236"
     ],
     "id": "2609236",
-    "source": "CIBC"
-  },
-  {
-    "title": "Full Stack Software Developer (SQL, Oracle Apex)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Software-Developer--SQL--Oracle-Apex-_2612943",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 9 Days Ago",
-    "bulletFields": [
-      "2612943"
-    ],
-    "id": "2612943",
     "source": "CIBC"
   },
   {
@@ -1782,23 +1762,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260605150823_07SBNZRBLORREYNZ",
-    "title": "Logistics Coordinator",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "<p>We are seeking a detail-oriented and proactive Logistics Coordinator to manage shipment documentation and labeling for both domestic and international orders. The successful candidate will engage various companies such as FedEx to facilitate shipments of broadcast equipment worldwide and ensure smooth customs clearance by troubleshooting any delays or issues that arise during the shipping process.&#160;<br><br>Responsibilities include providing timely tracking information and updates to customers and internal teams, managing all invoicing related to shipments, and advising on shipping charges as required. This role requires strong organizational skills, attention to detail, and excellent communication to deliver exceptional service and support across all shipping operations.</p><p><strong>Responsibilities:</strong></p><ul><li>Liaise with customers &amp; internally with other departments, including QA, Sales, Shipping, to provide shipment details and documentation to customers and sales.</li><li>Work with customs in various countries to mitigate any delays with shipments.</li><li>Issue customer invoices and tracking details upon shipment.</li><li>Strong ability to work both independently and as part of a team</li><li>Outstanding problem solving and critical thinking skills</li><li>Excellent verbal and written communication skills</li><li>Proven time management skills</li><li>Participate in an on-call rotation to support logistics operations</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Date Posted:</strong> June 5, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "FFYIppOIR4",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20260604193047_DWYEZLKKJNFTD1LR",
     "title": "Senior Software Engineer \u2013 Java Backend , AI",
     "country_id": "India",
@@ -1901,16 +1864,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260522190920_SZ5DMLPTXE7HPKK6",
-    "title": "Production Assembler - Server Chassis",
+    "id": "job_20260522190642_2ADSS02UF8378XS5",
+    "title": "Production Assembler",
     "country_id": "Canada",
     "city": "Burlington",
     "state": "ON",
-    "zip": "L7L 5Z9",
+    "zip": "L7L5Z9",
     "department": "Manufacturing",
-    "description": "<p>Working in production, you will be part of the manufacturing group that assembles our products.&#160;</p><p><strong>Responsibilities:</strong></p><ul><li>Read and follow Assembly Drawings, Test Procedures, and Bill of Materials</li><li>Assemble servers from bare chassis to finished product</li><li>Install additional modules based on customer ordering options</li><li>Perform initial functional tests &#8211; Power, Boot up &amp; BIOS check</li><li>Install and run Linux based software</li><li>Work with team members to complete projects</li><li>Report daily work assignment updates to your supervisor/ Manager</li><li>Any other duties as required.</li></ul><p><strong>Qualifications:</strong></p><ul><li>High School diploma</li><li>Basic knowledge of MS applications &amp; computer skills</li><li>Ability to follow verbal and written instructions</li><li>Attention to detail</li><li>Self-motivated</li><li>Positive attitude and ability to work in a fast-paced environment</li><li>Team-oriented &amp; ability to work independently&#160;&#160;</li><li>Ability to lift up to 50 pounds</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$17.60 (minimum wage)<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "description": "<p>Working in production, you will be part of the manufacturing group that assembles our products.&#160;</p><h4><strong>Responsibilities:</strong></h4><ul><li>Printed circuit board, chassis and cable assembly</li><li>Read assembly drawings</li><li>Other duties as required</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>Experience with electronic components in an electronic manufacturing environment would be an asset</li><li>Hand soldering experience would be an asset</li><li>Strong attention to detail is required</li><li>High School Diploma</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$17.60 (minimum wage)<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
-    "board_code": "e8jtcVYNjI",
+    "board_code": "mEIGyfgGxS",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -1935,16 +1898,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260522190642_2ADSS02UF8378XS5",
-    "title": "Production Assembler",
+    "id": "job_20260522190920_SZ5DMLPTXE7HPKK6",
+    "title": "Production Assembler - Server Chassis",
     "country_id": "Canada",
     "city": "Burlington",
     "state": "ON",
-    "zip": "L7L5Z9",
+    "zip": "L7L 5Z9",
     "department": "Manufacturing",
-    "description": "<p>Working in production, you will be part of the manufacturing group that assembles our products.&#160;</p><h4><strong>Responsibilities:</strong></h4><ul><li>Printed circuit board, chassis and cable assembly</li><li>Read assembly drawings</li><li>Other duties as required</li></ul><h4><strong>Qualifications:</strong></h4><ul><li>Experience with electronic components in an electronic manufacturing environment would be an asset</li><li>Hand soldering experience would be an asset</li><li>Strong attention to detail is required</li><li>High School Diploma</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$17.60 (minimum wage)<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "description": "<p>Working in production, you will be part of the manufacturing group that assembles our products.&#160;</p><p><strong>Responsibilities:</strong></p><ul><li>Read and follow Assembly Drawings, Test Procedures, and Bill of Materials</li><li>Assemble servers from bare chassis to finished product</li><li>Install additional modules based on customer ordering options</li><li>Perform initial functional tests &#8211; Power, Boot up &amp; BIOS check</li><li>Install and run Linux based software</li><li>Work with team members to complete projects</li><li>Report daily work assignment updates to your supervisor/ Manager</li><li>Any other duties as required.</li></ul><p><strong>Qualifications:</strong></p><ul><li>High School diploma</li><li>Basic knowledge of MS applications &amp; computer skills</li><li>Ability to follow verbal and written instructions</li><li>Attention to detail</li><li>Self-motivated</li><li>Positive attitude and ability to work in a fast-paced environment</li><li>Team-oriented &amp; ability to work independently&#160;&#160;</li><li>Ability to lift up to 50 pounds</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$17.60 (minimum wage)<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
-    "board_code": "mEIGyfgGxS",
+    "board_code": "e8jtcVYNjI",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,

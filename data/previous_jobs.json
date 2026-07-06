@@ -744,17 +744,6 @@
     "source": "SST"
   },
   {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R44275",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R44275"
-    ],
-    "id": "R44275",
-    "source": "SST"
-  },
-  {
     "title": "Cloud Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Cloud-Engineer_R40402",
     "locationsText": "Kansas City, MO",
@@ -865,6 +854,17 @@
     "source": "SST"
   },
   {
+    "title": "Manager, Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Fund-Accounting_R44129-1",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44129"
+    ],
+    "id": "R44129",
+    "source": "SST"
+  },
+  {
     "title": "Field Sales Executive",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---UK/Field-Sales-Executive_R43528",
     "locationsText": "Remote - UK",
@@ -918,6 +918,17 @@
     ],
     "id": "R41623",
     "source": "SST"
+  },
+  {
+    "title": "Sr. Consultant, Technology Architecture",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Technology-Architecture_2613483",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2613483"
+    ],
+    "id": "2613483",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Application Development",
@@ -1129,17 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior .NET Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-NET-Developer_2613445",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2613445"
-    ],
-    "id": "2613445",
-    "source": "CIBC"
-  },
-  {
     "title": "Consulting Solution Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Consulting-Solution-Engineer_R031244",
     "locationsText": "3 Locations",
@@ -1159,6 +1159,28 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Experienced Photonic Card Software Developer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031262",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031262"
+    ],
+    "id": "R031262",
+    "source": "Ciena"
+  },
+  {
+    "title": "Network Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Frankfurt/Network-Engineer---New-Grad_R031296",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031296"
+    ],
+    "id": "R031296",
     "source": "Ciena"
   },
   {
@@ -1272,17 +1294,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Experienced Photonic Card Software Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031262",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R031262"
-    ],
-    "id": "R031262",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior Analog Design Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Analog-Design-Engineer_R030674",
     "locationsText": "Ottawa",
@@ -1346,17 +1357,6 @@
       "R031270"
     ],
     "id": "R031270",
-    "source": "Ciena"
-  },
-  {
-    "title": "Network Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/London/Network-Engineer---New-Grad_R031215-1",
-    "locationsText": "London",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "R031215"
-    ],
-    "id": "R031215",
     "source": "Ciena"
   },
   {

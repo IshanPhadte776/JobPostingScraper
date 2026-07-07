@@ -854,6 +854,39 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate, Client Relations Specialist - HYBRID",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Senior-Associat_R44971",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44971"
+    ],
+    "id": "R44971",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate, Middle Office Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Middle-Office-Operations_R41187",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41187"
+    ],
+    "id": "R41187",
+    "source": "SST"
+  },
+  {
+    "title": "Enterprise Marketing Data Analyst \u2013 Cross-Functional Insights & Visualization",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Enterprise-Marketing-Data-Analyst---Cross-Functional-Insights---Visualization_R42875",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42875"
+    ],
+    "id": "R42875",
+    "source": "SST"
+  },
+  {
     "title": "Managed Services Operations Analyst",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Fort-Worth-TX/Managed-Services-Operations-Analyst_R44126",
     "locationsText": "3 Locations",
@@ -862,17 +895,6 @@
       "R44126"
     ],
     "id": "R44126",
-    "source": "SST"
-  },
-  {
-    "title": "Managed Services Operations Analyst",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Fort-Worth-TX/Managed-Services-Operations-Analyst_R44652",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44652"
-    ],
-    "id": "R44652",
     "source": "SST"
   },
   {
@@ -898,26 +920,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate- Transfer Agency",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Senior-Associate--Transfer-Agency_R42505",
-    "locationsText": "Mumbai, India",
+    "title": "Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development_2600271",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R42505"
+      "2600271"
     ],
-    "id": "R42505",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Senior-Software-Engineer_R44697",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44697"
-    ],
-    "id": "R44697",
-    "source": "SST"
+    "id": "2600271",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Generative AI",
@@ -1129,17 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior .NET Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-NET-Developer_2613445",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2613445"
-    ],
-    "id": "2613445",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1148,6 +1148,61 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Test Engineer - Test Station Validation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Test-Engineer---Test-Station-Validation_R031285",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031285"
+    ],
+    "id": "R031285",
+    "source": "Ciena"
+  },
+  {
+    "title": "Customer Success Advocate",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Customer-Success-Advocate_R031278",
+    "locationsText": "Remote-Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031278"
+    ],
+    "id": "R031278",
+    "source": "Ciena"
+  },
+  {
+    "title": "Associate, Field Service Project Management",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Associate--Field-Service-Project-Management_R031279",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031279"
+    ],
+    "id": "R031279",
+    "source": "Ciena"
+  },
+  {
+    "title": "Principal Digital Verification Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-York/Digital-Verification-Engineer-Expert_R030747",
+    "locationsText": "New York",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030747"
+    ],
+    "id": "R030747",
+    "source": "Ciena"
+  },
+  {
+    "title": "Wavelogic Embedded Software Developer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Wavelogic-Embedded-Software-Developer_R031274",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031274"
+    ],
+    "id": "R031274",
     "source": "Ciena"
   },
   {
@@ -1170,17 +1225,6 @@
       "R031266"
     ],
     "id": "R031266",
-    "source": "Ciena"
-  },
-  {
-    "title": "Network Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Network-Engineer_R031241",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031241"
-    ],
-    "id": "R031241",
     "source": "Ciena"
   },
   {
@@ -1313,50 +1357,6 @@
       "R029698"
     ],
     "id": "R029698",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Analog Design Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Analog-Design-Engineer_R030674",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "R030674"
-    ],
-    "id": "R030674",
-    "source": "Ciena"
-  },
-  {
-    "title": "R&D AI Platform Engineer / Administrator",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/R-D-AI-Platform-Engineer---Administrator_R030749",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "R030749"
-    ],
-    "id": "R030749",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Senior-Software-Engineer_R030779",
-    "locationsText": "Atlanta",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "R030779"
-    ],
-    "id": "R030779",
-    "source": "Ciena"
-  },
-  {
-    "title": "Stagiaire en d\u00e9veloppement logiciel - COOP Software developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Stagiaire-en-dveloppement-logiciel---COOP-Software-developer_R031275",
-    "locationsText": "Remote-Canada",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "R031275"
-    ],
-    "id": "R031275",
     "source": "Ciena"
   },
   {

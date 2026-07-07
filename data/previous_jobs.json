@@ -854,6 +854,28 @@
     "source": "SST"
   },
   {
+    "title": "\u200bManager, \u200bClient Relationship Management",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/XMLNAME--Manager---Client-Relationship-Management_R44982",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44982"
+    ],
+    "id": "R44982",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Client Relations Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Associate-Client-Relations-Specialist_R44980",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44980"
+    ],
+    "id": "R44980",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Client Relations Specialist - HYBRID",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Senior-Associat_R44971",
     "locationsText": "4 Locations",
@@ -898,26 +920,15 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Senior-Associate_R33109",
-    "locationsText": "Mumbai, India",
+    "title": "Consultant, Data Visualization & Insights",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Data-Visualization---Insights_2612847",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R33109"
+      "2612847"
     ],
-    "id": "R33109",
-    "source": "SST"
-  },
-  {
-    "title": "Director, Learning and Development",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Director--Learning-and-Development_R44883",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44883"
-    ],
-    "id": "R44883",
-    "source": "SST"
+    "id": "2612847",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Application Development",
@@ -1129,17 +1140,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Full Stack Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Full-Stack-Developer_2608588",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2608588"
-    ],
-    "id": "2608588",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1148,6 +1148,25 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Director, Project Management",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Director--Project-Management_R031272",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031272"
+    ],
+    "id": "R031272",
+    "source": "Ciena"
+  },
+  {
+    "bulletFields": [
+      "R031287"
+    ],
+    "id": "R031287",
+    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -1335,28 +1354,6 @@
       "R031293"
     ],
     "id": "R031293",
-    "source": "Ciena"
-  },
-  {
-    "title": "Lead Network Assurance Delivery Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pune/Lead-Network-Assurance-Delivery-Engineer_R031261",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R031261"
-    ],
-    "id": "R031261",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Engineer system - C/C++ Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India-Gurgaon-TRIL-Tower-4/Software-Engineer-system---C-C---Developer_R029698",
-    "locationsText": "India-Gurgaon-TRIL Tower 4",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R029698"
-    ],
-    "id": "R029698",
     "source": "Ciena"
   },
   {

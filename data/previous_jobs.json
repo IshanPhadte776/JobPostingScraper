@@ -885,6 +885,50 @@
     "source": "SST"
   },
   {
+    "title": "Director, Client Account Management \u2013 Transfer Agency",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Director--Client-Account-Management---Transfer-Agency_R40016",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40016"
+    ],
+    "id": "R40016",
+    "source": "SST"
+  },
+  {
+    "title": "Data Platform Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Data-Platform-Software-Engineer_R44578",
+    "locationsText": "Kansas City, MO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44578"
+    ],
+    "id": "R44578",
+    "source": "SST"
+  },
+  {
+    "title": "Sr. Data Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Sr-Data-Engineer_R44852",
+    "locationsText": "San Francisco, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44852"
+    ],
+    "id": "R44852",
+    "source": "SST"
+  },
+  {
+    "title": "Client Advocate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Advocate_R39656",
+    "locationsText": "Jacksonville, FL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R39656"
+    ],
+    "id": "R39656",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Fund Accounting",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Edina-MN/Senior-Associate--Fund-Accounting_R44619",
     "locationsText": "2 Locations",
@@ -896,48 +940,26 @@
     "source": "SST"
   },
   {
-    "title": "Associate Manager, Alternatives Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Manager--Alternatives-Operations_R43776",
-    "locationsText": "2 Locations",
+    "title": "Sr. Consultant, Back End Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer_2606800",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43776"
+      "2606800"
     ],
-    "id": "R43776",
-    "source": "SST"
+    "id": "2606800",
+    "source": "CIBC"
   },
   {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Associate_R39106",
-    "locationsText": "Boston, MA",
+    "title": "Azure Data Platform Support Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Data-Platform-Support-Engineer_2610447",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R39106"
+      "2610447"
     ],
-    "id": "R39106",
-    "source": "SST"
-  },
-  {
-    "title": "Transfer Agency Intern",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Luxembourg-City-Luxembourg/Transfer-Agency-Intern_R44991",
-    "locationsText": "Luxembourg City, Luxembourg",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44991"
-    ],
-    "id": "R44991",
-    "source": "SST"
-  },
-  {
-    "title": "EOI - Investor Services (Associate, Senior Associate, Associate Manager and Manager)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/EOI---Investor-Services--Associate--Senior-Associate--Associate-Manager-and-Manager-_R44989",
-    "locationsText": "Singapore",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44989"
-    ],
-    "id": "R44989",
-    "source": "SST"
+    "id": "2610447",
+    "source": "CIBC"
   },
   {
     "title": "Java Developer (Java/J2EE/Angular 7+/SpringBoot)",
@@ -1138,28 +1160,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2609712",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2609712"
-    ],
-    "id": "2609712",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Mobile Engineer, Simplii Technology",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Mobile-Engineer--Simplii-Technology_2611714-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2611714"
-    ],
-    "id": "2611714",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1190,17 +1190,6 @@
       "R031304"
     ],
     "id": "R031304",
-    "source": "Ciena"
-  },
-  {
-    "title": "Network Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Network-Engineer_R031241",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031241"
-    ],
-    "id": "R031241",
     "source": "Ciena"
   },
   {
@@ -1377,6 +1366,17 @@
       "R030674"
     ],
     "id": "R030674",
+    "source": "Ciena"
+  },
+  {
+    "title": "R&D AI Platform Engineer / Administrator",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/R-D-AI-Platform-Engineer---Administrator_R030749",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 9 Days Ago",
+    "bulletFields": [
+      "R030749"
+    ],
+    "id": "R030749",
     "source": "Ciena"
   },
   {

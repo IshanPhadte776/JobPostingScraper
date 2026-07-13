@@ -856,6 +856,17 @@
     "source": "SST"
   },
   {
+    "title": "Deal Desk Manager - EMEA/APAC",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London-UK/Deal-Desk-Manager---EMEA-APAC_R42750",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R42750"
+    ],
+    "id": "R42750",
+    "source": "SST"
+  },
+  {
     "title": "Software Development Engineer In Test",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Software-Development-Engineer-In-Test_R43953",
     "locationsText": "San Francisco, CA",
@@ -886,17 +897,6 @@
       "R28166"
     ],
     "id": "R28166",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Manager, Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kuala-Lumpur-Malaysia/Associate-Manager--Fund-Accounting_R44725",
-    "locationsText": "Kuala Lumpur, Malaysia",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44725"
-    ],
-    "id": "R44725",
     "source": "SST"
   },
   {
@@ -1388,7 +1388,7 @@
     "title": "Software Engineer II",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 30+ Days Ago",
+    "postedOn": "Posted Today",
     "bulletFields": [
       "R004195"
     ],

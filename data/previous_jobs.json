@@ -900,6 +900,39 @@
     "source": "SST"
   },
   {
+    "title": "Lead Infrastructure Support Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Lead-Infrastructure-Support-Engineer_2614273",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2614273"
+    ],
+    "id": "2614273",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Manager, Product Development and Delivery",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Product-Development-and-Delivery_2614509-2",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2614509"
+    ],
+    "id": "2614509",
+    "source": "CIBC"
+  },
+  {
+    "title": "IT Administration Analyst",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/IT-Administration-Analyst_2611267-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2611267"
+    ],
+    "id": "2611267",
+    "source": "CIBC"
+  },
+  {
     "title": "Sr. Director, Application Development & Quality Assurance",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director--Application-Development---Quality-Assurance_2608259-1",
     "locationsText": "Toronto, ON",
@@ -1087,39 +1120,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Azure Data Platform Support Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Data-Platform-Support-Engineer_2610447",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2610447"
-    ],
-    "id": "2610447",
-    "source": "CIBC"
-  },
-  {
-    "title": "Java Developer (Java/J2EE/Angular 7+/SpringBoot)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Java-Developer--Java-J2EE-Angular-7--SpringBoot-_2605714",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2605714"
-    ],
-    "id": "2605714",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Data Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Data-Developer_2612196",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2612196"
-    ],
-    "id": "2612196",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1296,17 +1296,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Software Engineer system - C/C++ Developer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India-Gurgaon-TRIL-Tower-4/Software-Engineer-system---C-C---Developer_R029698",
-    "locationsText": "India-Gurgaon-TRIL Tower 4",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R029698"
-    ],
-    "id": "R029698",
-    "source": "Ciena"
-  },
-  {
     "title": "Software Development\u2013 Kubernetes Platform Migration and Workflow Orchestration Intern",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Development--Kubernetes-Platform-Migration-and-Workflow-Orchestration-Intern_R031308",
     "locationsText": "Ottawa",
@@ -1337,6 +1326,17 @@
       "R031234"
     ],
     "id": "R031234",
+    "source": "Ciena"
+  },
+  {
+    "title": "Junior Test Engineer, Test Station Validation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Junior-Test-Engineer--Test-Station-Validation_R031283",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 5 Days Ago",
+    "bulletFields": [
+      "R031283"
+    ],
+    "id": "R031283",
     "source": "Ciena"
   },
   {

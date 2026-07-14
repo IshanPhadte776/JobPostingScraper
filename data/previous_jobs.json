@@ -1142,14 +1142,6 @@
     "source": "Ciena"
   },
   {
-    "bulletFields": [
-      "R031319"
-    ],
-    "id": "R031319",
-    "externalPath": "",
-    "source": "Ciena"
-  },
-  {
     "title": "Lab Technician",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Lab-Technician_R031288",
     "locationsText": "Gurugram",
@@ -1337,6 +1329,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Test Engineer - Test Station Validation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Test-Engineer---Test-Station-Validation_R031285",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 7 Days Ago",
+    "bulletFields": [
+      "R031285"
+    ],
+    "id": "R031285",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Electrical Engineer",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Electrical-Engineer_R004212",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R004212"
+    ],
+    "id": "R004212",
+    "source": "Entrust"
+  },
+  {
     "title": "Software Engineer II",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195",
     "locationsText": "United States - Shakopee, MN (GHQ)",
@@ -1345,17 +1359,6 @@
       "R004195"
     ],
     "id": "R004195",
-    "source": "Entrust"
-  },
-  {
-    "title": "Senior Electrical Engineer",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Electrical-Engineer_R004212",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R004212"
-    ],
-    "id": "R004212",
     "source": "Entrust"
   },
   {

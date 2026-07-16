@@ -1131,6 +1131,25 @@
     "source": "Ciena"
   },
   {
+    "title": "Transmitter (Tx) SerDes Design Lead \u2014 224G/448G",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Transmitter--Tx--SerDes-Design-Lead---224G-448G_R030768",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030768"
+    ],
+    "id": "R030768",
+    "source": "Ciena"
+  },
+  {
+    "bulletFields": [
+      "R030843"
+    ],
+    "id": "R030843",
+    "externalPath": "",
+    "source": "Ciena"
+  },
+  {
     "title": "Network Engineer - New Grad",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/London/Network-Engineer---New-Grad_R031215-1",
     "locationsText": "London",
@@ -1315,28 +1334,6 @@
       "R031234"
     ],
     "id": "R031234",
-    "source": "Ciena"
-  },
-  {
-    "title": "Junior Test Engineer, Test Station Validation",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Junior-Test-Engineer--Test-Station-Validation_R031283",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "R031283"
-    ],
-    "id": "R031283",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Sales Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Indonesia/Senior-Sales-Engineer_R031252",
-    "locationsText": "Remote-Indonesia",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "R031252"
-    ],
-    "id": "R031252",
     "source": "Ciena"
   },
   {
@@ -2788,6 +2785,48 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 168370,
+    "type": "careers",
+    "title": "Senior Database Engineer II",
+    "link": "https://www.surveymonkey.com/careers/65dd98ff-senior-database-engineer-ii/",
+    "path": "/careers/65dd98ff-senior-database-engineer-ii/",
+    "date": "2026-07-16T12:01:02",
+    "date_modified": "2026-07-16T12:01:02",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Database Engineer II",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      },
+      {
+        "id": 538,
+        "slug": "ottawa-2",
+        "name": "Ottawa",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/ottawa-2/",
+        "path": "/careers/office/ottawa-2/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 168175,

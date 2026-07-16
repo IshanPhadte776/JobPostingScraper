@@ -856,6 +856,39 @@
     "source": "SST"
   },
   {
+    "title": "Manager, Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Fund-Accounting_R44129-1",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44129"
+    ],
+    "id": "R44129",
+    "source": "SST"
+  },
+  {
+    "title": "Client Success Relationship Manager, Director",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Client-Success-Relationship-Manager--Director_R44655",
+    "locationsText": "Boston MA - One Post Office Square",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44655"
+    ],
+    "id": "R44655",
+    "source": "SST"
+  },
+  {
+    "title": "Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate_R45022",
+    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45022"
+    ],
+    "id": "R45022",
+    "source": "SST"
+  },
+  {
     "title": "Sr. Project Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Sr-Project-Manager_R44470",
     "locationsText": "5 Locations",
@@ -864,39 +897,6 @@
       "R44470"
     ],
     "id": "R44470",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India---Commerzone-Building-7/Senior-Associate---Financial-Services-Operations_R44773",
-    "locationsText": "Pune India - Commerzone Building 7",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44773"
-    ],
-    "id": "R44773",
-    "source": "SST"
-  },
-  {
-    "title": "Associate - Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate---Operations_R44876",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44876"
-    ],
-    "id": "R44876",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Director, Account Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Singapore/Associate-Director--Account-Manager_R44943",
-    "locationsText": "Singapore",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44943"
-    ],
-    "id": "R44943",
     "source": "SST"
   },
   {
@@ -922,17 +922,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Active Directory Entra ID Specialist",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Identity-Services-Support-Specialist_2605551",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "2605551"
-    ],
-    "id": "2605551",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr. Business Systems Analyst",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Business-Systems-Analyst_2614285",
     "locationsText": "Toronto, ON",
@@ -941,6 +930,17 @@
       "2614285"
     ],
     "id": "2614285",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Active Directory Entra ID Specialist",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Identity-Services-Support-Specialist_2605551",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2605551"
+    ],
+    "id": "2605551",
     "source": "CIBC"
   },
   {
@@ -1131,6 +1131,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Deployment Project Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Brazil/Deployment-Project-Manager_R031306",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031306"
+    ],
+    "id": "R031306",
+    "source": "Ciena"
+  },
+  {
+    "title": "Network Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Frankfurt/Network-Engineer---New-Grad_R031296",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031296"
+    ],
+    "id": "R031296",
+    "source": "Ciena"
+  },
+  {
     "title": "Global Technical Support - Lab Support New Grad",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Associate--Global-Technical-Support---Lab-Support_R031298",
     "locationsText": "Ottawa",
@@ -1150,6 +1172,17 @@
       "R031340"
     ],
     "id": "R031340",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Director, IT Business Operation & PMO",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Senior-Director--IT-Business-Operation---PMO_R031349",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031349"
+    ],
+    "id": "R031349",
     "source": "Ciena"
   },
   {
@@ -1304,39 +1337,6 @@
       "R030610"
     ],
     "id": "R030610",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Test Automation Engineer, onsite in Petaluma, California",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Senior-Test-Automation-Engineer--onsite-in-Petaluma--California_R031169",
-    "locationsText": "Petaluma",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R031169"
-    ],
-    "id": "R031169",
-    "source": "Ciena"
-  },
-  {
-    "title": "AI-Enabled Software Test Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-Enabled-Software-Test-Engineer-II_R030842",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R030842"
-    ],
-    "id": "R030842",
-    "source": "Ciena"
-  },
-  {
-    "title": "Hardware Engineer, Power Design, onsite Kanata",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Engineer--Power-Design--onsite-Kanata_R031227",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R031227"
-    ],
-    "id": "R031227",
     "source": "Ciena"
   },
   {

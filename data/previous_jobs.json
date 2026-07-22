@@ -340,26 +340,6 @@
     "url": "https://solace.bamboohr.com/career/careers/756"
   },
   {
-    "id": "758",
-    "jobOpeningName": "Assistant Controller",
-    "departmentId": "18750",
-    "departmentLabel": "Finance",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/758"
-  },
-  {
     "id": "759",
     "jobOpeningName": "Chaos Engineer",
     "departmentId": "18550",
@@ -889,15 +869,48 @@
     "source": "SST"
   },
   {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Account-Executive_R44120",
-    "locationsText": "Chicago, IL",
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Senior-Associate_R45124",
+    "locationsText": "Evansville, IN",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44120"
+      "R45124"
     ],
-    "id": "R44120",
+    "id": "R45124",
     "source": "SST"
+  },
+  {
+    "title": "Consultant, IT Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--IT-Quality-Assurance_2615025",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2615025"
+    ],
+    "id": "2615025",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Application Packaging",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Packaging_2614448",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2614448"
+    ],
+    "id": "2614448",
+    "source": "CIBC"
+  },
+  {
+    "title": "Production Application Support Consultant",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Production-Application-Support-Consultant_2615299",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2615299"
+    ],
+    "id": "2615299",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Solution Design and Strategy",
@@ -1087,39 +1100,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2614592",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2614592"
-    ],
-    "id": "2614592",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2614235",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2614235"
-    ],
-    "id": "2614235",
-    "source": "CIBC"
-  },
-  {
-    "title": "Lead Infrastructure Support Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Lead-Infrastructure-Support-Engineer_2614273",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 9 Days Ago",
-    "bulletFields": [
-      "2614273"
-    ],
-    "id": "2614273",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1128,6 +1108,17 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Optical Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Design-Engineer_R031356",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031356"
+    ],
+    "id": "R031356",
     "source": "Ciena"
   },
   {
@@ -1326,17 +1317,6 @@
       "R031281"
     ],
     "id": "R031281",
-    "source": "Ciena"
-  },
-  {
-    "title": "Portal & Service Cloud Technical Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Portal---Service-Cloud-Technical-Manager_R031355",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R031355"
-    ],
-    "id": "R031355",
     "source": "Ciena"
   },
   {

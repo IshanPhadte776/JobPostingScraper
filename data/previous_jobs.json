@@ -520,26 +520,6 @@
     "url": "https://solace.bamboohr.com/career/careers/767"
   },
   {
-    "id": "768",
-    "jobOpeningName": "Senior Cloud Site Reliability Engineer",
-    "departmentId": "18562",
-    "departmentLabel": "Support",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": "India",
-      "state": null,
-      "province": "IN",
-      "city": "Banglaore"
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/768"
-  },
-  {
     "id": "769",
     "jobOpeningName": "Field Marketing Manager",
     "departmentId": "18644",
@@ -618,6 +598,26 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://solace.bamboohr.com/career/careers/773"
+  },
+  {
+    "id": "775",
+    "jobOpeningName": "Payroll Coordinator",
+    "departmentId": "18750",
+    "departmentLabel": "Finance",
+    "employmentStatusLabel": "Full-Time",
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/775"
   },
   {
     "id": "45",
@@ -1111,6 +1111,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Software Liquid Spectrum Applications Intern (Fall 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031412"
+    ],
+    "id": "R031412",
+    "source": "Ciena"
+  },
+  {
+    "title": "Consultant/Specialist, Partner Enablement",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Consultant-Specialist--Partner-Enablement_R031364",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031364"
+    ],
+    "id": "R031364",
+    "source": "Ciena"
+  },
+  {
     "title": "CAD PCB Layout Designer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/CAD-PCB-Layout-Designer_R031406",
     "locationsText": "Ottawa",
@@ -1295,28 +1317,6 @@
       "R031391"
     ],
     "id": "R031391",
-    "source": "Ciena"
-  },
-  {
-    "title": "Field Technician - Remote USA",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Field-Technician---Remote-USA_R031399",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R031399"
-    ],
-    "id": "R031399",
-    "source": "Ciena"
-  },
-  {
-    "title": "Digital Verification Engineer - FEC - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Digital-Verification-Engineer---FEC---New-Grad_R031269",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R031269"
-    ],
-    "id": "R031269",
     "source": "Ciena"
   },
   {

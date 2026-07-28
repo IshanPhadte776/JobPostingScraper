@@ -858,17 +858,6 @@
     "source": "SST"
   },
   {
-    "title": "Senior Site Reliability Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Site-Reliability-Engineer_R44607",
-    "locationsText": "6 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44607"
-    ],
-    "id": "R44607",
-    "source": "SST"
-  },
-  {
     "title": "Manager - Investor Services",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/5-Rue-Jean-Monnet-Luxembourg/Manager---Investor-Services_R41739",
     "locationsText": "5 Rue Jean Monnet Luxembourg",
@@ -878,6 +867,28 @@
     ],
     "id": "R41739",
     "source": "SST"
+  },
+  {
+    "title": "Associate Manager - Fund Accounting - Private Markets",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jersey-Castle-Street/Associate-Manager---Fund-Accounting---Private-Markets_R45285",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45285"
+    ],
+    "id": "R45285",
+    "source": "SST"
+  },
+  {
+    "title": "Test Analyst, IT Quality Engineering",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Test-Analyst--IT-Quality-Engineering_2614647",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2614647"
+    ],
+    "id": "2614647",
+    "source": "CIBC"
   },
   {
     "title": "Director, Application Reliability Engineering - Operations",
@@ -1089,17 +1100,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2614839",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2614839"
-    ],
-    "id": "2614839",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1108,6 +1108,17 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "CAD PCB Layout Designer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/CAD-PCB-Layout-Designer_R031406",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031406"
+    ],
+    "id": "R031406",
     "source": "Ciena"
   },
   {
@@ -1306,17 +1317,6 @@
       "R031269"
     ],
     "id": "R031269",
-    "source": "Ciena"
-  },
-  {
-    "title": "Product Purchase Price Prime",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Product-Purchase-Price-Prime_R031381-1",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R031381"
-    ],
-    "id": "R031381",
     "source": "Ciena"
   },
   {

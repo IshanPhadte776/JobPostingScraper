@@ -540,26 +540,6 @@
     "url": "https://solace.bamboohr.com/career/careers/770"
   },
   {
-    "id": "771",
-    "jobOpeningName": "Global Talent Partner",
-    "departmentId": "18839",
-    "departmentLabel": "Human Resources",
-    "employmentStatusLabel": "Full-Time",
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": "Canada",
-      "state": "Ontario",
-      "province": null,
-      "city": "Canada"
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/771"
-  },
-  {
     "id": "773",
     "jobOpeningName": "Sales Development Representative",
     "departmentId": "19494",
@@ -827,6 +807,17 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Site Reliability Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Sr-Site-Reliability-Engineer_R44918",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44918"
+    ],
+    "id": "R44918",
+    "source": "SST"
+  },
+  {
     "title": "Software & Data Engineer \u2013 Financial Technology",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Software---Data-Engineer---Financial-Technology---Launch-Program_R42203",
     "locationsText": "Union, NJ",
@@ -849,15 +840,26 @@
     "source": "SST"
   },
   {
-    "title": "Associate, Middle office Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate--Middle-office-Operations_R43341",
-    "locationsText": "New York, NY",
+    "title": "Consultant, Application Operations DBA",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Operations-DBA_2615071",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43341"
+      "2615071"
     ],
-    "id": "R43341",
-    "source": "SST"
+    "id": "2615071",
+    "source": "CIBC"
+  },
+  {
+    "title": "Technical Solution Designer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Technical-Solution-Designer_2614582-2",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2614582"
+    ],
+    "id": "2614582",
+    "source": "CIBC"
   },
   {
     "title": "Director, Procurement Strategy and Transformation",
@@ -981,17 +983,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Application Operations DBA",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Operations-DBA_2615071",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2615071"
-    ],
-    "id": "2615071",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr. Infrastructure Engineer - Patching",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Infrastructure-Engineer---Patching_2614681-1",
     "locationsText": "Toronto, ON",
@@ -1069,17 +1060,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Security Service Manager",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Security-Service-Manager_2614782-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2614782"
-    ],
-    "id": "2614782",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1121,28 +1101,6 @@
       "R031186"
     ],
     "id": "R031186",
-    "source": "Ciena"
-  },
-  {
-    "title": "SIEM Security Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/SIEM-Security-Engineer_R031342",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031342"
-    ],
-    "id": "R031342",
-    "source": "Ciena"
-  },
-  {
-    "title": "Accountant",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Accountant_R031173",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031173"
-    ],
-    "id": "R031173",
     "source": "Ciena"
   },
   {
@@ -1297,6 +1255,28 @@
       "R029170"
     ],
     "id": "R029170",
+    "source": "Ciena"
+  },
+  {
+    "title": "Accountant",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Accountant_R031375",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R031375"
+    ],
+    "id": "R031375",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Associate - IT Auditor",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Associate---IT-Auditor_R030699",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R030699"
+    ],
+    "id": "R030699",
     "source": "Ciena"
   },
   {

@@ -827,6 +827,28 @@
     "source": "SST"
   },
   {
+    "title": "Associate, Middle office Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate--Middle-office-Operations_R43341",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43341"
+    ],
+    "id": "R43341",
+    "source": "SST"
+  },
+  {
+    "title": "Manager, Private Equity & FoF Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Manager--Private-Equity---FoF-Accounting_R45179",
+    "locationsText": "San Francisco, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45179"
+    ],
+    "id": "R45179",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Private Markets",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Senior-Associate--Private-Markets_R44542-1",
     "locationsText": "2 Locations",
@@ -838,26 +860,15 @@
     "source": "SST"
   },
   {
-    "title": "Associate Manager - Fund Accounting - Private Markets",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jersey-Castle-Street/Associate-Manager---Fund-Accounting---Private-Markets_R45285",
-    "locationsText": "Jersey Castle Street",
+    "title": "Director, Procurement Strategy and Transformation",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Procurement-Strategy-and-Transformation_2615226-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45285"
+      "2615226"
     ],
-    "id": "R45285",
-    "source": "SST"
-  },
-  {
-    "title": "Manager, Hedge Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Hedge-Fund-Accounting_R45298",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R45298"
-    ],
-    "id": "R45298",
-    "source": "SST"
+    "id": "2615226",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Business Systems Consultant",
@@ -1069,17 +1080,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Security Service Manager",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Security-Service-Manager_2614782-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2614782"
-    ],
-    "id": "2614782",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "2 Locations",
@@ -1088,6 +1088,28 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "PCB Layout Design",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/PCB-Layout-Design_R031297",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031297"
+    ],
+    "id": "R031297",
+    "source": "Ciena"
+  },
+  {
+    "title": "Photonic Layout Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonic-Layout-Engineer---New-Grad_R031407",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031407"
+    ],
+    "id": "R031407",
     "source": "Ciena"
   },
   {
@@ -1275,28 +1297,6 @@
       "R029170"
     ],
     "id": "R029170",
-    "source": "Ciena"
-  },
-  {
-    "title": "Accountant",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Accountant_R031375",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R031375"
-    ],
-    "id": "R031375",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Associate - IT Auditor",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Associate---IT-Auditor_R030699",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030699"
-    ],
-    "id": "R030699",
     "source": "Ciena"
   },
   {

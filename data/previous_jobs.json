@@ -776,6 +776,17 @@
     "source": "SST"
   },
   {
+    "title": "Automation Developer, Blue Prism",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sao-Paolo-Brazil/Automation-Developer--Blue-Prism_R45484",
+    "locationsText": "Sao Paolo, Brazil",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45484"
+    ],
+    "id": "R45484",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate_R41775",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
@@ -809,15 +820,26 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate_R40471",
-    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "title": "Sr. Consultant, Back End Developer- Java/Microservices/System Design",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer--Java-Microservices-System-Design_2613802",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R40471"
+      "2613802"
     ],
-    "id": "R40471",
-    "source": "SST"
+    "id": "2613802",
+    "source": "CIBC"
+  },
+  {
+    "title": "Service Designer/Technical Consultant (Mobility Platform)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Service-Designer-Technical-Consultant--Mobility-Platform-_2612836-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2612836"
+    ],
+    "id": "2612836",
+    "source": "CIBC"
   },
   {
     "title": "Senior Web Developer - Front End (React, JS)",
@@ -1015,28 +1037,6 @@
       "2615226"
     ],
     "id": "2615226",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Business Systems Consultant",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Business-Systems-Consultant_2614822",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2614822"
-    ],
-    "id": "2614822",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2611812",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2611812"
-    ],
-    "id": "2611812",
     "source": "CIBC"
   },
   {

@@ -767,17 +767,6 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate_R44054",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44054"
-    ],
-    "id": "R44054",
-    "source": "SST"
-  },
-  {
     "title": "Automation Developer, Blue Prism",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Sao-Paolo-Brazil/Automation-Developer--Blue-Prism_R45484",
     "locationsText": "Sao Paolo, Brazil",
@@ -797,6 +786,17 @@
       "R41775"
     ],
     "id": "R41775",
+    "source": "SST"
+  },
+  {
+    "title": "Consultant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Principal-Consultant_R45121",
+    "locationsText": "Hyderabad, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45121"
+    ],
+    "id": "R45121",
     "source": "SST"
   },
   {
@@ -1031,6 +1031,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Junior Pluggable Optical Modem Test Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Junior-Pluggable-Optical-Modem-Test-Engineer---New-Grad_R031415-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031415"
+    ],
+    "id": "R031415",
+    "source": "Ciena"
+  },
+  {
     "title": "Specialist, Corporate Real Estate",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Specialist--Corporate-Real-Estate_R031421",
     "locationsText": "Gurugram",
@@ -1226,17 +1237,6 @@
       "R031384"
     ],
     "id": "R031384",
-    "source": "Ciena"
-  },
-  {
-    "title": "Software Engineering Intern (4 Months)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Engineering-Intern_R031372",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R031372"
-    ],
-    "id": "R031372",
     "source": "Ciena"
   },
   {

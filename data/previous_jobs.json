@@ -5,6 +5,7 @@
     "departmentId": null,
     "departmentLabel": null,
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -25,6 +26,7 @@
     "departmentId": null,
     "departmentLabel": null,
     "employmentStatusLabel": "Part-time Co-op",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -45,6 +47,7 @@
     "departmentId": "18811",
     "departmentLabel": "Software Development - SmartMix",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -65,6 +68,7 @@
     "departmentId": "18813",
     "departmentLabel": "Sales & Success",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -85,6 +89,7 @@
     "departmentId": "18813",
     "departmentLabel": "Sales & Success",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -105,6 +110,7 @@
     "departmentId": "18550",
     "departmentLabel": "R&D",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -125,6 +131,7 @@
     "departmentId": "18550",
     "departmentLabel": "R&D",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -145,6 +152,7 @@
     "departmentId": "18550",
     "departmentLabel": "R&D",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -165,6 +173,7 @@
     "departmentId": "18617",
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -185,6 +194,7 @@
     "departmentId": "18676",
     "departmentLabel": "Sales Engineers",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Paris",
       "state": "France"
@@ -205,6 +215,7 @@
     "departmentId": "18617",
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -225,6 +236,7 @@
     "departmentId": "18617",
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -245,6 +257,7 @@
     "departmentId": "18562",
     "departmentLabel": "Support",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Singapore ",
       "state": "Singapore"
@@ -265,6 +278,7 @@
     "departmentId": "18617",
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -285,6 +299,7 @@
     "departmentId": "18550",
     "departmentLabel": "R&D",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -305,6 +320,7 @@
     "departmentId": "18550",
     "departmentLabel": "R&D",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -325,6 +341,7 @@
     "departmentId": "18676",
     "departmentLabel": "Sales Engineers",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -345,6 +362,7 @@
     "departmentId": "18550",
     "departmentLabel": "R&D",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -365,6 +383,7 @@
     "departmentId": "18617",
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -385,6 +404,7 @@
     "departmentId": "18617",
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -405,6 +425,7 @@
     "departmentId": "18617",
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -425,6 +446,7 @@
     "departmentId": "18617",
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -445,6 +467,7 @@
     "departmentId": "18617",
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -465,6 +488,7 @@
     "departmentId": "18617",
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -485,6 +509,7 @@
     "departmentId": "18644",
     "departmentLabel": "Marketing",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "London",
       "state": "London, City of"
@@ -505,6 +530,7 @@
     "departmentId": "18617",
     "departmentLabel": "Sales",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "New York ",
       "state": "New York"
@@ -525,6 +551,7 @@
     "departmentId": "18750",
     "departmentLabel": "Finance",
     "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -545,6 +572,7 @@
     "departmentId": "18221",
     "departmentLabel": "Rad-Engineering",
     "employmentStatusLabel": "Full time",
+    "employmentType": null,
     "location": {
       "city": "Ottawa",
       "state": "Ontario"
@@ -565,6 +593,7 @@
     "departmentId": "18390",
     "departmentLabel": "Shared Administration",
     "employmentStatusLabel": "Regular, Full-time",
+    "employmentType": null,
     "location": {
       "city": null,
       "state": null
@@ -657,14 +686,6 @@
     "source": "SST"
   },
   {
-    "bulletFields": [
-      "R44282"
-    ],
-    "id": "R44282",
-    "externalPath": "",
-    "source": "SST"
-  },
-  {
     "title": "VP, Product Management",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Principle-Product-Manager-SDE_R36919",
     "locationsText": "Waltham MA - 10 CityPoint",
@@ -750,6 +771,17 @@
       "R44941"
     ],
     "id": "R44941",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate_R45206",
+    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45206"
+    ],
+    "id": "R45206",
     "source": "SST"
   },
   {

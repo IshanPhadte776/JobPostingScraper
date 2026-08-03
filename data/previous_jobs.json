@@ -657,14 +657,11 @@
     "source": "SST"
   },
   {
-    "title": "Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R44282",
-    "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 13 Days Ago",
     "bulletFields": [
       "R44282"
     ],
     "id": "R44282",
+    "externalPath": "",
     "source": "SST"
   },
   {
@@ -756,6 +753,39 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Java Developer - PA26DIGMGQ1006",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/Sr-Java-Developer---PA26DIGMGQ1006_R41655",
+    "locationsText": "Bucharest, Romania",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41655"
+    ],
+    "id": "R41655",
+    "source": "SST"
+  },
+  {
+    "title": "Growth Marketing Manager, EMEA - 12months Fixed Term",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/London---1-Ropemaker-Street/Growth-Marketing-Manager--EMEA---12months-Fixed-Term_R43361",
+    "locationsText": "London - 1 Ropemaker Street",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43361"
+    ],
+    "id": "R43361",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Associate - Alternative Investments",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellevue---139th-Avenue/Senior-Associate_R45122",
+    "locationsText": "Bellevue - 139th Avenue",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45122"
+    ],
+    "id": "R45122",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate - Alternative Investments",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Evansville-IN/Senior-Associate_R45124",
     "locationsText": "Evansville, IN",
@@ -764,39 +794,6 @@
       "R45124"
     ],
     "id": "R45124",
-    "source": "SST"
-  },
-  {
-    "title": "Manager, Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Fund-Accounting_R44129-1",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44129"
-    ],
-    "id": "R44129",
-    "source": "SST"
-  },
-  {
-    "title": "Customer Success Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Customer-Success-Manager_R43932-1",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43932"
-    ],
-    "id": "R43932",
-    "source": "SST"
-  },
-  {
-    "title": "Investor Services Representative - Entry Level",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Kansas-US/Investor-Services-Representative---Entry-Level_R44245",
-    "locationsText": "5 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44245"
-    ],
-    "id": "R44245",
     "source": "SST"
   },
   {
@@ -1031,14 +1028,14 @@
     "source": "Ciena"
   },
   {
-    "title": "SIEM Security Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/SIEM-Security-Engineer_R031342",
-    "locationsText": "Gurugram",
+    "title": "Specialist, Global Technical Support",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Specialist--Global-Technical-Support_R031453",
+    "locationsText": "Baltimore",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R031342"
+      "R031453"
     ],
-    "id": "R031342",
+    "id": "R031453",
     "source": "Ciena"
   },
   {

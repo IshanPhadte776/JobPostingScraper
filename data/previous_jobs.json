@@ -786,26 +786,37 @@
     "source": "SST"
   },
   {
-    "title": "Application Administrator",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Application-Administrator_R45492",
-    "locationsText": "4 Locations",
+    "title": "Senior Java AI Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Java-AI-Engineer_R45093",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45492"
+      "R45093"
     ],
-    "id": "R45492",
+    "id": "R45093",
     "source": "SST"
   },
   {
-    "title": "Solutions Analyst I",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA/Solutions-Analyst-I_R44030-1",
-    "locationsText": "Boston, MA",
+    "title": "Software Engineer with AI",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Texas-US/Software-Engineer-with-AI_R45609",
+    "locationsText": "25 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44030"
+      "R45609"
     ],
-    "id": "R44030",
+    "id": "R45609",
     "source": "SST"
+  },
+  {
+    "title": "Senior Web Developer - Front End (React, JS)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Software-Engineer---Front-End-Development_2615868",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2615868"
+    ],
+    "id": "2615868",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Business Systems Analysis",
@@ -1017,17 +1028,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Application Development (SAP)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--SAP-_2615500-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2615500"
-    ],
-    "id": "2615500",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "5 Locations",
@@ -1058,17 +1058,6 @@
       "R031364"
     ],
     "id": "R031364",
-    "source": "Ciena"
-  },
-  {
-    "title": "Endpoint Security Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Endpoint-Security-Engineer_R031334",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031334"
-    ],
-    "id": "R031334",
     "source": "Ciena"
   },
   {
@@ -1182,17 +1171,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Accountant",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Accountant_R031163-2",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R031163"
-    ],
-    "id": "R031163",
-    "source": "Ciena"
-  },
-  {
     "title": "Hardware Engineering Co-op (4-8 Months)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451",
     "locationsText": "Ottawa",
@@ -1245,6 +1223,28 @@
       "R031429"
     ],
     "id": "R031429",
+    "source": "Ciena"
+  },
+  {
+    "title": "Sales Engineer - Interconnect",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-China/Sales-Engineer---Interconnect_R031312",
+    "locationsText": "Remote-China",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R031312"
+    ],
+    "id": "R031312",
+    "source": "Ciena"
+  },
+  {
+    "title": "Verification and Field Application Engineer - Hybrid, 3 DAW on site in Alpharetta",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Verification-and-Field-Application-Engineer---Hybrid--3-DAW-on-site-in-Alpharetta_R031409",
+    "locationsText": "Atlanta",
+    "postedOn": "Posted 3 Days Ago",
+    "bulletFields": [
+      "R031409"
+    ],
+    "id": "R031409",
     "source": "Ciena"
   },
   {

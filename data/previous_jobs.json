@@ -829,6 +829,17 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Cyber Risk Consultant",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Cyber-Risk-Consultant_2615605",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2615605"
+    ],
+    "id": "2615605",
+    "source": "CIBC"
+  },
+  {
     "title": "Sr. Analyst, IT Quality Assurance",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--IT-Quality-Assurance_2616534",
     "locationsText": "Toronto, ON",
@@ -1038,17 +1049,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Application Development (SAP)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--SAP-_2615500-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 11 Days Ago",
-    "bulletFields": [
-      "2615500"
-    ],
-    "id": "2615500",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "5 Locations",
@@ -1057,6 +1057,17 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Level Field Service Technician",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Level-Field-Service-Technician_R030585",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030585"
+    ],
+    "id": "R030585",
     "source": "Ciena"
   },
   {
@@ -1258,15 +1269,15 @@
     "source": "Ciena"
   },
   {
-    "title": "Software Developer in Test Automation Intern",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Developer-in-Test-Automation-Intern_R031467",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
+    "title": "Software Engineer II \u2013 C/C++, Java & HSM Firmware",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "R031467"
+      "R004195"
     ],
-    "id": "R031467",
-    "source": "Ciena"
+    "id": "R004195",
+    "source": "Entrust"
   },
   {
     "title": "Software Engineer II \u2013 Java, Spring Boot & React",
@@ -1332,17 +1343,6 @@
       "R004212"
     ],
     "id": "R004212",
-    "source": "Entrust"
-  },
-  {
-    "title": "Software Engineer II",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 28 Days Ago",
-    "bulletFields": [
-      "R004195"
-    ],
-    "id": "R004195",
     "source": "Entrust"
   },
   {

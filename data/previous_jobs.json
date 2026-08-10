@@ -609,6 +609,17 @@
     "url": "https://recollective.bamboohr.com/career/careers/104"
   },
   {
+    "title": "Cloud Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Cloud-Engineer_R40402",
+    "locationsText": "Kansas City, MO",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R40402"
+    ],
+    "id": "R40402",
+    "source": "SST"
+  },
+  {
     "title": "Associate Director - US TAX 1065 (Hyderabad/ Bangalore)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Associate-Director---US-TAX-1065--Hyderabad--Bangalore-_R44941",
     "locationsText": "Hyderabad, India",
@@ -661,17 +672,6 @@
       "R45517"
     ],
     "id": "R45517",
-    "source": "SST"
-  },
-  {
-    "title": "Cloud Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Cloud-Engineer_R40402",
-    "locationsText": "Kansas City, MO",
-    "postedOn": "Posted 9 Days Ago",
-    "bulletFields": [
-      "R40402"
-    ],
-    "id": "R40402",
     "source": "SST"
   },
   {
@@ -807,26 +807,37 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Fund Accounting -Hybrid PE and Hedge",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Associate--Fund-Accounting--Hybrid-PE-and-Hedge_R45631",
-    "locationsText": "3 Locations",
+    "title": "UX Designer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bucharest-Romania/UX-Designer--PA26Q3UXDJH89-_R45137-1",
+    "locationsText": "Bucharest, Romania",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45631"
+      "R45137"
     ],
-    "id": "R45631",
+    "id": "R45137",
     "source": "SST"
   },
   {
-    "title": "AI Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Ontario-Toronto/AI-Software-Engineer_R45458-1",
-    "locationsText": "2 Locations",
+    "title": "Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Account-Executive_R43102",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45458"
+      "R43102"
     ],
-    "id": "R45458",
+    "id": "R43102",
     "source": "SST"
+  },
+  {
+    "title": "Sr. Analyst, IT Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--IT-Quality-Assurance_2616534",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2616534"
+    ],
+    "id": "2616534",
+    "source": "CIBC"
   },
   {
     "title": "Senior Web Developer - Front End (React, JS)",
@@ -1038,17 +1049,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Analyst, Analytics QA, Digital Platforms & Operations",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Analyst--Analytics-QA--Digital-Platforms---Operations_2615908",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 11 Days Ago",
-    "bulletFields": [
-      "2615908"
-    ],
-    "id": "2615908",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "5 Locations",
@@ -1057,6 +1057,39 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Routing/IP Software Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Routing-IP-Software-Engineer---New-Grad_R031449",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031449"
+    ],
+    "id": "R031449",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Test Automation Engineer, onsite in Ottawa",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Test-Automation-Engineer--onsite-in-Ottawa_R031170",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031170"
+    ],
+    "id": "R031170",
+    "source": "Ciena"
+  },
+  {
+    "title": "AR Specialist \u2013Accounts Receivable",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/AR-Specialist--Accounts-Receivable_R031477",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031477"
+    ],
+    "id": "R031477",
     "source": "Ciena"
   },
   {
@@ -1233,39 +1266,6 @@
       "R031467"
     ],
     "id": "R031467",
-    "source": "Ciena"
-  },
-  {
-    "title": "ON DevOps Intern- Fall 2026",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ON-DevOps-Intern--Fall-2026_R031495",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R031495"
-    ],
-    "id": "R031495",
-    "source": "Ciena"
-  },
-  {
-    "title": "Consultant/Specialist, Partner Enablement",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Consultant-Specialist--Partner-Enablement_R031364",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R031364"
-    ],
-    "id": "R031364",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Embedded Software Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Embedded-Software-Engineer_R031486",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R031486"
-    ],
-    "id": "R031486",
     "source": "Ciena"
   },
   {

@@ -567,6 +567,27 @@
     "url": "https://solace.bamboohr.com/career/careers/779"
   },
   {
+    "id": "780",
+    "jobOpeningName": "Sales Development Representative",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "United Kingdom",
+      "state": "London, City of",
+      "province": null,
+      "city": "London"
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/780"
+  },
+  {
     "id": "45",
     "jobOpeningName": "Software Engineer",
     "departmentId": "18221",
@@ -807,26 +828,37 @@
     "source": "SST"
   },
   {
-    "title": "Principal Network Operations Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Principal-Network-Operations-Engineer_R45349",
-    "locationsText": "Hyderabad, India",
+    "title": "Senior Associate - Financial Services Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India---Commerzone-Building-7/Senior-Associate---Financial-Services-Operations_R44804",
+    "locationsText": "Pune India - Commerzone Building 7",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45349"
+      "R44804"
     ],
-    "id": "R45349",
+    "id": "R44804",
     "source": "SST"
   },
   {
-    "title": "Lead  Software Engineer - PA26ITOFFQ3019",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Lead--Software-Engineer---PA26ITOFFQ3019_R43465",
-    "locationsText": "Hyderabad, India",
+    "title": "Senior Associate - Financial Services Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India---Commerzone-Building-7/Senior-Associate---Financial-Services-Operations_R44786",
+    "locationsText": "Pune India - Commerzone Building 7",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43465"
+      "R44786"
     ],
-    "id": "R43465",
+    "id": "R44786",
     "source": "SST"
+  },
+  {
+    "title": "Consultant, Automation & Analytics",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Automation---Analytics_2616696",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2616696"
+    ],
+    "id": "2616696",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Back End Developer",
@@ -1038,17 +1070,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Application Development and Support ETL: Informatica, Databricks",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Development-and-Support-ETL--Informatica--Databricks_2616208",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2616208"
-    ],
-    "id": "2616208",
-    "source": "CIBC"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "5 Locations",
@@ -1057,6 +1078,39 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "WaveLogic Modem Program Manager, On-site Kanata",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/WaveLogic-Modem-Program-Manager--On-site-Kanata_R031487",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031487"
+    ],
+    "id": "R031487",
+    "source": "Ciena"
+  },
+  {
+    "title": "Mechanical Design Co-op (8 Months, September 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Mechanical-Design-Co-op--8-Months--September-2026-_R031507",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031507"
+    ],
+    "id": "R031507",
+    "source": "Ciena"
+  },
+  {
+    "title": "Embedded Software Developer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031490"
+    ],
+    "id": "R031490",
     "source": "Ciena"
   },
   {
@@ -1214,17 +1268,6 @@
     "source": "Ciena"
   },
   {
-    "title": "AR Specialist \u2013Accounts Receivable",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/AR-Specialist--Accounts-Receivable_R031477",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R031477"
-    ],
-    "id": "R031477",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior Test Automation Engineer, onsite in Petaluma, California",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Senior-Test-Automation-Engineer--onsite-in-Petaluma--California_R031169",
     "locationsText": "Petaluma",
@@ -1247,26 +1290,15 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Associate - IT Auditor",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Associate---IT-Auditor_R030699",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
+    "title": "Platform Architect - Agentic Trust",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Field/Platform-Architect---Agentic-Trust_R004314",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "R030699"
+      "R004314"
     ],
-    "id": "R030699",
-    "source": "Ciena"
-  },
-  {
-    "title": "ASIC/FPGA Design Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/ASIC-FPGA-Design-Engineer_R031483",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R031483"
-    ],
-    "id": "R031483",
-    "source": "Ciena"
+    "id": "R004314",
+    "source": "Entrust"
   },
   {
     "title": "Software Developer II",

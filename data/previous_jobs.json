@@ -849,6 +849,17 @@
     "source": "SST"
   },
   {
+    "title": "Associate, Investor Services - AEOI",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Associate--Investor-Services---AEOI_R44092",
+    "locationsText": "Mississauga, Canada",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44092"
+    ],
+    "id": "R44092",
+    "source": "SST"
+  },
+  {
     "title": "HR Benefits Administrator",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/HR-Benefits-Administrator_R45573",
     "locationsText": "Windsor, CT",
@@ -857,17 +868,6 @@
       "R45573"
     ],
     "id": "R45573",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate - Financial Services Operations",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India---Commerzone-Building-7/Senior-Associate---Financial-Services-Operations_R44808",
-    "locationsText": "Pune India - Commerzone Building 7",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44808"
-    ],
-    "id": "R44808",
     "source": "SST"
   },
   {
@@ -1135,17 +1135,6 @@
     "source": "Ciena"
   },
   {
-    "title": "AR Specialist \u2013Accounts Receivable",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/AR-Specialist--Accounts-Receivable_R031477",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031477"
-    ],
-    "id": "R031477",
-    "source": "Ciena"
-  },
-  {
     "title": "C++ Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pune/C---Developer_R031454",
     "locationsText": "3 Locations",
@@ -1308,6 +1297,17 @@
       "R030880"
     ],
     "id": "R030880",
+    "source": "Ciena"
+  },
+  {
+    "title": "Development Engine Infrastructure DevOps Co-op (Fall 2026 - 4-12 months)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Development-Engine-Infrastructure-DevOps-Co-op--Fall-2026---4-12-months-_R030773",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R030773"
+    ],
+    "id": "R030773",
     "source": "Ciena"
   },
   {

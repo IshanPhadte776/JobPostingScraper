@@ -849,25 +849,25 @@
     "source": "SST"
   },
   {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Account-Executive_R44120",
-    "locationsText": "Chicago, IL",
+    "title": "HR Benefits Administrator",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/HR-Benefits-Administrator_R45573",
+    "locationsText": "Windsor, CT",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44120"
+      "R45573"
     ],
-    "id": "R44120",
+    "id": "R45573",
     "source": "SST"
   },
   {
-    "title": "Account Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Ohio-US/Account-Executive_R45284",
-    "locationsText": "2 Locations",
+    "title": "Senior Associate - Financial Services Operations",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India---Commerzone-Building-7/Senior-Associate---Financial-Services-Operations_R44808",
+    "locationsText": "Pune India - Commerzone Building 7",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45284"
+      "R44808"
     ],
-    "id": "R45284",
+    "id": "R44808",
     "source": "SST"
   },
   {
@@ -1102,6 +1102,17 @@
     "source": "Ciena"
   },
   {
+    "title": "WaveLogic Software - Intern (Fall 2026)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/WaveLogic-Software---Intern_R031443",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031443"
+    ],
+    "id": "R031443",
+    "source": "Ciena"
+  },
+  {
     "title": "Software Manager - Routing protocols",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Edinburgh---19A-Canning-St/Software-Manager---Routing-protocols_R031437",
     "locationsText": "UK- Edinburgh - 19A Canning St",
@@ -1297,17 +1308,6 @@
       "R030880"
     ],
     "id": "R030880",
-    "source": "Ciena"
-  },
-  {
-    "title": "Development Engine Infrastructure DevOps Co-op (Fall 2026 - 4-12 months)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Development-Engine-Infrastructure-DevOps-Co-op--Fall-2026---4-12-months-_R030773",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R030773"
-    ],
-    "id": "R030773",
     "source": "Ciena"
   },
   {

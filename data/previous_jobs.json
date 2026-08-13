@@ -399,27 +399,6 @@
     "url": "https://solace.bamboohr.com/career/careers/765"
   },
   {
-    "id": "766",
-    "jobOpeningName": "Sales Director - New York",
-    "departmentId": "18617",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": "United States",
-      "state": "New York",
-      "province": null,
-      "city": "New York"
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/766"
-  },
-  {
     "id": "767",
     "jobOpeningName": "Sales Director - Philadelphia",
     "departmentId": "18617",
@@ -651,6 +630,17 @@
     "url": "https://truecontext.bamboohr.com/career/careers/45"
   },
   {
+    "title": "Manager - AML, Client Onboarding (Goregaon)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Manager---AML--Client-Onboarding--Goregaon-_R45692",
+    "locationsText": "Mumbai India - Nirlon Knowledge Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45692"
+    ],
+    "id": "R45692",
+    "source": "SST"
+  },
+  {
     "title": "Alternatives Fund Accountant (Hedge Funds/ Private Equity)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Engagement-Specialist_R39849",
     "locationsText": "6 Locations",
@@ -849,26 +839,37 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Implementation (LH-BPO)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/West-Palm-Beach-FL/Senior-Associate--Implementation--LH-BPO-_R38152",
-    "locationsText": "West Palm Beach, FL",
+    "title": "Health Care Call Center Representative III",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Health-Care-Call-Center-Representative-III_R43027",
+    "locationsText": "Mumbai, India",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38152"
+      "R43027"
     ],
-    "id": "R38152",
+    "id": "R43027",
     "source": "SST"
   },
   {
-    "title": "TA Service Desk Manager, Hong Kong",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hong-Kong-JP/TA-Service-Desk-Manager--Hong-Kong_R45591",
-    "locationsText": "Hong Kong (JP)",
+    "title": "Sr. Analyst, IT Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--IT-Quality-Assurance_2616261",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45591"
+      "2616261"
     ],
-    "id": "R45591",
-    "source": "SST"
+    "id": "2616261",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Data Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Data-Engineer_2613870",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2613870"
+    ],
+    "id": "2613870",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, IT Quality Assurance",
@@ -1069,28 +1070,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Full Stack Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Full-Stack-Developer_2613422-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "2613422"
-    ],
-    "id": "2613422",
-    "source": "CIBC"
-  },
-  {
-    "title": "Business Systems Consultant",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Business-Systems-Consultant_2615651",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2615651"
-    ],
-    "id": "2615651",
-    "source": "CIBC"
-  },
-  {
     "title": "Director, Product Line Management \u2013 Waveserver PLM Team",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Product-Line-Management---Waveserver-PLM-Team_R031512",
     "locationsText": "2 Locations",
@@ -1132,17 +1111,6 @@
       "R031437"
     ],
     "id": "R031437",
-    "source": "Ciena"
-  },
-  {
-    "title": "AR Specialist \u2013Accounts Receivable",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/AR-Specialist--Accounts-Receivable_R031477",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031477"
-    ],
-    "id": "R031477",
     "source": "Ciena"
   },
   {
@@ -1267,17 +1235,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Pluggable Optical Modems Test Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Pluggable-Optical-Modems-Test-Engineer_R031502",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R031502"
-    ],
-    "id": "R031502",
-    "source": "Ciena"
-  },
-  {
     "title": "Blue Planet Portfolio Support",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK/Blue-Planet-Portfolio-Support_R031380-1",
     "locationsText": "5 Locations",
@@ -1300,14 +1257,36 @@
     "source": "Ciena"
   },
   {
-    "title": "NPI Optical Test Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/NPI-Optical-Test-Engineer_R031476",
-    "locationsText": "Ottawa",
+    "title": "Associate, Customer Success Advocacy - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/UK--Belfast--87-Park-House/Associate--Customer-Success-Advocacy_R029693",
+    "locationsText": "2 Locations",
     "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
-      "R031476"
+      "R029693"
     ],
-    "id": "R031476",
+    "id": "R029693",
+    "source": "Ciena"
+  },
+  {
+    "title": "Account Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Account-Manager_R031485",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted 2 Days Ago",
+    "bulletFields": [
+      "R031485"
+    ],
+    "id": "R031485",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Engineer (Security) - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Software-Engineer--Security----New-Grad_R030880",
+    "locationsText": "Atlanta",
+    "postedOn": "Posted 3 Days Ago",
+    "bulletFields": [
+      "R030880"
+    ],
+    "id": "R030880",
     "source": "Ciena"
   },
   {

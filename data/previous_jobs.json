@@ -525,27 +525,6 @@
     "url": "https://solace.bamboohr.com/career/careers/780"
   },
   {
-    "id": "781",
-    "jobOpeningName": "Recruitment Coordinator Student (4-month term)",
-    "departmentId": "18839",
-    "departmentLabel": "Human Resources",
-    "employmentStatusLabel": "Temporary Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/781"
-  },
-  {
     "id": "782",
     "jobOpeningName": "Senior Graphic Designer",
     "departmentId": "18644",
@@ -839,15 +818,37 @@
     "source": "SST"
   },
   {
-    "title": "SC3 - PA26JACRQ3074",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/SC4---PA26JACRQ3074_R44340",
-    "locationsText": "Mumbai, India",
+    "title": "Manager, Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Manager--Fund-Accounting_R45081",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44340"
+      "R45081"
     ],
-    "id": "R44340",
+    "id": "R45081",
     "source": "SST"
+  },
+  {
+    "title": "Full Stack Application Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Full-Stack-Application-Developer_2616906-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2616906"
+    ],
+    "id": "2616906",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Databricks Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Databricks-Developer_2616939",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2616939"
+    ],
+    "id": "2616939",
+    "source": "CIBC"
   },
   {
     "title": "Application Developer",
@@ -1048,28 +1049,6 @@
     "source": "CIBC"
   },
   {
-    "title": "BI Automation Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/BI-Automation-Engineer_2616045",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2616045"
-    ],
-    "id": "2616045",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant Data Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant-Data-Developer_2616557",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2616557"
-    ],
-    "id": "2616557",
-    "source": "CIBC"
-  },
-  {
     "title": "Director, Product Line Management \u2013 Waveserver PLM Team",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Product-Line-Management---Waveserver-PLM-Team_R031512",
     "locationsText": "2 Locations",
@@ -1089,6 +1068,39 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Network Solutions Engineer, On-site: Scott Air Force Base, IL",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-IL/Network-Solutions-Engineer--On-site--Scott-Air-Force-Base--IL_R031414",
+    "locationsText": "Remote-US-IL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031414"
+    ],
+    "id": "R031414",
+    "source": "Ciena"
+  },
+  {
+    "title": "Network Solutions Engineer, On-site: Schriever Space Force Base, CO",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Network-Solutions-Engineer--On-site--Schriever-Space-Force-Base--CO_R031525",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031525"
+    ],
+    "id": "R031525",
+    "source": "Ciena"
+  },
+  {
+    "title": "Network Solutions Engineer - Onsite at Vandenberg Space Force Base",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-CA/Network-Solutions-Engineer---Onsite-at-Vandenberg-Space-Force-Base_R031478",
+    "locationsText": "Remote-US-CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031478"
+    ],
+    "id": "R031478",
     "source": "Ciena"
   },
   {
@@ -1254,39 +1266,6 @@
       "R031445"
     ],
     "id": "R031445",
-    "source": "Ciena"
-  },
-  {
-    "title": "WaveLogic Modem Program Manager, On-site Kanata",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/WaveLogic-Modem-Program-Manager--On-site-Kanata_R031487",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R031487"
-    ],
-    "id": "R031487",
-    "source": "Ciena"
-  },
-  {
-    "title": "Mechanical Design Co-op (8 Months, September 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Mechanical-Design-Co-op--8-Months--September-2026-_R031507",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R031507"
-    ],
-    "id": "R031507",
-    "source": "Ciena"
-  },
-  {
-    "title": "Embedded Software Developer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R031490"
-    ],
-    "id": "R031490",
     "source": "Ciena"
   },
   {

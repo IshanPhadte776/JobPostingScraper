@@ -829,6 +829,17 @@
     "source": "SST"
   },
   {
+    "title": "Application Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Consultant--Application-Development_2612444",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2612444"
+    ],
+    "id": "2612444",
+    "source": "CIBC"
+  },
+  {
     "title": "Azure Engineer,  SQL & Data Lakehouse",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Azure-Engineer---SQL---Data-Lakehouse_2610604",
     "locationsText": "Toronto, ON",
@@ -1038,17 +1049,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Consultant, Business System Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Business-System-Analysis_2616265",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2616265"
-    ],
-    "id": "2616265",
-    "source": "CIBC"
-  },
-  {
     "title": "Director, Product Line Management \u2013 Waveserver PLM Team",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Product-Line-Management---Waveserver-PLM-Team_R031512",
     "locationsText": "2 Locations",
@@ -1071,14 +1071,14 @@
     "source": "Ciena"
   },
   {
-    "title": "Product Integrity",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Integrity_R031554",
+    "title": "Leader, Material Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Leader--Material-Manager_R031552-1",
     "locationsText": "Ottawa",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R031554"
+      "R031552"
     ],
-    "id": "R031554",
+    "id": "R031552",
     "source": "Ciena"
   },
   {
@@ -2772,6 +2772,48 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 171210,
+    "type": "careers",
+    "title": "Senior Database Engineer II",
+    "link": "https://www.surveymonkey.com/careers/510ef9e2-senior-database-engineer-ii/",
+    "path": "/careers/510ef9e2-senior-database-engineer-ii/",
+    "date": "2026-08-20T10:00:55",
+    "date_modified": "2026-08-20T10:00:55",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Database Engineer II",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 399,
+        "slug": "canada-remote",
+        "name": "Canada - Remote",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/canada-remote/",
+        "path": "/careers/office/canada-remote/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 168778,

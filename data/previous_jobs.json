@@ -818,14 +818,14 @@
     "source": "SST"
   },
   {
-    "title": "Consultant/Manager Software Engineering (SS&C Technologies, Inc.; Windsor, CT) Ref: 00097812",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Windsor-CT/Consultant-Manager-Software-Engineering--SS-C-Technologies--Inc--Windsor--CT--Ref--00097812_R45823",
-    "locationsText": "Windsor, CT",
+    "title": "Associate Solutions Analyst",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Associate-Solutions-Analyst_R45018",
+    "locationsText": "Chicago, IL",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45823"
+      "R45018"
     ],
-    "id": "R45823",
+    "id": "R45018",
     "source": "SST"
   },
   {
@@ -1093,17 +1093,6 @@
     "source": "Ciena"
   },
   {
-    "title": "SIEM Security Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/SIEM-Security-Engineer_R031342",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031342"
-    ],
-    "id": "R031342",
-    "source": "Ciena"
-  },
-  {
     "title": "AI Developer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Fullstack-Developer--Java-Python---Reactjs_R030115",
     "locationsText": "Gurugram",
@@ -1266,6 +1255,17 @@
       "R031401"
     ],
     "id": "R031401",
+    "source": "Ciena"
+  },
+  {
+    "title": "Hardware Power Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Power-Engineer---New-Grad_R030580",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 8 Days Ago",
+    "bulletFields": [
+      "R030580"
+    ],
+    "id": "R030580",
     "source": "Ciena"
   },
   {

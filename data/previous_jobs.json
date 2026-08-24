@@ -84,27 +84,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/299"
   },
   {
-    "id": "300",
-    "jobOpeningName": "Customer Success and Solutions Specialist, Software ",
-    "departmentId": "18813",
-    "departmentLabel": "Sales & Success",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/300"
-  },
-  {
     "id": "729",
     "jobOpeningName": "Senior Software Developer",
     "departmentId": "18550",
@@ -818,14 +797,14 @@
     "source": "SST"
   },
   {
-    "title": "Principal Network Operations Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Principal-Network-Operations-Engineer_R45349",
-    "locationsText": "Hyderabad, India",
+    "title": "Director, Client Relationship Management",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Director--Client-Relationship-Manager_R43333",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45349"
+      "R43333"
     ],
-    "id": "R45349",
+    "id": "R43333",
     "source": "SST"
   },
   {

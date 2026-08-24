@@ -84,6 +84,27 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/299"
   },
   {
+    "id": "301",
+    "jobOpeningName": "Lead Support Engineer, Bedrock ",
+    "departmentId": "18814",
+    "departmentLabel": "Product & Design",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/301"
+  },
+  {
     "id": "729",
     "jobOpeningName": "Senior Software Developer",
     "departmentId": "18550",
@@ -808,6 +829,17 @@
     "source": "SST"
   },
   {
+    "title": "Developer, Performance Management Data & Analytics",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Developer--Performance-Management-Data---Analytics_2617134-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2617134"
+    ],
+    "id": "2617134",
+    "source": "CIBC"
+  },
+  {
     "title": "Consultant, Business Intelligence and Data Analytics",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Intelligence-and-Data-Analytics_2616196",
     "locationsText": "Toronto, ON",
@@ -973,17 +1005,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Developer, Performance Management Data & Analytics",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Developer--Performance-Management-Data---Analytics_2617134-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2617134"
-    ],
-    "id": "2617134",
-    "source": "CIBC"
-  },
-  {
     "title": "Consultant, Application Development (C#.NET, SQL Server, Azure)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--C-NET--SQL-Server--Azure-_2617223",
     "locationsText": "Toronto, ON",
@@ -1050,6 +1071,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Optical System Designer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Optical-System-Designer_R031172",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031172"
+    ],
+    "id": "R031172",
+    "source": "Ciena"
+  },
+  {
     "title": "Field Services Project Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Field-Services-Project-Manager_R029875",
     "locationsText": "2 Locations",
@@ -1080,17 +1112,6 @@
       "R031555"
     ],
     "id": "R031555",
-    "source": "Ciena"
-  },
-  {
-    "title": "Data Scientist - Supply Chain Optimisation",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK/Data-Scientist---Supply-Chain-Optimisation_R031077",
-    "locationsText": "Remote-UK",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R031077"
-    ],
-    "id": "R031077",
     "source": "Ciena"
   },
   {

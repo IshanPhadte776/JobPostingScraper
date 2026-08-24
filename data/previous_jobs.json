@@ -818,15 +818,26 @@
     "source": "SST"
   },
   {
-    "title": "Director, Client Relationship Management",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Director--Client-Relationship-Manager_R43333",
-    "locationsText": "3 Locations",
+    "title": "Sr. DevOps Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Sr-DevOps-Engineer_R45092",
+    "locationsText": "5 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R43333"
+      "R45092"
     ],
-    "id": "R43333",
+    "id": "R45092",
     "source": "SST"
+  },
+  {
+    "title": "Collaboration Technical Specialist-2",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Collaboration-Technical-Specialist-2_2611686",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2611686"
+    ],
+    "id": "2611686",
+    "source": "CIBC"
   },
   {
     "title": "Developer, Performance Management Data & Analytics",
@@ -1038,17 +1049,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Data Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Data-Developer_2616941",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2616941"
-    ],
-    "id": "2616941",
-    "source": "CIBC"
-  },
-  {
     "title": "Director, Product Line Management \u2013 Waveserver PLM Team",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Product-Line-Management---Waveserver-PLM-Team_R031512",
     "locationsText": "2 Locations",
@@ -1068,6 +1068,28 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Data Scientist - Supply Chain Optimisation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK/Data-Scientist---Supply-Chain-Optimisation_R031077",
+    "locationsText": "Remote-UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031077"
+    ],
+    "id": "R031077",
+    "source": "Ciena"
+  },
+  {
+    "title": "Transmitter (Tx) SerDes Design Lead - 224G/448G",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Transmitter--Tx--SerDes-Design-Lead---224G-448G_R031579",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031579"
+    ],
+    "id": "R031579",
     "source": "Ciena"
   },
   {
@@ -1214,17 +1236,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Lab Inventory Support Specialist",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Lab-Inventory-Support-Specialist_R031509",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R031509"
-    ],
-    "id": "R031509",
-    "source": "Ciena"
-  },
-  {
     "title": "Network Solutions Engineer, On-site: Scott Air Force Base, IL",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-IL/Network-Solutions-Engineer--On-site--Scott-Air-Force-Base--IL_R031414",
     "locationsText": "Remote-US-IL",
@@ -1255,17 +1266,6 @@
       "R031478"
     ],
     "id": "R031478",
-    "source": "Ciena"
-  },
-  {
-    "title": "Product Marketing Advisor, Interconnects Portfolio",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Advisor--Portfolio-Marketing--Interconnects_R030673",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R030673"
-    ],
-    "id": "R030673",
     "source": "Ciena"
   },
   {
@@ -1324,14 +1324,11 @@
     "source": "Entrust"
   },
   {
-    "title": "Firmware Engineer II (Continuation)",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Staff-Firmware-Engineer_R004052",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 30+ Days Ago",
     "bulletFields": [
       "R004052"
     ],
     "id": "R004052",
+    "externalPath": "",
     "source": "Entrust"
   },
   {

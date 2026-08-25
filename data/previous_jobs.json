@@ -420,27 +420,6 @@
     "url": "https://solace.bamboohr.com/career/careers/775"
   },
   {
-    "id": "776",
-    "jobOpeningName": "Software Developer - Full Stack (Junior)",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/776"
-  },
-  {
     "id": "777",
     "jobOpeningName": "Software Developer (Junior)",
     "departmentId": "18550",
@@ -1071,6 +1050,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Test Automation Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Test-Automation-Engineer_R031402",
+    "locationsText": "Petaluma",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031402"
+    ],
+    "id": "R031402",
+    "source": "Ciena"
+  },
+  {
     "title": "Technical Solutions Engineer P2",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/London/Technical-Solutions-Engineer-P2_R031335",
     "locationsText": "London",
@@ -1255,17 +1245,6 @@
       "R031429"
     ],
     "id": "R031429",
-    "source": "Ciena"
-  },
-  {
-    "title": "Hardware Systems Architect (Optical Networking)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Systems-Architect--Optical-Networking-_R030537-1",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R030537"
-    ],
-    "id": "R030537",
     "source": "Ciena"
   },
   {

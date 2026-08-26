@@ -399,27 +399,6 @@
     "url": "https://solace.bamboohr.com/career/careers/769"
   },
   {
-    "id": "775",
-    "jobOpeningName": "Payroll Coordinator",
-    "departmentId": "18750",
-    "departmentLabel": "Finance",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/775"
-  },
-  {
     "id": "777",
     "jobOpeningName": "Software Developer (Junior)",
     "departmentId": "18550",
@@ -808,6 +787,17 @@
     "source": "SST"
   },
   {
+    "title": "Technical Consultant (Governance & Controls)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Technical-Consultant--Governance---Controls-_2617382",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2617382"
+    ],
+    "id": "2617382",
+    "source": "CIBC"
+  },
+  {
     "title": "Senior Solutions Architect",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Solutions-Architect_2617181",
     "locationsText": "Toronto, ON",
@@ -1014,17 +1004,6 @@
       "2610604"
     ],
     "id": "2610604",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr Consultant, Application Support - 18 Months Secondment",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Support---18-Months-Secondment_2616454",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2616454"
-    ],
-    "id": "2616454",
     "source": "CIBC"
   },
   {

@@ -892,6 +892,28 @@
     "source": "SST"
   },
   {
+    "title": "Service Manager, Cyber Security Automation",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Service-Manager--Cyber-Security-Automation_2617898",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2617898"
+    ],
+    "id": "2617898",
+    "source": "CIBC"
+  },
+  {
+    "title": "Mainframe Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Mainframe-Developer_2617187",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2617187"
+    ],
+    "id": "2617187",
+    "source": "CIBC"
+  },
+  {
     "title": "Consultant, Solution Design and Strategy",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Solution-Design-and-Strategy_2615229",
     "locationsText": "Toronto, ON",
@@ -1090,28 +1112,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, IT Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--IT-Quality-Assurance_2616260-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2616260"
-    ],
-    "id": "2616260",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Analyst, IT Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--IT-Quality-Assurance_2616261",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2616261"
-    ],
-    "id": "2616261",
-    "source": "CIBC"
-  },
-  {
     "title": "Routing and Switching Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Routing-and-Switching-Product-Line-Manager_R031594",
     "locationsText": "3 Locations",
@@ -1145,6 +1145,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Hardware Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Senior-Hardware-Engineer_R031630-1",
+    "locationsText": "New Providence - NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031630"
+    ],
+    "id": "R031630",
+    "source": "Ciena"
+  },
+  {
     "title": "Photonics Technical Prime",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Technical-Prime_R030655",
     "locationsText": "Ottawa",
@@ -1164,14 +1175,6 @@
       "R031084"
     ],
     "id": "R031084",
-    "source": "Ciena"
-  },
-  {
-    "bulletFields": [
-      "R031243"
-    ],
-    "id": "R031243",
-    "externalPath": "",
     "source": "Ciena"
   },
   {

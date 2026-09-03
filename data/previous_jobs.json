@@ -881,14 +881,14 @@
     "source": "SST"
   },
   {
-    "title": "Director, Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Director--Fund-Accounting_R46051",
-    "locationsText": "Union, NJ",
+    "title": "Associate Client Relations Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Associate-Client-Relations-Specialist_R46035",
+    "locationsText": "Kansas City, MO",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R46051"
+      "R46035"
     ],
-    "id": "R46051",
+    "id": "R46035",
     "source": "SST"
   },
   {
@@ -1145,6 +1145,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Photonics Technical Prime",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-Technical-Prime_R030655",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030655"
+    ],
+    "id": "R030655",
+    "source": "Ciena"
+  },
+  {
     "title": "Platform Software Developer - 2026 New Grads",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1",
     "locationsText": "Atlanta",
@@ -1153,6 +1164,14 @@
       "R031084"
     ],
     "id": "R031084",
+    "source": "Ciena"
+  },
+  {
+    "bulletFields": [
+      "R031243"
+    ],
+    "id": "R031243",
+    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -1307,28 +1326,6 @@
       "R031598"
     ],
     "id": "R031598",
-    "source": "Ciena"
-  },
-  {
-    "title": "Global Commodity Manager - Optics",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Global-Commodity-Manager---Optics_R031588",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R031588"
-    ],
-    "id": "R031588",
-    "source": "Ciena"
-  },
-  {
-    "title": "Layout Design Intern (Fall 2026)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R031587"
-    ],
-    "id": "R031587",
     "source": "Ciena"
   },
   {

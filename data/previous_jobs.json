@@ -63,27 +63,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/292"
   },
   {
-    "id": "299",
-    "jobOpeningName": "Customer Success and Solutions Specialist, Hardware Operations ",
-    "departmentId": "18813",
-    "departmentLabel": "Sales & Success",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/299"
-  },
-  {
     "id": "301",
     "jobOpeningName": "Lead Support Engineer, Bedrock ",
     "departmentId": "18814",
@@ -166,6 +145,27 @@
     "isRemote": null,
     "locationType": "2",
     "url": "https://giatecscientific.bamboohr.com/career/careers/304"
+  },
+  {
+    "id": "305",
+    "jobOpeningName": "Customer Success and Solutions Specialist, Hardware Operations",
+    "departmentId": "18813",
+    "departmentLabel": "Sales & Success",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/305"
   },
   {
     "id": "729",
@@ -892,6 +892,17 @@
     "source": "SST"
   },
   {
+    "title": "Site Reliability Engineer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Site-Reliability-Engineer_2618005",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2618005"
+    ],
+    "id": "2618005",
+    "source": "CIBC"
+  },
+  {
     "title": "Business Systems Analyst",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Business-Systems-Analyst_2618113-1",
     "locationsText": "Toronto, ON",
@@ -1098,17 +1109,6 @@
       "2613338"
     ],
     "id": "2613338",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior QA Engineer, Performance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-QA-Engineer--Performance_2613339",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 9 Days Ago",
-    "bulletFields": [
-      "2613339"
-    ],
-    "id": "2613339",
     "source": "CIBC"
   },
   {

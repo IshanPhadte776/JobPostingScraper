@@ -859,6 +859,28 @@
     "source": "SST"
   },
   {
+    "title": "Associate, Tax Reporting, Regulatory Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate--Tax-Reporting--Regulatory-Services_R45655",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45655"
+    ],
+    "id": "R45655",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Project Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Senior-Project-Manager_R45244",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45244"
+    ],
+    "id": "R45244",
+    "source": "SST"
+  },
+  {
     "title": "Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Associate_R44474",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
@@ -870,26 +892,15 @@
     "source": "SST"
   },
   {
-    "title": "Analyst, Risk Analytics & Performance",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Analyst--Risk-Analytics---Performance_R45965",
-    "locationsText": "2 Locations",
+    "title": "Sr. Consultant, Business Systems Analysis",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2617316",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45965"
+      "2617316"
     ],
-    "id": "R45965",
-    "source": "SST"
-  },
-  {
-    "title": "Global HR Compliance Specialist",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Global-HR-Compliance-Specialist_R45987",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R45987"
-    ],
-    "id": "R45987",
-    "source": "SST"
+    "id": "2617316",
+    "source": "CIBC"
   },
   {
     "title": "Senior QA Engineer, Performance",
@@ -1101,17 +1112,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Join our Talent Community!",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Experienced-Direct-Applicant-Portal_2500877",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 30+ Days Ago",
-    "bulletFields": [
-      "2500877"
-    ],
-    "id": "2500877",
-    "source": "CIBC"
-  },
-  {
     "title": "Routing and Switching Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Routing-and-Switching-Product-Line-Manager_R031594",
     "locationsText": "3 Locations",
@@ -1142,6 +1142,17 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Optical Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Optical-Engineer_R031317-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031317"
+    ],
+    "id": "R031317",
     "source": "Ciena"
   },
   {
@@ -1318,17 +1329,6 @@
       "R031483"
     ],
     "id": "R031483",
-    "source": "Ciena"
-  },
-  {
-    "title": "Service Delivery Manager - Africa",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-South-Africa/Service-Delivery-Manager---Africa_R030845",
-    "locationsText": "Remote-South Africa",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R030845"
-    ],
-    "id": "R030845",
     "source": "Ciena"
   },
   {

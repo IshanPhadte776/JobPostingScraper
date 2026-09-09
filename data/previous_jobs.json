@@ -913,6 +913,17 @@
     "source": "SST"
   },
   {
+    "title": "Director, US IT Asset Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Chicago-IL/Director-of-US-IT-Asset-Management_2616632",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2616632"
+    ],
+    "id": "2616632",
+    "source": "CIBC"
+  },
+  {
     "title": "Senior Azure Data Engineer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Azure-Data-Engineer_2617811-1",
     "locationsText": "Toronto, ON",
@@ -921,17 +932,6 @@
       "2617811"
     ],
     "id": "2617811",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior DevOps Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-DevOps-Consultant--Application-Development_2612446-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "2612446"
-    ],
-    "id": "2612446",
     "source": "CIBC"
   },
   {
@@ -3093,48 +3093,6 @@
         "description": "",
         "link": "https://www.surveymonkey.com/careers/office/italy-remote/",
         "path": "/careers/office/italy-remote/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 167603,
-    "type": "careers",
-    "title": "Senior Software Engineer I",
-    "link": "https://www.surveymonkey.com/careers/d5a13ccd-senior-software-engineer-i/",
-    "path": "/careers/d5a13ccd-senior-software-engineer-i/",
-    "date": "2026-06-16T10:00:19",
-    "date_modified": "2026-06-16T10:00:19",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer I",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      },
-      {
-        "id": 538,
-        "slug": "ottawa",
-        "name": "Ottawa",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
-        "path": "/careers/office/ottawa/"
       }
     ],
     "job_location": "",

@@ -714,6 +714,17 @@
     "url": "https://truecontext.bamboohr.com/career/careers/46"
   },
   {
+    "title": "Senior Associate, Private Markets",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Senior-Associate--Private-Markets_R46131",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46131"
+    ],
+    "id": "R46131",
+    "source": "SST"
+  },
+  {
     "title": "Azure Cloud Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Cloud-Engineer_R40402",
     "locationsText": "Kansas City, MO",
@@ -890,6 +901,28 @@
     "source": "SST"
   },
   {
+    "title": "Senior Associate, Private Markets Fund Accounting",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Senior-Associate--Private-Markets-Fund-Accounting_R41929-1",
+    "locationsText": "Chicago, IL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R41929"
+    ],
+    "id": "R41929",
+    "source": "SST"
+  },
+  {
+    "title": "Associate Fund Accountant",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Denver-CO/Associate-Fund-Accountant_R28041",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R28041"
+    ],
+    "id": "R28041",
+    "source": "SST"
+  },
+  {
     "title": "Analyst, Risk Analytics & Performance",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Analyst--Risk-Analytics---Performance_R45965",
     "locationsText": "2 Locations",
@@ -898,39 +931,6 @@
       "R45965"
     ],
     "id": "R45965",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Director, Client Success",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Associate-Director--Client-Success_R46009",
-    "locationsText": "Boston MA - One Post Office Square",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R46009"
-    ],
-    "id": "R46009",
-    "source": "SST"
-  },
-  {
-    "title": "Implementation Consultant - Eclipse Client Service",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Implementation-Consultant---Eclipse-Client-Service_R46098",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R46098"
-    ],
-    "id": "R46098",
-    "source": "SST"
-  },
-  {
-    "title": "Lead Quantitative Financial Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Toronto-Canada/Lead-Quantitative-Financial-Engineer_R46174",
-    "locationsText": "Toronto, Canada",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R46174"
-    ],
-    "id": "R46174",
     "source": "SST"
   },
   {

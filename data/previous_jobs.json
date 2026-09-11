@@ -922,6 +922,17 @@
     "source": "SST"
   },
   {
+    "title": "Liquidity Account Manager - PA26Q3LLJH99",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/5-Rue-Jean-Monnet-Luxembourg/Liquidity-Account-Manager---PA26Q3LLJH99_R46028",
+    "locationsText": "5 Rue Jean Monnet Luxembourg",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46028"
+    ],
+    "id": "R46028",
+    "source": "SST"
+  },
+  {
     "title": "Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Associate_R45765",
     "locationsText": "Maharashtra, Navi Mumbai",
@@ -944,15 +955,15 @@
     "source": "SST"
   },
   {
-    "title": "Associate Director; Private Equity Fund Accounting (East Coast Region)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Director--Private-Equity-Fund-Accounting--East-Coast-Region-_R37686-1",
-    "locationsText": "3 Locations",
+    "title": "Director, Design and Solutions",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--Design-and-Solutions_2618506",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37686"
+      "2618506"
     ],
-    "id": "R37686",
-    "source": "SST"
+    "id": "2618506",
+    "source": "CIBC"
   },
   {
     "title": "Sr Security Application Support Engineer",
@@ -1164,17 +1175,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Mainframe Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Mainframe-Developer_2617187",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2617187"
-    ],
-    "id": "2617187",
-    "source": "CIBC"
-  },
-  {
     "title": "Routing and Switching Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Routing-and-Switching-Product-Line-Manager_R031594",
     "locationsText": "3 Locations",
@@ -1194,14 +1194,6 @@
       "R029960"
     ],
     "id": "R029960",
-    "source": "Ciena"
-  },
-  {
-    "bulletFields": [
-      "R030709"
-    ],
-    "id": "R030709",
-    "externalPath": "",
     "source": "Ciena"
   },
   {
@@ -1389,6 +1381,17 @@
       "R030875"
     ],
     "id": "R030875",
+    "source": "Ciena"
+  },
+  {
+    "title": "NPI Program Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Thailand--Fabrinet/NPI-Program-Manager_R029490-1",
+    "locationsText": "Thailand- Fabrinet",
+    "postedOn": "Posted 4 Days Ago",
+    "bulletFields": [
+      "R029490"
+    ],
+    "id": "R029490",
     "source": "Ciena"
   },
   {

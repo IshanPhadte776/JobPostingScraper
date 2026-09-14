@@ -922,6 +922,28 @@
     "source": "SST"
   },
   {
+    "title": "Head of Pharmacy IT Development",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Kansas-US/Head-of-Pharmacy-IT-Development_R46321",
+    "locationsText": "Remote - Kansas, US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46321"
+    ],
+    "id": "R46321",
+    "source": "SST"
+  },
+  {
+    "title": "Business Development Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Business-Development-Specialist_R44967",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44967"
+    ],
+    "id": "R44967",
+    "source": "SST"
+  },
+  {
     "title": "Global HR Compliance Specialist",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Global-HR-Compliance-Specialist_R45987",
     "locationsText": "2 Locations",
@@ -933,26 +955,26 @@
     "source": "SST"
   },
   {
-    "title": "Sr. Data Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Sr-Data-Engineer_R44852",
-    "locationsText": "San Francisco, CA",
+    "title": "Data Application Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Application-Developer_2617631",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44852"
+      "2617631"
     ],
-    "id": "R44852",
-    "source": "SST"
+    "id": "2617631",
+    "source": "CIBC"
   },
   {
-    "title": "Integration Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Madrid-Spain/Integration-Engineer_R45572",
-    "locationsText": "Madrid, Spain",
+    "title": "Technical Analyst",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Technical-Analyst_2617629",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45572"
+      "2617629"
     ],
-    "id": "R45572",
-    "source": "SST"
+    "id": "2617629",
+    "source": "CIBC"
   },
   {
     "title": "Director, US IT Asset Management",
@@ -1150,28 +1172,6 @@
       "2617970"
     ],
     "id": "2617970",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2617316",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2617316"
-    ],
-    "id": "2617316",
-    "source": "CIBC"
-  },
-  {
-    "title": "Site Reliability Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Site-Reliability-Engineer_2618005",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "2618005"
-    ],
-    "id": "2618005",
     "source": "CIBC"
   },
   {

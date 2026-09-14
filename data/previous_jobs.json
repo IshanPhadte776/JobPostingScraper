@@ -933,6 +933,17 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Data Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/San-Francisco-CA/Sr-Data-Engineer_R44852",
+    "locationsText": "San Francisco, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44852"
+    ],
+    "id": "R44852",
+    "source": "SST"
+  },
+  {
     "title": "Integration Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Madrid-Spain/Integration-Engineer_R45572",
     "locationsText": "Madrid, Spain",
@@ -944,15 +955,15 @@
     "source": "SST"
   },
   {
-    "title": "Insurance Claims Administrator",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dublin-Ireland---Bishops-Square/Insurance-Claims-Administrator_R45809",
-    "locationsText": "Dublin Ireland - Bishop's Square",
+    "title": "Director, US IT Asset Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Chicago-IL/Director-of-US-IT-Asset-Management_2616632",
+    "locationsText": "3 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45809"
+      "2616632"
     ],
-    "id": "R45809",
-    "source": "SST"
+    "id": "2616632",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Java Back End Developer",
@@ -1109,17 +1120,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Director, US IT Asset Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Chicago-IL/Director-of-US-IT-Asset-Management_2616632",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2616632"
-    ],
-    "id": "2616632",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Azure Data Engineer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Azure-Data-Engineer_2617811-1",
     "locationsText": "Toronto, ON",
@@ -1205,17 +1205,6 @@
       "R031631"
     ],
     "id": "R031631",
-    "source": "Ciena"
-  },
-  {
-    "title": "Quality Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Quality-Engineer_R031628",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031628"
-    ],
-    "id": "R031628",
     "source": "Ciena"
   },
   {
@@ -1307,17 +1296,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Kinaxis Analyst",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India-Gurgaon-TRIL-Tower-4/Kinaxis-Analyst_R031186",
-    "locationsText": "India-Gurgaon-TRIL Tower 4",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R031186"
-    ],
-    "id": "R031186",
-    "source": "Ciena"
-  },
-  {
     "title": "Resident Engineer Australia",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Australia/Resident-Engineer-Australia_R031620",
     "locationsText": "Remote-Australia",
@@ -1392,6 +1370,28 @@
       "R031317"
     ],
     "id": "R031317",
+    "source": "Ciena"
+  },
+  {
+    "title": "Junior Project Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Portugal/Junior-Project-Manager_R031610",
+    "locationsText": "Remote-Portugal",
+    "postedOn": "Posted 6 Days Ago",
+    "bulletFields": [
+      "R031610"
+    ],
+    "id": "R031610",
+    "source": "Ciena"
+  },
+  {
+    "title": "Junior Project Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/London/Junior-Project-Manager_R031611",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted 6 Days Ago",
+    "bulletFields": [
+      "R031611"
+    ],
+    "id": "R031611",
     "source": "Ciena"
   },
   {

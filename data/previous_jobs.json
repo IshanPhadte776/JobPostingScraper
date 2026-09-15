@@ -714,6 +714,17 @@
     "url": "https://truecontext.bamboohr.com/career/careers/46"
   },
   {
+    "title": "Senior Associate - Dotnet Fullstack Developer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Dotnet-Fullstack-Developer_R46363",
+    "locationsText": "Maharashtra, Navi Mumbai",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46363"
+    ],
+    "id": "R46363",
+    "source": "SST"
+  },
+  {
     "title": "Senior Associate, Private Markets",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Senior-Associate--Private-Markets_R46131",
     "locationsText": "2 Locations",
@@ -923,17 +934,6 @@
     "source": "SST"
   },
   {
-    "title": "AI / ML Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/AI---ML-Engineer_R45991",
-    "locationsText": "4 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R45991"
-    ],
-    "id": "R45991",
-    "source": "SST"
-  },
-  {
     "title": "Sr. Consultant, Supplier Risk Management",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Supplier-Risk-Management_2612257",
     "locationsText": "Toronto, ON",
@@ -1011,17 +1011,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Director, US IT Asset Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Chicago-IL/Director-of-US-IT-Asset-Management_2616632",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2616632"
-    ],
-    "id": "2616632",
-    "source": "CIBC"
-  },
-  {
     "title": "Consultant, Java Back End Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Back-End-Developer_2601332",
     "locationsText": "Toronto, ON",
@@ -1052,6 +1041,17 @@
       "2616446"
     ],
     "id": "2616446",
+    "source": "CIBC"
+  },
+  {
+    "title": "Director, US IT Asset Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Chicago-IL/Director-of-US-IT-Asset-Management_2616632",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "2616632"
+    ],
+    "id": "2616632",
     "source": "CIBC"
   },
   {

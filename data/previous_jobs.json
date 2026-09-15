@@ -315,27 +315,6 @@
     "url": "https://solace.bamboohr.com/career/careers/749"
   },
   {
-    "id": "761",
-    "jobOpeningName": "Senior DevOps Engineer",
-    "departmentId": "18550",
-    "departmentLabel": "R&D",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/761"
-  },
-  {
     "id": "762",
     "jobOpeningName": "Sales Director - SoCal",
     "departmentId": "18617",
@@ -912,25 +891,25 @@
     "source": "SST"
   },
   {
-    "title": "Senior Cloud Solutions Architect",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Senior-Cloud-Solutions-Architect_R45690",
-    "locationsText": "7 Locations",
+    "title": "Director of Product Management \u2013 Engagement",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Director-of-Product-Management-Director--Product-Management---Engagement_R46150",
+    "locationsText": "Remote - Florida, US",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45690"
+      "R46150"
     ],
-    "id": "R45690",
+    "id": "R46150",
     "source": "SST"
   },
   {
-    "title": "RS Operational AI Analyst Intern",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766",
-    "locationsText": "Braintree MA - 30 Braintree Hill Park",
+    "title": "Associate Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Manager_R44176",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45766"
+      "R44176"
     ],
-    "id": "R45766",
+    "id": "R44176",
     "source": "SST"
   },
   {

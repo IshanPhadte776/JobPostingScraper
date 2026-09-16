@@ -880,6 +880,17 @@
     "source": "SST"
   },
   {
+    "title": "Principal Data Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Principal-Data-Engineer_R43984",
+    "locationsText": "Waltham MA - 10 CityPoint",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R43984"
+    ],
+    "id": "R43984",
+    "source": "SST"
+  },
+  {
     "title": "Senior Product Manager",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Senior-Product-Manager_R45681",
     "locationsText": "3 Locations",
@@ -902,15 +913,26 @@
     "source": "SST"
   },
   {
-    "title": "Head of Risk & Compliance",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Basildon-UK/Head-of-Risk---Compliance_R46347",
-    "locationsText": "Basildon, UK",
+    "title": "Intermediate Java Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Intermediate-Java-Developer_2616350-1",
+    "locationsText": "Toronto, ON",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R46347"
+      "2616350"
     ],
-    "id": "R46347",
-    "source": "SST"
+    "id": "2616350",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Production Application Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Production-Application-Support_2617530",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2617530"
+    ],
+    "id": "2617530",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Consultant, Business Systems Analysis- Derivatives Risk Management",
@@ -1111,28 +1133,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Senior Full Stack Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Full-Stack-Developer_2615520",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2615520"
-    ],
-    "id": "2615520",
-    "source": "CIBC"
-  },
-  {
-    "title": "Consultant, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2614592",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2614592"
-    ],
-    "id": "2614592",
-    "source": "CIBC"
-  },
-  {
     "title": "Routing and Switching Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Routing-and-Switching-Product-Line-Manager_R031594",
     "locationsText": "3 Locations",
@@ -1229,17 +1229,6 @@
       "R031186"
     ],
     "id": "R031186",
-    "source": "Ciena"
-  },
-  {
-    "title": "Associate-Corporate Security",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Corporate-Security_R031556",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031556"
-    ],
-    "id": "R031556",
     "source": "Ciena"
   },
   {
@@ -1350,6 +1339,17 @@
       "R031635"
     ],
     "id": "R031635",
+    "source": "Ciena"
+  },
+  {
+    "title": "Wavelogic Modem HW Engineering Intern/Co-op (Winter 2027 - 4 month)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 4 Days Ago",
+    "bulletFields": [
+      "R031652"
+    ],
+    "id": "R031652",
     "source": "Ciena"
   },
   {

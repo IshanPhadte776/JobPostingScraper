@@ -672,6 +672,27 @@
     "url": "https://solace.bamboohr.com/career/careers/791"
   },
   {
+    "id": "792",
+    "jobOpeningName": "Collections & Contract Renewals Specialist ",
+    "departmentId": "18750",
+    "departmentLabel": "Finance",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/792"
+  },
+  {
     "id": "46",
     "jobOpeningName": "Enterprise Account Executive, EMEA",
     "departmentId": null,
@@ -880,36 +901,36 @@
     "source": "SST"
   },
   {
-    "title": "Principal Data Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Principal-Data-Engineer_R43984",
-    "locationsText": "Waltham MA - 10 CityPoint",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43984"
-    ],
-    "id": "R43984",
-    "source": "SST"
-  },
-  {
     "title": "Senior Product Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Missouri-US/Senior-Product-Manager_R45681",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R45681"
-    ],
-    "id": "R45681",
-    "source": "SST"
-  },
-  {
-    "title": "Events Manager",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Events-Manager_R45869",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Senior-Product-Manager_R46126",
     "locationsText": "Remote - Florida, US",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45869"
+      "R46126"
     ],
-    "id": "R45869",
+    "id": "R46126",
+    "source": "SST"
+  },
+  {
+    "title": "Business Analyst - PA26AUTRQ3136",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Business-Analyst---PA26AUTRQ3136_R45053",
+    "locationsText": "Mumbai, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45053"
+    ],
+    "id": "R45053",
+    "source": "SST"
+  },
+  {
+    "title": "RS Operational AI Analyst Intern",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766",
+    "locationsText": "Braintree MA - 30 Braintree Hill Park",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45766"
+    ],
+    "id": "R45766",
     "source": "SST"
   },
   {
@@ -1155,6 +1176,28 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior Designer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-NJ/Senior-Designer_R031675",
+    "locationsText": "Remote-US-NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031675"
+    ],
+    "id": "R031675",
+    "source": "Ciena"
+  },
+  {
+    "title": "AI & Automation Intern - GCN Services Business Operations",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI---Automation-Intern---GCN-Services-Business-Operations_R031664",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031664"
+    ],
+    "id": "R031664",
+    "source": "Ciena"
+  },
+  {
     "title": "Test Tools & Automation Full Stack Software Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Test-Tools---Automation-Full-Stack-Software-Engineer_R030305",
     "locationsText": "Ottawa",
@@ -1328,28 +1371,6 @@
       "R029490"
     ],
     "id": "R029490",
-    "source": "Ciena"
-  },
-  {
-    "title": "Customer Success Advocate",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UAE/Customer-Success-Advocate_R031635",
-    "locationsText": "Remote-UAE",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "R031635"
-    ],
-    "id": "R031635",
-    "source": "Ciena"
-  },
-  {
-    "title": "Wavelogic Modem HW Engineering Intern/Co-op (Winter 2027 - 4 month)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R031652"
-    ],
-    "id": "R031652",
     "source": "Ciena"
   },
   {

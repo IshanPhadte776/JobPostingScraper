@@ -901,6 +901,28 @@
     "source": "SST"
   },
   {
+    "title": "Sales Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Associate_R46199-1",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46199"
+    ],
+    "id": "R46199",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Account Executive",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Chicago-IL/Senior-Account-Executive_R46333-1",
+    "locationsText": "Chicago, IL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46333"
+    ],
+    "id": "R46333",
+    "source": "SST"
+  },
+  {
     "title": "Human Resources Business Partner",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Human-Resources-Business-Partner_R46367-1",
     "locationsText": "2 Locations",
@@ -909,28 +931,6 @@
       "R46367"
     ],
     "id": "R46367",
-    "source": "SST"
-  },
-  {
-    "title": "Manager, Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Manager--Fund-Accounting_R46295",
-    "locationsText": "5 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R46295"
-    ],
-    "id": "R46295",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Sales Executive",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---New-York-US/Senior-Sales-Executive--Asset-Management-Technology-Solutions_R36940",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R36940"
-    ],
-    "id": "R36940",
     "source": "SST"
   },
   {
@@ -1286,17 +1286,6 @@
     "source": "Ciena"
   },
   {
-    "title": "ASIC Development Methodology and Automation - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Development-Methodology-and-Automation---New-Grad_R031639",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R031639"
-    ],
-    "id": "R031639",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior Designer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-NJ/Senior-Designer_R031675",
     "locationsText": "Remote-US-NJ",
@@ -1371,6 +1360,17 @@
       "R031624"
     ],
     "id": "R031624",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Java Developer- Telecom Domain",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Senior-Java-Developer--Telecom-Domain_R031647",
+    "locationsText": "Gurugram",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R031647"
+    ],
+    "id": "R031647",
     "source": "Ciena"
   },
   {

@@ -714,6 +714,27 @@
     "url": "https://truecontext.bamboohr.com/career/careers/46"
   },
   {
+    "id": "47",
+    "jobOpeningName": "Technical Analyst",
+    "departmentId": "18251",
+    "departmentLabel": "Ops-Support",
+    "employmentStatusLabel": "Full time",
+    "employmentType": null,
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://truecontext.bamboohr.com/career/careers/47"
+  },
+  {
     "title": "Hiring Private Equity Accounting Professionals!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Hiring-Private-Equity-Accounting-Professionals-_R46445",
     "locationsText": "2 Locations",
@@ -912,25 +933,25 @@
     "source": "SST"
   },
   {
-    "title": "Director, Fund Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Director--Fund-Accounting_R44605",
-    "locationsText": "3 Locations",
+    "title": "Senior Director, Head of Technology Onboarding PA2026Q4JB002",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Senior-Director--Head-of-Technology-Onboarding-PA2026Q4JB002_R46439",
+    "locationsText": "Kansas City, MO",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44605"
+      "R46439"
     ],
-    "id": "R44605",
+    "id": "R46439",
     "source": "SST"
   },
   {
-    "title": "Associate Manager - Hedge Fund Accounting; East Coast Region",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Manager---Hedge-Fund-Accounting--East-Coast-Region_R37643",
-    "locationsText": "4 Locations",
+    "title": "Site Reliability Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Site-Reliability-Engineer_R46365",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R37643"
+      "R46365"
     ],
-    "id": "R37643",
+    "id": "R46365",
     "source": "SST"
   },
   {
@@ -1176,6 +1197,17 @@
     "source": "Ciena"
   },
   {
+    "title": "SVT/PV Engineer 1 - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031622"
+    ],
+    "id": "R031622",
+    "source": "Ciena"
+  },
+  {
     "title": "Resident Engineer -  Colombia",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote---Colombia/Resident-Engineer----Colombia_R031619",
     "locationsText": "Remote - Colombia",
@@ -1363,15 +1395,15 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Associate, Global Technical Support",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Associate--Global-Technical-Support_R031661",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted 5 Days Ago",
+    "title": "Senior Electrical Engineer",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Electrical-Engineer_R004212",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "R031661"
+      "R004212"
     ],
-    "id": "R031661",
-    "source": "Ciena"
+    "id": "R004212",
+    "source": "Entrust"
   },
   {
     "title": "Firmware Engineer II",
@@ -1459,17 +1491,6 @@
       "R004283"
     ],
     "id": "R004283",
-    "source": "Entrust"
-  },
-  {
-    "title": "Senior Electrical Engineer",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Electrical-Engineer_R004212",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 30+ Days Ago",
-    "bulletFields": [
-      "R004212"
-    ],
-    "id": "R004212",
     "source": "Entrust"
   },
   {

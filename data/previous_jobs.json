@@ -913,6 +913,28 @@
     "source": "SST"
   },
   {
+    "title": "Security Service Manager",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Security-Service-Manager_2619064",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2619064"
+    ],
+    "id": "2619064",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Manager, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Application-Development_2615004-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2615004"
+    ],
+    "id": "2615004",
+    "source": "CIBC"
+  },
+  {
     "title": "Sr. Infrastructure Engineer - Patching",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Infrastructure-Engineer---Patching_2614681-1",
     "locationsText": "Toronto, ON",
@@ -1111,28 +1133,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Consultant, Business Systems Analysis- Derivatives Risk Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis--Derivatives-Risk-Management_2618607",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2618607"
-    ],
-    "id": "2618607",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Analyst, Application Reliability Engineering - Operations",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--Application-Reliability-Engineering---Operations_2618449",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2618449"
-    ],
-    "id": "2618449",
-    "source": "CIBC"
-  },
-  {
     "title": "Routing and Switching Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Routing-and-Switching-Product-Line-Manager_R031594",
     "locationsText": "3 Locations",
@@ -1152,6 +1152,28 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Photonics RLS Senior Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Photonics-RLS-Senior-Engineer_R031706",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031706"
+    ],
+    "id": "R031706",
+    "source": "Ciena"
+  },
+  {
+    "title": "Ing\u00e9nieur en test de circuits photoniques / Photonics Test Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Senior-Silicon-Photonics-Chip-Designer_R030533",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030533"
+    ],
+    "id": "R030533",
     "source": "Ciena"
   },
   {
@@ -1265,17 +1287,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Hardware Engineer, Power Design, onsite Kanata",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Engineer--Power-Design--onsite-Kanata_R031678",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R031678"
-    ],
-    "id": "R031678",
-    "source": "Ciena"
-  },
-  {
     "title": "Project Management",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Project-Management_R031613",
     "locationsText": "Gurugram",
@@ -1339,17 +1350,6 @@
       "R031618"
     ],
     "id": "R031618",
-    "source": "Ciena"
-  },
-  {
-    "title": "Associate-Corporate Security",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Associate-Corporate-Security_R031556",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R031556"
-    ],
-    "id": "R031556",
     "source": "Ciena"
   },
   {

@@ -891,6 +891,17 @@
     "source": "SST"
   },
   {
+    "title": "Client Services Analyst 1",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Client-Services-Analyst-1_R46402",
+    "locationsText": "Jacksonville, FL",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46402"
+    ],
+    "id": "R46402",
+    "source": "SST"
+  },
+  {
     "title": "Account Executive",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Account-Executive_R45958",
     "locationsText": "2 Locations",
@@ -899,17 +910,6 @@
       "R45958"
     ],
     "id": "R45958",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Implementation Consultant - Investment Management",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Implementation-Consultant---Investment-Management_R46358",
-    "locationsText": "5 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R46358"
-    ],
-    "id": "R46358",
     "source": "SST"
   },
   {
@@ -1155,6 +1155,28 @@
     "source": "Ciena"
   },
   {
+    "title": "ASIC Engineer Intern",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/ASIC-Engineer-Intern_R031750",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031750"
+    ],
+    "id": "R031750",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Physical Design Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Physical-Design-Engineer_R031690",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031690"
+    ],
+    "id": "R031690",
+    "source": "Ciena"
+  },
+  {
     "title": "Global Revenue Assurance, FP&A",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Global-Revenue-Assurance--FP-A_R031696",
     "locationsText": "2 Locations",
@@ -1328,28 +1350,6 @@
       "R031556"
     ],
     "id": "R031556",
-    "source": "Ciena"
-  },
-  {
-    "title": "Platform Lead",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Platform-Lead_R031637",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R031637"
-    ],
-    "id": "R031637",
-    "source": "Ciena"
-  },
-  {
-    "title": "Sr Account Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Australia/MOFN-Sales-Lead_R031650",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R031650"
-    ],
-    "id": "R031650",
     "source": "Ciena"
   },
   {

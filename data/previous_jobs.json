@@ -357,27 +357,6 @@
     "url": "https://solace.bamboohr.com/career/careers/765"
   },
   {
-    "id": "769",
-    "jobOpeningName": "Field Marketing Manager",
-    "departmentId": "18644",
-    "departmentLabel": "Marketing",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": "London",
-      "state": "London, City of"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/769"
-  },
-  {
     "id": "777",
     "jobOpeningName": "Software Developer (Junior)",
     "departmentId": "18550",
@@ -1113,6 +1092,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Senior FPGA Verification Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-FPGA-Verification-Engineer_R031689",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031689"
+    ],
+    "id": "R031689",
+    "source": "Ciena"
+  },
+  {
     "title": "Finance Leadership Development Program",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Finance-Leadership-Development-Program_R031771",
     "locationsText": "Baltimore",
@@ -1297,17 +1287,6 @@
       "R031690"
     ],
     "id": "R031690",
-    "source": "Ciena"
-  },
-  {
-    "title": "Global Revenue Assurance, FP&A",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Global-Revenue-Assurance--FP-A_R031696",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R031696"
-    ],
-    "id": "R031696",
     "source": "Ciena"
   },
   {

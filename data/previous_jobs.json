@@ -672,6 +672,14 @@
     "url": "https://truecontext.bamboohr.com/career/careers/47"
   },
   {
+    "bulletFields": [
+      "R46092"
+    ],
+    "id": "R46092",
+    "externalPath": "",
+    "source": "SST"
+  },
+  {
     "title": "Lead Platform Support Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Lead-Platform-Support-Engineer_R46489",
     "locationsText": "Union, NJ",
@@ -878,17 +886,6 @@
       "R35078"
     ],
     "id": "R35078",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate - Alternative Investments",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellevue---139th-Avenue/Senior-Associate_R45122",
-    "locationsText": "Bellevue - 139th Avenue",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R45122"
-    ],
-    "id": "R45122",
     "source": "SST"
   },
   {

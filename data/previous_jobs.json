@@ -870,6 +870,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Software Engineer",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Software-Engineer_R44049",
+    "locationsText": "Hyderabad, India",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R44049"
+    ],
+    "id": "R44049",
+    "source": "SST"
+  },
+  {
     "title": "Senior Sales Executive",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Colorado-US/Senior-Sales-Executive_R41006",
     "locationsText": "2 Locations",
@@ -878,17 +889,6 @@
       "R41006"
     ],
     "id": "R41006",
-    "source": "SST"
-  },
-  {
-    "title": "Associate Manager, Private Equity Accounting",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Associate-Manager--Private-Equity-Fund-Accounting_R44215-1",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44215"
-    ],
-    "id": "R44215",
     "source": "SST"
   },
   {
@@ -1112,17 +1112,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Routing and Switching Product Line Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Atlanta/Routing-and-Switching-Product-Line-Manager_R031594",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 29 Days Ago",
-    "bulletFields": [
-      "R031594"
-    ],
-    "id": "R031594",
-    "source": "Ciena"
-  },
-  {
     "title": "Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
     "locationsText": "5 Locations",
@@ -1131,6 +1120,17 @@
       "R029960"
     ],
     "id": "R029960",
+    "source": "Ciena"
+  },
+  {
+    "title": "Quality Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US-MD-8150-Maple-Lawn/Quality-Engineer_R031628",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031628"
+    ],
+    "id": "R031628",
     "source": "Ciena"
   },
   {

@@ -870,17 +870,6 @@
     "source": "SST"
   },
   {
-    "title": "Senior Software Engineer",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Senior-Software-Engineer_R44049",
-    "locationsText": "Hyderabad, India",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R44049"
-    ],
-    "id": "R44049",
-    "source": "SST"
-  },
-  {
     "title": "Senior Sales Executive",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Colorado-US/Senior-Sales-Executive_R41006",
     "locationsText": "2 Locations",
@@ -889,6 +878,17 @@
       "R41006"
     ],
     "id": "R41006",
+    "source": "SST"
+  },
+  {
+    "title": "Alternative Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Investor-Services---Associate-Manager_R45934-1",
+    "locationsText": "New York, NY",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45934"
+    ],
+    "id": "R45934",
     "source": "SST"
   },
   {
@@ -1123,14 +1123,14 @@
     "source": "Ciena"
   },
   {
-    "title": "Quality Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/US-MD-8150-Maple-Lawn/Quality-Engineer_R031628",
-    "locationsText": "3 Locations",
+    "title": "Consultant, Forensic Accountant / Financial Analytics",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Consultant--Forensic-Accountant---Financial-Analytics_R031781-1",
+    "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R031628"
+      "R031781"
     ],
-    "id": "R031628",
+    "id": "R031781",
     "source": "Ciena"
   },
   {
@@ -1455,6 +1455,23 @@
     "source": "Entrust"
   },
   {
+    "id": "job_20260930191532_JAVULUVG58MLARW0",
+    "title": "RMA Coordinator",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "Administration",
+    "description": "We are seeking a detail-oriented and customer-focused professional to join our team in a key support role. This position is responsible for managing customer return requests initiated by the Service team, ensuring merchandise is returned to Evertz in accordance with established Standard Operating Procedures (SOPs).<br><br>The role involves close collaboration with internal departments&#8212;including Production, Logistics, Sales, Administration, and Technical Support&#8212;to facilitate warranty replacements, coordinate repair unit shipments, and prepare replacement quotes for customers. The ideal candidate thrives in a fast-paced, collaborative environment and is committed to delivering a seamless customer experience.<p><strong>Responsibilities:</strong></p><ul><li>Support general administrative tasks and maintain accurate records that keep the team running smoothly</li><li>Evaluation of customer needs and solutions&#160;</li><li>Issue and process Return Merchandise Authorization numbers (RMAs) for customer hardware returns&#160;</li><li>Correspond with customers regarding returns, status updates and payments&#160;</li><li>Act as the go-to contact for customer return requests</li><li>Prepare replacement quotes and manage the warranty replacement process end-to-end</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>Post-Secondary Education in related field (Business, Administration) or related experience</li><li>Excellent verbal and written communication skills, critical thinking skills, problem-solving ability, time management skills and interpersonal skills&#160;</li><li>Ability to work in a fast-paced environment&#160;</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li><li>Some customer service experience if preferred&#160;</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><strong>Date Posted: </strong>September 30, 2026<br><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$40K CAD - $45K CAD<br>&#160;<p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Contracted",
+    "board_code": "gJ0mGhROeY",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
     "id": "job_20260929185515_1EJLAH116IA1NF4S",
     "title": "AV Service Engineer \u2014 Control Systems & Device Integration",
     "country_id": "Canada",
@@ -1530,7 +1547,7 @@
     "state": "ON",
     "zip": "L7L 5Z9",
     "department": "Administration",
-    "description": "<p>We are seeking a detail-oriented Order Processing Coordinator to accurately enter and manage orders based on customer purchase orders and internal requests for Production and R&amp;D. This role involves close collaboration with the Production team to monitor ship dates and address any delays.<br><br>The successful candidate will communicate order status clearly and promptly to internal departments, sales representatives, project managers, and customers, ensuring transparency and efficient coordination throughout the order fulfillment process.</p><p><strong>Responsibilities:</strong></p><ul><li>Create internal sales order within custom billing system&#160;</li><li>Organize delivery details such as, system customization notes, ship date, mode of transport, and payment terms</li><li>Provide customers and sales team with delivery updates such as, order revision requirements and transit rescheduling</li></ul><p><strong>Qualifications:&#160;</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational and time management skills</li><li>Excellent verbal and written communication skills, and problem-solving ability</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;&#160;</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Date Posted: </strong>June 5, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "description": "<p>We are seeking a detail-oriented Order Processing Coordinator to accurately enter and manage orders based on customer purchase orders and internal requests for Production and R&amp;D. This role involves close collaboration with the Production team to monitor ship dates and address any delays.<br><br>The successful candidate will communicate order status clearly and promptly to internal departments, sales representatives, project managers, and customers, ensuring transparency and efficient coordination throughout the order fulfillment process.</p><p><strong>Responsibilities:</strong></p><ul><li>Create internal sales order within custom billing system&#160;</li><li>Organize delivery details such as, system customization notes, ship date, mode of transport, and payment terms</li><li>Provide customers and sales team with delivery updates such as, order revision requirements and transit rescheduling</li></ul><p><strong>Qualifications:&#160;</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational and time management skills</li><li>Excellent verbal and written communication skills, and problem-solving ability</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;&#160;</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Date Posted: </strong>September 29, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "Yn6VvjRoex",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",

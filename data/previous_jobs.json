@@ -42,27 +42,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/196"
   },
   {
-    "id": "292",
-    "jobOpeningName": "IT Operations Lead",
-    "departmentId": "18811",
-    "departmentLabel": "Software Development - SmartMix",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/292"
-  },
-  {
     "id": "301",
     "jobOpeningName": "Lead Support Engineer, Bedrock ",
     "departmentId": "18814",
@@ -870,14 +849,14 @@
     "source": "SST"
   },
   {
-    "title": "Observability Engineer (Splunk)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Jacksonville-FL/Observability-Engineer--Splunk-_R41526",
-    "locationsText": "Jacksonville, FL",
+    "title": "Director- Alternative Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Director--Alternative-Investor-Services_R46622",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R41526"
+      "R46622"
     ],
-    "id": "R41526",
+    "id": "R46622",
     "source": "SST"
   },
   {
@@ -991,17 +970,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Business Systems Analysis",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2619621",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2619621"
-    ],
-    "id": "2619621",
-    "source": "CIBC"
-  },
-  {
     "title": "Consultant, Business Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Analysis_2619651",
     "locationsText": "Toronto, ON",
@@ -1109,6 +1077,17 @@
       "2619064"
     ],
     "id": "2619064",
+    "source": "CIBC"
+  },
+  {
+    "title": "DevOps Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/DevOps-Consultant--Application-Development_2612401",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 9 Days Ago",
+    "bulletFields": [
+      "2612401"
+    ],
+    "id": "2612401",
     "source": "CIBC"
   },
   {

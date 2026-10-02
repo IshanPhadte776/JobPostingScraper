@@ -1145,14 +1145,6 @@
     "source": "Ciena"
   },
   {
-    "bulletFields": [
-      "R031714"
-    ],
-    "id": "R031714",
-    "externalPath": "",
-    "source": "Ciena"
-  },
-  {
     "title": "FPGA Verification Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US-TX/FPGA-Verification-Engineer_R031685",
     "locationsText": "Remote-US-TX",
@@ -1274,17 +1266,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Consultant, Forensic Accountant / Financial Analytics",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Consultant--Forensic-Accountant---Financial-Analytics_R031781-1",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R031781"
-    ],
-    "id": "R031781",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior ASIC Verification Engineer, onsite Kanata",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-ASIC-Verification-Engineer--onsite-Kanata_R031789",
     "locationsText": "Ottawa",
@@ -1326,6 +1307,28 @@
       "R031787"
     ],
     "id": "R031787",
+    "source": "Ciena"
+  },
+  {
+    "title": "Junior Project Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Poland/Junior-Project-Manager_R031610",
+    "locationsText": "Remote-Poland",
+    "postedOn": "Posted 3 Days Ago",
+    "bulletFields": [
+      "R031610"
+    ],
+    "id": "R031610",
+    "source": "Ciena"
+  },
+  {
+    "title": "Specialist, Customer Order Fulfillment",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK-Zone-2/Specialist--Customer-Order-Fulfillment_R031723",
+    "locationsText": "Remote-UK Zone 2",
+    "postedOn": "Posted 3 Days Ago",
+    "bulletFields": [
+      "R031723"
+    ],
+    "id": "R031723",
     "source": "Ciena"
   },
   {

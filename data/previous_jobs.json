@@ -378,27 +378,6 @@
     "url": "https://solace.bamboohr.com/career/careers/780"
   },
   {
-    "id": "782",
-    "jobOpeningName": "Senior Graphic Designer",
-    "departmentId": "18644",
-    "departmentLabel": "Marketing",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": "Canada",
-      "state": "Ontario",
-      "province": null,
-      "city": "CAN"
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/782"
-  },
-  {
     "id": "783",
     "jobOpeningName": "Product Operations Lead (8-10 month Contract)",
     "departmentId": "18550",
@@ -609,6 +588,27 @@
     "url": "https://solace.bamboohr.com/career/careers/795"
   },
   {
+    "id": "796",
+    "jobOpeningName": "Technical Support Engineer",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": "Singapore ",
+      "state": "Singapore"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/796"
+  },
+  {
     "id": "46",
     "jobOpeningName": "Enterprise Account Executive, EMEA",
     "departmentId": null,
@@ -654,7 +654,7 @@
     "title": "Hiring Chartered Accountant Freshers - PUNE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Hiring-Chartered-Accountant-Freshers---PUNE_R35256",
     "locationsText": "Pune, India",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R35256"
     ],
@@ -665,7 +665,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Investor-Services---Manager--Associate-Manager_R35078",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R35078"
     ],
@@ -676,7 +676,7 @@
     "title": "Senior Quant Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Quant-Developer_R35179",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R35179"
     ],
@@ -687,7 +687,7 @@
     "title": "Lead Platform Support Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Lead-Platform-Support-Engineer_R46489",
     "locationsText": "Union, NJ",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "R46489"
     ],
@@ -698,7 +698,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Hiring-Investor-Services-Professionals--_R46520",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 12 Days Ago",
+    "postedOn": "Posted 13 Days Ago",
     "bulletFields": [
       "R46520"
     ],
@@ -709,7 +709,7 @@
     "title": "Intelligent Automation Specialist",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellville-South-Africa/Automation-Architect_R46214",
     "locationsText": "Bellville, South Africa",
-    "postedOn": "Posted 12 Days Ago",
+    "postedOn": "Posted 13 Days Ago",
     "bulletFields": [
       "R46214"
     ],
@@ -720,7 +720,7 @@
     "title": "Hiring Private Equity Accounting Professionals!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Hiring-Private-Equity-Accounting-Professionals-_R46445",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R46445"
     ],
@@ -731,7 +731,7 @@
     "title": "Hiring Experienced Fund Accountants Senior Associate  - Mumbai / Pune",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Hiring-Experienced-Fund-Accountants-Senior-Associate----Mumbai---Pune_R45145",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 15 Days Ago",
+    "postedOn": "Posted 16 Days Ago",
     "bulletFields": [
       "R45145"
     ],
@@ -742,7 +742,7 @@
     "title": "Manager - AML, Client Onboarding (Goregaon)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Manager---AML--Client-Onboarding--Goregaon-_R45692",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 15 Days Ago",
+    "postedOn": "Posted 16 Days Ago",
     "bulletFields": [
       "R45692"
     ],
@@ -753,7 +753,7 @@
     "title": "Senior Associate - Private Equity Fund Accounting (Mumbai/ Pune)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Private-Equity-Fund-Accounting--Mumbai--Pune-_R45144",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 15 Days Ago",
+    "postedOn": "Posted 16 Days Ago",
     "bulletFields": [
       "R45144"
     ],
@@ -764,7 +764,7 @@
     "title": "Assistant Manager / Manager - OTC Settlement & Collateral",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Assistant-Manager---Manager---OTC-Settlement---Collateral_R46407",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 17 Days Ago",
+    "postedOn": "Posted 18 Days Ago",
     "bulletFields": [
       "R46407"
     ],
@@ -775,7 +775,7 @@
     "title": "Senior Associate .Net FullStack Developer- Fixed Term",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate-Net-FullStack-Developer--Fixed-Term_R46404",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 17 Days Ago",
+    "postedOn": "Posted 18 Days Ago",
     "bulletFields": [
       "R46404"
     ],
@@ -786,7 +786,7 @@
     "title": "Senior Associate - Dotnet Fullstack Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Dotnet-Fullstack-Developer_R46363",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 20 Days Ago",
+    "postedOn": "Posted 21 Days Ago",
     "bulletFields": [
       "R46363"
     ],
@@ -797,7 +797,7 @@
     "title": "Associate Director - US TAX 1065 (Hyderabad/ Bangalore)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Associate-Director---US-TAX-1065--Hyderabad--Bangalore-_R44941",
     "locationsText": "Hyderabad, India",
-    "postedOn": "Posted 22 Days Ago",
+    "postedOn": "Posted 23 Days Ago",
     "bulletFields": [
       "R44941"
     ],
@@ -808,7 +808,7 @@
     "title": "Senior Associate & Associate Manager- DDQ - Due Diligence Support",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate---Associate-Manager--DDQ---Due-Diligence-Support_R43020",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 22 Days Ago",
+    "postedOn": "Posted 23 Days Ago",
     "bulletFields": [
       "R43020"
     ],
@@ -819,7 +819,7 @@
     "title": "Desktop IT Engineer / Field Services Technician",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Tokyo-Japan/Desktop-IT-Engineer---Field-Services-Technician_R41272",
     "locationsText": "Tokyo, Japan",
-    "postedOn": "Posted 29 Days Ago",
+    "postedOn": "Posted 30 Days Ago",
     "bulletFields": [
       "R41272"
     ],
@@ -830,7 +830,7 @@
     "title": "Exciting Opportunities in Transfer Agency (Night Shift)!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Exciting-Opportunities-in-Transfer-Agency--Night-Shift--_R44012",
     "locationsText": "Mumbai, India",
-    "postedOn": "Posted 29 Days Ago",
+    "postedOn": "Posted 30 Days Ago",
     "bulletFields": [
       "R44012"
     ],
@@ -838,43 +838,76 @@
     "source": "SST"
   },
   {
-    "title": "Senior Associate, Investor Services - Hybrid",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Senior-Associate--Investor-Services---Hybrid_R43217-1",
-    "locationsText": "7 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R43217"
-    ],
-    "id": "R43217",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Associate, Investor Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mississauga-Canada/Senior-Associate--Investor-Services_R46716",
+    "title": "Deployment Engineer (Tuesday-Saturday shift)",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Deployment-Engineer_R44680",
     "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R46716"
+      "R44680"
     ],
-    "id": "R46716",
+    "id": "R44680",
     "source": "SST"
   },
   {
-    "title": "Sales Associate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Sales-Associate_R46199-1",
-    "locationsText": "New York, NY",
+    "title": "Client Service Operations Administrator",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---West-Virginia-US/Client-Service-Operations-Administrator_R46545",
+    "locationsText": "Remote - West Virginia, US",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R46199"
+      "R46545"
     ],
-    "id": "R46199",
+    "id": "R46545",
     "source": "SST"
+  },
+  {
+    "title": "Director, Implementation/Project Management",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Braintree-MA---30-Braintree-Hill-Park/Director--Implementation-Project-Management_R46127",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46127"
+    ],
+    "id": "R46127",
+    "source": "SST"
+  },
+  {
+    "title": "Consultant, Full Stack Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Full-Stack-Developer_2619785-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2619785"
+    ],
+    "id": "2619785",
+    "source": "CIBC"
+  },
+  {
+    "title": "Consultant, Java Back End Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Java-Back-End-Developer_2620612",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2620612"
+    ],
+    "id": "2620612",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Manager, Technical Quality Engineering & AI Adoption",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Technical-Quality-Engineering---AI-Adoption_2611743",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2611743"
+    ],
+    "id": "2611743",
+    "source": "CIBC"
   },
   {
     "title": "Sr. Manager, Production Application Support",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Production-Application-Support_2619771-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2619771"
     ],
@@ -885,7 +918,7 @@
     "title": "Senior Information Security Specialist",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Information-Security-Specialist_2619382",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2619382"
     ],
@@ -896,7 +929,7 @@
     "title": "Solution Designer (Cloud/Full-Stack)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Solution-Designer_2619407",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2619407"
     ],
@@ -907,7 +940,7 @@
     "title": "Senior Consultant, Full Stack Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Full-Stack-Developer_2617695",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2617695"
     ],
@@ -918,7 +951,7 @@
     "title": "Sr. Application Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Application-Developer_2619667",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2619667"
     ],
@@ -926,21 +959,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Infrastructure Engineer - Patching",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Infrastructure-Engineer---Patching_2614681-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2614681"
-    ],
-    "id": "2614681",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr. Consultant, Back End Developer- Java/Microservices/System Design",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer--Java-Microservices-System-Design_2613802",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "2613802"
     ],
@@ -948,21 +970,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Full Stack Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Full-Stack-Developer_2618227",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
-    "bulletFields": [
-      "2618227"
-    ],
-    "id": "2618227",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr. Consultant, Technology Architecture",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Technology-Architecture_2620309-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "2620309"
     ],
@@ -973,7 +984,7 @@
     "title": "Sr NetIQ Engineer (NetIQ OpenText)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-NetIQ-Engineer--NetIQ-OpenText-_2616217",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2616217"
     ],
@@ -984,7 +995,7 @@
     "title": "Consultant, Business Systems Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2619546",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2619546"
     ],
@@ -995,7 +1006,7 @@
     "title": "Join our Talent Community!",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Experienced-Direct-Applicant-Portal_2500877",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2500877"
     ],
@@ -1003,32 +1014,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Director, US IT Asset Management",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--US-IT-Asset-Management_2619441-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2619441"
-    ],
-    "id": "2619441",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Data Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Data-Developer_2619316",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2619316"
-    ],
-    "id": "2619316",
-    "source": "CIBC"
-  },
-  {
     "title": "Sr. Director, Blockchain Application Engineering",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director--Block-Chain-Application-Engineering_2617096",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2617096"
     ],
@@ -1039,7 +1028,7 @@
     "title": "Consultant, Full Stack Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Full-Stack-Developer_2618728",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2618728"
     ],
@@ -1050,7 +1039,7 @@
     "title": "Senior Fullstack Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Fullstack-Developer_2613845",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2613845"
     ],
@@ -1058,21 +1047,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Collaboration Technical Specialist-2",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Collaboration-Technical-Specialist-2_2611686",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "2611686"
-    ],
-    "id": "2611686",
-    "source": "CIBC"
-  },
-  {
     "title": "Web Application Security Consultant",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Web-Application-Security-Consultant_2619558-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "2619558"
     ],
@@ -1083,11 +1061,33 @@
     "title": "Consultant, Application Development (Payments)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--Payments-_2619128",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "2619128"
     ],
     "id": "2619128",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Analyst, IT Quality Assurance",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--IT-Quality-Assurance_2618867-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 12 Days Ago",
+    "bulletFields": [
+      "2618867"
+    ],
+    "id": "2618867",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Manager, Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Development_2619014",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted 12 Days Ago",
+    "bulletFields": [
+      "2619014"
+    ],
+    "id": "2619014",
     "source": "CIBC"
   },
   {
@@ -1102,10 +1102,76 @@
     "source": "Ciena"
   },
   {
+    "title": "Hardware Design Co-Op (Winter 2027 - 4 Months)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Design-Co-Op--Winter-2027---4-Months-_R031782",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031782"
+    ],
+    "id": "R031782",
+    "source": "Ciena"
+  },
+  {
+    "title": "Signal and Power Integrity Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031795"
+    ],
+    "id": "R031795",
+    "source": "Ciena"
+  },
+  {
+    "title": "Finance Leadership Development Program",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Finance-Leadership-Development-Program_R031771",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031771"
+    ],
+    "id": "R031771",
+    "source": "Ciena"
+  },
+  {
+    "title": "Ing\u00e9nieur de tests optiques - Optical Components Test Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Optical-Components-Test-Engineer---Ottawa-or-Quebec-City_R031530",
+    "locationsText": "Quebec",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031530"
+    ],
+    "id": "R031530",
+    "source": "Ciena"
+  },
+  {
+    "title": "Senior Embedded Software Engineer, RLS",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Embedded-Software-Engineer--RLS_R031657-1",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031657"
+    ],
+    "id": "R031657",
+    "source": "Ciena"
+  },
+  {
+    "title": "Data Scientist - Supply Chain Optimisation",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK/Data-Scientist---Supply-Chain-Optimisation_R031077",
+    "locationsText": "Remote-UK",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031077"
+    ],
+    "id": "R031077",
+    "source": "Ciena"
+  },
+  {
     "title": "GCN Principal Sales, Cloud & Ai Components",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/GCN-Principal-Sales--Cloud---Ai-Components_R031812",
     "locationsText": "Remote-US",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R031812"
     ],
@@ -1116,7 +1182,7 @@
     "title": "Senior Optical Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Milan/Senior-Optical-Engineer_R031814",
     "locationsText": "Milan",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R031814"
     ],
@@ -1124,32 +1190,10 @@
     "source": "Ciena"
   },
   {
-    "title": "SIEM Security Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/SIEM-Security-Engineer_R031342",
-    "locationsText": "Gurugram",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031342"
-    ],
-    "id": "R031342",
-    "source": "Ciena"
-  },
-  {
-    "title": "Optical Components Test Engineer - Ottawa or Quebec City",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Optical-Components-Test-Engineer---Ottawa-or-Quebec-City_R031530",
-    "locationsText": "Quebec",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "R031530"
-    ],
-    "id": "R031530",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior Analog Hardware Design Engineer, onsite Kanata",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Analog-Hardware-Design-Engineer--onsite-Kanata_R031320",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R031320"
     ],
@@ -1160,7 +1204,7 @@
     "title": "Senior Physical Design Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Physical-Design-Engineer_R031691",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R031691"
     ],
@@ -1171,7 +1215,7 @@
     "title": "Account Manager - Saudi",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Riyadh/Account-Manager---Saudi_R031809",
     "locationsText": "Riyadh",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R031809"
     ],
@@ -1182,7 +1226,7 @@
     "title": "Sales Engineer - Optical Solutions",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Riyadh/Sales-Engineer---Optical-Solutions_R031810",
     "locationsText": "Riyadh",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R031810"
     ],
@@ -1193,7 +1237,7 @@
     "title": "Pluggable Modem Optical Test Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Thailand/Pluggable-Modem-Optical-Test-Engineer_R031718-1",
     "locationsText": "Remote-Thailand",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R031718"
     ],
@@ -1204,7 +1248,7 @@
     "title": "Field Service Project Manager (Jr)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Field-Service-Project-Manager--Jr-_R031794-1",
     "locationsText": "Remote-US",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R031794"
     ],
@@ -1215,7 +1259,7 @@
     "title": "Senior Workday Analyst, On-site role",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Workday-Analyst--On-site-role_R031797",
     "locationsText": "4 Locations",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R031797"
     ],
@@ -1226,7 +1270,7 @@
     "title": "Senior PCBA & Backend Assembly Process Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Senior-PCBA---Backend-Assembly-Process-Engineer_R031786",
     "locationsText": "Guadalajara",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R031786"
     ],
@@ -1237,7 +1281,7 @@
     "title": "Routing and Switching Manufacturing Test Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Routing-and-Switching-Manufacturing-Test-Engineer_R031785",
     "locationsText": "Guadalajara",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R031785"
     ],
@@ -1248,7 +1292,7 @@
     "title": "Manager, Global Commodity Operations",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pathum-Tani/Manager--Global-Commodity-Operations_R031712",
     "locationsText": "Pathum Tani",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R031712"
     ],
@@ -1259,7 +1303,7 @@
     "title": "Platform Lead",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/Platform-Lead_R031637",
     "locationsText": "Gurugram",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R031637"
     ],
@@ -1267,54 +1311,21 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior ASIC Verification Engineer, onsite Kanata",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-ASIC-Verification-Engineer--onsite-Kanata_R031789",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
+    "title": "Software Engineer II \u2013 Secure Payment Systems (C & Java)",
+    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195",
+    "locationsText": "United States - Shakopee, MN (GHQ)",
+    "postedOn": "Posted Today",
     "bulletFields": [
-      "R031789"
+      "R004195"
     ],
-    "id": "R031789",
-    "source": "Ciena"
-  },
-  {
-    "title": "Consultant, Supply Chain Planning",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Pathum-Tani/Consultant--Supply-Chain-Planning_R031773",
-    "locationsText": "Pathum Tani",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R031773"
-    ],
-    "id": "R031773",
-    "source": "Ciena"
-  },
-  {
-    "title": "Hardware (PCBA) Design and Verification Intern (Winter 2027 - 4 Months)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R031787"
-    ],
-    "id": "R031787",
-    "source": "Ciena"
-  },
-  {
-    "title": "Junior Project Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Poland/Junior-Project-Manager_R031610",
-    "locationsText": "Remote-Poland",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R031610"
-    ],
-    "id": "R031610",
-    "source": "Ciena"
+    "id": "R004195",
+    "source": "Entrust"
   },
   {
     "title": "Principal Application DevOps Engineer, AI & Automation",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Field/Principal-Cloud-DevOps-Engineer---Operations_R003792",
     "locationsText": "5 Locations",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "remoteType": "Hybrid or Remote Eligible",
     "bulletFields": [
       "R003792"
@@ -1326,7 +1337,7 @@
     "title": "Senior Mechanical Engineer \u2013 New Product Development\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Mechanical-Engineer---New-Product-Development------_R004404",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "R004404"
     ],
@@ -1337,7 +1348,7 @@
     "title": "Senior Electrical Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Electrical-Engineer_R004212",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R004212"
     ],
@@ -1348,22 +1359,11 @@
     "title": "Firmware Engineer II",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-II_R004366",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 26 Days Ago",
+    "postedOn": "Posted 27 Days Ago",
     "bulletFields": [
       "R004366"
     ],
     "id": "R004366",
-    "source": "Entrust"
-  },
-  {
-    "title": "Software Engineer II \u2013 C/Java & HSM Firmware",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 30+ Days Ago",
-    "bulletFields": [
-      "R004195"
-    ],
-    "id": "R004195",
     "source": "Entrust"
   },
   {
@@ -1713,7 +1713,7 @@
     "state": "",
     "zip": "",
     "department": "",
-    "description": "Evertz builds the hardware and software behind live television, film production, and streaming worldwide. Our AI team applies generative AI and machine learning across Evertz, from hardware design validation, manufacturing test and quality-control automation, and audio and video processing to AI agents and knowledge retrieval that teams across the company use every day.<br>We are hiring a Senior AI Engineer to build and run production AI systems across this portfolio and help set the team's technical direction. This is a hands-on role: you own solutions end to end, from problem framing with domain experts through deployment and support.<br><br><strong>What you will do:</strong><br>&#8226;&#160; &#160; Own AI applications and reusable services end-to-end: prototyping, integration, production deployment, monitoring, and support.<br>&#8226;&#160; &#160; Build agents, multimodal applications, LLM workflows, and RAG pipelines using prompt design, tool calling, structured outputs, embeddings, and hybrid search.<br>&#8226;&#160; &#160; Turn messy inputs (datasheets, schematics, test logs, media, business data) into grounded AI capabilities, including the ingestion and parsing pipelines behind them.<br>&#8226;&#160; &#160; Integrate AI with engineering tools, manufacturing and test systems, and business applications via APIs and MCP servers, with proper validation, security, and human oversight.<br>&#8226;&#160; &#160; Apply classical ML where it fits (classification, anomaly detection, computer vision, audio processing), often on noisy or limited datasets, and deploy and monitor those models alongside LLM systems.<br>&#8226;&#160; &#160; Build repeatable evaluations and use them to improve accuracy, reliability, latency, and cost.<br>&#8226;&#160; &#160; Develop and operate Python services on Azure with PostgreSQL, Terraform, containers, CI/CD, and observability.<br>&#8226;&#160; &#160; Shape technical direction with the engineering manager: propose architectures, set reusable patterns, and evaluate new models and tooling.<br>&#8226;&#160; &#160; Collaborate with stakeholders to clarify requirements and priorities; mentor engineers through code and design reviews.<br><br><strong>What you will bring:</strong><br>&#8226;&#160; &#160; 5+ years of software engineering experience, including delivering and supporting production LLM applications beyond proof-of-concept.<br>&#8226;&#160; &#160; Strong Python and backend skills: API design, testing, debugging, and maintainable software.<br>&#8226;&#160; &#160; Hands-on experience with LLM APIs, prompt design, and tool-enabled agents (LangChain, LangGraph, or equivalents).<br>&#8226;&#160; &#160; Practical RAG experience: embeddings, vector and hybrid search, reranking, and measuring retrieval and answer quality.<br>&#8226;&#160; &#160; Solid ML fundamentals: data processing, feature engineering, model training and evaluation, and shipping non-LLM models to production using PyTorch, scikit-learn, NumPy, and pandas.<br>&#8226;&#160; &#160; Experience deploying cloud applications, preferably on Azure, with containers, CI/CD, infrastructure as code, and monitoring.<br>&#8226;&#160; &#160; Strong SQL skills, preferably PostgreSQL, and a working understanding of authentication, access control, and secure data handling.<br>&#8226;&#160; &#160; Clear communication of technical trade-offs to technical and non-technical audiences; able to contribute independently and mentor others.<br><br>If you meet most of these, we encourage you to apply.<br><br><strong>Nice to have:</strong><br>&#8226;&#160; &#160; AI or ML applied to manufacturing, hardware design, automated inspection or test, or audio/video processing.<br>&#8226;&#160; &#160; Multimodal models, computer vision, anomaly detection, or audio and signal processing.<br>&#8226;&#160; &#160; MCP server development, LLM observability tools (LangSmith, Langfuse), or model serving (vLLM, Ollama).<br>&#8226;&#160; &#160; Fine-tuning open-weight models; helping non-technical teams adopt AI tools.<br>&#8226;&#160; &#160; Bachelor's or Master's in Computer Science, Engineering, or a related field, or equivalent experience.<br>&#160;<p><strong>Recruitment process:</strong></p><ol><li>Screening with a recruiter (60 min)</li><li>Interview with Hiring Manager (60 min)</li><li>Technical interview with 2 Senior Engineers (60 min)</li></ol>",
+    "description": "Evertz builds the hardware and software behind live television, film production, and streaming worldwide. Our AI team applies generative AI and machine learning across Evertz, from hardware design validation, manufacturing test and quality-control automation, and audio and video processing to AI agents and knowledge retrieval that teams across the company use every day.<br>We are hiring a Senior AI Engineer to build and run production AI systems across this portfolio and help set the team's technical direction. This is a hands-on role: you own solutions end to end, from problem framing with domain experts through deployment and support.<br><br><strong>What you will do:</strong><br>&#8226;&#160; &#160; Own AI applications and reusable services end-to-end: prototyping, integration, production deployment, monitoring, and support.<br>&#8226;&#160; &#160; Build agents, multimodal applications, LLM workflows, and RAG pipelines using prompt design, tool calling, structured outputs, embeddings, and hybrid search.<br>&#8226;&#160; &#160; Turn messy inputs (datasheets, schematics, test logs, media, business data) into grounded AI capabilities, including the ingestion and parsing pipelines behind them.<br>&#8226;&#160; &#160; Integrate AI with engineering tools, manufacturing and test systems, and business applications via APIs and MCP servers, with proper validation, security, and human oversight.<br>&#8226;&#160; &#160; Apply classical ML where it fits (classification, anomaly detection, computer vision, audio processing), often on noisy or limited datasets, and deploy and monitor those models alongside LLM systems.<br>&#8226;&#160; &#160; Build repeatable evaluations and use them to improve accuracy, reliability, latency, and cost.<br>&#8226;&#160; &#160; Develop and operate Python services on Azure with PostgreSQL, Terraform, containers, CI/CD, and observability.<br>&#8226;&#160; &#160; Shape technical direction with the engineering manager: propose architectures, set reusable patterns, and evaluate new models and tooling.<br>&#8226;&#160; &#160; Collaborate with stakeholders to clarify requirements and priorities; mentor engineers through code and design reviews.<br><br><strong>What you will bring:</strong><br>&#8226;&#160; &#160; 5+ years of software engineering experience, including delivering and supporting production LLM applications beyond proof-of-concept.<br>&#8226;&#160; &#160; Strong Python and backend skills: API design, testing, debugging, and maintainable software.<br>&#8226;&#160; &#160; Hands-on experience with LLM APIs, prompt design, and tool-enabled agents (LangChain, LangGraph, or equivalents).<br>&#8226;&#160; &#160; Practical RAG experience: embeddings, vector and hybrid search, reranking, and measuring retrieval and answer quality.<br>&#8226;&#160; &#160; Solid ML fundamentals: data processing, feature engineering, model training and evaluation, and shipping non-LLM models to production using PyTorch, scikit-learn, NumPy, and pandas.<br>&#8226;&#160; &#160; Experience deploying cloud applications, preferably on Azure, with containers, CI/CD, infrastructure as code, and monitoring.<br>&#8226;&#160; &#160; Strong SQL skills, preferably PostgreSQL, and a working understanding of authentication, access control, and secure data handling.<br>&#8226;&#160; &#160; Clear communication of technical trade-offs to technical and non-technical audiences; able to contribute independently and mentor others.<br><br>If you meet most of these, we encourage you to apply.<br><br><strong>Nice to have:</strong><br>&#8226;&#160; &#160; AI or ML applied to manufacturing, hardware design, automated inspection or test, or audio/video processing.<br>&#8226;&#160; &#160; Multimodal models, computer vision, anomaly detection, or audio and signal processing.<br>&#8226;&#160; &#160; MCP server development, LLM observability tools (LangSmith, Langfuse), or model serving (vLLM, Ollama).<br>&#8226;&#160; &#160; Fine-tuning open-weight models; helping non-technical teams adopt AI tools.<br>&#8226;&#160; &#160; Bachelor's or Master's in Computer Science, Engineering, or a related field, or equivalent experience.<br>&#160;<p><strong>Recruitment process:</strong></p><ol><li>Screening with a recruiter (60-90 min)</li><li>Interview with Hiring Manager (60 min)</li><li>Technical interview with 2 Senior Engineers (60 min)</li></ol>",
     "type": "Contracted",
     "board_code": "c4nKq7G84h",
     "workflow_id": "workflow_20261001112120_7FMPZPXBZ4DTJ7TY",

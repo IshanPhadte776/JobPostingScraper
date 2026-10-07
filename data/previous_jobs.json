@@ -859,6 +859,28 @@
     "source": "SST"
   },
   {
+    "title": "Associate Client Relations Specialist",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Kansas-City-MO/Associate-Client-Relations-Specialist_R46035",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46035"
+    ],
+    "id": "R46035",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Product Manager",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Product-Manager_R46045",
+    "locationsText": "2 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46045"
+    ],
+    "id": "R46045",
+    "source": "SST"
+  },
+  {
     "title": "Sales Associate",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Los-Angeles-CA/Sales-Associate_R46495",
     "locationsText": "Los Angeles, CA",
@@ -867,28 +889,6 @@
       "R46495"
     ],
     "id": "R46495",
-    "source": "SST"
-  },
-  {
-    "title": "Investor Services - Associate Manager - Senior Assoicate",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Investor-Services---Associate-Manager---Senior-Assoicate_R45102",
-    "locationsText": "4 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R45102"
-    ],
-    "id": "R45102",
-    "source": "SST"
-  },
-  {
-    "title": "Senior Director, Investor Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Director_R46719",
-    "locationsText": "New York, NY",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R46719"
-    ],
-    "id": "R46719",
     "source": "SST"
   },
   {
@@ -1112,6 +1112,17 @@
     "source": "CIBC"
   },
   {
+    "title": "Optical System Architect",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Optical-System-Architect_R030379",
+    "locationsText": "New Providence - NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030379"
+    ],
+    "id": "R030379",
+    "source": "Ciena"
+  },
+  {
     "title": "Executive Assistant",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Executive-Assistant_R031824",
     "locationsText": "2 Locations",
@@ -1318,17 +1329,6 @@
       "R031718"
     ],
     "id": "R031718",
-    "source": "Ciena"
-  },
-  {
-    "title": "Field Service Project Manager (Jr)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Field-Service-Project-Manager--Jr-_R031794-1",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted 6 Days Ago",
-    "bulletFields": [
-      "R031794"
-    ],
-    "id": "R031794",
     "source": "Ciena"
   },
   {

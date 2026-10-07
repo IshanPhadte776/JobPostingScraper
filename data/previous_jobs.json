@@ -63,27 +63,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/301"
   },
   {
-    "id": "302",
-    "jobOpeningName": "Inventory & Logistics Associate ",
-    "departmentId": "18446",
-    "departmentLabel": "Finance & Operations",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "0",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/302"
-  },
-  {
     "id": "303",
     "jobOpeningName": "Manager, Sales",
     "departmentId": "18813",
@@ -589,14 +568,14 @@
   },
   {
     "id": "796",
-    "jobOpeningName": "Technical Support Engineer",
+    "jobOpeningName": "Technical Support Engineer - Korea",
     "departmentId": "18550",
     "departmentLabel": "R&D",
     "employmentStatusLabel": "Full-Time",
     "employmentType": null,
     "location": {
-      "city": "Singapore ",
-      "state": "Singapore"
+      "city": "Gangnam-gu",
+      "state": "Seoul"
     },
     "atsLocation": {
       "country": null,
@@ -654,7 +633,7 @@
     "title": "Hiring Chartered Accountant Freshers - PUNE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Hiring-Chartered-Accountant-Freshers---PUNE_R35256",
     "locationsText": "Pune, India",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R35256"
     ],
@@ -665,7 +644,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Investor-Services---Manager--Associate-Manager_R35078",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R35078"
     ],
@@ -676,7 +655,7 @@
     "title": "Senior Quant Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Quant-Developer_R35179",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R35179"
     ],
@@ -687,7 +666,7 @@
     "title": "Lead Platform Support Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Lead-Platform-Support-Engineer_R46489",
     "locationsText": "Union, NJ",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "R46489"
     ],
@@ -698,7 +677,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Hiring-Investor-Services-Professionals--_R46520",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 13 Days Ago",
+    "postedOn": "Posted 14 Days Ago",
     "bulletFields": [
       "R46520"
     ],
@@ -709,7 +688,7 @@
     "title": "Intelligent Automation Specialist",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Bellville-South-Africa/Automation-Architect_R46214",
     "locationsText": "Bellville, South Africa",
-    "postedOn": "Posted 13 Days Ago",
+    "postedOn": "Posted 14 Days Ago",
     "bulletFields": [
       "R46214"
     ],
@@ -720,7 +699,7 @@
     "title": "Hiring Private Equity Accounting Professionals!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Hiring-Private-Equity-Accounting-Professionals-_R46445",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 15 Days Ago",
+    "postedOn": "Posted 16 Days Ago",
     "bulletFields": [
       "R46445"
     ],
@@ -731,7 +710,7 @@
     "title": "Hiring Experienced Fund Accountants Senior Associate  - Mumbai / Pune",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Hiring-Experienced-Fund-Accountants-Senior-Associate----Mumbai---Pune_R45145",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R45145"
     ],
@@ -742,7 +721,7 @@
     "title": "Manager - AML, Client Onboarding (Goregaon)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Manager---AML--Client-Onboarding--Goregaon-_R45692",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R45692"
     ],
@@ -753,7 +732,7 @@
     "title": "Senior Associate - Private Equity Fund Accounting (Mumbai/ Pune)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Private-Equity-Fund-Accounting--Mumbai--Pune-_R45144",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R45144"
     ],
@@ -764,7 +743,7 @@
     "title": "Assistant Manager / Manager - OTC Settlement & Collateral",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Assistant-Manager---Manager---OTC-Settlement---Collateral_R46407",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "bulletFields": [
       "R46407"
     ],
@@ -775,7 +754,7 @@
     "title": "Senior Associate .Net FullStack Developer- Fixed Term",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate-Net-FullStack-Developer--Fixed-Term_R46404",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 18 Days Ago",
+    "postedOn": "Posted 19 Days Ago",
     "bulletFields": [
       "R46404"
     ],
@@ -786,7 +765,7 @@
     "title": "Senior Associate - Dotnet Fullstack Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Dotnet-Fullstack-Developer_R46363",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 21 Days Ago",
+    "postedOn": "Posted 22 Days Ago",
     "bulletFields": [
       "R46363"
     ],
@@ -797,7 +776,7 @@
     "title": "Associate Director - US TAX 1065 (Hyderabad/ Bangalore)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Associate-Director---US-TAX-1065--Hyderabad--Bangalore-_R44941",
     "locationsText": "Hyderabad, India",
-    "postedOn": "Posted 23 Days Ago",
+    "postedOn": "Posted 24 Days Ago",
     "bulletFields": [
       "R44941"
     ],
@@ -808,7 +787,7 @@
     "title": "Senior Associate & Associate Manager- DDQ - Due Diligence Support",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate---Associate-Manager--DDQ---Due-Diligence-Support_R43020",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 23 Days Ago",
+    "postedOn": "Posted 24 Days Ago",
     "bulletFields": [
       "R43020"
     ],
@@ -819,7 +798,7 @@
     "title": "Desktop IT Engineer / Field Services Technician",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Tokyo-Japan/Desktop-IT-Engineer---Field-Services-Technician_R41272",
     "locationsText": "Tokyo, Japan",
-    "postedOn": "Posted 30 Days Ago",
+    "postedOn": "Posted 30+ Days Ago",
     "bulletFields": [
       "R41272"
     ],
@@ -830,7 +809,7 @@
     "title": "Exciting Opportunities in Transfer Agency (Night Shift)!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India/Exciting-Opportunities-in-Transfer-Agency--Night-Shift--_R44012",
     "locationsText": "Mumbai, India",
-    "postedOn": "Posted 30 Days Ago",
+    "postedOn": "Posted 30+ Days Ago",
     "bulletFields": [
       "R44012"
     ],
@@ -838,37 +817,67 @@
     "source": "SST"
   },
   {
-    "title": "Treasury & Portfolio Finance Manager (LH BPO)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Treasury---Portfolio-Financing-Analyst--LH-BPO-_R38151",
-    "locationsText": "2 Locations",
+    "title": "Senior Director",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Director_R46719",
+    "locationsText": "New York, NY",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R38151"
+      "R46719"
     ],
-    "id": "R38151",
+    "id": "R46719",
     "source": "SST"
   },
   {
-    "title": "Fund Accountant, Trust",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Fort-Worth-TX/Fund-Accountant--Trust_R45936",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R45936"
-    ],
-    "id": "R45936",
-    "source": "SST"
-  },
-  {
-    "title": "Deployment Engineer (Tuesday-Saturday shift)",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Dallas-TX/Deployment-Engineer_R44680",
+    "title": "Managing Director",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Managing-Director_R46710",
     "locationsText": "2 Locations",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R44680"
+      "R46710"
     ],
-    "id": "R44680",
+    "id": "R46710",
     "source": "SST"
+  },
+  {
+    "bulletFields": [
+      "R45569"
+    ],
+    "id": "R45569",
+    "externalPath": "",
+    "source": "SST"
+  },
+  {
+    "title": "Director, US IT Asset Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--US-IT-Asset-Management_2619441-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2619441"
+    ],
+    "id": "2619441",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Security Service Manager, Application Security",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Security-Service-Manager--Application-Security_2613280",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2613280"
+    ],
+    "id": "2613280",
+    "source": "CIBC"
+  },
+  {
+    "title": "Application Support Analyst- DataPower",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Support-Analyst_2620559",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2620559"
+    ],
+    "id": "2620559",
+    "source": "CIBC"
   },
   {
     "title": "Consultant, Full Stack Developer",
@@ -885,7 +894,7 @@
     "title": "Consultant, Java Back End Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Java-Back-End-Developer_2620612",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2620612"
     ],
@@ -896,7 +905,7 @@
     "title": "Senior Manager, Technical Quality Engineering & AI Adoption",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Technical-Quality-Engineering---AI-Adoption_2611743",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "2611743"
     ],
@@ -907,7 +916,7 @@
     "title": "Sr. Manager, Production Application Support",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Production-Application-Support_2619771-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2619771"
     ],
@@ -918,7 +927,7 @@
     "title": "Senior Information Security Specialist",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Information-Security-Specialist_2619382",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2619382"
     ],
@@ -929,7 +938,7 @@
     "title": "Solution Designer (Cloud/Full-Stack)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Solution-Designer_2619407",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2619407"
     ],
@@ -940,7 +949,7 @@
     "title": "Senior Consultant, Full Stack Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Full-Stack-Developer_2617695",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2617695"
     ],
@@ -951,7 +960,7 @@
     "title": "Sr. Application Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Application-Developer_2619667",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "2619667"
     ],
@@ -962,7 +971,7 @@
     "title": "Sr. Consultant, Back End Developer- Java/Microservices/System Design",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer--Java-Microservices-System-Design_2613802",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2613802"
     ],
@@ -973,7 +982,7 @@
     "title": "Sr. Consultant, Technology Architecture",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Technology-Architecture_2620309-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2620309"
     ],
@@ -984,7 +993,7 @@
     "title": "Sr NetIQ Engineer (NetIQ OpenText)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-NetIQ-Engineer--NetIQ-OpenText-_2616217",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2616217"
     ],
@@ -995,7 +1004,7 @@
     "title": "Consultant, Business Systems Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis_2619546",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2619546"
     ],
@@ -1006,7 +1015,7 @@
     "title": "Join our Talent Community!",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Experienced-Direct-Applicant-Portal_2500877",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2500877"
     ],
@@ -1017,7 +1026,7 @@
     "title": "Sr. Director, Blockchain Application Engineering",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director--Block-Chain-Application-Engineering_2617096",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "2617096"
     ],
@@ -1025,21 +1034,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Consultant, Full Stack Developer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Full-Stack-Developer_2618728",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2618728"
-    ],
-    "id": "2618728",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Fullstack Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Fullstack-Developer_2613845",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "2613845"
     ],
@@ -1050,7 +1048,7 @@
     "title": "Web Application Security Consultant",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Web-Application-Security-Consultant_2619558-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
+    "postedOn": "Posted 9 Days Ago",
     "bulletFields": [
       "2619558"
     ],
@@ -1061,56 +1059,12 @@
     "title": "Consultant, Application Development (Payments)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--Payments-_2619128",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 11 Days Ago",
+    "postedOn": "Posted 12 Days Ago",
     "bulletFields": [
       "2619128"
     ],
     "id": "2619128",
     "source": "CIBC"
-  },
-  {
-    "title": "Sr. Analyst, IT Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--IT-Quality-Assurance_2618867-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 12 Days Ago",
-    "bulletFields": [
-      "2618867"
-    ],
-    "id": "2618867",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Manager, Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Development_2619014",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 12 Days Ago",
-    "bulletFields": [
-      "2619014"
-    ],
-    "id": "2619014",
-    "source": "CIBC"
-  },
-  {
-    "title": "Product Line Manager",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Product-Line-Manager_R029960",
-    "locationsText": "5 Locations",
-    "postedOn": "Posted 30+ Days Ago",
-    "bulletFields": [
-      "R029960"
-    ],
-    "id": "R029960",
-    "source": "Ciena"
-  },
-  {
-    "title": "Director of Procurement Operations",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Director-of-Procurement-Operations_R031825-1",
-    "locationsText": "Baltimore",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031825"
-    ],
-    "id": "R031825",
-    "source": "Ciena"
   },
   {
     "title": "Executive Assistant",
@@ -1121,39 +1075,6 @@
       "R031824"
     ],
     "id": "R031824",
-    "source": "Ciena"
-  },
-  {
-    "title": "Hardware Design Co-Op (Winter 2027 - 4 Months)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Design-Co-Op--Winter-2027---4-Months-_R031782",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031782"
-    ],
-    "id": "R031782",
-    "source": "Ciena"
-  },
-  {
-    "title": "Signal and Power Integrity Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031795"
-    ],
-    "id": "R031795",
-    "source": "Ciena"
-  },
-  {
-    "title": "Finance Leadership Development Program",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Finance-Leadership-Development-Program_R031771",
-    "locationsText": "Baltimore",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031771"
-    ],
-    "id": "R031771",
     "source": "Ciena"
   },
   {
@@ -1168,10 +1089,98 @@
     "source": "Ciena"
   },
   {
+    "title": "Workday Lead, On-site role",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Workday-Analyst--On-site-role_R031797",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031797"
+    ],
+    "id": "R031797",
+    "source": "Ciena"
+  },
+  {
+    "title": "Optical Components Test Engineer - Ottawa or Quebec City",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-Components-Test-Engineer_R030610",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030610"
+    ],
+    "id": "R030610",
+    "source": "Ciena"
+  },
+  {
+    "title": "Kinaxis Analyst",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/India-Gurgaon-TRIL-Tower-4/Kinaxis-Analyst_R031186",
+    "locationsText": "India-Gurgaon-TRIL Tower 4",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031186"
+    ],
+    "id": "R031186",
+    "source": "Ciena"
+  },
+  {
+    "title": "Software Governance Specialist",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Governance-Senior-Associate_R031578",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R031578"
+    ],
+    "id": "R031578",
+    "source": "Ciena"
+  },
+  {
+    "title": "Director of Procurement Operations",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Director-of-Procurement-Operations_R031825-1",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R031825"
+    ],
+    "id": "R031825",
+    "source": "Ciena"
+  },
+  {
+    "title": "Hardware Design Co-Op (Winter 2027 - 4 Months)",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Hardware-Design-Co-Op--Winter-2027---4-Months-_R031782",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R031782"
+    ],
+    "id": "R031782",
+    "source": "Ciena"
+  },
+  {
+    "title": "Signal and Power Integrity Engineer - New Grad",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R031795"
+    ],
+    "id": "R031795",
+    "source": "Ciena"
+  },
+  {
+    "title": "Finance Leadership Development Program",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Finance-Leadership-Development-Program_R031771",
+    "locationsText": "Baltimore",
+    "postedOn": "Posted Yesterday",
+    "bulletFields": [
+      "R031771"
+    ],
+    "id": "R031771",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Embedded Software Engineer, RLS",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Embedded-Software-Engineer--RLS_R031657-1",
     "locationsText": "Ottawa",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R031657"
     ],
@@ -1182,7 +1191,7 @@
     "title": "Data Scientist - Supply Chain Optimisation",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK/Data-Scientist---Supply-Chain-Optimisation_R031077",
     "locationsText": "Remote-UK",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R031077"
     ],
@@ -1193,7 +1202,7 @@
     "title": "GCN Principal Sales, Cloud & Ai Components",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/GCN-Principal-Sales--Cloud---Ai-Components_R031812",
     "locationsText": "Remote-US",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R031812"
     ],
@@ -1204,7 +1213,7 @@
     "title": "Senior Optical Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Milan/Senior-Optical-Engineer_R031814",
     "locationsText": "Milan",
-    "postedOn": "Posted Yesterday",
+    "postedOn": "Posted 2 Days Ago",
     "bulletFields": [
       "R031814"
     ],
@@ -1215,7 +1224,7 @@
     "title": "Senior Analog Hardware Design Engineer, onsite Kanata",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Analog-Hardware-Design-Engineer--onsite-Kanata_R031320",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R031320"
     ],
@@ -1226,7 +1235,7 @@
     "title": "Senior Physical Design Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Physical-Design-Engineer_R031691",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R031691"
     ],
@@ -1237,7 +1246,7 @@
     "title": "Account Manager - Saudi",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Riyadh/Account-Manager---Saudi_R031809",
     "locationsText": "Riyadh",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R031809"
     ],
@@ -1248,7 +1257,7 @@
     "title": "Sales Engineer - Optical Solutions",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Riyadh/Sales-Engineer---Optical-Solutions_R031810",
     "locationsText": "Riyadh",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R031810"
     ],
@@ -1259,7 +1268,7 @@
     "title": "Pluggable Modem Optical Test Engineer",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Thailand/Pluggable-Modem-Optical-Test-Engineer_R031718-1",
     "locationsText": "Remote-Thailand",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R031718"
     ],
@@ -1270,7 +1279,7 @@
     "title": "Field Service Project Manager (Jr)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Field-Service-Project-Manager--Jr-_R031794-1",
     "locationsText": "Remote-US",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "R031794"
     ],
@@ -1278,43 +1287,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Workday Analyst, On-site role",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Senior-Workday-Analyst--On-site-role_R031797",
-    "locationsText": "4 Locations",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R031797"
-    ],
-    "id": "R031797",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior PCBA & Backend Assembly Process Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Senior-PCBA---Backend-Assembly-Process-Engineer_R031786",
-    "locationsText": "Guadalajara",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R031786"
-    ],
-    "id": "R031786",
-    "source": "Ciena"
-  },
-  {
-    "title": "Routing and Switching Manufacturing Test Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Routing-and-Switching-Manufacturing-Test-Engineer_R031785",
-    "locationsText": "Guadalajara",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R031785"
-    ],
-    "id": "R031785",
-    "source": "Ciena"
-  },
-  {
     "title": "Software Engineer II \u2013 Secure Payment Systems (C & Java)",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R004195"
     ],
@@ -1325,7 +1301,7 @@
     "title": "Principal Application DevOps Engineer, AI & Automation",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Field/Principal-Cloud-DevOps-Engineer---Operations_R003792",
     "locationsText": "5 Locations",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "remoteType": "Hybrid or Remote Eligible",
     "bulletFields": [
       "R003792"
@@ -1337,7 +1313,7 @@
     "title": "Senior Mechanical Engineer \u2013 New Product Development\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Mechanical-Engineer---New-Product-Development------_R004404",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "R004404"
     ],
@@ -1348,7 +1324,7 @@
     "title": "Senior Electrical Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Electrical-Engineer_R004212",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 15 Days Ago",
+    "postedOn": "Posted 16 Days Ago",
     "bulletFields": [
       "R004212"
     ],
@@ -1359,22 +1335,11 @@
     "title": "Firmware Engineer II",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-II_R004366",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 27 Days Ago",
+    "postedOn": "Posted 28 Days Ago",
     "bulletFields": [
       "R004366"
     ],
     "id": "R004366",
-    "source": "Entrust"
-  },
-  {
-    "title": "Staff Embedded Firmware Engineer",
-    "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Staff-Firmware-Engineer_R004147",
-    "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 30+ Days Ago",
-    "bulletFields": [
-      "R004147"
-    ],
-    "id": "R004147",
     "source": "Entrust"
   },
   {
@@ -1432,6 +1397,40 @@
     ],
     "id": "R004215",
     "source": "Entrust"
+  },
+  {
+    "id": "job_20261007130250_OCK7GVEKUOH27PCZ",
+    "title": "Administrative Assistant (Entry Level)",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "Administration",
+    "description": "<p>We are seeking a reliable, organized, and proactive Administrative Assistant to join our team. Administrators are vital to the success of our business model, playing a key role in both internal operations and client-facing excellence. In this position, you will work closely with various internal teams to generate new ideas and drive efficiencies that enhance our overall client experience.</p><p>This role requires strong communication skills, attention to detail, and the ability to multitask effectively in a fast-paced environment. The Administrative Assistant plays an essential role in supporting daily office operations and ensuring organizational processes run efficiently.</p><p><strong>Responsibilities:</strong></p><ul><li>Perform a variety of challenging administrative duties in the pre and post-sale environment</li><li>Process multiple priorities in a fast paced environment</li><li>Provide valuable support to our global sales team and their dynamic customers</li><li>Enter data accurately and efficiently into various admin platforms</li><li>Prepare and organize documents, reports, and files as needed</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>Post Secondary Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><br><strong>Date Posted:</strong> October 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "ydSqXQMQHi",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20261007130224_CF7YW0QWDVCHO3YB",
+    "title": "Office Administrator (Entry Level)",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "Administration",
+    "description": "<p>We are seeking a reliable, organized, and proactive Office Administrator&#160;to join our team. Administrators are vital to the success of our business model, playing a key role in both internal operations and client-facing excellence. In this position, you will work closely with various internal teams to generate new ideas and drive efficiencies that enhance our overall client experience.</p><p>This role requires strong communication skills, attention to detail, and the ability to multitask effectively in a fast-paced environment. The Office Administrator role plays an essential role in supporting daily office operations and ensuring organizational processes run efficiently.</p><p><strong>Responsibilities:</strong></p><ul><li>Perform a variety of challenging administrative duties in the pre and post-sale environment</li><li>Process multiple priorities in a fast paced environment</li><li>Provide valuable support to our global sales team and their dynamic customers</li><li>Enter data accurately and efficiently into various admin platforms</li><li>Prepare and organize documents, reports, and files as needed</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>Post Secondary Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "5yfho7Yf6e",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20261005171553_RAGGF1DBW4RDUKDB",
@@ -1502,16 +1501,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260929185515_1EJLAH116IA1NF4S",
-    "title": "AV Service Engineer \u2014 Control Systems & Device Integration",
+    "id": "job_20260929143530_8BNSDHAA9TIMWJWI",
+    "title": "Customer Order Coordinator",
     "country_id": "Canada",
     "city": "Burlington",
     "state": "ON",
     "zip": "L7L 5Z9",
-    "department": "Technical Support",
-    "description": "<p>Evertz AV is looking for a <strong>Service Engineer</strong> to join our AV Service team with a specific focus on <strong>Control System</strong> customization and deployment with a specific focus on VUE, our software-defined control and monitoring platform. VUE unifies control of MAGNUM-orchestrated broadcast/AV infrastructure &#8212; routing, multiviewers, master control, and audio processing &#8212; into a single customizable, widget-based interface.&#160; VUE is extensible to third-party equipment through <strong>device drivers</strong> and <strong>direct API integration</strong>. You will be responsible for extending VUE's reach into new and existing customer environments by working with consultants, system integrators and/or end users to understand workflows and/or specific UI requirements, create the control surface, test and deploy.&#160; The role requires in-depth knowledge of VUE configuration options including <strong>building and modifying device drivers</strong>, scripting control and automation where needed and implementing direct API control (REST, SOAP, SNMP, WebSocket, serial protocols, and proprietary vendor SDKs) when a pre-built driver doesn't exist or needs customization.&#160; You will be the technical bridge between customer requirements, third-party device documentation, and Evertz's control ecosystem &#8212; playing an integral role system deployment and functionality.</p><p><strong>What You'll Do -&#160;</strong></p><p><strong>Configuration &amp; Control Design</strong></p><ul><li>Design, build, and deploy custom VUE widget layouts and workspaces tailored to customer operational workflows</li><li>Integrate VUE with MAGNUM-OS for router control, multiviewer management, master control/branding, and playout systems</li><li>Configure alarms, salvos, UMDs, and automation/override widgets to match site-specific operational requirements</li></ul><p><strong>Device Driver Development</strong></p><ul><li>Create new device drivers for third-party equipment not natively supported by VUE, based on vendor protocol documentation (serial, IP, etc.)</li><li>Modify and extend existing Evertz device drivers to support additional functionality, firmware revisions, or non-standard implementations</li><li>Test, validate, and document driver behavior against real hardware in lab and field environments</li><li>Work with Evertz product/R&amp;D teams to escalate driver issues, contribute improvements back into the driver library, and stay current on VUE's driver framework as it evolves</li></ul><p><strong>Third-Party API Integration</strong></p><ul><li>Evaluate third-party device APIs (REST, SOAP, WebSocket, proprietary SDKs) and determine the best integration path &#8212; existing driver, custom driver, or direct API call configuration within VUE</li><li>Configure VUE to communicate directly with device-native APIs where full driver development isn't required or practical</li><li>Troubleshoot authentication, polling/subscription behavior, and latency issues between VUE and third-party systems</li><li>Document integration patterns for reuse across future projects and customers</li></ul><p><strong>Field &amp; Customer Support</strong></p><ul><li>Commission VUE-based control systems on customer sites and deliver operational training</li><li>Respond to customer issues involving control logic, driver behavior, or third-party integration failures; troubleshoot to root cause</li><li>Partner with sales engineering and product management to scope control/integration requirements during the pre-sales and design phase</li><li>Author internal documentation (driver specs, integration notes, best practices) for the technical support and engineering teams</li></ul><p><strong>What You Bring -&#160;</strong></p><p><strong>Required</strong></p><ul><li>Degree or diploma in Computer Engineering, Electrical/Electronic Engineering, Computer Science, or a related technical discipline &#8212; or equivalent hands-on experience</li><li>Hands-on programming/scripting ability (e.g., C#, C++, Python, JavaScript, or similar) sufficient to build or modify device drivers from a protocol spec</li><li>Working knowledge of common device communication protocols: TCP/IP, UDP, serial (RS-232/RS-422/RS-485), SNMP, and RESTful/SOAP web APIs</li><li>Comfort reading third-party equipment documentation (protocol manuals, SDKs, MIBs, APIs and other standards specifications) and translating it into working control logic</li><li>Strong troubleshooting instincts &#8212; comfortable diagnosing whether an issue lives in the device, the network, the driver, or the VUE configuration</li><li>Willingness to travel to customer sites for commissioning, training, and escalated support</li><li>Strong written and verbal communication skills; ability to document technical work clearly for both internal teams and customers</li></ul><p><strong>Strongly Preferred</strong></p><ul><li>Prior experience programming AV control systems (Crestron SIMPL/SIMPL#, AMX NetLinx, Extron Global Scripter/GUI Designer, Q-SYS)</li><li>Exposure to Evertz MAGNUM-OS, VistaLINK PRO, or broadcast router control concepts (sources/destinations, salvos, tally/UMD)</li><li>Experience integrating disparate systems via API (building or consuming REST/SOAP endpoints, handling auth tokens, parsing JSON/XML)</li><li>Familiarity with SDVN/SMPTE ST 2110, IP-based broadcast infrastructure, or Pro AV over IP environments</li><li>Working knowledge of Linux</li></ul><p><strong>Nice to Have</strong></p><ul><li>AVIXA CTS / CTS-D / CTS-I certification</li><li>Experience with Evertz MAGNUM School, MAGNUM-OS Academy, or VistaLINK School training</li><li>Background supporting government, defense, or other secure/mission-critical AV environments</li></ul><p><br><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario [Update as needed]<br><strong>Hours:</strong>&#160;Monday to Friday, 40 hours per week<br><strong>Vacancy: </strong>This is a newly created position&#160;<br><strong>Salary Range (Based on relevant Experience):&#160;</strong>$50,000 to $70,000 per year.</p><p><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p>",
+    "department": "Administration",
+    "description": "<p>We are seeking a detail-oriented Order Processing Coordinator to accurately enter and manage orders based on customer purchase orders and internal requests for Production and R&amp;D. This role involves close collaboration with the Production team to monitor ship dates and address any delays.<br><br>The successful candidate will communicate order status clearly and promptly to internal departments, sales representatives, project managers, and customers, ensuring transparency and efficient coordination throughout the order fulfillment process.</p><p><strong>Responsibilities:</strong></p><ul><li>Create internal sales order within custom billing system&#160;</li><li>Organize delivery details such as, system customization notes, ship date, mode of transport, and payment terms</li><li>Provide customers and sales team with delivery updates such as, order revision requirements and transit rescheduling</li></ul><p><strong>Qualifications:&#160;</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational and time management skills</li><li>Excellent verbal and written communication skills, and problem-solving ability</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;&#160;</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Date Posted: </strong>September 29, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
-    "board_code": "crXg9i5iKx",
+    "board_code": "Yn6VvjRoex",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -1519,16 +1518,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260929185252_OMIUJPMARDF8XOPM",
-    "title": "Product Specialist, evertz.io",
+    "id": "job_20260929175721_OJ1K8CTRDZ2BTIMD",
+    "title": "Junior Network Administrator",
     "country_id": "Canada",
     "city": "Burlington",
     "state": "ON",
     "zip": "L7L 5Z9",
-    "department": "R&D",
-    "description": "<p>Evertz.io is redefining how media organizations manage and distribute content in the cloud. Our platform delivers scalable, flexible, and cost-efficient solutions for both file-based and live workflows across the Media and Entertainment industry &#8212; helping broadcasters and content owners move their operations to the cloud with confidence. We're building the next generation of content management and distribution systems, combining deep video expertise with modern cloud-native infrastructure, and everything we build is shaped by the real-world needs of the customers who rely on it.</p><p>&#160;As a Product Specialist, you'll be the technical bridge between our customers, product design, engineering, and operations - working hands-on with configuration, deployment, and cloud infrastructure to make sure evertz.io delivers for the media organizations that depend on it.</p><p>&#160;At its heart, this role is about helping customers get the most out of evertz.io. You'll partner with media organizations to understand their needs, design and stand up solutions that fit, and make sure those solutions actually deliver in production. The work is hands-on with cloud and broadcast technology, but it's driven by customer success - turning what a customer needs into something that works for them. It's a great fit for someone who likes working directly with customers and solving the business and technical challenges that come with it.</p><p><strong>&#160;Responsibilities:</strong></p><ul><li>Configure, deploy, and validate evertz.io environments and AWS infrastructure for customer deployments and evaluations.</li><li>Lead and support customer proof-of-concepts, demonstrations, and technical evaluations - turning what customers need into working configurations.</li><li>Work directly with customers to understand their operational workflows and translate them into clear technical requirements and configurations.</li><li>Collaborate with engineering, product, and SRE teams to define and refine platform capabilities, bringing customer feedback and field experience back into the product.</li><li>Develop and maintain configuration templates, scripts, and documentation that make deployments repeatable and customer-ready.</li><li>Act as a voice of the customer in collaborative meetings with Engineering, aligning priorities, architecture, and ongoing initiatives.</li><li>Provide feedback on usability, deployment flows, and performance, grounded in how customers actually use the platform.</li><li>Contribute to continuous improvement of platform scalability and automation.</li></ul><p><strong>&#160;Requirements:</strong></p><ul><li>Strong understanding of AWS services including EC2, VPCs, S3, Lambda, Step Functions, DynamoDB, CloudFormation, and CloudWatch.</li><li>Must have experience with broadcast technology &#8212; including video, audio, OTT platforms, and live production workflows.</li><li>Experience deploying and maintaining modern cloud applications or services.</li><li>Familiarity with networking concepts, APIs, and microservice architectures.</li><li>Hands-on experience with scripting and automation (Python, Bash, or JavaScript).</li><li>Excellent analytical and problem-solving skills, plus the communication skills to work directly with customers and explain technical concepts clearly.</li><li>Comfortable working in a collaborative, Agile development environment.</li><li>Degree or diploma in Computer Science, Information Technology, or a related field (or equivalent experience)</li><li>Willingness to travel internationally to customer sites and tradeshows</li></ul><p><strong>&#160;Why Join Evertz.io</strong></p><ul><li>&#160;Be part of a high-impact team driving innovation in the cloud media space, working directly with leading media organizations.</li><li>Work with leading-edge AWS technologies and next-generation video systems.</li><li>Opportunities for advancement into technical leadership or product architecture roles.</li><li>Competitive compensation, benefits, and an engineering-focused culture.</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario<br><strong>Hours:</strong>&#160;Monday to Friday, 40 hours per week<br><strong>Vacancy:</strong>&#160;This is an existing position<br><strong>Salary Range:&#160;</strong>$80,000 to $100,000 per year, based on experience</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p>",
+    "department": "IT",
+    "description": "<p>As a member of the Network Admin/Cyber Security team, you will maintain the company's network infrastructure, end-user devices, and core office IT systems, ensuring the stability, performance, and security of internal networks and essential business systems. This role carries responsibility across a range of technical areas, from troubleshooting hardware and software issues to supporting network infrastructure and cyber security needs.</p><p>The ideal candidate will bring a strong foundation in network hardware and software, a solid understanding of networking and cyber security fundamentals, and the ability to quickly adapt to new tools and technologies. A motivated and resourceful individual who enjoys problem-solving in a dynamic, team-oriented environment will thrive in this role.</p><p><strong>Responsibilities:</strong></p><ul><li>Administration of user accounts and policies for corporate systems (Active Directory, Microsoft 365, Entra, Endpoint Management, PAM, etc.)</li><li>Administration of Windows and Linux servers, including DNS, DHCP, and other core domain and network services</li><li>Provision server and network hardware (Virtual Machines, Network switches, Firewalls)</li><li>Management of server and hardware updates, including patch management and endpoint/server automation (RMM, Puppet, Ansible)</li><li>Process access requests to network resources (network shares, firewall ACLs, etc.)</li><li>Configure and maintain firewall security policies as directed, including UTM profiles, ZTNA rules, VPN, and routing</li><li>Manage backups and perform periodic disaster recovery testing to verify recovery integrity</li><li>Troubleshoot network, server and client related issues</li><li>Manage software licensing, hardware asset tracking, and change control for network and server modifications</li><li>Track and resolve work via ticketing system (JSM/Jira), including project tasks, documentation, and runbooks</li><li>Other duties as assigned</li></ul><p><strong>Qualifications:</strong></p><ul><li>Post-Secondary Degree / Diploma in related field</li><li>Strong knowledge of Windows Server and Active Directory</li><li>Familiarity with Microsoft 365 / Entra policies and administration, and Atlassian tools (Jira, Confluence, JSM)</li><li>Working knowledge of Linux technologies preferred (OS installation, CLI configuration, essential tools, storage, etc.)</li><li>Strong grasp of networking concepts and experience with network configuration using CLI (IOS or similar)</li><li>Understanding of Security Appliance / VPN / ZTNA configuration and maintenance</li><li>Experience with Fortinet, Ninja One, CyberArk, Azure, Nutanix AHV, Puppet, Ansible an asset</li><li>Excellent organizational and communication skills</li><li>Capable of work under minimal supervision</li></ul><p><br><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario, in-office<br><strong>Hours:</strong>&#160;Monday to Friday, 40 hours per week<br><strong>Vacancy:&#160;</strong>This is an existing position&#160;<br><strong>Salary Range (Based on relevant Experience):&#160;</strong>$65,000 to $72,000 per year.</p><p><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p>",
     "type": "Full Time",
-    "board_code": "umTGLktyRP",
+    "board_code": "F6gbG8fGVj",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -1553,16 +1552,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260929175721_OJ1K8CTRDZ2BTIMD",
-    "title": "Junior Network Administrator",
+    "id": "job_20260929185252_OMIUJPMARDF8XOPM",
+    "title": "Product Specialist, evertz.io",
     "country_id": "Canada",
     "city": "Burlington",
     "state": "ON",
     "zip": "L7L 5Z9",
-    "department": "IT",
-    "description": "<p>As a member of the Network Admin/Cyber Security team, you will maintain the company's network infrastructure, end-user devices, and core office IT systems, ensuring the stability, performance, and security of internal networks and essential business systems. This role carries responsibility across a range of technical areas, from troubleshooting hardware and software issues to supporting network infrastructure and cyber security needs.</p><p>The ideal candidate will bring a strong foundation in network hardware and software, a solid understanding of networking and cyber security fundamentals, and the ability to quickly adapt to new tools and technologies. A motivated and resourceful individual who enjoys problem-solving in a dynamic, team-oriented environment will thrive in this role.</p><p><strong>Responsibilities:</strong></p><ul><li>Administration of user accounts and policies for corporate systems (Active Directory, Microsoft 365, Entra, Endpoint Management, PAM, etc.)</li><li>Administration of Windows and Linux servers, including DNS, DHCP, and other core domain and network services</li><li>Provision server and network hardware (Virtual Machines, Network switches, Firewalls)</li><li>Management of server and hardware updates, including patch management and endpoint/server automation (RMM, Puppet, Ansible)</li><li>Process access requests to network resources (network shares, firewall ACLs, etc.)</li><li>Configure and maintain firewall security policies as directed, including UTM profiles, ZTNA rules, VPN, and routing</li><li>Manage backups and perform periodic disaster recovery testing to verify recovery integrity</li><li>Troubleshoot network, server and client related issues</li><li>Manage software licensing, hardware asset tracking, and change control for network and server modifications</li><li>Track and resolve work via ticketing system (JSM/Jira), including project tasks, documentation, and runbooks</li><li>Other duties as assigned</li></ul><p><strong>Qualifications:</strong></p><ul><li>Post-Secondary Degree / Diploma in related field</li><li>Strong knowledge of Windows Server and Active Directory</li><li>Familiarity with Microsoft 365 / Entra policies and administration, and Atlassian tools (Jira, Confluence, JSM)</li><li>Working knowledge of Linux technologies preferred (OS installation, CLI configuration, essential tools, storage, etc.)</li><li>Strong grasp of networking concepts and experience with network configuration using CLI (IOS or similar)</li><li>Understanding of Security Appliance / VPN / ZTNA configuration and maintenance</li><li>Experience with Fortinet, Ninja One, CyberArk, Azure, Nutanix AHV, Puppet, Ansible an asset</li><li>Excellent organizational and communication skills</li><li>Capable of work under minimal supervision</li></ul><p><br><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario, in-office<br><strong>Hours:</strong>&#160;Monday to Friday, 40 hours per week<br><strong>Vacancy:&#160;</strong>This is an existing position&#160;<br><strong>Salary Range (Based on relevant Experience):&#160;</strong>$65,000 to $72,000 per year.</p><p><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p>",
+    "department": "R&D",
+    "description": "<p>Evertz.io is redefining how media organizations manage and distribute content in the cloud. Our platform delivers scalable, flexible, and cost-efficient solutions for both file-based and live workflows across the Media and Entertainment industry &#8212; helping broadcasters and content owners move their operations to the cloud with confidence. We're building the next generation of content management and distribution systems, combining deep video expertise with modern cloud-native infrastructure, and everything we build is shaped by the real-world needs of the customers who rely on it.</p><p>&#160;As a Product Specialist, you'll be the technical bridge between our customers, product design, engineering, and operations - working hands-on with configuration, deployment, and cloud infrastructure to make sure evertz.io delivers for the media organizations that depend on it.</p><p>&#160;At its heart, this role is about helping customers get the most out of evertz.io. You'll partner with media organizations to understand their needs, design and stand up solutions that fit, and make sure those solutions actually deliver in production. The work is hands-on with cloud and broadcast technology, but it's driven by customer success - turning what a customer needs into something that works for them. It's a great fit for someone who likes working directly with customers and solving the business and technical challenges that come with it.</p><p><strong>&#160;Responsibilities:</strong></p><ul><li>Configure, deploy, and validate evertz.io environments and AWS infrastructure for customer deployments and evaluations.</li><li>Lead and support customer proof-of-concepts, demonstrations, and technical evaluations - turning what customers need into working configurations.</li><li>Work directly with customers to understand their operational workflows and translate them into clear technical requirements and configurations.</li><li>Collaborate with engineering, product, and SRE teams to define and refine platform capabilities, bringing customer feedback and field experience back into the product.</li><li>Develop and maintain configuration templates, scripts, and documentation that make deployments repeatable and customer-ready.</li><li>Act as a voice of the customer in collaborative meetings with Engineering, aligning priorities, architecture, and ongoing initiatives.</li><li>Provide feedback on usability, deployment flows, and performance, grounded in how customers actually use the platform.</li><li>Contribute to continuous improvement of platform scalability and automation.</li></ul><p><strong>&#160;Requirements:</strong></p><ul><li>Strong understanding of AWS services including EC2, VPCs, S3, Lambda, Step Functions, DynamoDB, CloudFormation, and CloudWatch.</li><li>Must have experience with broadcast technology &#8212; including video, audio, OTT platforms, and live production workflows.</li><li>Experience deploying and maintaining modern cloud applications or services.</li><li>Familiarity with networking concepts, APIs, and microservice architectures.</li><li>Hands-on experience with scripting and automation (Python, Bash, or JavaScript).</li><li>Excellent analytical and problem-solving skills, plus the communication skills to work directly with customers and explain technical concepts clearly.</li><li>Comfortable working in a collaborative, Agile development environment.</li><li>Degree or diploma in Computer Science, Information Technology, or a related field (or equivalent experience)</li><li>Willingness to travel internationally to customer sites and tradeshows</li></ul><p><strong>&#160;Why Join Evertz.io</strong></p><ul><li>&#160;Be part of a high-impact team driving innovation in the cloud media space, working directly with leading media organizations.</li><li>Work with leading-edge AWS technologies and next-generation video systems.</li><li>Opportunities for advancement into technical leadership or product architecture roles.</li><li>Competitive compensation, benefits, and an engineering-focused culture.</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario<br><strong>Hours:</strong>&#160;Monday to Friday, 40 hours per week<br><strong>Vacancy:</strong>&#160;This is an existing position<br><strong>Salary Range:&#160;</strong>$80,000 to $100,000 per year, based on experience</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p>",
     "type": "Full Time",
-    "board_code": "F6gbG8fGVj",
+    "board_code": "umTGLktyRP",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -1570,33 +1569,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260929143530_8BNSDHAA9TIMWJWI",
-    "title": "Customer Order Coordinator",
+    "id": "job_20260929185515_1EJLAH116IA1NF4S",
+    "title": "AV Service Engineer \u2014 Control Systems & Device Integration",
     "country_id": "Canada",
     "city": "Burlington",
     "state": "ON",
     "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "<p>We are seeking a detail-oriented Order Processing Coordinator to accurately enter and manage orders based on customer purchase orders and internal requests for Production and R&amp;D. This role involves close collaboration with the Production team to monitor ship dates and address any delays.<br><br>The successful candidate will communicate order status clearly and promptly to internal departments, sales representatives, project managers, and customers, ensuring transparency and efficient coordination throughout the order fulfillment process.</p><p><strong>Responsibilities:</strong></p><ul><li>Create internal sales order within custom billing system&#160;</li><li>Organize delivery details such as, system customization notes, ship date, mode of transport, and payment terms</li><li>Provide customers and sales team with delivery updates such as, order revision requirements and transit rescheduling</li></ul><p><strong>Qualifications:&#160;</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational and time management skills</li><li>Excellent verbal and written communication skills, and problem-solving ability</li><li>Knowledge of Microsoft Excel, Word, and Outlook&#160;&#160;</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Date Posted: </strong>September 29, 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "department": "Technical Support",
+    "description": "<p>Evertz AV is looking for a <strong>Service Engineer</strong> to join our AV Service team with a specific focus on <strong>Control System</strong> customization and deployment with a specific focus on VUE, our software-defined control and monitoring platform. VUE unifies control of MAGNUM-orchestrated broadcast/AV infrastructure &#8212; routing, multiviewers, master control, and audio processing &#8212; into a single customizable, widget-based interface.&#160; VUE is extensible to third-party equipment through <strong>device drivers</strong> and <strong>direct API integration</strong>. You will be responsible for extending VUE's reach into new and existing customer environments by working with consultants, system integrators and/or end users to understand workflows and/or specific UI requirements, create the control surface, test and deploy.&#160; The role requires in-depth knowledge of VUE configuration options including <strong>building and modifying device drivers</strong>, scripting control and automation where needed and implementing direct API control (REST, SOAP, SNMP, WebSocket, serial protocols, and proprietary vendor SDKs) when a pre-built driver doesn't exist or needs customization.&#160; You will be the technical bridge between customer requirements, third-party device documentation, and Evertz's control ecosystem &#8212; playing an integral role system deployment and functionality.</p><p><strong>What You'll Do -&#160;</strong></p><p><strong>Configuration &amp; Control Design</strong></p><ul><li>Design, build, and deploy custom VUE widget layouts and workspaces tailored to customer operational workflows</li><li>Integrate VUE with MAGNUM-OS for router control, multiviewer management, master control/branding, and playout systems</li><li>Configure alarms, salvos, UMDs, and automation/override widgets to match site-specific operational requirements</li></ul><p><strong>Device Driver Development</strong></p><ul><li>Create new device drivers for third-party equipment not natively supported by VUE, based on vendor protocol documentation (serial, IP, etc.)</li><li>Modify and extend existing Evertz device drivers to support additional functionality, firmware revisions, or non-standard implementations</li><li>Test, validate, and document driver behavior against real hardware in lab and field environments</li><li>Work with Evertz product/R&amp;D teams to escalate driver issues, contribute improvements back into the driver library, and stay current on VUE's driver framework as it evolves</li></ul><p><strong>Third-Party API Integration</strong></p><ul><li>Evaluate third-party device APIs (REST, SOAP, WebSocket, proprietary SDKs) and determine the best integration path &#8212; existing driver, custom driver, or direct API call configuration within VUE</li><li>Configure VUE to communicate directly with device-native APIs where full driver development isn't required or practical</li><li>Troubleshoot authentication, polling/subscription behavior, and latency issues between VUE and third-party systems</li><li>Document integration patterns for reuse across future projects and customers</li></ul><p><strong>Field &amp; Customer Support</strong></p><ul><li>Commission VUE-based control systems on customer sites and deliver operational training</li><li>Respond to customer issues involving control logic, driver behavior, or third-party integration failures; troubleshoot to root cause</li><li>Partner with sales engineering and product management to scope control/integration requirements during the pre-sales and design phase</li><li>Author internal documentation (driver specs, integration notes, best practices) for the technical support and engineering teams</li></ul><p><strong>What You Bring -&#160;</strong></p><p><strong>Required</strong></p><ul><li>Degree or diploma in Computer Engineering, Electrical/Electronic Engineering, Computer Science, or a related technical discipline &#8212; or equivalent hands-on experience</li><li>Hands-on programming/scripting ability (e.g., C#, C++, Python, JavaScript, or similar) sufficient to build or modify device drivers from a protocol spec</li><li>Working knowledge of common device communication protocols: TCP/IP, UDP, serial (RS-232/RS-422/RS-485), SNMP, and RESTful/SOAP web APIs</li><li>Comfort reading third-party equipment documentation (protocol manuals, SDKs, MIBs, APIs and other standards specifications) and translating it into working control logic</li><li>Strong troubleshooting instincts &#8212; comfortable diagnosing whether an issue lives in the device, the network, the driver, or the VUE configuration</li><li>Willingness to travel to customer sites for commissioning, training, and escalated support</li><li>Strong written and verbal communication skills; ability to document technical work clearly for both internal teams and customers</li></ul><p><strong>Strongly Preferred</strong></p><ul><li>Prior experience programming AV control systems (Crestron SIMPL/SIMPL#, AMX NetLinx, Extron Global Scripter/GUI Designer, Q-SYS)</li><li>Exposure to Evertz MAGNUM-OS, VistaLINK PRO, or broadcast router control concepts (sources/destinations, salvos, tally/UMD)</li><li>Experience integrating disparate systems via API (building or consuming REST/SOAP endpoints, handling auth tokens, parsing JSON/XML)</li><li>Familiarity with SDVN/SMPTE ST 2110, IP-based broadcast infrastructure, or Pro AV over IP environments</li><li>Working knowledge of Linux</li></ul><p><strong>Nice to Have</strong></p><ul><li>AVIXA CTS / CTS-D / CTS-I certification</li><li>Experience with Evertz MAGNUM School, MAGNUM-OS Academy, or VistaLINK School training</li><li>Background supporting government, defense, or other secure/mission-critical AV environments</li></ul><p><br><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario [Update as needed]<br><strong>Hours:</strong>&#160;Monday to Friday, 40 hours per week<br><strong>Vacancy: </strong>This is a newly created position&#160;<br><strong>Salary Range (Based on relevant Experience):&#160;</strong>$50,000 to $70,000 per year.</p><p><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p>",
     "type": "Full Time",
-    "board_code": "Yn6VvjRoex",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260924182428_AGEM1PPWYVG5XKMZ",
-    "title": "Test Engineer",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Manufacturing",
-    "description": "<p>As a member of the Test Department, you will be part of the manufacturing group that tests our products.</p><p><strong>Responsibilities:</strong></p><ul><li>Design and develop Automated Test setups for validating the latest film, television, and telecommunications equipment, including router, fiber transmission, multi-viewer and SDVN technologies</li><li>Develop and Modify code in LabVIEW and Python languages to automate the testing process</li><li>Conduct or oversee the installation and operation of electronic equipment and systems designed to automate the testing of the products</li><li>Provide training to team members within or external of the test department</li><li>Analyze test results, detect issues, and track root causes of the electronic or electrical problems</li><li>Review the malfunction of the returned devices, troubleshoot, and do basic repair for the final shipment</li><li>Compliance with all Evertz Policies and Procedures</li><li>Other related duties and responsibilities as assigned to you from time to time, as determined by the Company</li></ul><p><strong>Qualifications:</strong></p><ul><li>Degree or Diploma in electronic or computer engineering, networking</li><li>Experience in a related field is an asset</li><li>Knowledge of programming languages (C, C++ preferred)</li><li>Knowledge of one or more of the following scripting languages: Labview, Python</li><li>Network router/switch experience desirable</li><li>Excellent Verbal and written communication skills</li><li>Works well with others in a team environment</li></ul><h4><strong>What we Offer:</strong></h4><ul><li>Employer funded benefit program</li><li>Competitive total compensation package</li><li>Work-life Balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career Progression</li><li>Casual work environment</li><li>Social Events and Sport Teams</li></ul><br><strong>Date Posted:</strong> September 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $42K CAD - $44K CAD<br>&#160;<p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "JbJ76J3Nkz",
+    "board_code": "crXg9i5iKx",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -1614,6 +1596,23 @@
     "description": "<p dir=\"ltr\">We're looking for a self-driven engineer to join a highly technical team building state-of-the-art technology for a fast-moving, evolving product. This role spans dozens of disciplines, vendors, and technologies &#8212; from industry-standard tools to bleeding-edge, domain-specific systems where the only \"documentation\" may be a research whitepaper. You'll help choose the right technology for each problem and often be responsible for building the first implementation of something that doesn't exist yet.</p><p dir=\"ltr\">This is a dynamic, high-ownership role suited to someone who wants to learn continuously and isn't intimidated by ambiguity.</p><p dir=\"ltr\"><span><strong>Responsibilities:</strong></span></p><ul dir=\"ltr\"><li>Develop, maintain, and push forward state-of-the-art technology as part of an advanced, evolving product</li><li>Work across a wide range of programming languages and technologies, selecting the best tool for each problem alongside a highly technical team</li><li>Collaborate across teams, vendors, and disciplines to gather requirements and translate them into actionable technical plans</li><li>Take abstract, loosely-defined problems from concept through to finished implementation</li><li>Independently research and prototype solutions in domains where formal documentation may not exist (e.g., working from academic whitepapers or emerging standards)</li><li>Contribute to architecture and technology decisions as part of a collaborative, senior technical team</li></ul><h3 dir=\"ltr\"><span><strong>Qualifications:</strong></span></h3><p dir=\"ltr\"><strong>Required:</strong></p><ul dir=\"ltr\"><li>2+ years of Linux experience</li><li>2+ years of experience with at least one MVC framework (Vue.js, React, or Angular)</li><li>3+ years of experience with JavaScript and Node.js</li><li>Strong self-direction, curiosity, and comfort learning new domains with minimal guidance</li><li>Solid communication and collaboration skills; able to work cross-functionally with other teams to gather context and drive projects forward</li></ul><p dir=\"ltr\"><strong>Nice to Have:</strong></p><ul dir=\"ltr\"><li>2+ years of C++ experience (used for native UI development)</li><li>2+ years of Java experience</li><li>Cloud development experience, including enterprise-level Kubernetes</li><li>Experience with low-level or embedded hardware</li><li>Experience with broadcast technologies and standards</li><li>Experience with distributed systems (clustering, CRDT, eventual consistency)</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario<br><strong>Hours:</strong>&#160;Monday to Friday, 40 hours per week<br><strong>Vacancy:&#160;</strong>This is a newly created position<br><strong>Salary Range (Based on relevant Experience):&#160;</strong>$85,000 to $105,000 per year.</p><p><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p>",
     "type": "Full Time",
     "board_code": "1O7qv0JFud",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20260924182428_AGEM1PPWYVG5XKMZ",
+    "title": "Test Engineer",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "Manufacturing",
+    "description": "<p>As a member of the Test Department, you will be part of the manufacturing group that tests our products.</p><p><strong>Responsibilities:</strong></p><ul><li>Design and develop Automated Test setups for validating the latest film, television, and telecommunications equipment, including router, fiber transmission, multi-viewer and SDVN technologies</li><li>Develop and Modify code in LabVIEW and Python languages to automate the testing process</li><li>Conduct or oversee the installation and operation of electronic equipment and systems designed to automate the testing of the products</li><li>Provide training to team members within or external of the test department</li><li>Analyze test results, detect issues, and track root causes of the electronic or electrical problems</li><li>Review the malfunction of the returned devices, troubleshoot, and do basic repair for the final shipment</li><li>Compliance with all Evertz Policies and Procedures</li><li>Other related duties and responsibilities as assigned to you from time to time, as determined by the Company</li></ul><p><strong>Qualifications:</strong></p><ul><li>Degree or Diploma in electronic or computer engineering, networking</li><li>Experience in a related field is an asset</li><li>Knowledge of programming languages (C, C++ preferred)</li><li>Knowledge of one or more of the following scripting languages: Labview, Python</li><li>Network router/switch experience desirable</li><li>Excellent Verbal and written communication skills</li><li>Works well with others in a team environment</li></ul><h4><strong>What we Offer:</strong></h4><ul><li>Employer funded benefit program</li><li>Competitive total compensation package</li><li>Work-life Balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career Progression</li><li>Casual work environment</li><li>Social Events and Sport Teams</li></ul><br><strong>Date Posted:</strong> September 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $42K CAD - $44K CAD<br>&#160;<p><strong>About Us:</strong><br><br>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "JbJ76J3Nkz",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -1717,40 +1716,6 @@
     "type": "Contracted",
     "board_code": "c4nKq7G84h",
     "workflow_id": "workflow_20261001112120_7FMPZPXBZ4DTJ7TY",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260911112531_TESLGI2TTFDRJZZN",
-    "title": "Administrative Assistant (Entry Level)",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "<p>We are seeking a reliable, organized, and proactive Administrative Assistant to join our team. Administrators are vital to the success of our business model, playing a key role in both internal operations and client-facing excellence. In this position, you will work closely with various internal teams to generate new ideas and drive efficiencies that enhance our overall client experience.</p><p>This role requires strong communication skills, attention to detail, and the ability to multitask effectively in a fast-paced environment. The Administrative Assistant plays an essential role in supporting daily office operations and ensuring organizational processes run efficiently.</p><p><strong>Responsibilities:</strong></p><ul><li>Perform a variety of challenging administrative duties in the pre and post-sale environment</li><li>Process multiple priorities in a fast paced environment</li><li>Provide valuable support to our global sales team and their dynamic customers</li><li>Enter data accurately and efficiently into various admin platforms</li><li>Prepare and organize documents, reports, and files as needed</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>Post Secondary Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><br><strong>Date Posted:</strong> September 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "6FjyN2zisw",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260911112502_MY4TM8MKIIQRENND",
-    "title": "Office Administrator (Entry Level)",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "<p>We are seeking a reliable, organized, and proactive Office Administrator&#160;to join our team. Administrators are vital to the success of our business model, playing a key role in both internal operations and client-facing excellence. In this position, you will work closely with various internal teams to generate new ideas and drive efficiencies that enhance our overall client experience.</p><p>This role requires strong communication skills, attention to detail, and the ability to multitask effectively in a fast-paced environment. The Office Administrator role plays an essential role in supporting daily office operations and ensuring organizational processes run efficiently.</p><p><strong>Responsibilities:</strong></p><ul><li>Perform a variety of challenging administrative duties in the pre and post-sale environment</li><li>Process multiple priorities in a fast paced environment</li><li>Provide valuable support to our global sales team and their dynamic customers</li><li>Enter data accurately and efficiently into various admin platforms</li><li>Prepare and organize documents, reports, and files as needed</li><li>Other duties as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>Post Secondary Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours: </strong>Monday - Friday, 40 hours.<br><strong>Vacancy:</strong> This is an existing position.<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "TKRky459WJ",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -2063,6 +2028,23 @@
     "source": "Evertz"
   },
   {
+    "id": "job_20260721150030_XXGCBVXHEBTHQ2FG",
+    "title": "SMT Inspector/Repairer (Tech Digital)",
+    "country_id": "Canada",
+    "city": "Markham",
+    "state": "ON",
+    "zip": "L3R 1B3",
+    "department": "TechDigital",
+    "description": "<p>We are&#160;a manufacturer of audio and video infrastructure equipment for the television broadcast and film industry.&#160;</p><p>SMT Inspector/Repairer&#160;<b>&#8211; 7:00 am - 3:30 pm Monday through Friday</b></p><p><b>Responsibilities:</b></p><ul><li>Ensure the parts and the location are installed in the board is as per the BOM.</li><li>Solder and repair/rework of SMT components.</li></ul><ul><li>Meeting manufacturing and quality targets.</li><li>Compliance with all Tech Digital Policies and Procedures</li><li>Maintenance and Cleanliness of workplace</li><li>Perform other tasks as required</li></ul><p><b>Requirements</b>:</p><ul><li>Grade 12 graduate.</li><li>Minimum 5 years&#8217; experience in Hand Soldering and assembly</li></ul><ul><li>Ability to communicate effectively ( written and verbal)</li><li>Able to read drawing, values and correct polarity of Surface Mount components</li></ul><ul><li>General knowledge of Electronic components and manufacturing processes</li><li>Experience working in a Production environment or working with similar equipment.</li></ul><p>Please apply with your resume. While we thank all candidates for taking the time to apply, only those selected for an interview will be contacted.</p><p>Tech Digital is an equal opportunity employer and is committed to providing employment accommodation in accordance with the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act. If contacted for an employment opportunity or testing, please advise Human Resources if you require accommodation.</p>",
+    "type": "Full Time",
+    "board_code": "k9iGpgYwCV",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
     "id": "job_20260721150729_KAR8VKX3HTG2VGFS",
     "title": "SMT Stager (Tech Digital) - Day Shift",
     "country_id": "Canada",
@@ -2090,23 +2072,6 @@
     "description": "<p>We are&#160;a manufacturer of audio and video infrastructure equipment for the television broadcast and film industry.&#160;</p><p>Hand Assembler&#160;<b>&#8211; 3:30 pm &#8211; 12:00 am Monday through Friday</b></p><p><b>Responsibilities:</b></p><ul><li>Ensure that the parts of the board are correctly installed, and in the right location on the board, as per the drawings provided</li><li>Hand Solder/Stuff components in correct the location on the board.</li><li>Install electronic parts and hardware in frames or assemblies using hand soldering, hand tools, and power tools</li><li>Perform other tasks as required</li></ul><p><b>Requirements</b>:</p><ul><li>Grade 12 graduate.</li><li>Minimum 3 years of hand soldering and assembly of PCB&#8217;s.</li><li>Ability to communicate effectively ( written and verbal)</li><li>Able to read drawing, values and correct polarity of PTH components</li><li>General knowledge of Electronic components and manufacturing processes</li><li>Experience working in a Production environment or working with similar equipment.</li></ul><p>Please apply with your resume. While we thank all candidates for taking the time to apply, only those selected for an interview will be contacted.</p><p><strong>About Tech Digital:</strong></p><p>Tech Digital is an equal opportunity employer and is committed to providing employment accommodation in accordance with the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act. If contacted for an employment opportunity or testing, please advise Human Resources if you require accommodation.</p><p>Please apply with your resume. While we thank all candidates for taking the time to apply, only those selected for an interview will be contacted.</p><p>Thank you for considering a career with Tech Digital!</p>",
     "type": "Full Time",
     "board_code": "lcJ04DO77A",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20260721150030_XXGCBVXHEBTHQ2FG",
-    "title": "SMT Inspector/Repairer (Tech Digital)",
-    "country_id": "Canada",
-    "city": "Markham",
-    "state": "ON",
-    "zip": "L3R 1B3",
-    "department": "TechDigital",
-    "description": "<p>We are&#160;a manufacturer of audio and video infrastructure equipment for the television broadcast and film industry.&#160;</p><p>SMT Inspector/Repairer&#160;<b>&#8211; 7:00 am - 3:30 pm Monday through Friday</b></p><p><b>Responsibilities:</b></p><ul><li>Ensure the parts and the location are installed in the board is as per the BOM.</li><li>Solder and repair/rework of SMT components.</li></ul><ul><li>Meeting manufacturing and quality targets.</li><li>Compliance with all Tech Digital Policies and Procedures</li><li>Maintenance and Cleanliness of workplace</li><li>Perform other tasks as required</li></ul><p><b>Requirements</b>:</p><ul><li>Grade 12 graduate.</li><li>Minimum 5 years&#8217; experience in Hand Soldering and assembly</li></ul><ul><li>Ability to communicate effectively ( written and verbal)</li><li>Able to read drawing, values and correct polarity of Surface Mount components</li></ul><ul><li>General knowledge of Electronic components and manufacturing processes</li><li>Experience working in a Production environment or working with similar equipment.</li></ul><p>Please apply with your resume. While we thank all candidates for taking the time to apply, only those selected for an interview will be contacted.</p><p>Tech Digital is an equal opportunity employer and is committed to providing employment accommodation in accordance with the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act. If contacted for an employment opportunity or testing, please advise Human Resources if you require accommodation.</p>",
-    "type": "Full Time",
-    "board_code": "k9iGpgYwCV",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -2397,6 +2362,23 @@
     "type": "Full Time",
     "board_code": "UG62ClA9Is",
     "workflow_id": "workflow_20210402163956_HJJD9PIG2SKZSNO2",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20260223171554_RWLBDWZGOXENPMGM",
+    "title": "Solutions Architect - Media/Broadcast Enterprise Systems",
+    "country_id": "United States",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "",
+    "department": "R&D",
+    "description": "<p>Reporting to the Director of File Based Solutions, you work between Evertz clients, account managers, R&amp;D engineers, project managers, and executive management to completely architect, design and document the requirements and implementation approach for Evertz end-to-end enterprise solutions for broadcast and media facilities.&#160; The successful candidate must be able to capture our client&#8217;s vision, business requirement as well as technical requirements and map those into Evertz hardware, software and professional services offerings.&#160; Candidate must be comfortable in both a client facing role as well as internally facing to R&amp;D and delivery service groups.<br><br><strong>Responsibilities:</strong></p><ul><li>Work collaboratively with the account manager to define and document the scope</li><li>Provide initial solutions to clients with Evertz equipment selection &amp; systems design, refine over the design process to provide final quotation and supporting documentation</li><li>Work with internal resources and the client to provide client demonstrations and/or documentation as proof of concept system, as required</li><li>Work collaboratively with internal, client and third party teams to understand current and future business and technical requirements</li><li>Take lead on proposal creation and refinement, take ownership and produce accurate documentation for bid set.</li><li>Identify and manage project risks, clearly state assumptions, and work with client and internal resources to mitigate risks in advance of deployment.</li><li>Ultimately create a clear and well thought out design package, gap analysis, functional specifications, and budget</li><li>Identifying new customers and building relationships while maintaining the existing customer base</li><li>Act as the technical authority throughout the design, pre-commissioning, onsite commissioning, training and sustaining engineering phases</li><li>Travel as required to client sites</li></ul><strong>Qualifications:</strong><ul><li>Experience in designing, documenting and sustaining full life cycle end-to-end enterprise-wide client facing projects.</li><li>Experience working with file-based broadcast, production, post-production, non-linear distribution, automated transcoding and quality control, business/traffic systems type deployments and workflows i.e. the complete broadcast and media food chain.</li><li>Electronics engineering (or similar) education</li><li>Problem-solving, and strong communication skills</li><li>Results oriented, self-motivated, and team player</li><li>Familiar with BXF and industry standard traffic solutions</li><li>Must have 3 or more years experience deploying file based work flow solutions</li><li>Experience with Broadcast IT with network infrastructure</li><li>Understanding in applications integration with business systems via the use of XML as the interchange format</li><li>Knowledge of current digital video compression standards and file types</li><li>Good written and verbal communications skills</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "xHrsBEVIzG",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],
@@ -2709,23 +2691,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20260223171554_RWLBDWZGOXENPMGM",
-    "title": "Solutions Architect - Media/Broadcast Enterprise Systems",
-    "country_id": "United States",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "",
-    "department": "R&D",
-    "description": "<p>Reporting to the Director of File Based Solutions, you work between Evertz clients, account managers, R&amp;D engineers, project managers, and executive management to completely architect, design and document the requirements and implementation approach for Evertz end-to-end enterprise solutions for broadcast and media facilities.&#160; The successful candidate must be able to capture our client&#8217;s vision, business requirement as well as technical requirements and map those into Evertz hardware, software and professional services offerings.&#160; Candidate must be comfortable in both a client facing role as well as internally facing to R&amp;D and delivery service groups.<br><br><strong>Responsibilities:</strong></p><ul><li>Work collaboratively with the account manager to define and document the scope</li><li>Provide initial solutions to clients with Evertz equipment selection &amp; systems design, refine over the design process to provide final quotation and supporting documentation</li><li>Work with internal resources and the client to provide client demonstrations and/or documentation as proof of concept system, as required</li><li>Work collaboratively with internal, client and third party teams to understand current and future business and technical requirements</li><li>Take lead on proposal creation and refinement, take ownership and produce accurate documentation for bid set.</li><li>Identify and manage project risks, clearly state assumptions, and work with client and internal resources to mitigate risks in advance of deployment.</li><li>Ultimately create a clear and well thought out design package, gap analysis, functional specifications, and budget</li><li>Identifying new customers and building relationships while maintaining the existing customer base</li><li>Act as the technical authority throughout the design, pre-commissioning, onsite commissioning, training and sustaining engineering phases</li><li>Travel as required to client sites</li></ul><strong>Qualifications:</strong><ul><li>Experience in designing, documenting and sustaining full life cycle end-to-end enterprise-wide client facing projects.</li><li>Experience working with file-based broadcast, production, post-production, non-linear distribution, automated transcoding and quality control, business/traffic systems type deployments and workflows i.e. the complete broadcast and media food chain.</li><li>Electronics engineering (or similar) education</li><li>Problem-solving, and strong communication skills</li><li>Results oriented, self-motivated, and team player</li><li>Familiar with BXF and industry standard traffic solutions</li><li>Must have 3 or more years experience deploying file based work flow solutions</li><li>Experience with Broadcast IT with network infrastructure</li><li>Understanding in applications integration with business systems via the use of XML as the interchange format</li><li>Knowledge of current digital video compression standards and file types</li><li>Good written and verbal communications skills</li></ul><p><strong>About Evertz:</strong></p><p>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</p><p>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</p><p>With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada&#8217;s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada&#8217;s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.</p><p>Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.</p><p>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "xHrsBEVIzG",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20260223171722_XVTNSTNKNQFFIBEB",
     "title": "Solutions Architect - Media/Broadcast Enterprise Systems",
     "country_id": "United States",
@@ -2788,6 +2753,23 @@
     "type": "Full Time",
     "board_code": "UXAd3pHP7r",
     "workflow_id": "workflow_20240513151555_KSB3KQXST94JXCMC",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
+  },
+  {
+    "id": "job_20250709145035_OOJL6EF9EASRNTCK",
+    "title": "Tier 2 Technical Support \u2013 evTOC",
+    "country_id": "Poland",
+    "city": "Warsaw, Hybrid",
+    "state": "",
+    "zip": "",
+    "department": "",
+    "description": "<div class=\"scriptor-paragraph\"><p><strong><em>Please submit your documents <u>in English</u> when applying for this position.</em></strong><br><br>We&#8217;re looking for a technically skilled, service-oriented professional who strives for continuous self-improvement, with a natural curiosity and the ability to learn independently. The ideal candidate brings a positive, can-do attitude, builds strong relationships with both customers and team members, and is motivated to grow within the broadcast technology space. They take ownership of issues, proactively seek solutions.<br><br><strong><u>Important note:&#160;</u></strong><br>The role is currently remote. To support the position, we are in the process of setting up an on-site lab to ensure direct access to our solutions. A transition to a hybrid working model is planned in the longer term; however, this change will take time and is expected to occur no sooner than 1&#8211;2 years.<br>&#160;</p><p><strong>What does it take to be a Broadcast Support Engineer:</strong></p><ul><li>Contributing to a mission-critical 24/7/365 environment, with potential for off-hours shifts and on-call duties</li><li>Providing remote support to major Evertz customers across various time zones</li><li>Solving problems by replicating user workflows and identifying effective solutions</li><li>Documenting departmental and technical procedures&#160;</li></ul><p><strong>What you will learn:</strong></p><ul><li>How to act as a bridge between customers and our product development teams</li><li>How to serve as an expert-level specialist on highly complex technical issues</li><li>How to collaborate across multiple teams (engineering, QA, product) in a fast-paced, multinational environment</li><li>How to troubleshoot real-world scenarios involving software, network, and system-level issues</li><li>How to maintain customer satisfaction while handling escalations and technical challenges</li></ul><p><strong><span>Responsibilities:</span></strong></p><ul><li><span>Respond and provide expert technical direction to customers regarding operational issues, firmware upgrades and general system maintenance.</span></li><li><span>Regularly assess customer applications and troubleshoot/diagnose issues through research and/or issue replication to determine the root cause.</span></li><li><span>Recommend solutions utilizing various levels of technical language appropriate to the customer in a timely, clear, and professional manner.</span></li><li><span>Maintain a communication link between customer service and other Evertz departments by partnering to resolve customer issues and communicating status/progress to customers.</span></li><li><span>Developing and setting up tools by generating or authoring customer guides and providing detailed technical information to the technical writing group.</span></li><li><span>Participate in on-call duty.</span></li></ul><strong>Requirements:</strong><br>To join our growing evTOC team you&#8217;ll need the following to make our team better:&#160; &#160;</div><ul><li><span>At least 2 years of experience in technical or customer support roles</span></li><li><span>Detail-oriented with strong analytical and problem-solving skills</span></li><li><span>Good communication and interpersonal skills</span></li><li><span>Experience with Linux (any flavour)</span></li><li><span>Problem-solving attitude and ability to react to changing situations</span></li><li><span>Ability to act effectively in high-pressure situations</span></li><li><span>Dedicated to delivering excellent customer service</span></li><li><span>Passionate about technology and eager to learn new software and hardware products</span></li><li><span>Ability to multitask in a fast-paced environment</span></li><li><span>College diploma in computer science, engineering, networking, or a related field</span></li><li><span>Willingness to travel to customer sites as needed&#8211; typically up to 10% per year</span></li><li><span>Openness to attend internal training at our HQ in Canada</span><span>&#160;</span></li></ul><div><strong>Additional qualifications:</strong></div><ul><li><span>Python and JavaScript familiarity is preferred</span></li><li><span>Enthusiastic about Computer hardware</span></li><li><span>Understanding of network technologies (DNS, DHCP, TCP/IP, Firewalls, Switches)</span></li><li><span>Willingness to learn and work with the most advanced solutions in the broadcast industry</span></li></ul><div><p><strong>Recruitment process is simple:</strong></p><ol><li>Screening with recruiter&#8239;(45 min)</li><li>Technical interview with 2 Senior Engineers (60 min)&#160;</li></ol><p><strong><span>About Us:</span></strong></p><p><span>Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.</span></p><p><span>Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz&#8217; customer base also includes telcos, satellite, cable TV, and IPTV providers.</span></p><p><span>We work in agile, low-bureaucracy, cross-functional teams spread across the world. It&#8217;s a highly creative work environment where the team is built on trust and is relaxed, open and welcoming to all.&#160;</span></p><p><span>Evertz has engineering offices in Canada, England, Scotland, India, and<strong> now it's time for Poland</strong>!</span></p></div>",
+    "type": "Contracted",
+    "board_code": "JjT4S4ynCG",
+    "workflow_id": "workflow_20250724151321_IRQ5EKVMQ7ERBWCG",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
     "flags": [],

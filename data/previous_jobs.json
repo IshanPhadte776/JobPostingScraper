@@ -588,6 +588,48 @@
     "url": "https://solace.bamboohr.com/career/careers/796"
   },
   {
+    "id": "797",
+    "jobOpeningName": "Professional Services - USA",
+    "departmentId": "18762",
+    "departmentLabel": "Professional Services",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "United States",
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/797"
+  },
+  {
+    "id": "798",
+    "jobOpeningName": "Professional Services - Canada",
+    "departmentId": "18762",
+    "departmentLabel": "Professional Services",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "Canada",
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/798"
+  },
+  {
     "id": "46",
     "jobOpeningName": "Enterprise Account Executive, EMEA",
     "departmentId": null,
@@ -817,7 +859,29 @@
     "source": "SST"
   },
   {
-    "title": "Senior Director",
+    "title": "Sales Associate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Los-Angeles-CA/Sales-Associate_R46495",
+    "locationsText": "Los Angeles, CA",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46495"
+    ],
+    "id": "R46495",
+    "source": "SST"
+  },
+  {
+    "title": "Investor Services - Associate Manager - Senior Assoicate",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Boston-MA---One-Post-Office-Square/Investor-Services---Associate-Manager---Senior-Assoicate_R45102",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R45102"
+    ],
+    "id": "R45102",
+    "source": "SST"
+  },
+  {
+    "title": "Senior Director, Investor Services",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Senior-Director_R46719",
     "locationsText": "New York, NY",
     "postedOn": "Posted Today",
@@ -825,25 +889,6 @@
       "R46719"
     ],
     "id": "R46719",
-    "source": "SST"
-  },
-  {
-    "title": "Managing Director",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Managing-Director_R46710",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R46710"
-    ],
-    "id": "R46710",
-    "source": "SST"
-  },
-  {
-    "bulletFields": [
-      "R45569"
-    ],
-    "id": "R45569",
-    "externalPath": "",
     "source": "SST"
   },
   {

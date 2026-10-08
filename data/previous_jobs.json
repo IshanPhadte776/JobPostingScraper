@@ -294,27 +294,6 @@
     "url": "https://solace.bamboohr.com/career/careers/763"
   },
   {
-    "id": "764",
-    "jobOpeningName": "Sales Director - Chicago",
-    "departmentId": "18617",
-    "departmentLabel": "Sales",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": null,
-      "state": null
-    },
-    "atsLocation": {
-      "country": "United States",
-      "state": "Illinois",
-      "province": null,
-      "city": "Chicago"
-    },
-    "isRemote": null,
-    "locationType": "1",
-    "url": "https://solace.bamboohr.com/career/careers/764"
-  },
-  {
     "id": "765",
     "jobOpeningName": "Sales Director - Austin",
     "departmentId": "18617",
@@ -860,14 +839,14 @@
     "source": "SST"
   },
   {
-    "title": "Application Administrator",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Remote---Florida-US/Application-Administrator_R45492",
-    "locationsText": "4 Locations",
+    "title": "Production Support Rep.",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Waltham-MA---10-CityPoint/Deal-Support-Specialist_R46691",
+    "locationsText": "Waltham MA - 10 CityPoint",
     "postedOn": "Posted Today",
     "bulletFields": [
-      "R45492"
+      "R46691"
     ],
-    "id": "R45492",
+    "id": "R46691",
     "source": "SST"
   },
   {

@@ -892,6 +892,50 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Platform Engineering Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Platform-Engineering-Developer_2619849",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2619849"
+    ],
+    "id": "2619849",
+    "source": "CIBC"
+  },
+  {
+    "title": "Sr. Mainframe - z/OS System Programmer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Mainframe---z-OS-System-Programmer_2618964",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2618964"
+    ],
+    "id": "2618964",
+    "source": "CIBC"
+  },
+  {
+    "title": "Senior Manager, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Application-Development_2619491-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2619491"
+    ],
+    "id": "2619491",
+    "source": "CIBC"
+  },
+  {
+    "title": "Director - Production Application Support",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director---Production-Application-Support_2619290",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2619290"
+    ],
+    "id": "2619290",
+    "source": "CIBC"
+  },
+  {
     "title": "Sr. Consultant, Full Stack Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Full-Stack-Developer_2616951-1",
     "locationsText": "Toronto, ON",
@@ -925,17 +969,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr. Mainframe - z/OS System Programmer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Mainframe---z-OS-System-Programmer_2618964",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted Yesterday",
-    "bulletFields": [
-      "2618964"
-    ],
-    "id": "2618964",
-    "source": "CIBC"
-  },
-  {
     "title": "Senior Web Developer - Front End (React, JS)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Software-Engineer---Front-End-Development_2615868",
     "locationsText": "Toronto, ON",
@@ -955,28 +988,6 @@
       "2620859"
     ],
     "id": "2620859",
-    "source": "CIBC"
-  },
-  {
-    "title": "Director - Production Application Support",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director---Production-Application-Support_2619290",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2619290"
-    ],
-    "id": "2619290",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Manager, Application Development",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Application-Development_2619491-1",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "2619491"
-    ],
-    "id": "2619491",
     "source": "CIBC"
   },
   {
@@ -1101,17 +1112,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Join our Talent Community!",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Experienced-Direct-Applicant-Portal_2500877",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 14 Days Ago",
-    "bulletFields": [
-      "2500877"
-    ],
-    "id": "2500877",
-    "source": "CIBC"
-  },
-  {
     "title": "Director, Advanced Network Planning",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Advanced-Network-Planning_R031626",
     "locationsText": "2 Locations",
@@ -1120,6 +1120,17 @@
       "R031626"
     ],
     "id": "R031626",
+    "source": "Ciena"
+  },
+  {
+    "title": "Junior Project Manager",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Poland/Junior-Project-Manager_R031610",
+    "locationsText": "Remote-Poland",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031610"
+    ],
+    "id": "R031610",
     "source": "Ciena"
   },
   {
@@ -1321,17 +1332,6 @@
     "source": "Ciena"
   },
   {
-    "title": "Executive Assistant",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Executive-Assistant_R031824",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "R031824"
-    ],
-    "id": "R031824",
-    "source": "Ciena"
-  },
-  {
     "title": "Senior Electrical Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Electrical-Engineer_R004212",
     "locationsText": "United States - Shakopee, MN (GHQ)",
@@ -1451,7 +1451,7 @@
     "state": "ON",
     "zip": "L7L5Z9",
     "department": "Manufacturing",
-    "description": "<strong>Responsibilities:</strong><ul><li>Perform incoming, in-process, and final inspection to IPC-A-610 and J-STD-001; review test and burn-in results; maintain calibration records</li><li>Investigate non-conformances, RMAs, and field failures (8D, 5-Why, Fishbone, FMEA); manage CAPAs and MRB activities</li><li>Maintain ISO 9001-aligned procedures, work instructions, and records; support internal and external audits</li><li>Support supplier qualification and scorecards; resolve supplier issues including counterfeit risk, obsolescence, and PCN/EOL notices</li><li>Participate in design reviews, DFM/DFT, and first article inspections; support qualification testing and compliance (CE, UL/CSA, FCC, RoHS, REACH, WEEE)</li><li>Analyze quality metrics (FPY, DPPM, RMA trends, COPQ) using SPC; support Lean and Six Sigma initiatives</li></ul><strong>Qualifications:</strong><ul><li>Diploma or degree in Electronics, Electrical, Manufacturing, or Industrial Engineering (or equivalent experience)</li><li>3-5 years of quality experience in electronics manufacturing</li><li>Working knowledge of ISO 9001, IPC standards, and PCB assembly (SMT and through-hole)</li><li>Experience with root cause analysis and CAPA</li><li>Ability to read schematics, assembly drawings, and BOMs</li><li>Strong analytical skills; proficient in Microsoft Office and ERP/QMS software</li><li>Experience in broadcast, pro A/V, telecom, or other high-reliability electronics is an asset</li><li>Internal or supplier auditing experience&#160;is an asset</li><li>IPC-A-610/J-STD-001 certification; ASQ certification (CQE, CQA, CQT) or Six Sigma Green/Black Belt&#160;is an asset</li><li>Knowledge of FMEA, SPC, MSA, Gauge R&amp;R, and ESD control&#160;is an asset</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$55k - $75k<br><br><strong>About Evertz Microsystems (TSX: ET)</strong><br><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.<br><br>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.<br><br>Join a team where your work shapes the future of broadcast and new media industries.<br><br>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!<br><br>&#160;</p>",
+    "description": "<strong>Responsibilities:</strong><ul><li>Perform incoming, in-process, and final inspection to IPC-A-610 and J-STD-001; review test and burn-in results; maintain calibration records</li><li>Investigate non-conformances, RMAs, and field failures (8D, 5-Why, Fishbone, FMEA); manage CAPAs and MRB activities</li><li>Maintain ISO 9001-aligned procedures, work instructions, and records; support internal and external audits</li><li>Support supplier qualification and scorecards; resolve supplier issues including counterfeit risk, obsolescence, and PCN/EOL notices</li><li>Participate in design reviews, DFM/DFT, and first article inspections; support qualification testing and compliance (CE, UL/CSA, FCC, RoHS, REACH, WEEE)</li><li>Analyze quality metrics (FPY, DPPM, RMA trends, COPQ) using SPC; support Lean and Six Sigma initiatives</li></ul><strong>Qualifications:</strong><ul><li>Diploma or degree in Electronics, Electrical, Manufacturing, or Industrial Engineering (or equivalent experience)</li><li>3-5 years of quality experience in electronics manufacturing</li><li>Working knowledge of ISO 9001, IPC standards, and PCB assembly (SMT and through-hole)</li><li>Experience with root cause analysis and CAPA</li><li>Ability to read schematics, assembly drawings, and BOMs</li><li>Strong analytical skills; proficient in Microsoft Office and ERP/QMS software</li><li>Experience in broadcast, pro A/V, telecom, or other high-reliability electronics is an asset</li><li>Internal or supplier auditing experience&#160;is an asset</li><li>IPC-A-610/J-STD-001 certification; ASQ certification (CQE, CQA, CQT) or Six Sigma Green/Black Belt&#160;is an asset</li><li>Knowledge of FMEA, SPC, MSA, Gauge R&amp;R, and ESD control&#160;is an asset</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is a new position.&#160;<br><strong>Salary Range:</strong>&#160;$55k - $75k<br><br><strong>About Evertz Microsystems (TSX: ET)</strong><br><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.<br><br>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.<br><br>Join a team where your work shapes the future of broadcast and new media industries.<br><br>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!<br><br>&#160;</p>",
     "type": "Full Time",
     "board_code": "EKMk5uOQL0",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",

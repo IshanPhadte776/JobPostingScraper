@@ -955,6 +955,14 @@
     "source": "SST"
   },
   {
+    "bulletFields": [
+      "2618874"
+    ],
+    "id": "2618874",
+    "externalPath": "",
+    "source": "CIBC"
+  },
+  {
     "title": "Consultant, Databricks Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Databricks-Developer_2616939",
     "locationsText": "Toronto, ON",
@@ -1164,17 +1172,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Sr NetIQ Engineer (NetIQ OpenText)",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-NetIQ-Engineer--NetIQ-OpenText-_2616217",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 14 Days Ago",
-    "bulletFields": [
-      "2616217"
-    ],
-    "id": "2616217",
-    "source": "CIBC"
-  },
-  {
     "title": "Director, Advanced Network Planning",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Advanced-Network-Planning_R031626",
     "locationsText": "2 Locations",
@@ -1205,17 +1202,6 @@
       "R031890"
     ],
     "id": "R031890",
-    "source": "Ciena"
-  },
-  {
-    "title": "Product Security Governance and Compliance Sr. Analyst",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Product-Security-Governance-and-Compliance-Sr-Analyst_R031858",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R031858"
-    ],
-    "id": "R031858",
     "source": "Ciena"
   },
   {
@@ -1392,6 +1378,17 @@
       "R031821"
     ],
     "id": "R031821",
+    "source": "Ciena"
+  },
+  {
+    "title": "Junior Project Manager Intern",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Junior-Project-Manager-Intern_R031845",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted 7 Days Ago",
+    "bulletFields": [
+      "R031845"
+    ],
+    "id": "R031845",
     "source": "Ciena"
   },
   {

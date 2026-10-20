@@ -84,6 +84,27 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/301"
   },
   {
+    "id": "302",
+    "jobOpeningName": "Inventory & Logistics Associate ",
+    "departmentId": "18446",
+    "departmentLabel": "Finance & Operations",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "0",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/302"
+  },
+  {
     "id": "303",
     "jobOpeningName": "Manager, Sales",
     "departmentId": "18813",
@@ -1018,6 +1039,17 @@
     "source": "SST"
   },
   {
+    "title": "Senior Mobile Consultant, Application Development",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Mobile-Consultant--Application-Development_2621568",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2621568"
+    ],
+    "id": "2621568",
+    "source": "CIBC"
+  },
+  {
     "title": "Sr Consultant - Business System Analyst",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant---Business-System-Analyst_2621023",
     "locationsText": "Toronto, ON",
@@ -1224,17 +1256,6 @@
       "2620818"
     ],
     "id": "2620818",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Analyst, IT Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Analyst--IT-Quality-Assurance_2621075",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "2621075"
-    ],
-    "id": "2621075",
     "source": "CIBC"
   },
   {

@@ -1229,6 +1229,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Ing\u00e9nieur en test de circuits photoniques / Photonics Test Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Quebec/Senior-Silicon-Photonics-Chip-Designer_R030533",
+    "locationsText": "3 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R030533"
+    ],
+    "id": "R030533",
+    "source": "Ciena"
+  },
+  {
     "title": "Electronic Reliability Engineer Co-op (Winter 2027)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987",
     "locationsText": "Ottawa",
@@ -1402,17 +1413,6 @@
       "R031863"
     ],
     "id": "R031863",
-    "source": "Ciena"
-  },
-  {
-    "title": "NPI Optical Test Engineer",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/NPI-Optical-Test-Engineer_R031476",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R031476"
-    ],
-    "id": "R031476",
     "source": "Ciena"
   },
   {
@@ -3191,132 +3191,6 @@
         "description": "",
         "link": "https://www.surveymonkey.com/careers/office/italy-remote/",
         "path": "/careers/office/italy-remote/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 167605,
-    "type": "careers",
-    "title": "Senior Software Engineer II",
-    "link": "https://www.surveymonkey.com/careers/e8abf4a2-senior-software-engineer-ii/",
-    "path": "/careers/e8abf4a2-senior-software-engineer-ii/",
-    "date": "2026-06-16T10:00:20",
-    "date_modified": "2026-06-16T10:00:20",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer II",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      },
-      {
-        "id": 401,
-        "slug": "italy-remote",
-        "name": "Italy - Remote",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/italy-remote/",
-        "path": "/careers/office/italy-remote/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 167601,
-    "type": "careers",
-    "title": "Senior Software Engineer II",
-    "link": "https://www.surveymonkey.com/careers/6672c665-senior-software-engineer-ii/",
-    "path": "/careers/6672c665-senior-software-engineer-ii/",
-    "date": "2026-06-16T10:00:18",
-    "date_modified": "2026-06-16T10:00:18",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer II",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 399,
-        "slug": "canada-remote",
-        "name": "Canada - Remote",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/canada-remote/",
-        "path": "/careers/office/canada-remote/"
-      },
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      }
-    ],
-    "job_location": "",
-    "source": "SurveyMonkey"
-  },
-  {
-    "id": 167595,
-    "type": "careers",
-    "title": "Senior Software Engineer II",
-    "link": "https://www.surveymonkey.com/careers/ae6ad289-senior-software-engineer-ii/",
-    "path": "/careers/ae6ad289-senior-software-engineer-ii/",
-    "date": "2026-06-16T10:00:15",
-    "date_modified": "2026-06-16T10:00:15",
-    "excerpt": "",
-    "images": {},
-    "featured_image_alt": "Senior Software Engineer II",
-    "career_department": [
-      {
-        "id": 410,
-        "slug": "engineering",
-        "name": "Engineering",
-        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
-        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
-        "path": "/careers/dept/engineering/"
-      }
-    ],
-    "career_location": [
-      {
-        "id": 411,
-        "slug": "global",
-        "name": "Global",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/global/",
-        "path": "/careers/office/global/"
-      },
-      {
-        "id": 538,
-        "slug": "ottawa",
-        "name": "Ottawa",
-        "description": "",
-        "link": "https://www.surveymonkey.com/careers/office/ottawa/",
-        "path": "/careers/office/ottawa/"
       }
     ],
     "job_location": "",

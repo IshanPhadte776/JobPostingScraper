@@ -63,27 +63,6 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/307"
   },
   {
-    "id": "308",
-    "jobOpeningName": "Senior Business Development Executive \u2013 RMC Solutions",
-    "departmentId": "18813",
-    "departmentLabel": "Sales & Success",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": "Ottawa",
-      "state": "Ontario"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://giatecscientific.bamboohr.com/career/careers/308"
-  },
-  {
     "id": "309",
     "jobOpeningName": "IT Operations Lead",
     "departmentId": "18811",
@@ -628,6 +607,27 @@
     "isRemote": null,
     "locationType": "1",
     "url": "https://solace.bamboohr.com/career/careers/810"
+  },
+  {
+    "id": "813",
+    "jobOpeningName": "Contracts Administrator",
+    "departmentId": "19003",
+    "departmentLabel": "Legal",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/813"
   },
   {
     "id": "46",

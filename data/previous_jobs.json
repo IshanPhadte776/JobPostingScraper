@@ -84,6 +84,27 @@
     "url": "https://giatecscientific.bamboohr.com/career/careers/309"
   },
   {
+    "id": "311",
+    "jobOpeningName": "Business Development Manager \u2013 RMC Solutions ",
+    "departmentId": "18813",
+    "departmentLabel": "Sales & Success",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://giatecscientific.bamboohr.com/career/careers/311"
+  },
+  {
     "id": "729",
     "jobOpeningName": "Senior Software Developer",
     "departmentId": "18550",

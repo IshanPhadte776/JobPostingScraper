@@ -672,6 +672,27 @@
     "url": "https://solace.bamboohr.com/career/careers/817"
   },
   {
+    "id": "818",
+    "jobOpeningName": "Senior Corporate Counsel",
+    "departmentId": "19003",
+    "departmentLabel": "Legal",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/818"
+  },
+  {
     "id": "46",
     "jobOpeningName": "Enterprise Account Executive, EMEA",
     "departmentId": null,
@@ -955,6 +976,17 @@
     "source": "SST"
   },
   {
+    "title": "Application Consultant",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Consultant_2622646",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2622646"
+    ],
+    "id": "2622646",
+    "source": "CIBC"
+  },
+  {
     "title": "Senior Manager, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Application-Development_2619491-1",
     "locationsText": "Toronto, ON",
@@ -1161,17 +1193,6 @@
       "2620945"
     ],
     "id": "2620945",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Consultant, Employee Technology Services",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Consultant--Employee-Technology-Services_2621393",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2621393"
-    ],
-    "id": "2621393",
     "source": "CIBC"
   },
   {

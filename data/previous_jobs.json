@@ -672,27 +672,6 @@
     "url": "https://solace.bamboohr.com/career/careers/815"
   },
   {
-    "id": "817",
-    "jobOpeningName": "Global Talent Partner",
-    "departmentId": "18839",
-    "departmentLabel": "Human Resources",
-    "employmentStatusLabel": "Full-Time",
-    "employmentType": null,
-    "location": {
-      "city": "London",
-      "state": "London, City of"
-    },
-    "atsLocation": {
-      "country": null,
-      "state": null,
-      "province": null,
-      "city": null
-    },
-    "isRemote": null,
-    "locationType": "2",
-    "url": "https://solace.bamboohr.com/career/careers/817"
-  },
-  {
     "id": "818",
     "jobOpeningName": "Senior Corporate Counsel",
     "departmentId": "19003",
@@ -756,6 +735,48 @@
     "url": "https://solace.bamboohr.com/career/careers/820"
   },
   {
+    "id": "821",
+    "jobOpeningName": "Senior Chaos Engineer ",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "Canada",
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/821"
+  },
+  {
+    "id": "822",
+    "jobOpeningName": "Senior Chaos Engineer ",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": null,
+      "state": null
+    },
+    "atsLocation": {
+      "country": "United States",
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "1",
+    "url": "https://solace.bamboohr.com/career/careers/822"
+  },
+  {
     "id": "46",
     "jobOpeningName": "Enterprise Account Executive, EMEA",
     "departmentId": null,
@@ -777,10 +798,21 @@
     "url": "https://truecontext.bamboohr.com/career/careers/46"
   },
   {
+    "title": "Director, Investor Services",
+    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Director--Investor-Services_R46837-1",
+    "locationsText": "4 Locations",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R46837"
+    ],
+    "id": "R46837",
+    "source": "SST"
+  },
+  {
     "title": "Hiring Chartered Accountant Freshers - PUNE",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Pune-India/Hiring-Chartered-Accountant-Freshers---PUNE_R35256",
     "locationsText": "Pune, India",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R35256"
     ],
@@ -791,7 +823,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Investor-Services---Manager--Associate-Manager_R35078",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted Today",
+    "postedOn": "Posted Yesterday",
     "bulletFields": [
       "R35078"
     ],
@@ -802,7 +834,7 @@
     "title": "Manager - AML, Client Onboarding (Mumbai)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Manager---AML--Client-Onboarding--Goregaon-_R45692",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "R45692"
     ],
@@ -813,7 +845,7 @@
     "title": "Associate Manager - Private Equity Fund Accounting (Gujarat GIFTCity)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/India---GIFT-City---Building-15C2/Associate-Manager---Private-Equity-Fund-Accounting--Gujarat-GIFTCity-_R47356",
     "locationsText": "India - GIFT City - Building 15C2",
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "bulletFields": [
       "R47356"
     ],
@@ -824,7 +856,7 @@
     "title": "Lead Platform Support Engineer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Union-NJ/Lead-Platform-Support-Engineer_R46489",
     "locationsText": "Union, NJ",
-    "postedOn": "Posted 8 Days Ago",
+    "postedOn": "Posted 9 Days Ago",
     "bulletFields": [
       "R46489"
     ],
@@ -835,7 +867,7 @@
     "title": "DIRECTOR - INVESTOR SERVICES",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/DIRECTOR---INVESTOR-SERVICES_R47221",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 12 Days Ago",
+    "postedOn": "Posted 13 Days Ago",
     "bulletFields": [
       "R47221"
     ],
@@ -846,7 +878,7 @@
     "title": "Operations - Associate (Airoli)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Operations---Associate--Airoli-_R47220",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 12 Days Ago",
+    "postedOn": "Posted 13 Days Ago",
     "bulletFields": [
       "R47220"
     ],
@@ -857,7 +889,7 @@
     "title": "Assistant Manager / Manager - OTC Settlement & Collateral",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Assistant-Manager---Manager---OTC-Settlement---Collateral_R46407",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R46407"
     ],
@@ -868,7 +900,7 @@
     "title": "Hiring Experienced Fund Accountants Senior Associate  - Mumbai / Pune",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Hiring-Experienced-Fund-Accountants-Senior-Associate----Mumbai---Pune_R45145",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R45145"
     ],
@@ -879,7 +911,7 @@
     "title": "Hiring Investor Services Professionals !",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Hiring-Investor-Services-Professionals--_R46520",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R46520"
     ],
@@ -890,7 +922,7 @@
     "title": "Hiring Private Equity Accounting Professionals!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Hiring-Private-Equity-Accounting-Professionals-_R46445",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R46445"
     ],
@@ -901,7 +933,7 @@
     "title": "Senior Associate - Private Equity Fund Accounting (Mumbai/ Pune)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Private-Equity-Fund-Accounting--Mumbai--Pune-_R45144",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R45144"
     ],
@@ -912,7 +944,7 @@
     "title": "Senior Associate .Net FullStack Developer- Fixed Term",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate-Net-FullStack-Developer--Fixed-Term_R46404",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R46404"
     ],
@@ -923,7 +955,7 @@
     "title": "DIRECTOR - Private Equity Fund Accounting (Gujarat - GIFTCity)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/India---GIFT-City---Building-15C2/DIRECTOR---Private-Equity-Fund-Accounting--Gujarat---GIFTCity-_R47165",
     "locationsText": "India - GIFT City - Building 15C2",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R47165"
     ],
@@ -934,7 +966,7 @@
     "title": "DIRECTOR - Private Equity Fund Accounting (Mumbai)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/DIRECTOR---Private-Equity-Fund-Accounting--Mumbai-_R47163",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R47163"
     ],
@@ -945,7 +977,7 @@
     "title": "Senior Associate - IT Audit (Mumbai - Goregaon)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate---IT-Audit--Mumbai---Goregaon-_R47150",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R47150"
     ],
@@ -956,7 +988,7 @@
     "title": "Senior Associate - Internal Audit (Risk Based Audits/ Process Audits) at Mumbai, Goregaon!",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate---Internal-Audit--Risk-Based-Audits--Process-Audits--at-Mumbai--Goregaon-_R47148",
     "locationsText": "Mumbai India - Nirlon Knowledge Park",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R47148"
     ],
@@ -964,21 +996,10 @@
     "source": "SST"
   },
   {
-    "title": "Director, Investor Services",
-    "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/New-York-NY/Director--Investor-Services_R46837-1",
-    "locationsText": "4 Locations",
-    "postedOn": "Posted 18 Days Ago",
-    "bulletFields": [
-      "R46837"
-    ],
-    "id": "R46837",
-    "source": "SST"
-  },
-  {
     "title": "Associate Director - US TAX 1065 (Hyderabad/ Bangalore)",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Hyderabad-India/Associate-Director---US-TAX-1065--Hyderabad--Bangalore-_R44941",
     "locationsText": "Hyderabad, India",
-    "postedOn": "Posted 21 Days Ago",
+    "postedOn": "Posted 22 Days Ago",
     "bulletFields": [
       "R44941"
     ],
@@ -989,7 +1010,7 @@
     "title": "Senior Associate - Dotnet Fullstack Developer",
     "externalPath": "https://wd1.myworkdaysite.com/en-US/ssctech/job/Maharashtra-Navi-Mumbai/Senior-Associate---Dotnet-Fullstack-Developer_R46363",
     "locationsText": "Maharashtra, Navi Mumbai",
-    "postedOn": "Posted 21 Days Ago",
+    "postedOn": "Posted 22 Days Ago",
     "bulletFields": [
       "R46363"
     ],
@@ -997,10 +1018,43 @@
     "source": "SST"
   },
   {
+    "title": "Data Analyst, Employee Communications Platforms (12 Month Contract)",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Analyst--Employee-Communications-Platforms--12-Month-Contract-_2622847",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2622847"
+    ],
+    "id": "2622847",
+    "source": "CIBC"
+  },
+  {
+    "title": "Solution Designer Generative AI Applications",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Solution-Designer-Generative-AI-Applications_2620859",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2620859"
+    ],
+    "id": "2620859",
+    "source": "CIBC"
+  },
+  {
+    "title": "Software Development Engineer in Test",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Software-Development-Engineer-in-Test_2617661",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2617661"
+    ],
+    "id": "2617661",
+    "source": "CIBC"
+  },
+  {
     "title": "Sr. Consultant, Business Systems Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Business-Systems-Analysis_2622747",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2622747"
     ],
@@ -1011,7 +1065,7 @@
     "title": "Consultant, Business Analysis",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Analysis_2619651",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2619651"
     ],
@@ -1022,7 +1076,7 @@
     "title": "Sr.  Data Test Coordinator, IT Quality Assurance",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr--Data-Test-Coordinator--IT-Quality-Assurance_2622601",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2622601"
     ],
@@ -1033,7 +1087,7 @@
     "title": "Data Test Coordinator, IT Quality Assurance",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Test-Coordinator--IT-Quality-Assurance_2622600",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "2622600"
     ],
@@ -1044,7 +1098,7 @@
     "title": "Senior Data Engineer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Data-Engineer_2622337",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "2622337"
     ],
@@ -1055,7 +1109,7 @@
     "title": "Application Consultant",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Application-Consultant_2622646",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "2622646"
     ],
@@ -1066,7 +1120,7 @@
     "title": "Senior Manager, Application Development",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Application-Development_2619491-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2619491"
     ],
@@ -1077,7 +1131,7 @@
     "title": "Senior Manager, Product Development and Delivery",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Manager--Product-Development-and-Delivery_2614509-2",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2614509"
     ],
@@ -1088,7 +1142,7 @@
     "title": "Sr. Manager, Vendor Governance & Contract Management",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Manager--Vendor-Governance---Contract-Management_2620852-1",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "2620852"
     ],
@@ -1099,7 +1153,7 @@
     "title": "Sr. Consultant, Solution Design",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Application-Development_2611077",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "bulletFields": [
       "2611077"
     ],
@@ -1110,7 +1164,7 @@
     "title": "Senior Mobile Consultant, Application Development - Simplii Financial",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Mobile-Consultant--Application-Development---Simplii-Financial_2622653",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2622653"
     ],
@@ -1121,7 +1175,7 @@
     "title": "Consultant, Application Development (Payments)",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Application-Development--Payments-_2619128",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2619128"
     ],
@@ -1132,7 +1186,7 @@
     "title": "Sr. Consultant, Enterprise Scheduling Engineering",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Enterprise-Scheduling-Engineering_2621907",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2621907"
     ],
@@ -1143,7 +1197,7 @@
     "title": "Sr. Director Platform Services",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director-Platform-Services_2614160",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "2614160"
     ],
@@ -1154,7 +1208,7 @@
     "title": "Senior React Developer - Simplii Financial",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-React-Developer_2622017",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 9 Days Ago",
+    "postedOn": "Posted 10 Days Ago",
     "bulletFields": [
       "2622017"
     ],
@@ -1165,7 +1219,7 @@
     "title": "Sr. Web Developer",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Web-Developer_2622132",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 9 Days Ago",
+    "postedOn": "Posted 10 Days Ago",
     "bulletFields": [
       "2622132"
     ],
@@ -1176,7 +1230,7 @@
     "title": "Sr. Director, Blockchain Application Engineering",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Director--Block-Chain-Application-Engineering_2617096",
     "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "2617096"
     ],
@@ -1184,43 +1238,10 @@
     "source": "CIBC"
   },
   {
-    "title": "Frontend Javascript Developer Lead",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Frontend-Javascript-Developer-Lead_2622156",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "2622156"
-    ],
-    "id": "2622156",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Data Platform DevOps",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Data-Platform-DevOps_2621966",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "2621966"
-    ],
-    "id": "2621966",
-    "source": "CIBC"
-  },
-  {
-    "title": "Sr. Consultant, Back End Developer- Java",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Back-End-Developer--Java_2620945",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 10 Days Ago",
-    "bulletFields": [
-      "2620945"
-    ],
-    "id": "2620945",
-    "source": "CIBC"
-  },
-  {
     "title": "Director, Product Line Management",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Product-Line-Management_R031942",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R031942"
     ],
@@ -1231,7 +1252,7 @@
     "title": "Optical AI Product Line Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Optical-AI-Product-Line-Manager_R031882",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 14 Days Ago",
+    "postedOn": "Posted 15 Days Ago",
     "bulletFields": [
       "R031882"
     ],
@@ -1242,7 +1263,7 @@
     "title": "Compliance Operations & Technology Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Philippines/Compliance-Operations---Technology-Analyst_R031880",
     "locationsText": "3 Locations",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R031880"
     ],
@@ -1261,10 +1282,65 @@
     "source": "Ciena"
   },
   {
+    "title": "Lab Inventory Support Technician",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/New-Providence---NJ/Lab-Inventory-Support-Technician_R032070",
+    "locationsText": "New Providence - NJ",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R032070"
+    ],
+    "id": "R032070",
+    "source": "Ciena"
+  },
+  {
+    "title": "Reload Technician, onsite Ottawa Lab",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Reload-Technician--onsite-Ottawa-Lab_R032013",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R032013"
+    ],
+    "id": "R032013",
+    "source": "Ciena"
+  },
+  {
+    "title": "Analog Layout Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Mexico/Analog-Layout-Engineer_R032097",
+    "locationsText": "Remote-Mexico",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R032097"
+    ],
+    "id": "R032097",
+    "source": "Ciena"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-software-engineer_R031266",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031266"
+    ],
+    "id": "R031266",
+    "source": "Ciena"
+  },
+  {
+    "title": "Advisor, Regional Services Product Line Management, EMEA",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-UK-Zone-2/Advisor--Regional-Services-Product-Line-Management--EMEA_R031999",
+    "locationsText": "Remote-UK Zone 2",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031999"
+    ],
+    "id": "R031999",
+    "source": "Ciena"
+  },
+  {
     "title": "Senior Treasury Risk Management Analyst",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Senior-Treasury-Risk-Management-Analyst_R032064",
     "locationsText": "Baltimore",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R032064"
     ],
@@ -1275,7 +1351,7 @@
     "title": "Embedded Security Software Developer - New Grad",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R032066"
     ],
@@ -1286,7 +1362,7 @@
     "title": "Global Trade Analyst, Remote East Coast North America",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Global-Trade-Analyst--Remote-East-Coast-North-America_R032051",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R032051"
     ],
@@ -1297,7 +1373,7 @@
     "title": "Director, Government Relations \u2014 National Security and Economic Security Policy",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Director--Government-Relations---National-Security-and-Economic-Security-Policy_R031949",
     "locationsText": "Remote-US",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R031949"
     ],
@@ -1308,7 +1384,7 @@
     "title": "Services Project Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Services-Project-Manager_R032008-1",
     "locationsText": "Remote-US",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R032008"
     ],
@@ -1319,7 +1395,7 @@
     "title": "Partner Delivery Project Manager",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Thailand--Pathumwan--57-Bangkok/Partner-Delivery-Project-Manager_R031901-1",
     "locationsText": "Thailand- Pathumwan- 57 (Bangkok)",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted 3 Days Ago",
     "bulletFields": [
       "R031901"
     ],
@@ -1330,7 +1406,7 @@
     "title": "Vendor Manager, Repair Operations",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Baltimore/Vendor-Manager--Repair-Operations_R031933",
     "locationsText": "Baltimore",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R031933"
     ],
@@ -1341,7 +1417,7 @@
     "title": "Principal/Team Lead, Digital Verification Engineer (FEC)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Principal-Team-Lead--Digital-Verification-Engineer--FEC-_R031893-1",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R031893"
     ],
@@ -1352,7 +1428,7 @@
     "title": "Category Lead, Capital Equipment (CAPEX)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Category-Lead--Capital-Equipment--CAPEX-_R032049",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R032049"
     ],
@@ -1363,7 +1439,7 @@
     "title": "Software Design/Engineer - New Grad",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Software-Design-Engineer---New-Grad_R032059",
     "locationsText": "Ottawa",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R032059"
     ],
@@ -1374,7 +1450,7 @@
     "title": "AR Invoicing Specialist - Accountant",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Gurugram/AR-Invoicing-Specialist---Accountant_R032060-1",
     "locationsText": "Gurugram",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R032060"
     ],
@@ -1382,65 +1458,10 @@
     "source": "Ciena"
   },
   {
-    "title": "Senior Advisor, Product Line Management, Implementation Services",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Senior-Advisor--Product-Line-Management--Implementation-Services_R031995",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R031995"
-    ],
-    "id": "R031995",
-    "source": "Ciena"
-  },
-  {
-    "title": "Senior Advisor, Product Line Management, Maintenance & Managed Services",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Senior-Advisor--Product-Line-Management--Maintenance---Managed-Services_R031996",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R031996"
-    ],
-    "id": "R031996",
-    "source": "Ciena"
-  },
-  {
-    "title": "Advisor, Regional Services Product Line Management, Global Cloud Networking (GCN)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Advisor--Regional-Services-Product-Line-Management--Global-Cloud-Networking--GCN-_R031997",
-    "locationsText": "Remote-US",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R031997"
-    ],
-    "id": "R031997",
-    "source": "Ciena"
-  },
-  {
-    "title": "Director, Services Innovation & Special Projects",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Director--Services-Innovation---Special-Projects_R031998",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R031998"
-    ],
-    "id": "R031998",
-    "source": "Ciena"
-  },
-  {
-    "title": "Advisor, Supply Chain Services Analytics",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-Canada/Advisor--Supply-Chain-Services-Analytics_R032000",
-    "locationsText": "2 Locations",
-    "postedOn": "Posted 4 Days Ago",
-    "bulletFields": [
-      "R032000"
-    ],
-    "id": "R032000",
-    "source": "Ciena"
-  },
-  {
     "title": "Staff Quality Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Staff-Quality-Engineer_R004473-1",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 3 Days Ago",
+    "postedOn": "Posted 4 Days Ago",
     "bulletFields": [
       "R004473"
     ],
@@ -1451,7 +1472,7 @@
     "title": "\u00a0Sr. Software QA Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/XMLNAME--Sr-Software-QA-Engineer_R004440",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R004440"
     ],
@@ -1462,7 +1483,7 @@
     "title": "\u00a0QA Specialist",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/Canada---Ottawa/XMLNAME--QA-Specialist_R004441",
     "locationsText": "Canada - Ottawa",
-    "postedOn": "Posted 4 Days Ago",
+    "postedOn": "Posted 5 Days Ago",
     "bulletFields": [
       "R004441"
     ],
@@ -1473,7 +1494,7 @@
     "title": "Senior Electrical Engineer",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Senior-Electrical-Engineer_R004212",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 6 Days Ago",
+    "postedOn": "Posted 7 Days Ago",
     "bulletFields": [
       "R004212"
     ],
@@ -1484,7 +1505,7 @@
     "title": "Platform Architect - Agentic Trust",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Field/Platform-Architect---Agentic-Trust_R004314",
     "locationsText": "2 Locations",
-    "postedOn": "Posted 10 Days Ago",
+    "postedOn": "Posted 11 Days Ago",
     "bulletFields": [
       "R004314"
     ],
@@ -1495,7 +1516,7 @@
     "title": "Firmware Engineer II",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-II_R004366",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 16 Days Ago",
+    "postedOn": "Posted 17 Days Ago",
     "bulletFields": [
       "R004366"
     ],
@@ -1506,7 +1527,7 @@
     "title": "Software Engineer II \u2013 C/C++ & Java",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 17 Days Ago",
+    "postedOn": "Posted 18 Days Ago",
     "bulletFields": [
       "R004195"
     ],
@@ -1517,7 +1538,7 @@
     "title": "Full-Stack Software Engineer II | Java, React & AWS",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Developer-II---Java---Instant-ID-as-a-Service---Secura_R004285",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 24 Days Ago",
+    "postedOn": "Posted 25 Days Ago",
     "bulletFields": [
       "R004285"
     ],
@@ -1528,7 +1549,7 @@
     "title": "Software Engineer II \u2013 Full Stack (Java & React)",
     "externalPath": "https://entrust.wd1.myworkdayjobs.com/en-US/entrust/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II---Java--Spring-Boot---React_R004300-1",
     "locationsText": "United States - Shakopee, MN (GHQ)",
-    "postedOn": "Posted 26 Days Ago",
+    "postedOn": "Posted 27 Days Ago",
     "bulletFields": [
       "R004300"
     ],
@@ -1580,6 +1601,23 @@
     ],
     "id": "R004215",
     "source": "Entrust"
+  },
+  {
+    "id": "job_20261109124543_CZ0ZTPTF4LSUB6MX",
+    "title": "Maintenance Senior Supervisor",
+    "country_id": "Canada",
+    "city": "Burlington",
+    "state": "ON",
+    "zip": "L7L 5Z9",
+    "department": "Maintenance (Building)",
+    "description": "<p>The Maintenance Senior Supervisor leads the day-to-day activities of the maintenance team. The role combines hands-on repair work with oversight, ensuring that buildings, grounds, and equipment are inspected regularly, kept in good working order, and maintained to safety standards. The Senior Supervisor coordinates work assignments, identifies and prioritizes maintenance issues, and develops practical solutions, while ensuring that tools, equipment, and work areas stay safe and organized.<br><br><strong>Responsibilities:</strong></p><ul><li>Coordinate daily work activities with the maintenance team</li><li>Conduct routine inspections of buildings, grounds, and equipment</li><li>Perform and oversee general maintenance repairs</li><li>Obtain and evaluate quotes from third-party vendors</li><li>Ensure tools, equipment, and work area are maintained in a safe and organized condition</li><li>Other duties required</li></ul><p><strong>Qualifications:</strong></p><ul><li>High school diploma or equivalent</li><li>Experience in building maintenance, facilities maintenance, construction</li><li>Strong ability to identify maintenance issues, assess priorities, and develop practical solutions</li><li>Working knowledge of building systems and general repairs</li><li>Proficient in safe use of hand and power tools</li><li>Strong organizational and communication skills</li><li>Knowledge of Microsoft Excel, Word, Outlook and Visio</li><li>Ability to lift up to 50 pounds</li><li>Valid driver&#8217;s license required</li><li>Experience in a supervisory role is an asset</li></ul><p class=\"MsoNoSpacing\"><span><b><span>What we Offer:</span></b></span></p><ul><li class=\"MsoNoSpacing\">Employer funded benefit program</li><li class=\"MsoNoSpacing\">Competitive total compensation package</li><li class=\"MsoNoSpacing\">Work-life Balance</li><li class=\"MsoNoSpacing\">Employee Assistance plan</li><li class=\"MsoNoSpacing\">Employee Discount Platform</li><li class=\"MsoNoSpacing\">Career Progression</li><li class=\"MsoNoSpacing\">Casual work environment</li><li class=\"MsoNoSpacing\">Social Events and Sport Teams</li></ul><div class=\"MsoNoSpacing\"><strong>Date Posted:</strong>&#160;November 2026<br><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, weekends as needed<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range: </strong>$50K CAD - $65K CAD<br>&#160;</div><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of&#160;<strong>Canada's 50 Best Managed Companies</strong>&#160;&#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "type": "Full Time",
+    "board_code": "jhMruBVDkJ",
+    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
+    "minimum_public_salary": null,
+    "maximum_public_salary": null,
+    "flags": [],
+    "source": "Evertz"
   },
   {
     "id": "job_20261105132656_F3FOKFQDCXMF72K2",
@@ -1684,16 +1722,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20261102130528_HIKDITH18LFDYXO5",
-    "title": "Tradeshow Assistant",
+    "id": "job_20261102144722_DNFOFT4ZUCSIOMGP",
+    "title": "Tradeshow Coordinator",
     "country_id": "Canada",
     "city": "Burlington",
     "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "R&D",
-    "description": "<p>The Tradeshow Assistant plays a key role in supporting Evertz's presence at major industry events, including NAB, IBC, ISE, and InfoComm. This position is responsible for managing trade show equipment and inventory, coordinating shipping and customs logistics, staging and pre-wiring demo systems, and supporting booth setup and teardown both in the office and on-site. Working closely with Demo, Product Management, and Engineering teams, the Tradeshow Assistant ensures equipment is tracked, tested, and ready for deployment while helping to continuously improve event logistics and inventory processes. This is a hands-on role suited to a highly organized, detail-driven individual who is comfortable with physical work and occasional travel to support the variable trade show calendar.</p><p><strong>Responsibilities:</strong></p><ul><li><span>Support domestic and international trade shows by coordinating and supplying required support equipment and materials.</span></li><li><span>Manage, test, and track non-Evertz trade show assets, including LCD displays, monitors, AV equipment, tools, and other support items.</span></li><li><span>Maintain detailed inventory and logistics records, including shipping dates, event locations, durations, and return schedules.</span></li><li><span>Coordinate the receipt, inspection, and return of trade show equipment.</span></li><li><span>Ensure required equipment and materials are shipped on time.</span></li><li><span>Track equipment returns and ensure all assets are accounted for following each event.</span></li><li><span>Assist in the planning and execution of major industry events, including NAB, IBC, ISE, and InfoComm.</span></li><li><span>Support booth design, floor layouts, under-carpet cable planning, and infrastructure requirements.</span></li><li><span>Staging and preparing demo systems.</span></li><li><span>Pre-wiring racks and equipment based on connection diagrams from demo team.</span></li><li><span>Dismantle demo returns and repurpose equipment as required</span></li><li><span>Coordinate procurement and deployment of non-Evertz equipment and services.</span></li><li><span>Work closely with Logistics teams to prepare shipping documentation, customs paperwork, and freight schedules.</span></li><li><span>Coordinate loading and unloading of transport vehicles and shipping containers.</span></li><li><span>Assist with custom booth elements, displays, and other special event requirements as needed.</span></li><li><span>Maintain trade show storage and staging areas, ensuring equipment, cables, tools, and supplies are organized and readily available.</span></li><li><span>Collaborate with Demo, Product Management, and Engineering teams to assemble and prepare demonstration systems for events.</span></li><li><span>Prepare equipment for shipment, including packaging, labeling, inventory verification, and documentation.</span></li><li><span>Liaise with internal teams to collect equipment and information required for event planning, shipping, and customs compliance.</span></li><li><span>Support on-site trade show setup and teardown activities when required.</span></li><li><span>Assist with continuous improvement of event logistics, inventory management, and trade show processes.</span></li></ul><p><strong>Qualifications:</strong></p><ul><li><span>High energy individual that can handle the variable tradeshow calendar</span></li><li><span>Strong organizational and project coordination skills with exceptional attention to detail.</span></li><li><span>Proficiency with Microsoft Office applications, including Excel, Visio, Word, and Outlook.</span></li><li><span>Experience with CAD software for floorplans, layouts, or design work is an asset.</span></li><li><span>Ability to manage multiple projects and deadlines simultaneously.</span></li><li><span>Learn independently to help with demo systems used at tradeshows / events</span></li><li><span>Strong communication and interpersonal skills with the ability to work effectively across departments and other parties (internal and external).</span></li><li><span>Comfortable performing hands-on work, including equipment assembly, setup, packing, and lifting of trade show materials.</span></li><li><span>Experience with logistics, inventory management, shipping, or event coordination is preferred.</span></li><li><span>Willingness to travel occasionally to support major trade shows and corporate events.</span></li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is new position.&#160;<br><strong>Salary Range:</strong>&#160;$50K - $60K CAD<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "zip": "L7L 5Z9",
+    "department": "Administration",
+    "description": "<p><strong>Responsibilities:</strong></p><ul><li>Coordinate all tasks related to the planning and execution of tradeshows, conferences, sponsorships, events; examples include:<ul><li>Arranging booth space &amp; booth design</li><li>Ordering additional services such as internet, electricity, lead retrieval</li><li>Registering attendees</li><li>Preparing budgets</li><li>Administering contracts</li><li>Overseeing payment</li></ul></li><li>Serve as the primary point of contact between internal teams (eg. Sales, Marketing, Logistics, R&amp;D), ensuring clear communication and alignment across departments to organize and execute each tradeshow effectively</li><li>Consistently follow up and follow through on tasks to ensure all deadlines, deliverables and event milestones are met</li><li>Research potential tradeshows to evaluate relevance, cost etc., for company participation and submit to management for approval</li><li>Track tradeshow performance metrics (eg. attendance) by distributing tradeshow leads to Sales for post-show follow up, monitoring engagement to track ROI</li><li>Accurately create, update, and maintain a complete history of tradeshows in the company database for reference, reporting, and future planning</li><li>Opportunities for travel may be available</li><li>Other duties as assigned</li></ul><p><strong>Skills:</strong></p><ul><li>Ability to work in a fast-paced environment</li><li>Ability to work independently and as a team</li><li>Problem-solving ability</li><li>Organizational skills &amp; detail-oriented</li><li>Time management &amp; multitasking</li><li>Ability to adapt to new and changing processes</li><li>Excellent verbal and written communication skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>0-1 year office administrative experience</li><li>Organizational skills and detail oriented</li><li>Excellent verbal and written communication skills, problem-solving ability, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>Wha</strong><strong>t we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><strong>Date Posted:</strong>&#160;November 2026<br><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
-    "board_code": "t1uzc3TB4Z",
+    "board_code": "RCkodDp4MN",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -1718,16 +1756,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20261102144722_DNFOFT4ZUCSIOMGP",
-    "title": "Tradeshow Coordinator",
+    "id": "job_20261102130528_HIKDITH18LFDYXO5",
+    "title": "Tradeshow Assistant",
     "country_id": "Canada",
     "city": "Burlington",
     "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "<p><strong>Responsibilities:</strong></p><ul><li>Coordinate all tasks related to the planning and execution of tradeshows, conferences, sponsorships, events; examples include:<ul><li>Arranging booth space &amp; booth design</li><li>Ordering additional services such as internet, electricity, lead retrieval</li><li>Registering attendees</li><li>Preparing budgets</li><li>Administering contracts</li><li>Overseeing payment</li></ul></li><li>Serve as the primary point of contact between internal teams (eg. Sales, Marketing, Logistics, R&amp;D), ensuring clear communication and alignment across departments to organize and execute each tradeshow effectively</li><li>Consistently follow up and follow through on tasks to ensure all deadlines, deliverables and event milestones are met</li><li>Research potential tradeshows to evaluate relevance, cost etc., for company participation and submit to management for approval</li><li>Track tradeshow performance metrics (eg. attendance) by distributing tradeshow leads to Sales for post-show follow up, monitoring engagement to track ROI</li><li>Accurately create, update, and maintain a complete history of tradeshows in the company database for reference, reporting, and future planning</li><li>Opportunities for travel may be available</li><li>Other duties as assigned</li></ul><p><strong>Skills:</strong></p><ul><li>Ability to work in a fast-paced environment</li><li>Ability to work independently and as a team</li><li>Problem-solving ability</li><li>Organizational skills &amp; detail-oriented</li><li>Time management &amp; multitasking</li><li>Ability to adapt to new and changing processes</li><li>Excellent verbal and written communication skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>0-1 year office administrative experience</li><li>Organizational skills and detail oriented</li><li>Excellent verbal and written communication skills, problem-solving ability, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>Wha</strong><strong>t we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li></ul><strong>Date Posted:</strong>&#160;November 2026<br><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$40K CAD - $45K CAD<br>&#160;<p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "zip": "L7L5Z9",
+    "department": "R&D",
+    "description": "<p>The Tradeshow Assistant plays a key role in supporting Evertz's presence at major industry events, including NAB, IBC, ISE, and InfoComm. This position is responsible for managing trade show equipment and inventory, coordinating shipping and customs logistics, staging and pre-wiring demo systems, and supporting booth setup and teardown both in the office and on-site. Working closely with Demo, Product Management, and Engineering teams, the Tradeshow Assistant ensures equipment is tracked, tested, and ready for deployment while helping to continuously improve event logistics and inventory processes. This is a hands-on role suited to a highly organized, detail-driven individual who is comfortable with physical work and occasional travel to support the variable trade show calendar.</p><p><strong>Responsibilities:</strong></p><ul><li><span>Support domestic and international trade shows by coordinating and supplying required support equipment and materials.</span></li><li><span>Manage, test, and track non-Evertz trade show assets, including LCD displays, monitors, AV equipment, tools, and other support items.</span></li><li><span>Maintain detailed inventory and logistics records, including shipping dates, event locations, durations, and return schedules.</span></li><li><span>Coordinate the receipt, inspection, and return of trade show equipment.</span></li><li><span>Ensure required equipment and materials are shipped on time.</span></li><li><span>Track equipment returns and ensure all assets are accounted for following each event.</span></li><li><span>Assist in the planning and execution of major industry events, including NAB, IBC, ISE, and InfoComm.</span></li><li><span>Support booth design, floor layouts, under-carpet cable planning, and infrastructure requirements.</span></li><li><span>Staging and preparing demo systems.</span></li><li><span>Pre-wiring racks and equipment based on connection diagrams from demo team.</span></li><li><span>Dismantle demo returns and repurpose equipment as required</span></li><li><span>Coordinate procurement and deployment of non-Evertz equipment and services.</span></li><li><span>Work closely with Logistics teams to prepare shipping documentation, customs paperwork, and freight schedules.</span></li><li><span>Coordinate loading and unloading of transport vehicles and shipping containers.</span></li><li><span>Assist with custom booth elements, displays, and other special event requirements as needed.</span></li><li><span>Maintain trade show storage and staging areas, ensuring equipment, cables, tools, and supplies are organized and readily available.</span></li><li><span>Collaborate with Demo, Product Management, and Engineering teams to assemble and prepare demonstration systems for events.</span></li><li><span>Prepare equipment for shipment, including packaging, labeling, inventory verification, and documentation.</span></li><li><span>Liaise with internal teams to collect equipment and information required for event planning, shipping, and customs compliance.</span></li><li><span>Support on-site trade show setup and teardown activities when required.</span></li><li><span>Assist with continuous improvement of event logistics, inventory management, and trade show processes.</span></li></ul><p><strong>Qualifications:</strong></p><ul><li><span>High energy individual that can handle the variable tradeshow calendar</span></li><li><span>Strong organizational and project coordination skills with exceptional attention to detail.</span></li><li><span>Proficiency with Microsoft Office applications, including Excel, Visio, Word, and Outlook.</span></li><li><span>Experience with CAD software for floorplans, layouts, or design work is an asset.</span></li><li><span>Ability to manage multiple projects and deadlines simultaneously.</span></li><li><span>Learn independently to help with demo systems used at tradeshows / events</span></li><li><span>Strong communication and interpersonal skills with the ability to work effectively across departments and other parties (internal and external).</span></li><li><span>Comfortable performing hands-on work, including equipment assembly, setup, packing, and lifting of trade show materials.</span></li><li><span>Experience with logistics, inventory management, shipping, or event coordination is preferred.</span></li><li><span>Willingness to travel occasionally to support major trade shows and corporate events.</span></li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is new position.&#160;<br><strong>Salary Range:</strong>&#160;$50K - $60K CAD<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
-    "board_code": "RCkodDp4MN",
+    "board_code": "t1uzc3TB4Z",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -1762,23 +1800,6 @@
     "description": "<p>As a member of the R &amp; D team, your projects will include the design and development of precision mechanical devices for film transport high frequency digital and analog electronic subassembly enclosures that will be used in leading television broadcast and film production facilities around the world.</p><p>You will be exposed to all aspects of the development process on a variety of fresh and challenging projects and carry through of the designs to production.</p><p><strong>Responsibilities:</strong></p><ul><li>Research, plan and design electro-mechanical enclosures using a 3D Parametric Solid Modeling CAD packages such as Solid Edge</li><li>Interact and communicate with engineers to gather all necessary information to develop a final design</li><li>Meet with suppliers to discuss project requirements</li><li>Design fixtures, test jigs, tool and gauges as required, manage, control and document design changes</li><li>Coordinate prototype and production sample builds</li><li>Support of product definition, concept generation, creating part drawings, investigating new packaging technologies, cost estimating, interfacing with suppliers, qualifying parts and assembly along with part and drawing release</li><li>Assist production personnel to interpret drawings and solve manufacturing problems</li><li>Undertake other duties and responsibilities within the Engineering department as required</li></ul><p><strong>Qualifications:</strong></p><ul><li>Successful candidate must have a College or University Degree in Mechanical Engineering&#160;</li><li>Comprehensive knowledge of GD&amp;T techniques</li><li>Be results oriented, self-motivated, and a team player</li><li>Skilled in the use of 3D software as Solid Edge and AutoCAD&#160;</li><li>Familiar with sheet metal products, machined parts extrusions, welding and wiring techniques and BOM generation</li><li>Experience in Electro-Mechanical packaging techniques (mounting of printed circuit boards, cabling, connectors, switches, etc.) would be an asset</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, ON<br><strong>Hours: </strong>Monday to Friday, 8:30am to 5:00pm<br><strong>Vacancy:</strong>&#160;Existing&#160;<br><strong>Salary Range (based on relevant experience):</strong> $60,000. to $110,000 per year, based on experience.&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</p>",
     "type": "Full Time",
     "board_code": "1FAocBPhGq",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20261102200731_5Y5TWASLS4FMPFBT",
-    "title": "Project Manager - Control System Upgrades",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "R&D",
-    "description": "<p>Evertz is hiring a Project Manager to lead software upgrade (regression) projects for large-scale broadcast and media systems, including SDVN / MAGNUM environments. You will drive each project from request intake through in-house regression testing to a successful customer upgrade, delivered to an agreed specification and timeline.</p><p>You will be the main point of contact between the customer, the Regression team, MAGNUM engineering and Service groups for every aspect of the project: scope, quoting, schedule, resources, risk and communication.</p><p><u><strong>RESPONSIBILITIES:</strong></u></p><p><strong>Planning and scope</strong></p><ul><li>Capture the definition of project scope, goals and deliverables during the quoting process</li><li>Develop full project plans covering timeline, tasks and resource requirements across intake, migration testing, emulation testing, hardware device testing, documentation, upgrade deployment and acceptance</li></ul><p><strong>Regression Testing and Upgrade Deployment</strong></p><ul><li>Track and own each regression request; confirm all customer configuration files / system documentation are submitted and audited</li><li>Coordinate kick-off, wrap-up and upgrade sync calls with the Regression, Product and Support teams</li><li>Track production and shipping of any project equipment</li><li>Create the Notice of Work (NOW) from supplied upgrade instructions for internal / customer review</li><li>Coordinate on-site and remote resources for the upgrade window and keep on-call support current on dates, times and site changes</li><li>Coordinate pre-upgrade checklist prior to project deployment</li></ul><p><strong>Team management</strong></p><ul><li>Track deliverables, blocking bugs and priorities using internal tools</li><li>Own quality assurance / manage project changes and interventions to hit agreed outputs</li><li>Monitor progress / report status, problems and solutions to all stakeholders</li></ul><p><strong>Handover and close-out</strong></p><ul><li>Coordinate project documentation and acceptance as required</li><li>Run project evaluations and feed lessons learned back into the regression process</li></ul><p><u><strong>QUALIFICATIONS:</strong></u></p><p class=\"MsoNoSpacing\"><span><span><b>Required</b></span></span></p><ul><li class=\"MsoNoSpacing\"><span><span>Education in Project Management and/or Electronics, Electrical, Computers, Broadcasting or a related field</span></span></li><li class=\"MsoNoSpacing\"><span><span>Project management certification such as PMP</span></span></li><li class=\"MsoNoSpacing\"><span><span>Experience with software upgrade deployment, regression or acceptance testing</span></span></li><li class=\"MsoNoSpacing\"><span><span>Experience managing large-scale, complex technology development and deployment projects </span></span></li><li class=\"MsoNoSpacing\"><span><span>Successful project delivery in a broadcast software or IT/network infrastructure environment</span></span></li><li class=\"MsoNoSpacing\"><span><span>Experience with project management tools and processes (MS Project, Smartsheet, or similar)</span></span></li><li class=\"MsoNoSpacing\"><span><span>Strong written and verbal communication skills</span></span></li></ul><p class=\"MsoNoSpacing\"><span><span><b>Preferred</b></span></span></p><ul><li class=\"MsoNoSpacing\"><span><span>Working knowledge of broadcast orchestration and control, media workflows and their standards</span></span></li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario<br><strong>Hours:</strong>&#160;Monday to Friday, 40 hours per week<br><strong>Vacancy: </strong>This is a newly created position<br><strong>Salary Range (Based on relevant Experience):&#160;</strong>$50,000 to $80,000 per year.</p><p><strong>About Evertz Microsystems (TSX: ET)</strong><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of Canada's 50 Best Managed Companies &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br><em>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.</em></p>",
-    "type": "Full Time",
-    "board_code": "8dZcxrus4s",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -1871,23 +1892,6 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20261027174630_BTPVSXZDMBRPSYYH",
-    "title": "Maintenance Senior Supervisor",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Maintenance (Building)",
-    "description": "<p>The Maintenance Senior Supervisor leads the day-to-day activities of the maintenance team. The role combines hands-on repair work with oversight, ensuring that buildings, grounds, and equipment are inspected regularly, kept in good working order, and maintained to safety standards. The Senior Supervisor coordinates work assignments, identifies and prioritizes maintenance issues, and develops practical solutions, while ensuring that tools, equipment, and work areas stay safe and organized.<br><br><strong>Responsibilities:</strong></p><ul><li>Coordinate daily work activities with the maintenance team</li><li>Conduct routine inspections of buildings, grounds, and equipment</li><li>Perform and oversee general maintenance repairs</li><li>Obtain and evaluate quotes from third-party vendors</li><li>Ensure tools, equipment, and work area are maintained in a safe and organized condition</li><li>Other duties required</li></ul><p><strong>Qualifications:</strong></p><ul><li>High school diploma or equivalent</li><li>Experience in building maintenance, facilities maintenance, construction</li><li>Strong ability to identify maintenance issues, assess priorities, and develop practical solutions</li><li>Working knowledge of building systems and general repairs</li><li>Proficient in safe use of hand and power tools</li><li>Strong organizational and communication skills</li><li>Knowledge of Microsoft Excel, Word, Outlook and Visio</li><li>Ability to lift up to 50 pounds</li><li>Valid driver&#8217;s license required</li><li>Experience in a supervisory role is an asset</li></ul><p class=\"MsoNoSpacing\"><span><b><span>What we Offer:</span></b></span></p><ul><li class=\"MsoNoSpacing\">Employer funded benefit program</li><li class=\"MsoNoSpacing\">Competitive total compensation package</li><li class=\"MsoNoSpacing\">Work-life Balance</li><li class=\"MsoNoSpacing\">Employee Assistance plan</li><li class=\"MsoNoSpacing\">Employee Discount Platform</li><li class=\"MsoNoSpacing\">Career Progression</li><li class=\"MsoNoSpacing\">Casual work environment</li><li class=\"MsoNoSpacing\">Social Events and Sport Teams</li></ul><div class=\"MsoNoSpacing\"><strong>Date Posted:</strong>&#160;October 2026<br><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, weekends as needed<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range: </strong>$50K CAD - $65K CAD<br>&#160;</div><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of&#160;<strong>Canada's 50 Best Managed Companies</strong>&#160;&#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
-    "type": "Full Time",
-    "board_code": "vy6gBoE437",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
     "id": "job_20261027154927_4N1PH4HGNVLJQ43M",
     "title": "RFP Coordinator",
     "country_id": "Canada",
@@ -1922,16 +1926,16 @@
     "source": "Evertz"
   },
   {
-    "id": "job_20261023122751_IGNVAOBAGB7R3QNP",
-    "title": "SLA Customer Coordinator",
+    "id": "job_20261019180639_HJ7DS3AOV0CXNUZG",
+    "title": "Receiver",
     "country_id": "Canada",
     "city": "Burlington",
     "state": "ON",
-    "zip": "L7L 5Z9",
-    "department": "Administration",
-    "description": "We are looking for a highly organized and proactive individual to support our sales team in a presales capacity, with a focus on Service Level Agreements (SLAs). This role involves coordinating and leading meetings with sales representatives, internal departments, and customers to ensure alignment and clarity on SLA-related offerings. This is an ideal opportunity for someone who excels at multitasking, cross-functional collaboration, and thrives in a dynamic, customer-centric environment.<br><br><strong>Responsibilities&#160;</strong><ul><li>Ensure thorough and detailed understanding of assigned customers' SLAs&#160;</li><li>Review and approve RMA requests (repair/replacement/rental/loan) in accordance with the SLA&#160;</li><li>Attend customer service review calls &amp; take notes, follow up on action items&#160;</li><li>Work with the evTOC CSM to review and escalate customer tickets with management, engineering, and production as needed&#160;</li><li>Communicate with Failure Analysis and evTOC Service teams as well as customers regarding questions, service reviews or issues&#160;</li><li>Collaborate with the SLA Sales Administration team on SLA renewals (escalating to address customer issues, changes, suggestions, etc.)</li><li>Maintain status/records for SLA Spares with SLA Returns Administration &amp; evTOC&#160;</li><li>Follow up on outstanding RMAs of all types&#160;</li><li>Occasional weekend on-call coverage&#160;</li><li>Additional tasks as required&#160;</li></ul><p><strong>Qualifications:</strong></p><ul><li>College Education in related field (Business, Administration) or related experience</li><li>Superior organizational skills, and problem-solving abilities</li><li>Excellent verbal and written communication skills, time management skills and interpersonal skills</li><li>Knowledge of Microsoft Excel, Word, and Outlook</li></ul><p><strong>What we Offer:</strong></p><ul><li>Employer funded benefits program&#160;</li><li>Competitive total compensation package</li><li>Work-Life Balance</li><li>Employee assistance plan</li><li>Employee Discount Platform&#160;</li><li>Career Progression&#160;</li><li>Casual Work Environment&#160;</li><li>Social Events and Sports Teams</li><li>Onsite Counsellor&#160;</li></ul><p><strong>Date Posted:</strong> October 2026<br><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong> $40K CAD - $45K CAD<br><br><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
+    "zip": "L7L5Z9",
+    "department": "Stockroom",
+    "description": "<p><strong>Responsibilities:</strong></p><ul><li>Receive deliveries from drivers</li><li>Confirm the product shipped matches the packing slip</li><li>Ensure the packing slip matches the purchase order</li><li>Data entry of parts into AS400 inventory system</li><li>Inspect for damage</li><li>Place acceptable parts in inventory</li><li>Other duties as assigned</li></ul><p><strong>Qualifications:</strong></p><ul><li>Strong attention to detail is required</li><li>Be results oriented, self-motivated, and a team player</li><li>AS400 experience is an asset</li><li>Able to work without supervision in a fast paced environment</li><li>High school diploma</li><li>Ability to lift up to 50 pounds</li><li>Basic knowledge of Computers</li><li>Must have own steel-toed shoes/boots</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$17.95 (Minimum wage)<br><br><strong>About Evertz Microsystems (TSX: ET)</strong><br><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.<br><br>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.<br><br>Join a team where your work shapes the future of broadcast and new media industries.<br><br>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!<br><br>&#160;<p></p>",
     "type": "Full Time",
-    "board_code": "KbgFaIlDvr",
+    "board_code": "63oRZCgIyN",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,
@@ -1949,23 +1953,6 @@
     "description": "<p>Working in production, you will be part of the manufacturing group that assembles our products.&#160;</p><p><strong>Responsibilities:</strong></p><ul><li>Read and follow Assembly Drawings, Test Procedures, and Bill of Materials</li><li>Assemble servers from bare chassis to finished product</li><li>Install additional modules based on customer ordering options</li><li>Perform initial functional tests &#8211; Power, Boot up &amp; BIOS check</li><li>Install and run Linux based software</li><li>Work with team members to complete projects</li><li>Report daily work assignment updates to your supervisor/ Manager</li><li>Any other duties as required.</li></ul><p><strong>Qualifications:</strong></p><ul><li>High School diploma</li><li>Basic knowledge of MS applications &amp; computer skills</li><li>Ability to follow verbal and written instructions</li><li>Attention to detail</li><li>Self-motivated</li><li>Positive attitude and ability to work in a fast-paced environment</li><li>Team-oriented &amp; ability to work independently&#160;&#160;</li><li>Ability to lift up to 50 pounds</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><p><strong>Location:</strong>&#160;Burlington, Ontario (in-office position)<br><strong>Hours:</strong>&#160;Monday - Friday, 40 hours.<br><strong>Vacancy:&#160;</strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$17.95 (minimum wage)<br>&#160;</p><p><strong>About Evertz Microsystems (TSX: ET)</strong></p><p>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.</p><p>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.</p><p>Join a team where your work shapes the future of broadcast and new media industries.</p><p><em>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.</em><br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!</p>",
     "type": "Full Time",
     "board_code": "YV5hMj4Nhz",
-    "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
-    "minimum_public_salary": null,
-    "maximum_public_salary": null,
-    "flags": [],
-    "source": "Evertz"
-  },
-  {
-    "id": "job_20261019180639_HJ7DS3AOV0CXNUZG",
-    "title": "Receiver",
-    "country_id": "Canada",
-    "city": "Burlington",
-    "state": "ON",
-    "zip": "L7L5Z9",
-    "department": "Stockroom",
-    "description": "<p><strong>Responsibilities:</strong></p><ul><li>Receive deliveries from drivers</li><li>Confirm the product shipped matches the packing slip</li><li>Ensure the packing slip matches the purchase order</li><li>Data entry of parts into AS400 inventory system</li><li>Inspect for damage</li><li>Place acceptable parts in inventory</li><li>Other duties as assigned</li></ul><p><strong>Qualifications:</strong></p><ul><li>Strong attention to detail is required</li><li>Be results oriented, self-motivated, and a team player</li><li>AS400 experience is an asset</li><li>Able to work without supervision in a fast paced environment</li><li>High school diploma</li><li>Ability to lift up to 50 pounds</li><li>Basic knowledge of Computers</li><li>Must have own steel-toed shoes/boots</li></ul><p><strong>What we offer:</strong></p><ul><li>Employer funded benefits program</li><li>Competitive total compensation package</li><li>Work-life balance</li><li>Employee Assistance plan</li><li>Employee Discount Platform</li><li>Career progression</li><li>Casual work environment</li><li>Social events and sports teams</li></ul><strong>Location:</strong> Burlington, Ontario (in-office position)<br><strong>Hours:</strong> Monday - Friday, 40 hours.<br><strong>Vacancy: </strong>This is an existing position.&#160;<br><strong>Salary Range:</strong>&#160;$17.95 (Minimum wage)<br><br><strong>About Evertz Microsystems (TSX: ET)</strong><br><br>Evertz is a global leader in broadcast technology, delivering cutting-edge hardware and software solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets) worldwide. Trusted by major broadcast facilities, telcos, and satellite providers on every continent, we're known for end-to-end innovation that sets the industry standard.<br><br>Canadian-headquartered with offices around the world, Evertz has 2,000+ employees and has been recognized as one of <strong>Canada's 50 Best Managed Companies</strong> &#8212; a testament to our commitment to excellence and global impact.<br><br>Join a team where your work shapes the future of broadcast and new media industries.<br><br>Evertz is committed to equal opportunity employment. Accommodations are available throughout the recruitment process for applicants with disabilities &#8212; please notify HR when scheduling your interview.<br><br>Artificial intelligence (AI) technology may be used in our recruitment process to assist with resume screening and interview note-taking. All hiring decisions are made by our team without AI involvement.<br><br>Thank you for considering a career with Evertz!<br><br>&#160;<p></p>",
-    "type": "Full Time",
-    "board_code": "63oRZCgIyN",
     "workflow_id": "workflow_20251023170556_KPM4YTCWDKAAIOQP",
     "minimum_public_salary": null,
     "maximum_public_salary": null,

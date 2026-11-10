@@ -1282,6 +1282,14 @@
     "source": "Ciena"
   },
   {
+    "bulletFields": [
+      "R032080"
+    ],
+    "id": "R032080",
+    "externalPath": "",
+    "source": "Ciena"
+  },
+  {
     "title": "Planner, Supply Chain",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Guadalajara/Planner--Supply-Chain_R032068",
     "locationsText": "2 Locations",
@@ -1444,17 +1452,6 @@
       "R031933"
     ],
     "id": "R031933",
-    "source": "Ciena"
-  },
-  {
-    "title": "Principal/Team Lead, Digital Verification Engineer (FEC)",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Principal-Team-Lead--Digital-Verification-Engineer--FEC-_R031893-1",
-    "locationsText": "Ottawa",
-    "postedOn": "Posted 5 Days Ago",
-    "bulletFields": [
-      "R031893"
-    ],
-    "id": "R031893",
     "source": "Ciena"
   },
   {

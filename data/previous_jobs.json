@@ -756,6 +756,69 @@
     "url": "https://solace.bamboohr.com/career/careers/822"
   },
   {
+    "id": "823",
+    "jobOpeningName": "Software Developer - Micro-Integration Platform",
+    "departmentId": "18550",
+    "departmentLabel": "R&D",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": "Ottawa",
+      "state": "Ontario"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/823"
+  },
+  {
+    "id": "824",
+    "jobOpeningName": "Sales Development Representative - London",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": "London",
+      "state": "London, City of"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/824"
+  },
+  {
+    "id": "825",
+    "jobOpeningName": "Sales Development Representative - Italian/Spanish Speaking",
+    "departmentId": "18617",
+    "departmentLabel": "Sales",
+    "employmentStatusLabel": "Full-Time",
+    "employmentType": null,
+    "location": {
+      "city": "London",
+      "state": "London, City of"
+    },
+    "atsLocation": {
+      "country": null,
+      "state": null,
+      "province": null,
+      "city": null
+    },
+    "isRemote": null,
+    "locationType": "2",
+    "url": "https://solace.bamboohr.com/career/careers/825"
+  },
+  {
     "id": "46",
     "jobOpeningName": "Enterprise Account Executive, EMEA",
     "departmentId": null,
@@ -1261,6 +1324,17 @@
     "source": "Ciena"
   },
   {
+    "title": "Electro-Optics Hardware Designer",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Electro-Optics-Hardware-Designer_R032077",
+    "locationsText": "Ottawa",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R032077"
+    ],
+    "id": "R032077",
+    "source": "Ciena"
+  },
+  {
     "title": "AI/ML Layout Engineering Intern (Winter 2027)",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102",
     "locationsText": "Ottawa",
@@ -1302,17 +1376,6 @@
       "R032103"
     ],
     "id": "R032103",
-    "source": "Ciena"
-  },
-  {
-    "title": "Test Automation Engineer - New Grad",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Petaluma/Test-Automation-Engineer---New-Grad_R032105",
-    "locationsText": "Petaluma",
-    "postedOn": "Posted Today",
-    "bulletFields": [
-      "R032105"
-    ],
-    "id": "R032105",
     "source": "Ciena"
   },
   {

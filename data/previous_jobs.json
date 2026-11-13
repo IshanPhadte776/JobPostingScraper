@@ -1081,6 +1081,28 @@
     "source": "SST"
   },
   {
+    "title": "Sr. Consultant, Data Developer",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Sr-Consultant--Data-Developer_2622587-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2622587"
+    ],
+    "id": "2622587",
+    "source": "CIBC"
+  },
+  {
+    "title": "Director, US IT Asset Management",
+    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Director--US-IT-Asset-Management_2619441-1",
+    "locationsText": "Toronto, ON",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "2619441"
+    ],
+    "id": "2619441",
+    "source": "CIBC"
+  },
+  {
     "title": "Consultant, Business Systems Analysis and Solution Design",
     "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Consultant--Business-Systems-Analysis-and-Solution-Design_2623048",
     "locationsText": "Toronto, ON",
@@ -1279,28 +1301,6 @@
     "source": "CIBC"
   },
   {
-    "title": "Data Test Coordinator, IT Quality Assurance",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Data-Test-Coordinator--IT-Quality-Assurance_2622600",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 7 Days Ago",
-    "bulletFields": [
-      "2622600"
-    ],
-    "id": "2622600",
-    "source": "CIBC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "externalPath": "https://cibc.wd3.myworkdayjobs.com/en-US/cibc/job/Toronto-ON/Senior-Data-Engineer_2622337",
-    "locationsText": "Toronto, ON",
-    "postedOn": "Posted 8 Days Ago",
-    "bulletFields": [
-      "2622337"
-    ],
-    "id": "2622337",
-    "source": "CIBC"
-  },
-  {
     "title": "Director, Product Line Management",
     "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Ottawa/Director--Product-Line-Management_R031942",
     "locationsText": "2 Locations",
@@ -1342,6 +1342,17 @@
       "R031626"
     ],
     "id": "R031626",
+    "source": "Ciena"
+  },
+  {
+    "title": "Director, Government Relations \u2014 National Security and Economic Security Policy",
+    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Director--Government-Relations---National-Security-and-Economic-Security-Policy_R031949",
+    "locationsText": "Remote-US",
+    "postedOn": "Posted Today",
+    "bulletFields": [
+      "R031949"
+    ],
+    "id": "R031949",
     "source": "Ciena"
   },
   {
@@ -1507,17 +1518,6 @@
       "R032103"
     ],
     "id": "R032103",
-    "source": "Ciena"
-  },
-  {
-    "title": "Advisor Commercial Management",
-    "externalPath": "https://ciena.wd5.myworkdayjobs.com/en-US/ciena/job/Remote-US/Advisor-Commercial-Management_R032076-1",
-    "locationsText": "3 Locations",
-    "postedOn": "Posted 2 Days Ago",
-    "bulletFields": [
-      "R032076"
-    ],
-    "id": "R032076",
     "source": "Ciena"
   },
   {
@@ -2570,6 +2570,48 @@
     "maximum_public_salary": null,
     "flags": [],
     "source": "Evertz"
+  },
+  {
+    "id": 179347,
+    "type": "careers",
+    "title": "Senior Machine Learning Engineer II",
+    "link": "https://www.surveymonkey.com/careers/939281a1-senior-machine-learning-engineer-ii/",
+    "path": "/careers/939281a1-senior-machine-learning-engineer-ii/",
+    "date": "2026-11-13T16:00:47",
+    "date_modified": "2026-11-13T16:00:47",
+    "excerpt": "",
+    "images": {},
+    "featured_image_alt": "Senior Machine Learning Engineer II",
+    "career_department": [
+      {
+        "id": 410,
+        "slug": "engineering",
+        "name": "Engineering",
+        "description": "SurveyMonkey products amplify the voices of millions of people around the globe. As an engineering team, we support our large-scale platform and are responsible for that critical feedback data, which allows organizations to better meet the needs of their customers, market, and employees. \r\n\r\nOur team values a passion for engineering, a growth mindset, a love of collaboration, and a general curiosity about how things work. Our goal is to have fun while building products that our customers love. If you want to take your career to the next level and be involved in solving some of the most interesting and biggest challenges in technology today, then come join us!",
+        "link": "https://www.surveymonkey.com/careers/dept/engineering/",
+        "path": "/careers/dept/engineering/"
+      }
+    ],
+    "career_location": [
+      {
+        "id": 532,
+        "slug": "bengaluru",
+        "name": "Bengaluru",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/bengaluru/",
+        "path": "/careers/office/bengaluru/"
+      },
+      {
+        "id": 411,
+        "slug": "global",
+        "name": "Global",
+        "description": "",
+        "link": "https://www.surveymonkey.com/careers/office/global/",
+        "path": "/careers/office/global/"
+      }
+    ],
+    "job_location": "",
+    "source": "SurveyMonkey"
   },
   {
     "id": 179281,
